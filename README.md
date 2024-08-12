@@ -20,12 +20,20 @@ Cuatro grandes listados de información:
 
 También muestra la duración del script y un resumen de los resultados.
 
+![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/last_fm/main/capturas/lastfm_1.jpg)
+![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/last_fm/main/capturas/lastfm_2.jpg)
+
+
 ### lastfm_output.py
 En lugar de mostrar la información en pantalla, guarda los datos en archivo lasfm_{usuario}.txt. Incluyo un ejemplo en el repositorio: lastfm_hayman3030.txt. 
 hayman3030 es mi usuario en last.fm ;).
 
+![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/last_fm/main/capturas/lastfm_output.jpg)
+
 ### lastfm_db.py
 Crea una base de datos (LASTFM) en SQL SERVER y vuelca en ella los artistas, discos, canciones y scrobbles (escuchas) del usuario. 
+
+![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/last_fm/main/capturas/lastfm_db.jpg)
 
 ## SCRIPTS PARCIALES
 Los siguientes scripts muestran los registros de un listado concreto.
@@ -42,6 +50,8 @@ para una ejecución rápida.
 - lastfm_discos_test.py
 - lastfm_canciones_test.py
 - lastfm_scrobbles_test.py
+
+![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/last_fm/main/capturas/lastfm_test.jpg)
 
 ## EJECUCIÓN
 
@@ -79,5 +89,7 @@ En la conexión a SQL Server del script lastfm_db.py, introducir datos de conexi
 Todos los scripts deben ejecutarse con un parámetro: nombre de usuario registrado en lastfm.
 
 ```sh
-python script.py <usuario>
+python lastfm.py <usuario>
 ```
+![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/last_fm/main/capturas/lastfm_1.jpg)
+![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/last_fm/main/capturas/lastfm_test2.jpg)
