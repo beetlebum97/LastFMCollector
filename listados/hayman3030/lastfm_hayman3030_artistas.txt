@@ -1,32 +1,32 @@
-Puesto: 1 | Artista: Blur | Scrobbles: 2231
+Puesto: 1 | Artista: Blur | Scrobbles: 2232
 Puesto: 2 | Artista: Lou Reed | Scrobbles: 1183
 Puesto: 3 | Artista: David Bowie | Scrobbles: 1157
 Puesto: 4 | Artista: The Beatles | Scrobbles: 1103
 Puesto: 5 | Artista: The Doors | Scrobbles: 1018
 Puesto: 6 | Artista: Judas Priest | Scrobbles: 892
-Puesto: 7 | Artista: The Kinks | Scrobbles: 823
-Puesto: 8 | Artista: Pixies | Scrobbles: 739
+Puesto: 7 | Artista: The Kinks | Scrobbles: 835
+Puesto: 8 | Artista: Pixies | Scrobbles: 740
 Puesto: 9 | Artista: Diana Ross | Scrobbles: 607
-Puesto: 10 | Artista: John Lennon | Scrobbles: 577
+Puesto: 10 | Artista: John Lennon | Scrobbles: 578
 Puesto: 11 | Artista: Electric Light Orchestra | Scrobbles: 558
 Puesto: 12 | Artista: Gorillaz | Scrobbles: 552
-Puesto: 13 | Artista: Thin Lizzy | Scrobbles: 517
+Puesto: 13 | Artista: Thin Lizzy | Scrobbles: 518
 Puesto: 14 | Artista: Queen | Scrobbles: 492
-Puesto: 15 | Artista: Pulp | Scrobbles: 471
+Puesto: 15 | Artista: Pulp | Scrobbles: 472
 Puesto: 16 | Artista: Oasis | Scrobbles: 466
 Puesto: 17 | Artista: Pink Floyd | Scrobbles: 453
 Puesto: 18 | Artista: Stevie Wonder | Scrobbles: 451
-Puesto: 19 | Artista: Suede | Scrobbles: 428
+Puesto: 19 | Artista: Suede | Scrobbles: 429
 Puesto: 20 | Artista: Radiohead | Scrobbles: 427
 Puesto: 21 | Artista: Led Zeppelin | Scrobbles: 387
-Puesto: 22 | Artista: Creedence Clearwater Revival | Scrobbles: 370
+Puesto: 22 | Artista: Creedence Clearwater Revival | Scrobbles: 371
 Puesto: 23 | Artista: Frank Sinatra | Scrobbles: 368
 Puesto: 24 | Artista: Graham Coxon | Scrobbles: 365
 Puesto: 25 | Artista: Supertramp | Scrobbles: 349
-Puesto: 26 | Artista: The Rolling Stones | Scrobbles: 320
-Puesto: 27 | Artista: XTC | Scrobbles: 309
-Puesto: 28 | Artista: Talking Heads | Scrobbles: 306
-Puesto: 29 | Artista: Mercury Rev | Scrobbles: 303
+Puesto: 26 | Artista: XTC | Scrobbles: 321
+Puesto: 27 | Artista: The Rolling Stones | Scrobbles: 320
+Puesto: 28 | Artista: Talking Heads | Scrobbles: 307
+Puesto: 29 | Artista: Mercury Rev | Scrobbles: 304
 Puesto: 30 | Artista: The Clash | Scrobbles: 291
 Puesto: 31 | Artista: Crystal Castles | Scrobbles: 280
 Puesto: 32 | Artista: Tame Impala | Scrobbles: 259
@@ -40,7 +40,7 @@ Puesto: 39 | Artista: The Smashing Pumpkins | Scrobbles: 214
 Puesto: 40 | Artista: Supergrass | Scrobbles: 213
 Puesto: 41 | Artista: Elton John | Scrobbles: 200
 Puesto: 42 | Artista: Nirvana | Scrobbles: 193
-Puesto: 43 | Artista: The Libertines | Scrobbles: 187
+Puesto: 43 | Artista: The Libertines | Scrobbles: 188
 Puesto: 44 | Artista: Rosendo | Scrobbles: 176
 Puesto: 45 | Artista: Manic Street Preachers | Scrobbles: 175
 Puesto: 46 | Artista: The Band | Scrobbles: 174
@@ -52,16 +52,16 @@ Puesto: 51 | Artista: Michael Jackson | Scrobbles: 169
 Puesto: 52 | Artista: Bob Dylan | Scrobbles: 166
 Puesto: 53 | Artista: George Harrison | Scrobbles: 165
 Puesto: 54 | Artista: Sleeper | Scrobbles: 158
-Puesto: 55 | Artista: NOFX | Scrobbles: 156
-Puesto: 56 | Artista: Aerosmith | Scrobbles: 149
-Puesto: 57 | Artista: Gabinete Caligari | Scrobbles: 149
-Puesto: 58 | Artista: Glenn Miller | Scrobbles: 149
-Puesto: 59 | Artista: Joaquín Sabina | Scrobbles: 145
+Puesto: 55 | Artista: Joaquín Sabina | Scrobbles: 157
+Puesto: 56 | Artista: NOFX | Scrobbles: 156
+Puesto: 57 | Artista: Aerosmith | Scrobbles: 149
+Puesto: 58 | Artista: Gabinete Caligari | Scrobbles: 149
+Puesto: 59 | Artista: Glenn Miller | Scrobbles: 149
 Puesto: 60 | Artista: Phoenix | Scrobbles: 144
 Puesto: 61 | Artista: Coldplay | Scrobbles: 142
 Puesto: 62 | Artista: Extremoduro | Scrobbles: 140
 Puesto: 63 | Artista: The Cure | Scrobbles: 139
-Puesto: 64 | Artista: MGMT | Scrobbles: 137
+Puesto: 64 | Artista: MGMT | Scrobbles: 138
 Puesto: 65 | Artista: Sidonie | Scrobbles: 137
 Puesto: 66 | Artista: Platero y tú | Scrobbles: 136
 Puesto: 67 | Artista: The Beach Boys | Scrobbles: 136
@@ -78,20 +78,20 @@ Puesto: 77 | Artista: The Verve | Scrobbles: 124
 Puesto: 78 | Artista: Vangelis | Scrobbles: 124
 Puesto: 79 | Artista: The Smiths | Scrobbles: 122
 Puesto: 80 | Artista: Los Planetas | Scrobbles: 121
-Puesto: 81 | Artista: Paul McCartney | Scrobbles: 117
-Puesto: 82 | Artista: The Police | Scrobbles: 113
-Puesto: 83 | Artista: Red Hot Chili Peppers | Scrobbles: 112
-Puesto: 84 | Artista: The Jam | Scrobbles: 112
-Puesto: 85 | Artista: The Good, the Bad & the Queen | Scrobbles: 107
-Puesto: 86 | Artista: Radio Futura | Scrobbles: 106
-Puesto: 87 | Artista: Kula Shaker | Scrobbles: 105
+Puesto: 81 | Artista: Kula Shaker | Scrobbles: 118
+Puesto: 82 | Artista: Paul McCartney | Scrobbles: 117
+Puesto: 83 | Artista: The Jam | Scrobbles: 113
+Puesto: 84 | Artista: The Police | Scrobbles: 113
+Puesto: 85 | Artista: Red Hot Chili Peppers | Scrobbles: 112
+Puesto: 86 | Artista: The Good, the Bad & the Queen | Scrobbles: 107
+Puesto: 87 | Artista: Radio Futura | Scrobbles: 106
 Puesto: 88 | Artista: Buzzcocks | Scrobbles: 104
 Puesto: 89 | Artista: Cream | Scrobbles: 103
 Puesto: 90 | Artista: Pavement | Scrobbles: 103
-Puesto: 91 | Artista: Daft Punk | Scrobbles: 102
-Puesto: 92 | Artista: Rammstein | Scrobbles: 102
-Puesto: 93 | Artista: T. Rex | Scrobbles: 102
-Puesto: 94 | Artista: Andrés Calamaro | Scrobbles: 101
+Puesto: 91 | Artista: Andrés Calamaro | Scrobbles: 102
+Puesto: 92 | Artista: Daft Punk | Scrobbles: 102
+Puesto: 93 | Artista: Rammstein | Scrobbles: 102
+Puesto: 94 | Artista: T. Rex | Scrobbles: 102
 Puesto: 95 | Artista: Faith No More | Scrobbles: 101
 Puesto: 96 | Artista: Muse | Scrobbles: 96
 Puesto: 97 | Artista: Placebo | Scrobbles: 95
@@ -103,28 +103,28 @@ Puesto: 102 | Artista: Smash Mouth | Scrobbles: 90
 Puesto: 103 | Artista: Blondie | Scrobbles: 89
 Puesto: 104 | Artista: Damon Albarn | Scrobbles: 89
 Puesto: 105 | Artista: U2 | Scrobbles: 89
-Puesto: 106 | Artista: Green Day | Scrobbles: 86
-Puesto: 107 | Artista: Celtas Cortos | Scrobbles: 84
-Puesto: 108 | Artista: Sonic Youth | Scrobbles: 84
-Puesto: 109 | Artista: Franz Ferdinand | Scrobbles: 83
-Puesto: 110 | Artista: Steppenwolf | Scrobbles: 83
-Puesto: 111 | Artista: Kiss | Scrobbles: 82
-Puesto: 112 | Artista: Jerry Lee Lewis | Scrobbles: 79
-Puesto: 113 | Artista: The WAEVE | Scrobbles: 79
-Puesto: 114 | Artista: Arcade Fire | Scrobbles: 78
-Puesto: 115 | Artista: Teenage Fanclub | Scrobbles: 78
-Puesto: 116 | Artista: The Strokes | Scrobbles: 77
-Puesto: 117 | Artista: ZZ Top | Scrobbles: 77
-Puesto: 118 | Artista: Duran Duran | Scrobbles: 75
-Puesto: 119 | Artista: Echobelly | Scrobbles: 74
-Puesto: 120 | Artista: Freddie Mercury | Scrobbles: 74
-Puesto: 121 | Artista: Arctic Monkeys | Scrobbles: 72
-Puesto: 122 | Artista: Deep Purple | Scrobbles: 72
-Puesto: 123 | Artista: Los Rodríguez | Scrobbles: 72
-Puesto: 124 | Artista: The Chemical Brothers | Scrobbles: 72
-Puesto: 125 | Artista: Jarvis Cocker | Scrobbles: 71
-Puesto: 126 | Artista: Ocean Colour Scene | Scrobbles: 71
-Puesto: 127 | Artista: The Jesus and Mary Chain | Scrobbles: 71
+Puesto: 106 | Artista: Los Rodríguez | Scrobbles: 87
+Puesto: 107 | Artista: Green Day | Scrobbles: 86
+Puesto: 108 | Artista: Celtas Cortos | Scrobbles: 84
+Puesto: 109 | Artista: Sonic Youth | Scrobbles: 84
+Puesto: 110 | Artista: Franz Ferdinand | Scrobbles: 83
+Puesto: 111 | Artista: Steppenwolf | Scrobbles: 83
+Puesto: 112 | Artista: Kiss | Scrobbles: 82
+Puesto: 113 | Artista: Jerry Lee Lewis | Scrobbles: 79
+Puesto: 114 | Artista: The WAEVE | Scrobbles: 79
+Puesto: 115 | Artista: Arcade Fire | Scrobbles: 78
+Puesto: 116 | Artista: Teenage Fanclub | Scrobbles: 78
+Puesto: 117 | Artista: The Strokes | Scrobbles: 77
+Puesto: 118 | Artista: ZZ Top | Scrobbles: 77
+Puesto: 119 | Artista: The Jesus and Mary Chain | Scrobbles: 76
+Puesto: 120 | Artista: Duran Duran | Scrobbles: 75
+Puesto: 121 | Artista: Echobelly | Scrobbles: 74
+Puesto: 122 | Artista: Freddie Mercury | Scrobbles: 74
+Puesto: 123 | Artista: Arctic Monkeys | Scrobbles: 72
+Puesto: 124 | Artista: Deep Purple | Scrobbles: 72
+Puesto: 125 | Artista: The Chemical Brothers | Scrobbles: 72
+Puesto: 126 | Artista: Jarvis Cocker | Scrobbles: 71
+Puesto: 127 | Artista: Ocean Colour Scene | Scrobbles: 71
 Puesto: 128 | Artista: The Mamas & the Papas | Scrobbles: 70
 Puesto: 129 | Artista: Los Suaves | Scrobbles: 69
 Puesto: 130 | Artista: Megadeth | Scrobbles: 69
@@ -195,11 +195,11 @@ Puesto: 194 | Artista: Camilo Sesto | Scrobbles: 38
 Puesto: 195 | Artista: Manu Chao | Scrobbles: 38
 Puesto: 196 | Artista: Miles Kane | Scrobbles: 38
 Puesto: 197 | Artista: Mötley Crüe | Scrobbles: 38
-Puesto: 198 | Artista: Burning | Scrobbles: 37
-Puesto: 199 | Artista: Estopa | Scrobbles: 37
-Puesto: 200 | Artista: Jaime Urrutia | Scrobbles: 37
-Puesto: 201 | Artista: Richard Ashcroft | Scrobbles: 37
-Puesto: 202 | Artista: The La's | Scrobbles: 37
+Puesto: 198 | Artista: The La's | Scrobbles: 38
+Puesto: 199 | Artista: Burning | Scrobbles: 37
+Puesto: 200 | Artista: Estopa | Scrobbles: 37
+Puesto: 201 | Artista: Jaime Urrutia | Scrobbles: 37
+Puesto: 202 | Artista: Richard Ashcroft | Scrobbles: 37
 Puesto: 203 | Artista: Alice in Chains | Scrobbles: 36
 Puesto: 204 | Artista: Édith Piaf | Scrobbles: 36
 Puesto: 205 | Artista: Giorgio Moroder | Scrobbles: 36

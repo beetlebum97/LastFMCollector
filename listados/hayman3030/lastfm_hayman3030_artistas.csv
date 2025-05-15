@@ -1,0 +1,441 @@
+Puesto;Artista;Scrobbles
+1;Blur;2232
+2;Lou Reed;1183
+3;David Bowie;1157
+4;The Beatles;1103
+5;The Doors;1018
+6;Judas Priest;892
+7;The Kinks;835
+8;Pixies;740
+9;Diana Ross;607
+10;John Lennon;578
+11;Electric Light Orchestra;558
+12;Gorillaz;552
+13;Thin Lizzy;518
+14;Queen;492
+15;Pulp;472
+16;Oasis;466
+17;Pink Floyd;453
+18;Stevie Wonder;451
+19;Suede;429
+20;Radiohead;427
+21;Led Zeppelin;387
+22;Creedence Clearwater Revival;371
+23;Frank Sinatra;368
+24;Graham Coxon;365
+25;Supertramp;349
+26;XTC;321
+27;The Rolling Stones;320
+28;Talking Heads;307
+29;Mercury Rev;304
+30;The Clash;291
+31;Crystal Castles;280
+32;Tame Impala;259
+33;Ramones;255
+34;Elvis Presley;248
+35;Bee Gees;246
+36;Black Sabbath;226
+37;Ilegales;225
+38;The Who;216
+39;The Smashing Pumpkins;214
+40;Supergrass;213
+41;Elton John;200
+42;Nirvana;193
+43;The Libertines;188
+44;Rosendo;176
+45;Manic Street Preachers;175
+46;The Band;174
+47;Jamiroquai;172
+48;Motörhead;171
+49;AC/DC;170
+50;Héroes del Silencio;170
+51;Michael Jackson;169
+52;Bob Dylan;166
+53;George Harrison;165
+54;Sleeper;158
+55;Joaquín Sabina;157
+56;NOFX;156
+57;Aerosmith;149
+58;Gabinete Caligari;149
+59;Glenn Miller;149
+60;Phoenix;144
+61;Coldplay;142
+62;Extremoduro;140
+63;The Cure;139
+64;MGMT;138
+65;Sidonie;137
+66;Platero y tú;136
+67;The Beach Boys;136
+68;Bruce Springsteen;134
+69;The Prodigy;134
+70;Catatonia;133
+71;Iron Maiden;132
+72;Prince;131
+73;The Cardigans;129
+74;Bob Marley;127
+75;Gladys Knight & The Pips;126
+76;Weezer;126
+77;The Verve;124
+78;Vangelis;124
+79;The Smiths;122
+80;Los Planetas;121
+81;Kula Shaker;118
+82;Paul McCartney;117
+83;The Jam;113
+84;The Police;113
+85;Red Hot Chili Peppers;112
+86;The Good, the Bad & the Queen;107
+87;Radio Futura;106
+88;Buzzcocks;104
+89;Cream;103
+90;Pavement;103
+91;Andrés Calamaro;102
+92;Daft Punk;102
+93;Rammstein;102
+94;T. Rex;102
+95;Faith No More;101
+96;Muse;96
+97;Placebo;95
+98;R.E.M.;94
+99;Madness;93
+100;Moby;93
+101;Sex Pistols;93
+102;Smash Mouth;90
+103;Blondie;89
+104;Damon Albarn;89
+105;U2;89
+106;Los Rodríguez;87
+107;Green Day;86
+108;Celtas Cortos;84
+109;Sonic Youth;84
+110;Franz Ferdinand;83
+111;Steppenwolf;83
+112;Kiss;82
+113;Jerry Lee Lewis;79
+114;The WAEVE;79
+115;Arcade Fire;78
+116;Teenage Fanclub;78
+117;The Strokes;77
+118;ZZ Top;77
+119;The Jesus and Mary Chain;76
+120;Duran Duran;75
+121;Echobelly;74
+122;Freddie Mercury;74
+123;Arctic Monkeys;72
+124;Deep Purple;72
+125;The Chemical Brothers;72
+126;Jarvis Cocker;71
+127;Ocean Colour Scene;71
+128;The Mamas & the Papas;70
+129;Los Suaves;69
+130;Megadeth;69
+131;Leño;68
+132;Massive Attack;68
+133;Pearl Jam;68
+134;Dinosaur Jr.;67
+135;Metallica;67
+136;The Divine Comedy;65
+137;Misfits;64
+138;Elvis Costello;63
+139;Soulwax;62
+140;Iggy Pop;61
+141;Guns N' Roses;60
+142;Space;59
+143;Syd Barrett;59
+144;Lynyrd Skynyrd;58
+145;Def con Dos;57
+146;Luis Eduardo Aute;57
+147;The White Stripes;57
+148;Joy Division;56
+149;The Velvet Underground;56
+150;Ash;55
+151;Elastica;53
+152;Jefferson Airplane;53
+153;Nick Cave & the Bad Seeds;53
+154;Siniestro Total;53
+155;my bloody valentine;52
+156;The Offspring;52
+157;New Order;51
+158;The Hives;51
+159;Noel Gallagher;50
+160;Buddy Holly;49
+161;Queens of the Stone Age;49
+162;The Stone Roses;48
+163;Eskorbuto;47
+164;Garbage;47
+165;Kraftwerk;47
+166;Mike Oldfield;46
+167;Enrique Bunbury;45
+168;Rage Against the Machine;45
+169;Van Halen;45
+170;Janis Joplin;44
+171;Otis Redding;44
+172;Stereolab;44
+173;Beck;43
+174;Primal Scream;43
+175;The Horrors;43
+176;Dire Straits;42
+177;No Doubt;42
+178;The Charlatans;42
+179;Barón Rojo;41
+180;Depeche Mode;41
+181;Mansun;41
+182;Player;41
+183;Superstate;41
+184;Jimi Hendrix;40
+185;Miles Davis;40
+186;Scorpions;40
+187;The Cramps;40
+188;The Specials;40
+189;Barricada;39
+190;dEUS;39
+191;George Michael;39
+192;Little Richard;39
+193;Tahiti 80;39
+194;Camilo Sesto;38
+195;Manu Chao;38
+196;Miles Kane;38
+197;Mötley Crüe;38
+198;The La's;38
+199;Burning;37
+200;Estopa;37
+201;Jaime Urrutia;37
+202;Richard Ashcroft;37
+203;Alice in Chains;36
+204;Édith Piaf;36
+205;Giorgio Moroder;36
+206;Kaiser Chiefs;36
+207;La Polla Records;36
+208;Marvin Gaye;36
+209;The Pretenders;36
+210;The Vines;36
+211;Gilbert O'Sullivan;35
+212;Joe Satriani;35
+213;Van Morrison;35
+214;Hamlet;34
+215;Klaxons;34
+216;Los Piratas;34
+217;New York Dolls;34
+218;The Killers;34
+219;El Último de la Fila;33
+220;Foo Fighters;33
+221;Joe Cocker;33
+222;Portishead;33
+223;Robbie Williams;33
+224;Tool;33
+225;Foals;32
+226;Loquillo y Trogloditas;32
+227;Pantera;32
+228;Jeff Buckley;31
+229;Dave Rowntree;30
+230;Los Toreros Muertos;30
+231;Molotov;30
+232;Roxy Music;30
+233;Clawfinger;29
+234;Fleetwood Mac;29
+235;Hard-Fi;29
+236;Jethro Tull;29
+237;Decibelios;28
+238;Echo & the Bunnymen;28
+239;The Coral;28
+240;The Cranberries;28
+241;Dirty Pretty Things;27
+242;Interpol;27
+243;Patti Smith;27
+244;Björk;26
+245;Kings of Leon;26
+246;Righeira;26
+247;Rocket Juice & The Moon;26
+248;Small Faces;26
+249;Wu-Tang Clan;26
+250;Yes;26
+251;Australian Blonde;25
+252;Billy Idol;25
+253;De La Soul;25
+254;Incubus;25
+255;Nine Inch Nails;25
+256;Nino Bravo;25
+257;Television;25
+258;Temples;25
+259;The Flaming Lips;25
+260;Anthrax;24
+261;Cicatriz;24
+262;Dream Theater;24
+263;Elbow;24
+264;Kasabian;24
+265;PJ Harvey;24
+266;Saint Etienne;24
+267;Tricky;24
+268;Wings;24
+269;Yeah Yeah Yeahs;24
+270;Crowded House;23
+271;Frank Zappa;23
+272;Travis;23
+273;Bad Religion;22
+274;Café Quijano;22
+275;Genesis;22
+276;Korn;22
+277;Neil Young;22
+278;Inspiral Carpets;21
+279;Parálisis Permanente;21
+280;Rory Gallagher;21
+281;Slayer;21
+282;Grateful Dead;20
+283;Jane's Addiction;20
+284;Spandau Ballet;20
+285;Alice Cooper;19
+286;Leonard Cohen;19
+287;Chet Baker;18
+288;Eric Clapton;18
+289;King Crimson;18
+290;Robbie Dupree;18
+291;Adriano Celentano;17
+292;El Club de los Poetas Violentos;17
+293;Reincidentes;17
+294;Soundgarden;17
+295;Wilco;17
+296;Bauhaus;16
+297;Cat Stevens;16
+298;Fatboy Slim;16
+299;Glasvegas;16
+300;Johnny Cash;16
+301;Limp Bizkit;16
+302;Rancid;16
+303;Sigur Rós;15
+304;Belle and Sebastian;14
+305;Boikot;14
+306;La Habitación Roja;14
+307;Terrorvision;14
+308;Texas;14
+309;Babyshambles;13
+310;Beady Eye;13
+311;Death Cab for Cutie;13
+312;Def Leppard;13
+313;Jarabe de Palo;13
+314;Madonna;13
+315;The Delgados;13
+316;Thom Yorke;13
+317;Bill Evans;12
+318;King Diamond;12
+319;Moloko;12
+320;Talk Talk;12
+321;Deftones;11
+322;Hole;11
+323;Johnny Marr;11
+324;Obus;11
+325;Papa Roach;11
+326;Al Stewart;10
+327;Barry White;10
+328;The Fratellis;10
+329;The Wallflowers;10
+330;Al Green;9
+331;Andy Gibb;9
+332;Blind Guardian;9
+333;Carlos Berlanga;9
+334;David Shire;9
+335;Frankie Valli;9
+336;Los Coronas;9
+337;Mecano;9
+338;Sylvester;9
+339;The O'Jays;9
+340;Tom Jones;9
+341;Yann Tiersen;9
+342;Alaska y Dinarama;8
+343;Chic;8
+344;The Stooges;8
+345;Black Harmony;7
+346;Derribos Arias;7
+347;Golpes Bajos;7
+348;John Travolta;7
+349;Mika;7
+350;Morcheeba;7
+351;Ride;7
+352;Violadores del Verso;7
+353;Public Image Ltd.;6
+354;Sha Na Na;6
+355;Sid Vicious;6
+356;The Doobie Brothers;6
+357;The Trammps;6
+358;Dick Dale;5
+359;João Gilberto;5
+360;Kool & the Gang;5
+361;New Radicals;5
+362;Sylvia Telles;5
+363;The Byrds;5
+364;Vampire Weekend;5
+365;Ariel Rot;4
+366;Beastie Boys;4
+367;Eminem;4
+368;José Luis Perales;4
+369;Obús;4
+370;Rinôçérôse;4
+371;Simon & Garfunkel;4
+372;The Yardbirds;4
+373;B.J. Thomas;3
+374;Cindy Bullens;3
+375;Ennio Morricone;3
+376;KC and The Sunshine Band;3
+377;MFSB;3
+378;Ralph MacDonald;3
+379;Tavares;3
+380;The Dandy Warhols;3
+381;The Lovin' Spoonful;3
+382;Walter Murphy;3
+383;Yvonne Elliman;3
+384;Brothers Johnson;2
+385;Chuck Berry;2
+386;JAY-Z;2
+387;Jim Jacobs;2
+388;Lilys;2
+389;Olivia Newton-John;2
+390;Rick Nelson;2
+391;Stereophonics;2
+392;The Tornadoes;2
+393;A Tribe Called Quest;1
+394;Alaska y Los Pegamoides;1
+395;Black Grape;1
+396;Bruce Willis;1
+397;Carlos Lyra;1
+398;Cornershop;1
+399;Cypress Hill;1
+400;Duane Whitaker;1
+401;Dusty Springfield;1
+402;Frankie Avalon;1
+403;Groove Armada;1
+404;Happy Mondays;1
+405;Helloween;1
+406;Ian Brown;1
+407;Kenickie;1
+408;Leftfield;1
+409;Link Wray & His Wraymen;1
+410;Longpigs;1
+411;Los Sencillos;1
+412;Louis St. Louis;1
+413;Lush;1
+414;Marc Parrot;1
+415;Maria McKee;1
+416;Marilyn Manson;1
+417;Mowgai;1
+418;Museum;1
+419;Passion Pit;1
+420;Paul Francis Webster;1
+421;Paul Weller;1
+422;Pery Ribeiro;1
+423;Samuel L. Jackson;1
+424;Spiritualized;1
+425;Stockard Channing;1
+426;The Bluetones;1
+427;The Boo Radleys;1
+428;The Go! Team;1
+429;The Knack;1
+430;The Lemonheads;1
+431;The Lively Ones;1
+432;The Long Blondes;1
+433;The Marketts;1
+434;The Notorious B.I.G.;1
+435;The Robins;1
+436;The Statler Brothers;1
+437;The Wonder Stuff;1
+438;Underworld;1
+439;Urge Overkill;1
+440;Vinícius de Moraes;1
