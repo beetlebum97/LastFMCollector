@@ -25,12 +25,12 @@ Archivos que contienen los registros del usuario. Cada script genera un listado 
 
 | CLASIFICACIÓN | SCRIPT | LISTADO | DATOS |
 | ------ | ------ | ------ | ------ |
-| ARTISTAS | lastfm_artistas.py | lastfm_{usuario}_artistas.txt | Puesto, artista, scrobbles |
-| DISCOS | lastfm_discos.py | lastfm_{usuario}_discos.txt |Puesto, disco, artista, scrobbles |
-| CANCIONES | lastfm_canciones.py | lastfm_{usuario}_canciones.txt | Puesto, canción, artista, scrobbles |
-| SCROBBLES | lastfm_scrobbles.py | lastfm_{usuario}_scrobbles.txt | Fecha-hora, canción, disco, artista, ID |
+| ARTISTAS | lastfm_artistas.py | lastfm_{usuario}_artistas | Puesto, artista, scrobbles |
+| DISCOS | lastfm_discos.py | lastfm_{usuario}_discos |Puesto, disco, artista, scrobbles |
+| CANCIONES | lastfm_canciones.py | lastfm_{usuario}_canciones | Puesto, canción, artista, scrobbles |
+| SCROBBLES | lastfm_scrobbles.py | lastfm_{usuario}_scrobbles | Fecha-hora, canción, disco, artista, ID |
 
-El listado se guarda en la ruta ./listados/{usuario}. Por el momento en formato de texto (.txt).
+El listado se guarda en la ruta ./listados/{usuario}. Por el momento en formato de texto (.txt) o csv.
 
 Para poder ejecutar correctamente los scripts, primero insertar clave API personal en la línea 8 y guardar antes de lanzar:
 
@@ -68,7 +68,7 @@ Canciones ordenadas de mayor a menor nº de scrobbles (todas las veces que se ha
 
 ### lastfm_scrobbles.py
 
-Todos los scrobbles (reproducciones) ordenadas por fecha-hora (Descendente).
+Todos los scrobbles (reproducciones) ordenados por fecha-hora (Descendente).
 
 ```python lastfm_canciones.py <usuario> ``` 
 
@@ -78,20 +78,18 @@ Todos los scrobbles (reproducciones) ordenadas por fecha-hora (Descendente).
 
 ## 3. CONTROL DE ERRORES
 
-Al introducir usuario que no existe, aparecere el mensaje:
+No hay usuario (par1):
 
-```Error 6: User not found```
+![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/last_fm/main/capturas/error1.png)
 
-![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/last_fm/main/capturas/lastfm_error.png)
+No hay clave API:
 
-Reintentos ante problemas de conexión:
+![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/last_fm/main/capturas/error2.png)
 
-![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/last_fm/main/capturas/lastfm_error2.png)
+Usuario no existe:
 
-![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/last_fm/main/capturas/lastfm_error3.png)
+![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/last_fm/main/capturas/error3.png)
 
+Problema de conexión durante la descarga:
 
-
-
-
-
+![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/last_fm/main/capturas/error4.png)

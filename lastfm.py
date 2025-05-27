@@ -16,6 +16,13 @@ def mostrar_encabezado():
     print("[Fecha/Hora]", inicio.strftime("%Y-%m-%d %H:%M:%S"))
     print("LastFMCollector")
 
+def validar_api_key():
+    """Valida que se haya configurado una API key válida"""
+    if API_KEY == "Introduce tu clave" or not API_KEY.strip():
+        print("Error: Debes introducir tu clave API de Last.fm en la línea 9 del script.")
+        print("Visita https://www.last.fm/api/account/create para obtener una clave API.")
+        sys.exit(1)
+
 def obtener_estadistica(usuario, metodo, root):
     """Obtiene una estadística específica de Last.fm para un usuario"""
     params = {
@@ -37,11 +44,21 @@ def obtener_estadistica(usuario, metodo, root):
 
         # Solo un nivel de clave antes de @attr.total
         return int(data[root]["@attr"]["total"])
+    except requests.exceptions.HTTPError as e:
+        if e.response.status_code == 404:
+            raise ValueError(f"El usuario '{usuario}' no existe en Last.fm")
+        else:
+            raise ValueError(f"Error HTTP {e.response.status_code}: {e}")
     except requests.exceptions.RequestException as e:
         raise ValueError(f"Error de conexión: {e}")
     except (KeyError, ValueError) as e:
-        if "error" in data:
-            raise ValueError(f"Error {data['error']}: {data.get('message', 'Usuario no válido o no encontrado')}")
+        if "error" in str(e):
+            raise
+        try:
+            if "error" in data:
+                raise ValueError(f"Error {data['error']}: {data.get('message', 'Usuario no válido o no encontrado')}")
+        except:
+            pass
         raise ValueError(f"Error procesando datos: {e}")
 
 def obtener_estadisticas_usuario(usuario):
@@ -83,11 +100,14 @@ def main():
     """Función principal del programa"""
     mostrar_encabezado()
     
-    # Verificar argumentos
+    # Verificar argumentos primero
     if len(sys.argv) != 2:
         print("Error: Debes proporcionar un nombre de usuario como argumento.")
         print("Uso: python lastfm.py <nombre_usuario>")
         sys.exit(1)
+    
+    # Validar API key después de verificar argumentos
+    validar_api_key()
         
     usuario = sys.argv[1]
     print(f"Obteniendo información del usuario '{usuario}' ...\n")

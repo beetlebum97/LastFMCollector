@@ -1,4 +1,273 @@
-Fecha;Canción;Disco;Artista
+Fecha;Canción;Disco;Artista;ID
+27 May 2025, 17:47;Today;Rotten Apples;The Smashing Pumpkins;38188
+27 May 2025, 17:42;Feels Like We Only Go Backwards;Lonerism;Tame Impala;38187
+27 May 2025, 17:37;Someone's Missing;Congratulations;MGMT;38186
+27 May 2025, 17:32;Ballad Of The Mighty I;Chasing Yesterday;Noel Gallagher;38185
+27 May 2025, 17:27;ELT;summerteeth;Wilco;38184
+27 May 2025, 17:23;Broken Boys;City Lights;The WAEVE;38183
+27 May 2025, 17:16;Venusia;Surfing the Void;Klaxons;38182
+27 May 2025, 17:09;River Euphrates;Complete 'B' Sides;Pixies;38181
+27 May 2025, 17:03;Alice What's the Matter;How to Make Friends and Influence People;Terrorvision;38180
+27 May 2025, 16:48;Beyond This Life;Metropolis Pt. 2: Scenes From a Memory;Dream Theater;38179
+27 May 2025, 11:45;Road Trippin';Californication;Red Hot Chili Peppers;38178
+27 May 2025, 11:42;Right on Time;Californication;Red Hot Chili Peppers;38177
+27 May 2025, 11:36;Purple Stain;Californication;Red Hot Chili Peppers;38176
+27 May 2025, 11:31;Savior;Californication;Red Hot Chili Peppers;38175
+27 May 2025, 11:24;This Velvet Glove;Californication;Red Hot Chili Peppers;38174
+27 May 2025, 11:13;I Like Dirt;Californication;Red Hot Chili Peppers;38173
+27 May 2025, 11:08;Emit Remmus;Californication;Red Hot Chili Peppers;38172
+27 May 2025, 11:02;Porcelain;Californication;Red Hot Chili Peppers;38171
+27 May 2025, 10:58;Easily;Californication;Red Hot Chili Peppers;38170
+27 May 2025, 10:52;Californication;Californication;Red Hot Chili Peppers;38169
+27 May 2025, 10:48;Get on Top;Californication;Red Hot Chili Peppers;38168
+27 May 2025, 10:44;Otherside;Californication;Red Hot Chili Peppers;38167
+27 May 2025, 10:39;Scar Tissue;Californication;Red Hot Chili Peppers;38166
+27 May 2025, 10:34;Parallel Universe;Californication;Red Hot Chili Peppers;38165
+27 May 2025, 10:30;Around the World;Californication;Red Hot Chili Peppers;38164
+27 May 2025, 10:26;What's My Age Again?;Enema of the State;blink-182;38163
+27 May 2025, 00:34;The White Noise Revisited;Giant Steps;The Boo Radleys;38162
+27 May 2025, 00:28;I've Lost The Reason;Giant Steps;The Boo Radleys;38161
+27 May 2025, 00:26;Run My Way Runway;Giant Steps;The Boo Radleys;38160
+27 May 2025, 00:24;One Is For;Giant Steps;The Boo Radleys;38159
+27 May 2025, 00:19;Lazarus;Giant Steps;The Boo Radleys;38158
+27 May 2025, 00:15;Take The Time Around;Giant Steps;The Boo Radleys;38157
+27 May 2025, 00:11;Best Lose The Fear;Giant Steps;The Boo Radleys;38156
+27 May 2025, 00:08;If You Want It, Take It;Giant Steps;The Boo Radleys;38155
+27 May 2025, 00:05;Spun Around;Giant Steps;The Boo Radleys;38154
+27 May 2025, 00:00;Barney (...And Me);Giant Steps;The Boo Radleys;38153
+26 May 2025, 23:56;Thinking Of Ways;Giant Steps;The Boo Radleys;38152
+26 May 2025, 23:53;Rodney King (Song for Lenny Bruce);Giant Steps;The Boo Radleys;38151
+26 May 2025, 23:50;Butterfly McQueen;Giant Steps;The Boo Radleys;38150
+26 May 2025, 23:45;Leaves And Sand;Giant Steps;The Boo Radleys;38149
+26 May 2025, 23:39;Wish I Was Skinny;Giant Steps;The Boo Radleys;38148
+26 May 2025, 23:33;Upon 9th And Fairchild;Giant Steps;The Boo Radleys;38147
+26 May 2025, 23:29;I Hang Suspended;Giant Steps;The Boo Radleys;38146
+26 May 2025, 18:00;Eyes Without a Face;Rebel Yell;Billy Idol;38145
+26 May 2025, 17:56;Untouchables;Don't Stop;Billy Idol;38144
+26 May 2025, 17:53;Baby Talk;Don't Stop;Billy Idol;38143
+26 May 2025, 17:47;Mony, Mony;Don't Stop;Billy Idol;38142
+26 May 2025, 17:41;Dancing with Myself;Greatest Hits;Billy Idol;38141
+26 May 2025, 17:37;White Wedding (Part 1);Billy Idol;Billy Idol;38140
+26 May 2025, 11:22;I'm Gonna Crawl;In Through the Out Door;Led Zeppelin;38139
+26 May 2025, 11:15;All My Love;In Through the Out Door;Led Zeppelin;38138
+26 May 2025, 11:04;Carouselambra;In Through the Out Door;Led Zeppelin;38137
+26 May 2025, 11:00;Hot Dog;In Through the Out Door;Led Zeppelin;38136
+26 May 2025, 10:51;Fool in the Rain;In Through the Out Door;Led Zeppelin;38135
+26 May 2025, 10:47;South Bound Saurez;In Through the Out Door;Led Zeppelin;38134
+26 May 2025, 09:45;In the Evening;In Through the Out Door;Led Zeppelin;38133
+26 May 2025, 01:58;Nightvision;Discovery;Daft Punk;38132
+26 May 2025, 01:52;Digital Love;Discovery;Daft Punk;38131
+26 May 2025, 01:50;Dance 2 Slow;Any Minute Now;Soulwax;38130
+26 May 2025, 01:45;The Truth Is So Boring;Any Minute Now;Soulwax;38129
+26 May 2025, 01:41;YYY/NNN;Any Minute Now;Soulwax;38128
+26 May 2025, 01:37;Miserable Girl;Any Minute Now;Soulwax;38127
+26 May 2025, 01:32;NY Excuse;Any Minute Now;Soulwax;38126
+26 May 2025, 01:27;Accidents and Compliments;Any Minute Now;Soulwax;38125
+26 May 2025, 01:24;A Ballad to Forget;Any Minute Now;Soulwax;38124
+26 May 2025, 01:19;A Ballad to Forget;Any Minute Now;Soulwax;38123
+26 May 2025, 01:14;Slowdance;Any Minute Now;Soulwax;38122
+26 May 2025, 01:12;Krack;Any Minute Now;Soulwax;38121
+26 May 2025, 01:07;Compute;Any Minute Now;Soulwax;38120
+26 May 2025, 01:03;Please... Don't Be Yourself;Any Minute Now;Soulwax;38119
+26 May 2025, 01:00;Any Minute Now;Any Minute Now;Soulwax;38118
+26 May 2025, 00:55;E Talking;Any Minute Now;Soulwax;38117
+26 May 2025, 00:49;Skin;Kaleidoscope;Siouxsie and the Banshees;38116
+26 May 2025, 00:44;Paradise Place;Kaleidoscope;Siouxsie and the Banshees;38115
+26 May 2025, 00:41;Red Light;Kaleidoscope;Siouxsie and the Banshees;38114
+26 May 2025, 00:36;Desert Kisses;Kaleidoscope;Siouxsie and the Banshees;38113
+26 May 2025, 00:33;Christine;Kaleidoscope;Siouxsie and the Banshees;38112
+26 May 2025, 00:29;Lunar Camel;Kaleidoscope;Siouxsie and the Banshees;38111
+26 May 2025, 00:27;Clockface;Kaleidoscope;Siouxsie and the Banshees;38110
+26 May 2025, 00:22;Hybrid;Kaleidoscope;Siouxsie and the Banshees;38109
+26 May 2025, 00:18;Trophy;Kaleidoscope;Siouxsie and the Banshees;38108
+26 May 2025, 00:14;Tenant;Kaleidoscope;Siouxsie and the Banshees;38107
+26 May 2025, 00:10;Happy House;Kaleidoscope;Siouxsie and the Banshees;38106
+25 May 2025, 15:27;Todo Lo Que Sigue;Veo, Veo... Mamoneo;Rosendo;38105
+25 May 2025, 15:23;Ven y ve!;Veo, Veo... Mamoneo;Rosendo;38104
+25 May 2025, 15:18;Entre dientes;Veo, Veo... Mamoneo;Rosendo;38103
+25 May 2025, 15:13;Veo, Veo... Mamoneo;Veo, Veo... Mamoneo;Rosendo;38102
+25 May 2025, 15:10;Para Cuando Desatino;Veo, Veo... Mamoneo;Rosendo;38101
+25 May 2025, 15:05;Sufrido;Veo, Veo... Mamoneo;Rosendo;38100
+25 May 2025, 15:01;Para Nada;Veo, Veo... Mamoneo;Rosendo;38099
+25 May 2025, 14:56;Quincalla, o no!;Veo, Veo... Mamoneo;Rosendo;38098
+25 May 2025, 14:53;Que te acompañe la suerte;Veo, Veo... Mamoneo;Rosendo;38097
+25 May 2025, 14:48;Masculino singular;Veo, Veo... Mamoneo;Rosendo;38096
+25 May 2025, 12:39;Olympia;Lovelife;Lush;38095
+25 May 2025, 12:36;The Childcatcher;Lovelife;Lush;38094
+25 May 2025, 12:32;Runaway;Lovelife;Lush;38093
+25 May 2025, 12:26;Last Night;Lovelife;Lush;38092
+25 May 2025, 11:56;Tralala;Lovelife;Lush;38091
+25 May 2025, 11:49;Ciao!;Lovelife;Lush;38090
+25 May 2025, 11:45;Single Girl;Lovelife;Lush;38089
+25 May 2025, 11:42;Papasan;Lovelife;Lush;38088
+25 May 2025, 11:36;I've Been Here Before;Lovelife;Lush;38087
+25 May 2025, 11:32;500;Lovelife;Lush;38086
+25 May 2025, 11:29;Heavenly Nobodies;Lovelife;Lush;38085
+25 May 2025, 11:26;Ladykillers;Lovelife;Lush;38084
+24 May 2025, 18:14;Demon Days;Demon Days;Gorillaz;38083
+24 May 2025, 18:07;Don't Get Lost in Heaven;Demon Days;Gorillaz;38082
+24 May 2025, 18:03;Fire Coming Out of the Monkey's Head;Demon Days;Gorillaz;38081
+24 May 2025, 17:59;DARE;Demon Days;Gorillaz;38080
+24 May 2025, 17:57;White Light;Demon Days;Gorillaz;38079
+24 May 2025, 17:53;All Alone;Demon Days;Gorillaz;38078
+24 May 2025, 17:50;November Has Come;Demon Days;Gorillaz;38077
+24 May 2025, 17:45;Every Planet We Reach Is Dead;Demon Days;Gorillaz;38076
+24 May 2025, 17:40;El Mañana;Demon Days;Gorillaz;38075
+24 May 2025, 17:36;Feel Good Inc.;Demon Days;Gorillaz;38074
+24 May 2025, 17:32;Dirty Harry;Demon Days;Gorillaz;38073
+24 May 2025, 17:27;O Green World;Demon Days;Gorillaz;38072
+24 May 2025, 17:23;Kids with Guns;Demon Days;Gorillaz;38071
+24 May 2025, 17:20;Last Living Souls;Demon Days;Gorillaz;38070
+24 May 2025, 17:19;Intro;Demon Days;Gorillaz;38069
+24 May 2025, 12:12;I'm In The World;The Boss;Diana Ross;38068
+24 May 2025, 12:02;Sparkle;The Boss;Diana Ross;38067
+24 May 2025, 11:58;It's My House;The Boss;Diana Ross;38066
+24 May 2025, 11:52;Once In The Morning;The Boss;Diana Ross;38065
+24 May 2025, 11:44;The Boss;The Boss;Diana Ross;38064
+24 May 2025, 11:36;All For One;The Boss;Diana Ross;38063
+24 May 2025, 11:31;I Ain't Been Licked;The Boss;Diana Ross;38062
+24 May 2025, 11:26;No One Gets The Prize;The Boss;Diana Ross;38061
+24 May 2025, 00:39;On the Run;Discovery;Electric Light Orchestra;38060
+24 May 2025, 00:29;Starlight;Out of the Blue;Electric Light Orchestra;38059
+24 May 2025, 00:12;Kuiama;ELO 2;Electric Light Orchestra;38058
+24 May 2025, 00:05;In the Hall of the Mountain King;On the Third Day;Electric Light Orchestra;38057
+24 May 2025, 00:00;Dreaming of 4000;On the Third Day;Electric Light Orchestra;38056
+23 May 2025, 23:56;Ma-Ma-Ma Belle;On the Third Day;Electric Light Orchestra;38055
+23 May 2025, 23:45;Daybreaker;On the Third Day;Electric Light Orchestra;38054
+23 May 2025, 23:41;Showdown;On the Third Day;Electric Light Orchestra;38053
+23 May 2025, 23:37;New World Rising / Ocean Breakup Reprise;On the Third Day;Electric Light Orchestra;38052
+23 May 2025, 23:34;Oh No Not Susan;On the Third Day;Electric Light Orchestra;38051
+23 May 2025, 23:25;Bluebird Is Dead;On the Third Day;Electric Light Orchestra;38050
+23 May 2025, 23:21;Ocean Breakup / King of the Universe;On the Third Day;Electric Light Orchestra;38049
+21 May 2025, 17:52;Kitchenware & Candybars;Purple;Stone Temple Pilots;38048
+21 May 2025, 17:48;Army Ants;Purple;Stone Temple Pilots;38047
+21 May 2025, 17:46;Ungived;Purple;Stone Temple Pilots;38046
+21 May 2025, 17:41;Big Empty;Purple;Stone Temple Pilots;38045
+21 May 2025, 17:35;Silvergun Superman;Purple;Stone Temple Pilots;38044
+21 May 2025, 17:30;Pretty Penny;Purple;Stone Temple Pilots;38043
+21 May 2025, 17:26;Still Remains;Purple;Stone Temple Pilots;38042
+21 May 2025, 17:23;Interstate Love Song;Purple;Stone Temple Pilots;38041
+21 May 2025, 17:18;Lounge Fly;Purple;Stone Temple Pilots;38040
+21 May 2025, 17:15;Vasoline;Purple;Stone Temple Pilots;38039
+21 May 2025, 17:11;Meat Plow;Purple;Stone Temple Pilots;38038
+21 May 2025, 10:22;Evil Hearted You;Complete 'B' Sides;Pixies;38037
+21 May 2025, 10:20;Build High;Complete 'B' Sides;Pixies;38036
+21 May 2025, 10:18;Theme From Narc;Complete 'B' Sides;Pixies;38035
+21 May 2025, 10:16;Santo;Complete 'B' Sides;Pixies;38034
+21 May 2025, 10:12;Winterlong;Complete 'B' Sides;Pixies;38033
+21 May 2025, 10:09;Velvety Instrumental Version;Complete 'B' Sides;Pixies;38032
+21 May 2025, 10:05;The Thing;Complete 'B' Sides;Pixies;38031
+21 May 2025, 10:02;I've Been Waiting for You;Complete 'B' Sides;Pixies;38030
+21 May 2025, 09:59;Make Believe;Complete 'B' Sides;Pixies;38029
+21 May 2025, 09:57;Bailey's Walk;Complete 'B' Sides;Pixies;38028
+21 May 2025, 09:49;Into the White;Complete 'B' Sides;Pixies;38027
+21 May 2025, 09:45;Wave of Mutilation (UK Surf);Complete 'B' Sides;Pixies;38026
+21 May 2025, 09:43;Dancing the Manta Ray;Complete 'B' Sides;Pixies;38025
+21 May 2025, 09:40;Weird at My School;Complete 'B' Sides;Pixies;38024
+21 May 2025, 09:37;Manta Ray;Complete 'B' Sides;Pixies;38023
+21 May 2025, 09:16;Vamos (live);Complete 'B' Sides;Pixies;38022
+21 May 2025, 09:13;River Euphrates;Complete 'B' Sides;Pixies;38021
+20 May 2025, 23:53;Skin;Kaleidoscope;Siouxsie and the Banshees;38020
+20 May 2025, 23:48;Paradise Place;Kaleidoscope;Siouxsie and the Banshees;38019
+20 May 2025, 23:45;Red Light;Kaleidoscope;Siouxsie and the Banshees;38018
+20 May 2025, 23:41;Desert Kisses;Kaleidoscope;Siouxsie and the Banshees;38017
+20 May 2025, 23:38;Christine;Kaleidoscope;Siouxsie and the Banshees;38016
+20 May 2025, 23:34;Lunar Camel;Kaleidoscope;Siouxsie and the Banshees;38015
+20 May 2025, 23:32;Clockface;Kaleidoscope;Siouxsie and the Banshees;38014
+20 May 2025, 23:27;Hybrid;Kaleidoscope;Siouxsie and the Banshees;38013
+20 May 2025, 23:23;Trophy;Kaleidoscope;Siouxsie and the Banshees;38012
+20 May 2025, 23:19;Tenant;Kaleidoscope;Siouxsie and the Banshees;38011
+20 May 2025, 23:14;Happy House;Kaleidoscope;Siouxsie and the Banshees;38010
+20 May 2025, 22:54;Sackville;Life;Inspiral Carpets;38009
+20 May 2025, 22:51;Move;Life;Inspiral Carpets;38008
+20 May 2025, 22:49;Inside My Head;Life;Inspiral Carpets;38007
+20 May 2025, 22:44;Sun Don't Shine;Life;Inspiral Carpets;38006
+20 May 2025, 22:42;Monkey On My Back;Life;Inspiral Carpets;38005
+20 May 2025, 22:37;She Comes in the Fall;Life;Inspiral Carpets;38004
+20 May 2025, 22:35;Memories of You;Life;Inspiral Carpets;38003
+20 May 2025, 22:31;Many Happy Returns;Life;Inspiral Carpets;38002
+20 May 2025, 22:29;Besides Me;Life;Inspiral Carpets;38001
+20 May 2025, 22:24;Directing Traffik;Life;Inspiral Carpets;38000
+20 May 2025, 22:20;This Is How It Feels;Life;Inspiral Carpets;37999
+20 May 2025, 22:17;Song for a Family;Life;Inspiral Carpets;37998
+20 May 2025, 22:11;Real Thing;Life;Inspiral Carpets;37997
+18 May 2025, 11:38;Chant of the Ever Circling Skeletal Family;Diamond Dogs;David Bowie;37996
+18 May 2025, 11:35;Big Brother;Diamond Dogs;David Bowie;37995
+18 May 2025, 11:30;1984;Diamond Dogs;David Bowie;37994
+18 May 2025, 11:25;We Are the Dead;Diamond Dogs;David Bowie;37993
+18 May 2025, 11:21;Rock 'n' Roll With Me;Diamond Dogs;David Bowie;37992
+18 May 2025, 11:13;Rebel Rebel;Diamond Dogs;David Bowie;37991
+18 May 2025, 11:10;Sweet Thing (reprise);Diamond Dogs;David Bowie;37990
+18 May 2025, 11:07;Candidate;Diamond Dogs;David Bowie;37989
+18 May 2025, 10:56;Sweet Thing;Diamond Dogs;David Bowie;37988
+18 May 2025, 10:50;Diamond Dogs;Diamond Dogs;David Bowie;37987
+18 May 2025, 10:49;Future Legend;Diamond Dogs;David Bowie;37986
+17 May 2025, 18:03;Today;Nowhere;Ride;37985
+17 May 2025, 17:59;Beneath;Nowhere;Ride;37984
+17 May 2025, 17:55;Sennen;Nowhere;Ride;37983
+17 May 2025, 17:50;Unfamiliar;Nowhere;Ride;37982
+17 May 2025, 17:42;Nowhere;Nowhere;Ride;37981
+17 May 2025, 17:37;Here and Now;Nowhere;Ride;37980
+17 May 2025, 17:32;Taste;Nowhere;Ride;37979
+17 May 2025, 17:27;Vapour Trail;Nowhere;Ride;37978
+17 May 2025, 17:22;Paralysed;Nowhere;Ride;37977
+17 May 2025, 17:18;Decay;Nowhere;Ride;37976
+17 May 2025, 17:12;Dreams Burn Down;Nowhere;Ride;37975
+17 May 2025, 17:06;Polar Bear;Nowhere;Ride;37974
+17 May 2025, 17:01;In a Different Place;Nowhere;Ride;37973
+17 May 2025, 16:57;Kaleidoscope;Nowhere;Ride;37972
+17 May 2025, 16:51;Seagull;Nowhere;Ride;37971
+17 May 2025, 12:51;Darkness on the Edge of Town;Darkness on the Edge of Town;Bruce Springsteen;37970
+17 May 2025, 12:47;Prove It All Night;Darkness on the Edge of Town;Bruce Springsteen;37969
+17 May 2025, 12:42;Streets of Fire;Darkness on the Edge of Town;Bruce Springsteen;37968
+17 May 2025, 12:40;Factory;Darkness on the Edge of Town;Bruce Springsteen;37967
+17 May 2025, 12:34;The Promised Land;Darkness on the Edge of Town;Bruce Springsteen;37966
+17 May 2025, 12:27;Racing in the Street;Darkness on the Edge of Town;Bruce Springsteen;37965
+17 May 2025, 12:25;Candy's Room;Darkness on the Edge of Town;Bruce Springsteen;37964
+17 May 2025, 12:19;Something in the Night;Darkness on the Edge of Town;Bruce Springsteen;37963
+17 May 2025, 12:14;Adam Raised a Cain;Darkness on the Edge of Town;Bruce Springsteen;37962
+17 May 2025, 12:10;Badlands;Darkness on the Edge of Town;Bruce Springsteen;37961
+17 May 2025, 11:35;Moonlight Mile;Sticky Fingers;The Rolling Stones;37960
+17 May 2025, 11:22;Dead Flowers;Sticky Fingers;The Rolling Stones;37959
+17 May 2025, 11:16;Sister Morphine;Sticky Fingers;The Rolling Stones;37958
+17 May 2025, 11:12;I Got the Blues;Sticky Fingers;The Rolling Stones;37957
+17 May 2025, 11:08;Bitch;Sticky Fingers;The Rolling Stones;37956
+17 May 2025, 11:04;You Gotta Move;Sticky Fingers;The Rolling Stones;37955
+17 May 2025, 10:56;Can't You Hear Me Knocking;Sticky Fingers;The Rolling Stones;37954
+17 May 2025, 10:50;Wild Horses;Sticky Fingers;The Rolling Stones;37953
+17 May 2025, 10:46;Sway;Sticky Fingers;The Rolling Stones;37952
+17 May 2025, 10:39;Brown Sugar;Sticky Fingers;The Rolling Stones;37951
+17 May 2025, 00:36;The Private Psychedelic Reel;Dig Your Own Hole;The Chemical Brothers;37950
+17 May 2025, 00:29;Where Do I Begin;Dig Your Own Hole;The Chemical Brothers;37949
+17 May 2025, 00:25;Lost in the K-hole;Dig Your Own Hole;The Chemical Brothers;37948
+17 May 2025, 00:22;Get Up On It Like This;Dig Your Own Hole;The Chemical Brothers;37947
+17 May 2025, 00:17;Don't Stop the Rock;Dig Your Own Hole;The Chemical Brothers;37946
+17 May 2025, 00:11;It Doesn't Matter;Dig Your Own Hole;The Chemical Brothers;37945
+17 May 2025, 00:04;Setting Sun;Dig Your Own Hole;The Chemical Brothers;37944
+16 May 2025, 23:59;Piku;Dig Your Own Hole;The Chemical Brothers;37943
+16 May 2025, 23:51;Elektrobank;Dig Your Own Hole;The Chemical Brothers;37942
+16 May 2025, 23:45;Dig Your Own Hole;Dig Your Own Hole;The Chemical Brothers;37941
+16 May 2025, 23:39;Block Rockin' Beats;Dig Your Own Hole;The Chemical Brothers;37940
+16 May 2025, 20:06;Toxicosmos;Una semana en el motor de un autobús;Los Planetas;37939
+16 May 2025, 20:02;Laboratorio Mágico;Una semana en el motor de un autobús;Los Planetas;37938
+16 May 2025, 19:58;Montaсas De Basura;Una semana en el motor de un autobús;Los Planetas;37937
+16 May 2025, 19:55;Ciencia ficción;Una semana en el motor de un autobús;Los Planetas;37936
+16 May 2025, 19:51;Un Mundo De Gente Incompleta;Una semana en el motor de un autobús;Los Planetas;37935
+16 May 2025, 19:44;Parte De Lo Que Me Debes;Una semana en el motor de un autobús;Los Planetas;37934
+16 May 2025, 19:35;La Playa;Una semana en el motor de un autobús;Los Planetas;37933
+16 May 2025, 19:30;Desaparecer;Una semana en el motor de un autobús;Los Planetas;37932
+16 May 2025, 19:25;Segundo Premio;Una semana en el motor de un autobús;Los Planetas;37931
+16 May 2025, 19:08;Me in Honey;Out of Time;R.E.M.;37930
+16 May 2025, 19:03;Country Feedback;Out of Time;R.E.M.;37929
+16 May 2025, 19:00;Texarkana;Out of Time;R.E.M.;37928
+16 May 2025, 18:55;Half a World Away;Out of Time;R.E.M.;37927
+16 May 2025, 18:51;Belong;Out of Time;R.E.M.;37926
+16 May 2025, 18:46;Shiny Happy People;Out of Time;R.E.M.;37925
+16 May 2025, 18:42;Endgame;Out of Time;R.E.M.;37924
+16 May 2025, 18:38;Near Wild Heaven;Out of Time;R.E.M.;37923
+16 May 2025, 18:33;Low;Out of Time;R.E.M.;37922
+16 May 2025, 18:28;Losing My Religion;Out of Time;R.E.M.;37921
+16 May 2025, 18:24;Radio Song;Out of Time;R.E.M.;37920
 14 May 2025, 23:41;Velouria;Bossanova;Pixies;37919
 14 May 2025, 23:32;Someone's Missing;Congratulations;MGMT;37918
 14 May 2025, 23:11;Death Goes To The Disco;Separations;Pulp;37917
@@ -832,7 +1101,7 @@ Fecha;Canción;Disco;Artista
 10 Apr 2025, 18:40;Ondas Del Espacio Exterior;Pop;Los Planetas;37089
 10 Apr 2025, 18:36;Aeropuerto;Pop;Los Planetas;37088
 10 Apr 2025, 18:31;8;Pop;Los Planetas;37087
-10 Apr 2025, 18:26;David Y Claudia;Pop;Los Planetas;37086
+10 Apr 2025, 18:26;David y Claudia;Pop;Los Planetas;37086
 10 Apr 2025, 18:18;La máquina de escribir;Pop;Los Planetas;37085
 10 Apr 2025, 18:15;Ciudad Azul;Pop;Los Planetas;37084
 10 Apr 2025, 18:10;Himno Generacional #83;Pop;Los Planetas;37083
