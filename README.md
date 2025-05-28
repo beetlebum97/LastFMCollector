@@ -17,7 +17,7 @@ Guarda el script y ejecuta:
 
 ```python lastfm.py <usuario> ```
 
-![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/LastFMCollector/main/capturas/lastfm.png)
+![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/LastFMCollector/main/capturas/resumen.png)
 
 ## 2. LISTADOS
 
@@ -42,9 +42,9 @@ Artistas ordenados de mayor a menor nº de scrobbles (todas las veces que se ha 
 
 ```python lastfm_artistas.py <usuario> ```
 
-![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/last_fm/main/capturas/lastfm_artistas1.png)
+![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/last_fm/main/capturas/artistas1.png)
 
-![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/last_fm/main/capturas/lastfm_artistas2.png)
+![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/last_fm/main/capturas/artistas2.png)
 
 ### lastfm_discos.py
 
@@ -52,9 +52,9 @@ Discos ordenados de mayor a menor nº de scrobbles (todas las veces que se ha re
 
 ```python lastfm_discos.py <usuario> ```
 
-![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/last_fm/main/capturas/lastfm_discos1.png)
+![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/last_fm/main/capturas/discos1.png)
 
-![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/last_fm/main/capturas/lastfm_discos2.png)
+![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/last_fm/main/capturas/discos2.png)
 
 ### lastfm_canciones.py
 
@@ -62,9 +62,9 @@ Canciones ordenadas de mayor a menor nº de scrobbles (todas las veces que se ha
 
 ```python lastfm_canciones.py <usuario> ```
 
-![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/last_fm/main/capturas/lastfm_canciones1.png)
+![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/last_fm/main/capturas/canciones1.png)
 
-![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/last_fm/main/capturas/lastfm_canciones2.png)
+![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/last_fm/main/capturas/canciones2.png)
 
 ### lastfm_scrobbles.py
 
@@ -72,9 +72,9 @@ Todos los scrobbles (reproducciones) ordenados por fecha-hora (Descendente).
 
 ```python lastfm_canciones.py <usuario> ``` 
 
-![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/last_fm/main/capturas/lastfm_scrobbles1.png)
+![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/last_fm/main/capturas/scrobbles1.png)
 
-![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/last_fm/main/capturas/lastfm_scrobbles2.png)
+![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/last_fm/main/capturas/scrobbles2.png)
 
 ## 3. CONTROL DE ERRORES
 
