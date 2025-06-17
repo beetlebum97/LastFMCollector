@@ -1,29 +1,29 @@
 Puesto;Artista;Scrobbles
-1;Blur;2232
-2;Lou Reed;1183
+1;Blur;2242
+2;Lou Reed;1205
 3;David Bowie;1168
 4;The Beatles;1103
-5;The Doors;1018
+5;The Doors;1029
 6;Judas Priest;892
 7;The Kinks;835
-8;Pixies;758
+8;Pixies;771
 9;Diana Ross;615
 10;John Lennon;578
 11;Electric Light Orchestra;570
 12;Gorillaz;567
 13;Thin Lizzy;518
 14;Queen;492
-15;Pulp;472
+15;Pulp;473
 16;Oasis;466
 17;Pink Floyd;453
 18;Stevie Wonder;451
 19;Suede;429
-20;Radiohead;427
+20;Radiohead;428
 21;Led Zeppelin;394
 22;Creedence Clearwater Revival;371
 23;Frank Sinatra;368
 24;Graham Coxon;365
-25;Supertramp;349
+25;Supertramp;359
 26;The Rolling Stones;330
 27;XTC;321
 28;Talking Heads;307
@@ -34,14 +34,14 @@ Puesto;Artista;Scrobbles
 33;Ramones;255
 34;Elvis Presley;248
 35;Bee Gees;246
-36;Black Sabbath;226
+36;Black Sabbath;234
 37;Ilegales;225
-38;The Who;216
-39;The Smashing Pumpkins;215
+38;The Smashing Pumpkins;216
+39;The Who;216
 40;Supergrass;213
 41;Elton John;200
 42;Nirvana;193
-43;The Libertines;188
+43;The Libertines;189
 44;Rosendo;186
 45;Manic Street Preachers;175
 46;The Band;174
@@ -50,56 +50,56 @@ Puesto;Artista;Scrobbles
 49;AC/DC;170
 50;Héroes del Silencio;170
 51;Michael Jackson;169
-52;Bob Dylan;166
-53;George Harrison;165
-54;Sleeper;158
-55;Joaquín Sabina;157
+52;Joaquín Sabina;167
+53;Bob Dylan;166
+54;George Harrison;165
+55;Sleeper;158
 56;NOFX;156
-57;Aerosmith;149
-58;Gabinete Caligari;149
-59;Glenn Miller;149
-60;Bruce Springsteen;144
-61;Phoenix;144
-62;Coldplay;142
-63;Extremoduro;140
-64;MGMT;139
-65;The Cure;139
-66;Sidonie;137
-67;Platero y tú;136
-68;The Beach Boys;136
-69;The Prodigy;134
-70;Catatonia;133
-71;Iron Maiden;132
-72;Prince;131
-73;Los Planetas;130
-74;The Cardigans;129
-75;Bob Marley;127
-76;Red Hot Chili Peppers;127
-77;Gladys Knight & The Pips;126
-78;Weezer;126
-79;The Verve;124
-80;Vangelis;124
-81;The Smiths;122
-82;Kula Shaker;118
-83;Paul McCartney;117
-84;The Jam;113
-85;The Police;113
-86;The Good, the Bad & the Queen;107
-87;Radio Futura;106
-88;R.E.M.;105
-89;Buzzcocks;104
-90;Daft Punk;104
-91;Cream;103
-92;Pavement;103
-93;Andrés Calamaro;102
-94;Rammstein;102
-95;T. Rex;102
-96;Faith No More;101
-97;Muse;96
-98;Placebo;95
-99;Madness;93
-100;Moby;93
-101;Sex Pistols;93
+57;The Cure;154
+58;Aerosmith;149
+59;Gabinete Caligari;149
+60;Glenn Miller;149
+61;The Beach Boys;148
+62;Bruce Springsteen;144
+63;Phoenix;144
+64;Coldplay;142
+65;Extremoduro;140
+66;MGMT;139
+67;Bob Marley;137
+68;Sidonie;137
+69;Platero y tú;136
+70;The Prodigy;134
+71;Catatonia;133
+72;Iron Maiden;132
+73;Prince;131
+74;Los Planetas;130
+75;The Smiths;130
+76;The Cardigans;129
+77;Red Hot Chili Peppers;127
+78;Gladys Knight & The Pips;126
+79;Weezer;126
+80;The Jam;125
+81;The Verve;125
+82;Vangelis;124
+83;Kula Shaker;119
+84;Paul McCartney;117
+85;Faith No More;116
+86;The Police;113
+87;The Good, the Bad & the Queen;107
+88;Radio Futura;106
+89;R.E.M.;105
+90;Sex Pistols;105
+91;Buzzcocks;104
+92;Daft Punk;104
+93;Cream;103
+94;Pavement;103
+95;Andrés Calamaro;102
+96;Rammstein;102
+97;T. Rex;102
+98;Muse;97
+99;Placebo;95
+100;Moby;94
+101;Madness;93
 102;Smash Mouth;90
 103;Blondie;89
 104;Damon Albarn;89
@@ -114,8 +114,8 @@ Puesto;Artista;Scrobbles
 113;Kiss;82
 114;The WAEVE;80
 115;Jerry Lee Lewis;79
-116;Arcade Fire;78
-117;Teenage Fanclub;78
+116;Teenage Fanclub;79
+117;Arcade Fire;78
 118;The Strokes;77
 119;ZZ Top;77
 120;Soulwax;76
@@ -125,26 +125,26 @@ Puesto;Artista;Scrobbles
 124;Freddie Mercury;74
 125;Arctic Monkeys;72
 126;Deep Purple;72
-127;Jarvis Cocker;71
-128;Ocean Colour Scene;71
+127;Ocean Colour Scene;72
+128;Jarvis Cocker;71
 129;The Mamas & the Papas;70
 130;Los Suaves;69
 131;Megadeth;69
-132;Leño;68
-133;Massive Attack;68
-134;Pearl Jam;68
-135;Dinosaur Jr.;67
+132;Dinosaur Jr.;68
+133;Leño;68
+134;Massive Attack;68
+135;Pearl Jam;68
 136;Metallica;67
 137;The Divine Comedy;65
-138;Misfits;64
-139;Elvis Costello;63
-140;Iggy Pop;61
-141;Guns N' Roses;60
-142;Space;59
-143;Syd Barrett;59
-144;Lynyrd Skynyrd;58
-145;Def con Dos;57
-146;Luis Eduardo Aute;57
+138;Luis Eduardo Aute;64
+139;Misfits;64
+140;Elvis Costello;63
+141;Iggy Pop;61
+142;Guns N' Roses;60
+143;Space;59
+144;Syd Barrett;59
+145;Lynyrd Skynyrd;58
+146;Def con Dos;57
 147;The White Stripes;57
 148;Joy Division;56
 149;The Velvet Underground;56
@@ -164,134 +164,134 @@ Puesto;Artista;Scrobbles
 163;Eskorbuto;47
 164;Garbage;47
 165;Kraftwerk;47
-166;Mike Oldfield;46
-167;Enrique Bunbury;45
-168;Rage Against the Machine;45
-169;Van Halen;45
-170;Janis Joplin;44
-171;Otis Redding;44
-172;Stereolab;44
-173;Beck;43
-174;Primal Scream;43
-175;The Horrors;43
-176;Dire Straits;42
-177;No Doubt;42
-178;The Charlatans;42
-179;Barón Rojo;41
-180;Depeche Mode;41
-181;Mansun;41
-182;Player;41
-183;Superstate;41
-184;Jimi Hendrix;40
-185;Miles Davis;40
-186;Scorpions;40
-187;The Cramps;40
-188;The Specials;40
-189;Barricada;39
-190;dEUS;39
-191;George Michael;39
-192;Little Richard;39
-193;Tahiti 80;39
-194;Camilo Sesto;38
-195;Manu Chao;38
-196;Miles Kane;38
-197;Mötley Crüe;38
-198;The La's;38
-199;Burning;37
-200;Estopa;37
-201;Jaime Urrutia;37
-202;Richard Ashcroft;37
-203;Alice in Chains;36
-204;Édith Piaf;36
-205;Giorgio Moroder;36
-206;Kaiser Chiefs;36
-207;La Polla Records;36
-208;Marvin Gaye;36
-209;The Pretenders;36
-210;The Vines;36
-211;Gilbert O'Sullivan;35
-212;Joe Satriani;35
-213;Klaxons;35
-214;Van Morrison;35
-215;Hamlet;34
-216;Inspiral Carpets;34
-217;Los Piratas;34
-218;New York Dolls;34
-219;The Killers;34
-220;El Último de la Fila;33
-221;Foo Fighters;33
-222;Joe Cocker;33
-223;Portishead;33
-224;Robbie Williams;33
-225;Tool;33
-226;Foals;32
-227;Loquillo y Trogloditas;32
-228;Pantera;32
-229;Billy Idol;31
-230;Jeff Buckley;31
-231;Dave Rowntree;30
-232;Los Toreros Muertos;30
-233;Molotov;30
-234;Roxy Music;30
-235;Clawfinger;29
-236;Fleetwood Mac;29
-237;Hard-Fi;29
-238;Jethro Tull;29
-239;Decibelios;28
-240;Echo & the Bunnymen;28
-241;The Coral;28
-242;The Cranberries;28
-243;Dirty Pretty Things;27
-244;Interpol;27
-245;Patti Smith;27
-246;Björk;26
-247;Kings of Leon;26
-248;Righeira;26
-249;Rocket Juice & The Moon;26
-250;Small Faces;26
-251;Wu-Tang Clan;26
-252;Yes;26
-253;Australian Blonde;25
-254;De La Soul;25
-255;Dream Theater;25
-256;Incubus;25
-257;Nine Inch Nails;25
-258;Nino Bravo;25
-259;Television;25
-260;Temples;25
-261;The Flaming Lips;25
-262;Anthrax;24
-263;Cicatriz;24
-264;Elbow;24
-265;Kasabian;24
-266;PJ Harvey;24
-267;Saint Etienne;24
-268;Tricky;24
-269;Wings;24
-270;Yeah Yeah Yeahs;24
-271;Crowded House;23
-272;Frank Zappa;23
-273;Travis;23
-274;Bad Religion;22
-275;Café Quijano;22
-276;Genesis;22
-277;Korn;22
-278;Neil Young;22
-279;Ride;22
-280;Siouxsie and the Banshees;22
-281;Parálisis Permanente;21
-282;Rory Gallagher;21
-283;Slayer;21
-284;Grateful Dead;20
-285;Jane's Addiction;20
-286;Spandau Ballet;20
-287;Alice Cooper;19
-288;Leonard Cohen;19
-289;Chet Baker;18
-290;Eric Clapton;18
-291;King Crimson;18
-292;Robbie Dupree;18
-293;The Boo Radleys;18
+166;Klaxons;46
+167;Mike Oldfield;46
+168;Enrique Bunbury;45
+169;Rage Against the Machine;45
+170;Van Halen;45
+171;Janis Joplin;44
+172;Otis Redding;44
+173;Stereolab;44
+174;Beck;43
+175;Camilo Sesto;43
+176;Primal Scream;43
+177;The Horrors;43
+178;Dire Straits;42
+179;No Doubt;42
+180;The Charlatans;42
+181;Barón Rojo;41
+182;Depeche Mode;41
+183;Mansun;41
+184;Player;41
+185;Superstate;41
+186;Jimi Hendrix;40
+187;Miles Davis;40
+188;Scorpions;40
+189;The Cramps;40
+190;The Specials;40
+191;Barricada;39
+192;dEUS;39
+193;George Michael;39
+194;Little Richard;39
+195;Tahiti 80;39
+196;Manu Chao;38
+197;Miles Kane;38
+198;Mötley Crüe;38
+199;The La's;38
+200;Burning;37
+201;Estopa;37
+202;Jaime Urrutia;37
+203;Richard Ashcroft;37
+204;Alice in Chains;36
+205;Édith Piaf;36
+206;Giorgio Moroder;36
+207;Kaiser Chiefs;36
+208;La Polla Records;36
+209;Marvin Gaye;36
+210;The Pretenders;36
+211;The Vines;36
+212;Gilbert O'Sullivan;35
+213;Joe Satriani;35
+214;The Boo Radleys;35
+215;Van Morrison;35
+216;Hamlet;34
+217;Inspiral Carpets;34
+218;Los Piratas;34
+219;New York Dolls;34
+220;The Killers;34
+221;El Último de la Fila;33
+222;Foo Fighters;33
+223;Joe Cocker;33
+224;Portishead;33
+225;Robbie Williams;33
+226;Tool;33
+227;Foals;32
+228;Loquillo y Trogloditas;32
+229;Pantera;32
+230;Billy Idol;31
+231;Jeff Buckley;31
+232;Dave Rowntree;30
+233;Los Toreros Muertos;30
+234;Molotov;30
+235;Roxy Music;30
+236;Clawfinger;29
+237;Fleetwood Mac;29
+238;Hard-Fi;29
+239;Jethro Tull;29
+240;Nino Bravo;29
+241;Decibelios;28
+242;Echo & the Bunnymen;28
+243;Interpol;28
+244;The Coral;28
+245;The Cranberries;28
+246;Dirty Pretty Things;27
+247;Patti Smith;27
+248;Björk;26
+249;Kings of Leon;26
+250;Righeira;26
+251;Rocket Juice & The Moon;26
+252;Small Faces;26
+253;Wu-Tang Clan;26
+254;Yes;26
+255;Australian Blonde;25
+256;De La Soul;25
+257;Dream Theater;25
+258;Incubus;25
+259;Nine Inch Nails;25
+260;Television;25
+261;Temples;25
+262;The Flaming Lips;25
+263;Anthrax;24
+264;Cicatriz;24
+265;Elbow;24
+266;Kasabian;24
+267;PJ Harvey;24
+268;Saint Etienne;24
+269;Tricky;24
+270;Wings;24
+271;Yeah Yeah Yeahs;24
+272;Crowded House;23
+273;Frank Zappa;23
+274;Travis;23
+275;Bad Religion;22
+276;Café Quijano;22
+277;Genesis;22
+278;Korn;22
+279;Neil Young;22
+280;Ride;22
+281;Siouxsie and the Banshees;22
+282;Parálisis Permanente;21
+283;Rory Gallagher;21
+284;Slayer;21
+285;Grateful Dead;20
+286;Jane's Addiction;20
+287;Spandau Ballet;20
+288;Alice Cooper;19
+289;Leonard Cohen;19
+290;Chet Baker;18
+291;Eric Clapton;18
+292;King Crimson;18
+293;Robbie Dupree;18
 294;Wilco;18
 295;Adriano Celentano;17
 296;El Club de los Poetas Violentos;17

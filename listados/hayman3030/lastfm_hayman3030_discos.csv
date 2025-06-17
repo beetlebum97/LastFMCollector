@@ -3,11 +3,11 @@ Puesto;Disco;Artista;Scrobbles
 2;My Way the Best of Frank Sinatra;Frank Sinatra;353
 3;The Doors;The Doors;341
 4;The Boss;Diana Ross;319
-5;Breakfast in America;Supertramp;293
+5;Breakfast in America;Supertramp;303
 6;Modern Life Is Rubbish;Blur;269
-7;Blur;Blur;257
-8;Out of the Blue;Electric Light Orchestra;254
-9;Morrison Hotel;The Doors;252
+7;Morrison Hotel;The Doors;263
+8;Blur;Blur;257
+9;Out of the Blue;Electric Light Orchestra;254
 10;British Steel;Judas Priest;250
 11;The Magic Whip;Blur;248
 12;Bossanova;Pixies;237
@@ -15,11 +15,11 @@ Puesto;Disco;Artista;Scrobbles
 14;Arthur (Or the Decline and Fall of the British Empire);The Kinks;209
 15;Coney Island Baby;Lou Reed;203
 16;Berlin;Lou Reed;194
-17;Bad Reputation;Thin Lizzy;184
-18;The Blue Mask;Lou Reed;180
+17;The Blue Mask;Lou Reed;190
+18;Bad Reputation;Thin Lizzy;184
 19;Rubber Soul;The Beatles;174
-20;(What's the Story) Morning Glory?;Oasis;171
-21;Surfer Rosa;Pixies;171
+20;Surfer Rosa;Pixies;172
+21;(What's the Story) Morning Glory?;Oasis;171
 22;The Beatles [White Album] Disc 1;The Beatles;169
 23;OK Computer;Radiohead;167
 24;Elvis: 30 #1 Hits;Elvis Presley;166
@@ -35,19 +35,19 @@ Puesto;Disco;Artista;Scrobbles
 34;The Great Escape;Blur;140
 35;Smart;Sleeper;140
 36;Songs in the Key of Life (disc 1);Stevie Wonder;140
-37;A Night at the Opera;Queen;137
-38;Abbey Road;The Beatles;137
-39;Children of the World;Bee Gees;136
-40;Think Tank;Blur;136
-41;John Lennon/Plastic Ono Band;John Lennon;136
-42;Different Class;Pulp;135
-43;Waiting for the Sun;The Doors;135
-44;13;Blur;134
-45;The Wall;Pink Floyd;133
-46;International Velvet;Catatonia;132
-47;Lodger;David Bowie;131
-48;Imagine;John Lennon;131
-49;The Ballad of Darren;Blur;129
+37;The Ballad of Darren;Blur;139
+38;A Night at the Opera;Queen;137
+39;Abbey Road;The Beatles;137
+40;Children of the World;Bee Gees;136
+41;Think Tank;Blur;136
+42;John Lennon/Plastic Ono Band;John Lennon;136
+43;Different Class;Pulp;135
+44;Waiting for the Sun;The Doors;135
+45;13;Blur;134
+46;The Wall;Pink Floyd;133
+47;International Velvet;Catatonia;132
+48;Lodger;David Bowie;131
+49;Imagine;John Lennon;131
 50;Imagination;Gladys Knight & The Pips;126
 51;Music From Big Pink;The Band;125
 52;Goodbye Yellow Brick Road;Elton John;124
@@ -62,12 +62,12 @@ Puesto;Disco;Artista;Scrobbles
 61;Ace of Spades;Motörhead;120
 62;White Trash, Two Heebs and a Bean;NOFX;115
 63;Kinks;The Kinks;115
-64;Up the Bracket;The Libertines;113
+64;Up the Bracket;The Libertines;114
 65;Sticky Fingers;The Rolling Stones;113
 66;Leisure;Blur;111
 67;Low;David Bowie;110
-68;Lou Reed;Lou Reed;109
-69;This Is Hardcore;Pulp;109
+68;This Is Hardcore;Pulp;110
+69;Lou Reed;Lou Reed;109
 70;Stained Class;Judas Priest;107
 71;Definitely Maybe;Oasis;107
 72;Nevermind;Nirvana;106
@@ -75,9 +75,9 @@ Puesto;Disco;Artista;Scrobbles
 74;Transformer;Lou Reed;104
 75;The Beatles [White Album] Disc 2;The Beatles;104
 76;Green River;Creedence Clearwater Revival;101
-77;K;Kula Shaker;100
-78;Currents;Tame Impala;100
-79;Urban Hymns;The Verve;100
+77;K;Kula Shaker;101
+78;Urban Hymns;The Verve;101
+79;Currents;Tame Impala;100
 80;The Rise and Fall of Ziggy Stardust and the Spiders From Mars;David Bowie;98
 81;The Secret Migration;Mercury Rev;98
 82;London Calling;The Clash;98
@@ -99,74 +99,74 @@ Puesto;Disco;Artista;Scrobbles
 98;Fush Yu Mang;Smash Mouth;90
 99;Coming Up;Suede;90
 100;Everything Must Go;Manic Street Preachers;89
-101;X&Y;Coldplay;88
-102;Killers;Iron Maiden;88
-103;More Songs About Buildings and Food;Talking Heads;87
-104;Heroes;David Bowie;86
-105;Blonde on Blonde;Bob Dylan;84
-106;Scary Monsters (and Super Creeps);David Bowie;84
-107;Led Zeppelin IV;Led Zeppelin;84
-108;Travelling Without Moving;Jamiroquai;83
-109;Suede;Suede;83
-110;The Spinning Top;Graham Coxon;82
-111;Steppenwolf;Steppenwolf;82
-112;The Who Sell Out;The Who;82
-113;Nightlife;Thin Lizzy;82
-114;Grandes Éxitos Pequeños Regalos;Celtas Cortos;81
-115;Electric Warrior;T. Rex;80
-116;Innerspeaker;Tame Impala;80
-117;Lonerism;Tame Impala;80
-118;The Essential Tracks;Jerry Lee Lewis;79
-119;Congratulations;MGMT;79
-120;Happiness In Magazines;Graham Coxon;78
-121;Deserter's Songs;Mercury Rev;78
-122;Go 2;XTC;78
-123;Highway to Hell;AC/DC;77
-124;Never Mind The Bollocks, Here's The Sex Pistols;Sex Pistols;77
+101;Never Mind The Bollocks, Here's The Sex Pistols;Sex Pistols;89
+102;X&Y;Coldplay;88
+103;Killers;Iron Maiden;88
+104;More Songs About Buildings and Food;Talking Heads;87
+105;Heroes;David Bowie;86
+106;Blonde on Blonde;Bob Dylan;84
+107;Scary Monsters (and Super Creeps);David Bowie;84
+108;Led Zeppelin IV;Led Zeppelin;84
+109;Travelling Without Moving;Jamiroquai;83
+110;Suede;Suede;83
+111;The Spinning Top;Graham Coxon;82
+112;Steppenwolf;Steppenwolf;82
+113;The Who Sell Out;The Who;82
+114;Nightlife;Thin Lizzy;82
+115;Grandes Éxitos Pequeños Regalos;Celtas Cortos;81
+116;Electric Warrior;T. Rex;80
+117;Innerspeaker;Tame Impala;80
+118;Lonerism;Tame Impala;80
+119;The Essential Tracks;Jerry Lee Lewis;79
+120;Congratulations;MGMT;79
+121;Happiness In Magazines;Graham Coxon;78
+122;Deserter's Songs;Mercury Rev;78
+123;Go 2;XTC;78
+124;Highway to Hell;AC/DC;77
 125;Fear of Music;Talking Heads;77
 126;Fresh Cream;Cream;76
 127;Agotados de esperar el fin;Ilegales;76
-128;Any Minute Now;Soulwax;76
-129;Strange Days;The Doors;76
-130;Black Sea;XTC;76
-131;Sabbath Bloody Sabbath;Black Sabbath;75
-132;Sgt. Pepper's Lonely Hearts Club Band;The Beatles;75
-133;The Libertines;The Libertines;75
-134;Love Bites;Buzzcocks;74
-135;Discovery;Daft Punk;74
-136;The Freddie Mercury Album;Freddie Mercury;74
-137;Hot Space;Queen;74
-138;Fulfillingness First Finale;Stevie Wonder;74
-139;1;The Beatles;74
-140;Ross;Diana Ross;73
-141;Diamond Dogs;David Bowie;72
-142;La Culpa Fue De Gabinete;Gabinete Caligari;72
-143;United;Phoenix;72
-144;The Bends;Radiohead;72
-145;Revolver;The Beatles;72
-146;Purple Rain;Prince;71
-147;Give 'Em Enough Rope;The Clash;71
-148;Californication;Red Hot Chili Peppers;70
-149;The Soft Parade;The Doors;70
-150;If You Can Believe Your Eyes and Ears;The Mamas & the Papas;70
-151;Road to Ruin;Ramones;69
-152;Fascinado;Sidonie;69
-153;Maneras de vivir (Todos los grandes éxitos);Leno;68
-154;Veneno En La Piel;Radio Futura;68
-155;Innervisions;Stevie Wonder;68
-156;El Espíritu Del Vino;Héroes del Silencio;67
-157;Mind Games;John Lennon;67
-158;Physical Graffiti;Led Zeppelin;67
-159;Merrie Land;The Good, the Bad & the Queen;67
-160;McCartney II;Paul McCartney;66
-161;Face to Face;The Kinks;66
-162;The Now Now;Gorillaz;65
-163;Love Travels At Illegal Speeds;Graham Coxon;65
-164;See You On the Other Side;Mercury Rev;65
-165;Wowee Zowee;Pavement;65
-166;Without You I'm Nothing;Placebo;65
-167;Walls and Bridges;John Lennon;64
-168;Rock And Roll Heart;Lou Reed;64
+128;Rock And Roll Heart;Lou Reed;76
+129;Any Minute Now;Soulwax;76
+130;Strange Days;The Doors;76
+131;Black Sea;XTC;76
+132;Sabbath Bloody Sabbath;Black Sabbath;75
+133;Sgt. Pepper's Lonely Hearts Club Band;The Beatles;75
+134;The Libertines;The Libertines;75
+135;Love Bites;Buzzcocks;74
+136;Discovery;Daft Punk;74
+137;The Freddie Mercury Album;Freddie Mercury;74
+138;Hot Space;Queen;74
+139;Fulfillingness First Finale;Stevie Wonder;74
+140;1;The Beatles;74
+141;Ross;Diana Ross;73
+142;Diamond Dogs;David Bowie;72
+143;La Culpa Fue De Gabinete;Gabinete Caligari;72
+144;United;Phoenix;72
+145;The Bends;Radiohead;72
+146;Revolver;The Beatles;72
+147;Purple Rain;Prince;71
+148;Give 'Em Enough Rope;The Clash;71
+149;Californication;Red Hot Chili Peppers;70
+150;The Soft Parade;The Doors;70
+151;If You Can Believe Your Eyes and Ears;The Mamas & the Papas;70
+152;Road to Ruin;Ramones;69
+153;Fascinado;Sidonie;69
+154;Maneras de vivir (Todos los grandes éxitos);Leno;68
+155;Veneno En La Piel;Radio Futura;68
+156;Innervisions;Stevie Wonder;68
+157;El Espíritu Del Vino;Héroes del Silencio;67
+158;Mind Games;John Lennon;67
+159;Physical Graffiti;Led Zeppelin;67
+160;Merrie Land;The Good, the Bad & the Queen;67
+161;McCartney II;Paul McCartney;66
+162;Face to Face;The Kinks;66
+163;The Now Now;Gorillaz;65
+164;Love Travels At Illegal Speeds;Graham Coxon;65
+165;See You On the Other Side;Mercury Rev;65
+166;Wowee Zowee;Pavement;65
+167;Without You I'm Nothing;Placebo;65
+168;Walls and Bridges;John Lennon;64
 169;Hail to the Thief;Radiohead;64
 170;Born to Run;Bruce Springsteen;63
 171;Glenn Miller Plays Selections From The Glenn Miller Story And Other Hits;Glenn Miller;63
@@ -185,964 +185,966 @@ Puesto;Disco;Artista;Scrobbles
 184;Let It Be;The Beatles;59
 185;Houses of the Holy;Led Zeppelin;58
 186;A Saucerful of Secrets;Pink Floyd;58
-187;Pablo Honey;Radiohead;57
+187;Pablo Honey;Radiohead;58
 188;Dog Man Star;Suede;57
-189;Plastic Beach;Gorillaz;56
-190;Turbo;Judas Priest;55
-191;Unidad De Desplazamiento;Los Planetas;55
-192;End of the Century;Ramones;55
-193;Please Please Me;The Beatles;55
-194;Combat Rock;The Clash;55
-195;Adore;The Smashing Pumpkins;55
-196;Mellon Collie and the Infinite Sadness (Dawn to Dusk);The Smashing Pumpkins;55
-197;Fighting;Thin Lizzy;55
-198;1977;Ash;54
-199;Modern Life Is Rubbish (Special Edition);Blur;54
-200;Young Americans;David Bowie;54
-201;Sally Can't Dance;Lou Reed;54
-202;Weezer (The Blue Album);Weezer;54
-203;Highway 61 Revisited;Bob Dylan;53
-204;Cosmo's Factory;Creedence Clearwater Revival;53
-205;Elastica;Elastica;53
-206;One Step Beyond;Madness;53
-207;This Is My Truth Tell Me Yours;Manic Street Preachers;53
-208;The Fat Of The Land;Prodigy;53
-209;Space Oddity;David Bowie;52
-210;1999;Prince;52
-211;Costa Azul;Sidonie;52
-212;Aladdin Sane;David Bowie;51
-213;Black Tie White Noise;David Bowie;50
-214;You're Living All Over Me;Dinosaur Jr.;50
-215;Led Zeppelin II;Led Zeppelin;50
-216;Supergrass;Supergrass;50
-217;The Velvet Underground & Nico;The Velvet Underground;50
-218;Alta Suciedad;Andrés Calamaro;49
-219;The Man Who Sold the World;David Bowie;49
-220;Duran Duran;Duran Duran;49
-221;Gorillaz;Gorillaz;49
-222;Lust for Life;Iggy Pop;49
-223;In Utero;Nirvana;49
-224;Loco Por Incordiar;Rosendo;49
-225;The Madcap Laughs;Syd Barrett;49
-226;Parallel Lines;Blondie;48
-227;Spiders;Space;48
-228;Everyone's Got One;Echobelly;47
-229;Sad Wings of Destiny;Judas Priest;47
-230;We Love Life;Pulp;47
-231;Ramones;Ramones;47
-232;The Stone Roses;The Stone Roses;47
-233;Eliminator;ZZ Top;47
-234;Toys in the Attic;Aerosmith;46
-235;Aloha From Hawaii Via Satellite;Elvis Presley;46
-236;Song Machine, Season One: Strange Timez;Gorillaz;46
-237;Ilegales;Ilegales;46
-238;Led Zeppelin III;Led Zeppelin;46
-239;Frankenstein;Los Suaves;46
-240;Be Here Now;Oasis;46
-241;Herzeleid;Rammstein;46
-242;Outlandos D'Amour;The Police;46
-243;Let It Bleed;The Rolling Stones;46
-244;Willy and the Poor Boys;Creedence Clearwater Revival;45
-245;The Fall;Gorillaz;45
-246;Defenders of the Faith;Judas Priest;45
-247;Tragic Kingdom;No Doubt;45
-248;All Summer Long;The Beach Boys;45
-249;Senderos De Traición;Héroes del Silencio;44
-250;Surrealistic Pillow;Jefferson Airplane;44
-251;Juez y Parte;Joaquín Sabina;44
-252;Otis Blue;Otis Redding;44
-253;Kid A;Radiohead;44
-254;Anthology Disc 1;Ramones;43
-255;In It for the Money;Supergrass;43
-256;Gran Turismo;The Cardigans;43
-257;The Gift;The Jam;43
-258;Is This It;The Strokes;43
-259;Honestidad Brutal CD1;Andrés Calamaro;42
-260;Parachutes;Coldplay;42
-261;Everyday Robots;Damon Albarn;42
-262;Dookie;Green Day;42
-263;Buena Suerte;Los Rodríguez;42
-264;Come On Pilgrim;Pixies;42
-265;The Good, the Bad & the Queen;The Good, the Bad & the Queen;42
-266;Achtung Baby;U2;42
-267;Pinkerton;Weezer;42
-268;Powerage;AC/DC;41
-269;Master of Reality;Black Sabbath;41
-270;The Sky Is Too High;Graham Coxon;41
-271;Oracular Spectacular;MGMT;41
-272;Walk Among Us;Misfits;41
-273;Black Holes and Revelations;Muse;41
-274;Isn't Anything;my bloody valentine;41
-275;Punk in Drublic;NOFX;41
-276;Dig Out Your Soul;Oasis;41
-277;Superstate (feat. Graham Coxon);Superstate;41
-278;Beggars Banquet;The Rolling Stones;41
-279;Best of Specials;The Specials;41
-280;Who's Next;The Who;41
-281;The Great Escape (Special Edition);Blur;40
-282;Rocka Rolla;Judas Priest;40
-283;Alevosía;Luis Eduardo Aute;40
-284;Attack Of The Grey Lantern;Mansun;40
-285;The Masterplan;Oasis;40
-286;Ram;Paul McCartney;40
-287;Meddle;Pink Floyd;40
-288;Are You Experienced?;The Jimi Hendrix Experience;40
-289;City Lights;The WAEVE;40
-290;The WAEVE;The WAEVE;40
-291;The Ideal Crash;dEUS;39
-292;Malas Compañías;Joaquín Sabina;39
-293;Double Fantasy;John Lennon;39
-294;Here's Little Richard;Little Richard;39
-295;Rock 'n' Roll Animal;Lou Reed;39
-296;Wallpaper For The Soul;Tahiti 80;39
-297;The Band;The Band;39
-298;Tyrannosaurus Hives;The Hives;39
-299;1984;Van Halen;39
-300;Back in Black;AC/DC;38
-301;Too Low For Zero;Elton John;38
-302;The Rise & Fall;Madness;38
-303;18;Moby;38
-304;Don't Believe the Truth;Oasis;38
-305;Mellon Collie And The Infinite Sadness (Twilight To Starlight);The Smashing Pumpkins;38
-306;Hatful of Hollow;The Smiths;38
-307;Todos Están Muertos;Ilegales;37
-308;Street Hassle;Lou Reed;37
-309;It's Never Been Like That;Phoenix;37
-310;Jazz;Queen;37
-311;These People;Richard Ashcroft;37
-312;A Hard Day's Night;The Beatles;37
-313;The La's;The La's;37
-314;The Smiths;The Smiths;37
-315;Facelift;Alice in Chains;36
-316;The Nearer the Fountain, More Pure the Stream Flows;Damon Albarn;36
-317;Machine Head;Deep Purple;36
-318;2nd to None;Elvis Presley;36
-319;Impuesto Revolucionario;Eskorbuto;36
-320;What's Going On;Marvin Gaye;36
-321;Thriller;Michael Jackson;36
-322;The Clash (U.K.);The Clash;36
-323;The Very Best Of Edith Piaf;Édith Piaf;35
-324;Version 2.0;Garbage;35
-325;Avalancha;Héroes del Silencio;35
-326;Surfing with the Alien;Joe Satriani;35
-327;Unknown Pleasures;Joy Division;35
-328;Próxima Estación...Esperanza;Manu Chao;35
-329;Blue Lines;Massive Attack;35
-330;Out of Time;R.E.M.;35
-331;Surrender;The Chemical Brothers;35
-332;The Best of Van Morrison;Van Morrison;35
-333;Blur (Special Edition);Blur;34
-334;Exodus;Bob Marley & The Wailers;34
-335;Let's Dance;David Bowie;34
-336;Sanatorio de Muñecos;Hamlet;34
-337;Ultrasónica;Los Piratas;34
-338;Alphabetical;Phoenix;34
-339;Screamadelica;Primal Scream;34
-340;Rage Against the Machine;Rage Against the Machine;34
-341;Boys Don't Cry;The Cure;34
-342;Highly Evolved;The Vines;34
-343;Mr. Natural;Bee Gees;33
-344;Nuevas mezclas;El Último de la Fila;33
-345;A+E;Graham Coxon;33
-346;The Golden D;Graham Coxon;33
-347;Life;Inspiral Carpets;33
-348;Synkronized;Jamiroquai;33
-349;Mezzanine;Massive Attack;33
-350;Player;Player;33
-351;Mars Audiac Quintet;Stereolab;33
-352;Elephant;The White Stripes;33
-353;The Joshua Tree;U2;33
-354;All The People... Blur: Live In Hyde Park 02/07/2009;Blur;32
-355;Leisure (Special Edition);Blur;32
-356;Parklife (Special Edition);Blur;32
-357;Antidotes;Foals;32
-358;There Is Nothing Left to Lose;Foo Fighters;32
-359;Appetite for Destruction;Guns N' Roses;32
-360;Patente De Corso;Jaime Urrutia;32
-361;Greatest Hits;Joe Cocker;32
-362;Play;Moby;32
-363;Vulgar Display of Power;Pantera;32
-364;Rated R;Queens of the Stone Age;32
-365;Sehnsucht;Rammstein;32
-366;Vol.4;Black Sabbath;31
-367;On the Third Day;Electric Light Orchestra;31
-368;Rock Transgresivo;Extremoduro;31
-369;Al calor del amor en un bar;Gabinete Caligari;31
-370;In Through the Out Door;Led Zeppelin;31
-371;Bleach;Nirvana;31
-372;Wish You Were Here;Pink Floyd;31
-373;Voy a acabar borracho;Platero y tú;31
-374;Bad Moon Rising;Sonic Youth;31
-375;Dirty;Sonic Youth;31
-376;Music for the Jilted Generation;The Prodigy;31
-377;After-Math;The Rolling Stones;31
-378;Homework;Daft Punk;30
-379;Radio Songs;Dave Rowntree;30
-380;Somos unos Animales;Extremoduro;30
-381;Franz Ferdinand;Franz Ferdinand;30
-382;Ladies And Gentlemen... The Best Of George Michael;George Michael;30
-383;Once Upon a Time in the West;Hard-Fi;30
-384;Grace;Jeff Buckley;30
-385;El Hombre del Traje Gris;Joaquín Sabina;30
-386;Painkiller;Judas Priest;30
-387;30 Años De Éxitos;Los Toreros Muertos;30
-388;Second Helping;Lynyrd Skynyrd;30
-389;Grease;Soundtrack;30
-390;Kinda Kinks;The Kinks;30
-391;Use Your Brain;Clawfinger;29
-392;Alzheimer;Def con Dos;29
-393;Face the Music;Electric Light Orchestra;29
-394;Rumours;Fleetwood Mac;29
-395;Employment;Kaiser Chiefs;29
-396;His 'n' Hers (Bonus Disc);Pulp;29
-397;A Short Cut To Teenage Fanclub;Teenage Fanclub;29
-398;Paranoid;Black Sabbath;28
-399;Station to Station;David Bowie;28
-400;The Next Day;David Bowie;28
-401;Estopa;Estopa;28
-402;Angel Dust;Faith No More;28
-403;Warning;Green Day;28
-404;Ruleta Rusa;Joaquín Sabina;28
-405;Sin Documentos;Los Rodríguez;28
-406;¿Donde jugarán las niñas?;Molotov;28
-407;The Coral;The Coral;28
-408;Neon Bible;Arcade Fire;27
-409;Suck It and See;Arctic Monkeys;27
-410;Mutations;Beck;27
-411;Another Music In A Different Kitchen;Buzzcocks;27
-412;Waterloo To Anywhere;Dirty Pretty Things;27
-413;On;Echobelly;27
-414;Eldorado;Electric Light Orchestra;27
-415;Our Love to Admire;Interpol;27
-416;Too Fast for Love;Mötley Crüe;27
-417;Horses;Patti Smith;27
-418;A Kind of Magic;Queen;27
-419;Remain in Light;Talking Heads;27
-420;My Generation;The Who;27
-421;Vagabonds of the Western World;Thin Lizzy;27
-422;Main Course;Bee Gees;26
-423;Billy Idol;Billy Idol;26
-424;Debut;Björk;26
-425;Crystal Castles III;Crystal Castles;26
-426;Rio;Duran Duran;26
-427;D-Sides CD1;Gorillaz;26
-428;Regreso Al Sexo Químicamente Puro;Ilegales;26
-429;Because of the Times;Kings of Leon;26
-430;Dressed To Kill;Kiss;26
-431;Kiss;Kiss;26
-432;The Firstborn Is Dead;Nick Cave & the Bad Seeds;26
-433;Chasing Yesterday;Noel Gallagher's High Flying Birds;26
-434;Sheer Heart Attack;Queen;26
-435;Rocket to Russia;Ramones;26
-436;Righeira;Righeira;26
-437;Rocket Juice & the Moon;Rocket Juice & The Moon;26
-438;Fuera De Lugar;Rosendo;26
-439;Ogden's Nut Gone Flake;Small Faces;26
-440;Beatles for Sale;The Beatles;26
-441;Songs The Lord Taught Us;The Cramps;26
-442;Hot Fuss;The Killers;26
-443;Smash;The Offspring;26
-444;Pizza Pop;Australian Blonde;25
-445;Larga Vida Al Rock and Roll;Barón Rojo;25
-446;Spirits Having Flown;Bee Gees;25
-447;The River;Bruce Springsteen;25
-448;Creedence Clearwater Revival;Creedence Clearwater Revival;25
-449;3 Feet High and Rising;De La Soul;25
-450;Metropolis Pt. 2: Scenes From a Memory;Dream Theater;25
-451;Tumbleweed Connection;Elton John;25
-452;Sketches of Spain;Miles Davis;25
-453;Low-Life;New Order;25
-454;Noel Gallagher's High Flying Birds;Noel Gallagher;25
-455;Seventeen Seconds;The Cure;25
-456;Yoshimi Battles the Pink Robots;The Flaming Lips;25
-457;Experience;The Prodigy;25
-458;Enter the Wu-Tang (36 Chambers);Wu-Tang Clan;25
-459;Among the Living;Anthrax;24
-460;Saturday Night Fever: The Original Movie Sound Track;Bee Gees;24
-461;Dire Straits;Dire Straits;24
-462;Leaders of the Free World;Elbow;24
-463;From Here to Eternity;Giorgio Moroder;24
-464;Crow Sit on Blood Tree;Graham Coxon;24
-465;Chicos Pálidos Para La Máquina;Ilegales;24
-466;The Number of the Beast;Iron Maiden;24
-467;Surfing the Void;Klaxons;24
-468;El ritmo del garage;Loquillo y Trogloditas;24
-469;Countdown to Extinction;Megadeth;24
-470;Iron Fist;Motörhead;24
-471;Stories From the City, Stories From the Sea;PJ Harvey;24
-472;The Slider;T. Rex;24
-473;Marquee Moon;Television;24
-474;Volcano;Temples;24
-475;Pretenders;The Pretenders;24
-476;Maxinquaye;Tricky;24
-477;It's Blitz!;Yeah Yeah Yeahs;24
-478;Por Instinto;Barricada;23
-479;Buddy Holly 75 - CD2;Buddy Holly;23
-480;Crowded House;Crowded House;23
-481;Right Thoughts, Right Words, Right Action;Franz Ferdinand;23
-482;Back To Front;Gilbert O'Sullivan;23
-483;Earth A.D. & Wolfsblood;Misfits;23
-484;Animal Rights;Moby;23
-485;Standing on the Shoulder of Giants;Oasis;23
-486;Moseley Shoals;Ocean Colour Scene;23
-487;Yield;Pearl Jam;23
-488;The Wall [CD1];Pink Floyd;23
-489;Good Humor;Saint Etienne;23
-490;Magical Mystery Tour;The Beatles;23
-491;The Fat of the Land;The Prodigy;23
-492;Tommy;The Who;23
-493;Fragile;Yes;23
-494;Hours...;David Bowie;22
-495;Caldo de Pollo;Decibelios;22
-496;Fireball;Deep Purple;22
-497;Freak Out!;Frank Zappa;22
-498;A Funk Odyssey;Jamiroquai;22
-499;Esta Vida Me Va A Matar;Los Suaves;22
-500;New York Dolls;New York Dolls;22
-501;Correos;Platero y tú;22
-502;Dummy;Portishead;22
-503;A Day at the Races;Queen;22
-504;The Works;Queen;22
-505;Amnesiac;Radiohead;22
-506;Blood Sugar Sex Magik;Red Hot Chili Peppers;22
-507;By the Way;Red Hot Chili Peppers;22
-508;Nowhere;Ride;22
-509;A Tientas y Barrancas;Rosendo;22
-510;Kaleidoscope;Siouxsie and the Banshees;22
-511;Goo;Sonic Youth;22
-512;Night Thoughts;Suede;22
-513;Even in the Quietest Moments...;Supertramp;22
-514;A Catholic Education;Teenage Fanclub;22
-515;In the City;The Jam;22
-516;Setting Sons;The Jam;22
-517;Ghost In The Machine;The Police;22
-518;Reggatta de Blanc;The Police;22
-519;Room on Fire;The Strokes;22
-520;Buddy Holly 75 - CD01;Buddy Holly;21
-521;El fin de la década;Burning;21
-522;Music for the Masses;Depeche Mode;21
-523;I Got Dem Ol' Kozmic Blues Again, Mama;Janis Joplin;21
-524;Encuentros con entidades;Los Planetas;21
-525;Super 8;Los Planetas;21
-526;Una semana en el motor de un autobús;Los Planetas;21
-527;New Sensations;Lou Reed;21
-528;Tubular Bells;Mike Oldfield;21
-529;Origin of Symmetry;Muse;21
-530;Brighten the Corners;Pavement;21
-531;Reckoning;R.E.M.;21
-532;Deuce;Rory Gallagher;21
-533;Talking Book;Stevie Wonder;21
-534;Absolutely Live;The Doors;21
-535;Gish;The Smashing Pumpkins;21
-536;A Northern Soul;The Verve;21
-537;Whatever People Say I Am, That's What I'm Not;Arctic Monkeys;20
-538;Midlife: A Beginner's Guide To Blur;Blur;20
-539;Emergency On Planet Earth;Jamiroquai;20
-540;Point of Entry;Judas Priest;20
-541;Destroyer;Kiss;20
-542;(pronounced 'lĕh-'nérd 'skin-'nérd);Lynyrd Skynyrd;20
-543;MGMT;MGMT;20
-544;Colour Of The Trap;Miles Kane;20
-545;Bomber;Motörhead;20
-546;Showbiz;Muse;20
-547;Grabaciones Completas 1981-1983;Parálisis Permanente;20
-548;Vitalogy;Pearl Jam;20
-549;Muy Deficiente;Platero Y Tu;20
-550;Life Thru a Lens;Robbie Williams;20
-551;For Your Pleasure;Roxy Music;20
-552;True;Spandau Ballet;20
-553;Crisis? What Crisis?;Supertramp;20
-554;The Best of Talking Heads;Talking Heads;20
-555;The Head on the Door;The Cure;20
-556;Primary Colours;The Horrors;20
-557;The Kink Kontroversy;The Kinks;20
-558;Machina - The Machines of God;The Smashing Pumpkins;20
-559;The Queen Is Dead;The Smiths;20
-560;The Who by Numbers;The Who;20
-561;Undertow;Tool;20
-562;Nine Lives;Aerosmith;19
-563;Black Sabbath;Black Sabbath;19
-564;13 (Special Edition);Blur;19
-565;Ocean Rain;Echo & the Bunnymen;19
-566;Salve;La Polla Records;19
-567;Led Zeppelin I;Led Zeppelin;19
-568;Songs of Leonard Cohen;Leonard Cohen;19
-569;Rust In Peace;Megadeth;19
-570;Don't Forget Who You Are;Miles Kane;19
-571;Black Market Music;Placebo;19
-572;Queen;Queen;19
-573;With the Beatles;The Beatles;19
-574;Yellow Submarine;The Beatles;19
-575;Meat Is Murder;The Smiths;19
-576;Funeral;Arcade Fire;18
-577;Think Tank (Special Edition);Blur;18
-578;The Best Of Chet Baker;Chet Baker;18
-579;Disraeli Gears;Cream;18
-580;Armas Pal Pueblo;Def con Dos;18
-581;Communiqué;Dire Straits;18
-582;Flamingos;Enrique Bunbury;18
-583;Slowhand;Eric Clapton;18
-584;This Is Glenn Miller And His Orchestra;Glenn Miller;18
-585;Stand Up;Jethro Tull;18
-586;Substance;Joy Division;18
-587;In the Court of the Crimson King;King Crimson;18
-588;Growing Up in Public;Lou Reed;18
-589;Gold Against the Soul;Manic Street Preachers;18
-590;Master of Puppets;Metallica;18
-591;The Piper at the Gates of Dawn;Pink Floyd;18
-592;Complete 'B' Sides;Pixies;18
-593;Separations;Pulp;18
-594;Automatic for the People;R.E.M.;18
-595;Robbie Dupree;Robbie Dupree;18
-596;Jugar Al Gua;Rosendo;18
-597;Bailaré Sobre Tu Tumba;Siniestro Total;18
-598;Kiss Me, Kiss Me, Kiss Me;The Cure;18
-599;Black and Blue;The Rolling Stones;18
-600;It's Only Rock 'n' Roll;The Rolling Stones;18
-601;summerteeth;Wilco;18
-602;The Suburbs;Arcade Fire;17
-603;Eat to the Beat;Blondie;17
-604;Rasgos;Camilo Sesto;17
-605;Bug;Dinosaur Jr.;17
-606;Milestones Of A Swing Legend CD6;Glenn Miller;17
-607;El Mar No Cesa;Héroes del Silencio;17
-608;Crooked Rain, Crooked Rain;Pavement;17
-609;Muy deficiente;Platero y tú;17
-610;Songs for the Deaf;Queens of the Stone Age;17
-611;Nunca es Tarde... si la Dicha es Buena;Reincidentes;17
-612;¿Cuándo se come aqui?;Siniestro Total;17
-613;Menos Mal Que Nos Queda Portugal;Siniestro Total;17
-614;The It Girl;Sleeper;17
-615;Superunknown;Soundgarden;17
-616;A New Morning;Suede;17
-617;Crime of the Century;Supertramp;17
-618;Giant Steps;The Boo Radleys;17
-619;Between 10th and 11th;The Charlatans;17
-620;Some Girls;The Rolling Stones;17
-621;NME Presents the 90s Disc 1;Various Artists;17
-622;NME Presents the 90s Disc 2;Various Artists;17
-623;NME Presents the 90s Disc 3;Various Artists;17
-624;Weezer (The Green Album);Weezer;17
-625;Reflektor;Arcade Fire;16
-626;Odelay;Beck;16
-627;Cria Cuervos;Boikot;16
-628;Catch Bull At Four;Cat Stevens;16
-629;Inadaptados;Cicatriz;16
-630;You Could Have It So Much Better;Franz Ferdinand;16
-631;Glasvegas;Glasvegas;16
-632;16 Biggest Hits;Johnny Cash;16
-633;Kasabian;Kasabian;16
-634;Life Is Peachy;Korn;16
-635;Autobahn;Kraftwerk;16
-636;Physical Graffiti (CD2);Led Zeppelin;16
-637;Chocolate Starfish and the Hot Dog Flavored Water;Limp Bizkit;16
-638;Peace Sells... But Who's Buying?;Megadeth;16
-639;... And Justice for All;Metallica;16
-640;Marchin' Already;Ocean Colour Scene;16
-641;Greatest Hits I;Queen;16
-642;Rancid;Rancid;16
-643;Veo, Veo... Mamoneo;Rosendo;16
-644;Sandinista!;The Clash;16
-645;Three Imaginary Boys;The Cure;16
-646;Darklands;The Jesus and Mary Chain;16
-647;Siamese Dream;The Smashing Pumpkins;16
-648;Live & Dangerous;Thin Lizzy;16
-649;Good Feeling;Travis;16
-650;Le origini volume 1;Adriano Celentano;15
-651;No Control;Bad Religion;15
-652;Balas Blancas;Barricada;15
-653;Madrid;Burning;15
-654;Grandes éxitos y fracasos (Episodio primero);Extremoduro;15
-655;You've Come a Long Way, Baby;Fatboy Slim;15
-656;Strangers in the Night;Frank Sinatra;15
-657;Privado;Gabinete Caligari;15
-658;Use Your Illusion II;Guns N' Roses;15
-659;Some Time In New York City [CD1]];John Lennon;15
-660;Palabras más, Palabras Menos;Los Rodríguez;15
-661;The Downward Spiral;Nine Inch Nails;15
-662;7;Platero y tú;15
-663;This Is Hardcore (Bonus Disc);Pulp;15
-664;Música moderna;Radio Futura;15
-665;Live aus Berlin;Rammstein;15
-666;La Tortuga;Rosendo;15
-667;In Trance;Scorpions;15
-668;Never Mind the Bollocks;Sex Pistols;15
-669;Von;Sigur Rós;15
-670;How to Make Friends and Influence People;Terrorvision;15
-671;The Hush;Texas;15
-672;The Clash (U.S.);The Clash;15
-673;To the Faithful Departed;The Cranberries;15
-674;Band on the Run;Wings;15
-675;Volumen Brutal;Barón Rojo;14
-676;In the Flat Field;Bauhaus;14
-677;Sabotage;Black Sabbath;14
-678;Under the Westway;Blur;14
-679;Born in the U.S.A.;Bruce Springsteen;14
-680;Madrid, zona bruta;El Club de los Poetas Violentos;14
-681;Iros Todos a Tomar Por Culo;Extremoduro;14
-682;King for a Day... Fool for a Lifetime;Faith No More;14
-683;Sun Valley Serenade;Glenn Miller;14
-684;Use Your Illusion I;Guns N' Roses;14
-685;The Return Of The Space Cowboy;Jamiroquai;14
-686;LHR;La Habitación Roja;14
-687;Revolución;La Polla Records;14
-688;New York;Lou Reed;14
-689;Load;Metallica;14
-690;Bad;Michael Jackson;14
-691;Ten;Pearl Jam;14
-692;Hay Poco Rock & Roll;Platero y tú;14
-693;Tin Planet;Space;14
-694;Stage Fright;The Band;14
-695;Come With Us;The Chemical Brothers;14
-696;Psychedelic Jungle;The Cramps;14
-697;Faith;The Cure;14
-698;Sound Affects;The Jam;14
-699;Ixnay on the Hombre;The Offspring;14
-700;White Music;XTC;14
-701;Get a Grip;Aerosmith;13
-702;Favourite Worst Nightmare;Arctic Monkeys;13
-703;Shotter´s Nation;Babyshambles;13
-704;Different Gear, Still Speeding;Beady Eye;13
-705;Big Brother & Holding Company;Big Brother & The Holding Company;13
-706;Plastic Letters;Blondie;13
-707;Parklive Disc 1;Blur;13
-708;The River 1;Bruce Springsteen;13
-709;Never Let Me Down;David Bowie;13
-710;Transatlanticism;Death Cab for Cutie;13
-711;Pyromania;Def Leppard;13
-712;Violator;Depeche Mode;13
-713;ELO 2;Electric Light Orchestra;13
-714;Pequeño;Enrique Bunbury;13
-715;Agíla;Extremoduro;13
-716;Tonight: Franz Ferdinand;Franz Ferdinand;13
-717;Juke Box Saturday Night;Glenn Miller;13
-718;Make Yourself;Incubus;13
-719;Ray of Light;Madonna;13
-720;Mechanical Wonder;Ocean Colour Scene;13
-721;Evil Heat;Primal Scream;13
-722;Mother's Milk;Red Hot Chili Peppers;13
-723;Sing When You're Winning;Robbie Williams;13
-724;Emperor Tomato Ketchup;Stereolab;13
-725;Bandwagonesque;Teenage Fanclub;13
-726;Grand Prix;Teenage Fanclub;13
-727;First Band on the Moon;The Cardigans;13
-728;Tellin' Stories (US Edition);The Charlatans;13
-729;Dig Your Own Hole;The Chemical Brothers;13
-730;No Need to Argue;The Cranberries;13
-731;Hate;The Delgados;13
-732;Live at the Hollywood Bowl;The Doors;13
-733;Muswell Hillbillies;The Kinks;13
-734;Bridges to Babylon;The Rolling Stones;13
-735;Get Behind Me Satan;The White Stripes;13
-736;A Quick One;The Who;13
-737;The Eraser;Thom Yorke;13
-738;Lateralus;Tool;13
-739;Maladroit;Weezer;13
-740;Permanent Vacation;Aerosmith;12
-741;Humbug;Arctic Monkeys;12
-742;Sunday at the vanguard;Bill Evans;12
-743;Parklive Disc 2;Blur;12
-744;Greetings From Asbury Park;Bruce Springsteen;12
-745;La Taberna del Buda;Café Quijano;12
-746;Mardi Gras;Creedence Clearwater Revival;12
-747;Captain Fantastic and the Brown Dirt Cowboy;Elton John;12
-748;Destrangis;Estopa;12
-749;Deltoya;Extremoduro;12
-750;Garbage;Garbage;12
-751;E=MC2;Giorgio Moroder;12
-752;American Beauty;Grateful Dead;12
-753;New Values;Iggy Pop;12
-754;S.C.I.E.N.C.E.;Incubus;12
-755;Further Complications;Jarvis Cocker;12
-756;Live in New York City;John Lennon;12
-757;Fatal Portrait;King Diamond;12
-758;Radio-Activity;Kraftwerk;12
-759;The Man Machine;Kraftwerk;12
-760;Lovelife;Lush;12
-761;Things to Make and Do;Moloko;12
-762;After the Gold Rush;Neil Young;12
-763;Too Much Too Soon;New York Dolls;12
-764;Te quiero,Te quiero;Nino Bravo;12
-765;Un Beso Y Una Flor;Nino Bravo;12
-766;The Wall [CD2];Pink Floyd;12
-767;Vamos Tirando;Platero y tú;12
-768;Freaks;Pulp;12
-769;Murmur;R.E.M.;12
-770;Deja Que les Diga Que No!;Rosendo;12
-771;El Incendio;Sidonie;12
-772;Barrett;Syd Barrett;12
-773;Spirit of Eden;Talk Talk;12
-774;Veni Vidi Vicious;The Hives;12
-775;Skying;The Horrors;12
-776;Strange House;The Horrors;12
-777;All Mod Cons;The Jam;12
-778;Americana;The Offspring;12
-779;Zenyattà Mondatta;The Police;12
-780;Pretenders II;The Pretenders;12
-781;Blondie;Blondie;11
-782;Best of;Blur;11
-783;Bringing It All Back Home;Bob Dylan;11
-784;Pendulum;Creedence Clearwater Revival;11
-785;Adrenaline;Deftones;11
-786;Hellville de Luxe;Enrique Bunbury;11
-787;Anti Todo;Eskorbuto;11
-788;¿Dónde Están Mis Amigos?;Extremoduro;11
-789;Canciones Prohibidas;Extremoduro;11
-790;All Things Must Pass (disc 2);George Harrison;11
-791;Orchestra Wives;Glenn Miller;11
-792;Song Machine, Season One: Strange Timez (Deluxe Edition);Gorillaz;11
-793;Celebrity Skin;Hole;11
-794;Si la muerte me mira de frente, me pongo de lao;Ilegales;11
-795;Nothing's Shocking;Jane's Addiction;11
-796;Aqualung;Jethro Tull;11
-797;The Messenger;Johnny Marr;11
-798;Myths of the Near Future;Klaxons;11
-799;Peasants, Pigs & Astronauts;Kula Shaker;11
-800;Pop;Los Planetas;11
-801;Shout at the Devil;Mötley Crüe;11
-802;Loveless;my bloody valentine;11
-803;Prepárate;Obus;11
-804;Infest;Papa Roach;11
-805;Vs.;Pearl Jam;11
-806;Atom Heart Mother;Pink Floyd;11
-807;Portishead;Portishead;11
-808;The Game;Queen;11
-809;Evil Empire;Rage Against the Machine;11
-810;Mutter;Rammstein;11
-811;Show No Mercy;Slayer;11
-812;Purple;Stone Temple Pilots;11
-813;Long Gone Before Daylight;The Cardigans;11
-814;Some Friendly;The Charlatans;11
-815;Exit Planet Dust;The Chemical Brothers;11
-816;Village Green Preservation Society [Special Deluxe Edition 2004] (CD2 Mono);The Kinks;11
-817;Synchronicity;The Police;11
-818;Goats Head Soup;The Rolling Stones;11
-819;Tattoo You;The Rolling Stones;11
-820;Bringing Down The Horse;The Wallflowers;11
-821;White Blood Cells;The White Stripes;11
-822;Zooropa;U2;11
-823;Year Of The Cat;Al Stewart;10
-824;Billion Dollar Babies;Alice Cooper;10
-825;HONESTIDAD BRUTAL CD2;Andrés Calamaro;10
-826;The Man;Barry White;10
-827;If You're Feeling Sinister;Belle and Sebastian;10
-828;Darkness on the Edge of Town;Bruce Springsteen;10
-829;La extraordinaria paradoja del sonido Quijano;Café Quijano;10
-830;A Rush of Blood to the Head;Coldplay;10
-831;Earthling;David Bowie;10
-832;Cien Mil Vueltas;Gabinete Caligari;10
-833;The Kiss of Morning;Graham Coxon;10
-834;Nimrod;Green Day;10
-835;Pearl;Janis Joplin;10
-836;La Flaca;Jarabe de Palo;10
-837;Ram It Down;Judas Priest;10
-838;Rock and Roll Over;Kiss;10
-839;Physical Graffiti (CD1);Led Zeppelin;10
-840;Entre Amigos;Luis Eduardo Aute;10
-841;Kill 'Em All;Metallica;10
-842;Hergest Ridge;Mike Oldfield;10
-843;Overkill;Motörhead;10
-844;The Resistance;Muse;10
-845;Harvest;Neil Young;10
-846;Pretty Hate Machine;Nine Inch Nails;10
-847;Songs For The Front Row - The Best Of Ocean Colour Scene;Ocean Colour Scene;10
-848;Placebo;Placebo;10
-849;De un país en llamas;Radio Futura;10
-850;La canción de Juan Perro;Radio Futura;10
-851;Roxy Music;Roxy Music;10
-852;Reign in Blood;Slayer;10
-853;Other Voices;The Doors;10
-854;Costello Music;The Fratellis;10
-855;First Impressions of Earth;The Strokes;10
-856;It's Hard;The Who;10
-857;Afterburner;ZZ Top;10
-858;El Loco;ZZ Top;10
-859;Tres Hombres;ZZ Top;10
-860;High Voltage;AC/DC;9
-861;School's Out;Alice Cooper;9
-862;Flowing Rivers;Andy Gibb;9
-863;Imaginations From The Other Side;Blind Guardian;9
-864;Blonde on Blond;Bob Dylan;9
-865;Algo más;Camilo Sesto;9
-866;Sentimientos;Camilo Sesto;9
-867;Indicios;Carlos Berlanga;9
-868;Saturday Night Fever: The Original Movie Sound Track;David Shire;9
-869;Some Great Reward;Depeche Mode;9
-870;Camino Soria;Gabinete Caligari;9
-871;Selling England by the Pound;Genesis;9
-872;Iron Maiden;Iron Maiden;9
-873;Piece of Mind;Iron Maiden;9
-874;Volunteers;Jefferson Airplane;9
-875;Hotel, Dulce Hotel;Joaquín Sabina;9
-876;Señales de Humo;Los Coronas;9
-877;Mecano;Mecano;9
-878;Porgy and Bess;Miles Davis;9
-879;Brotherhood;New Order;9
-880;The Good Son;Nick Cave & the Bad Seeds;9
-881;Your Funeral... My Trial;Nick Cave & the Bad Seeds;9
-882;McCartney;Paul McCartney;9
-883;Para Mal O Para Bien;Rosendo;9
-884;Virgin Killer;Scorpions;9
-885;Fresh Cream;Soundtrack;9
-886;Pulp Fiction (Collector's Edition);Soundtrack;9
-887;Step II;Sylvester;9
-888;Back Stabbers;The O'Jays;9
-889;Along Came Jones;Tom Jones;9
-890;Wild Life;Wings;9
-891;Le Fabuleux Destin d'Amélie Poulain;Yann Tiersen;9
-892;Diez;Alaska y Dinarama;8
-893;Technical Ectasy;Black Sabbath;8
-894;Chic;Chic;8
-895;David Bowie;David Bowie;8
-896;Segundo Asalto;Def con Dos;8
-897;Porcupine;Echo & the Bunnymen;8
-898;Glenn Miller (An Album Of Outstanding Arrangements);Glenn Miller;8
-899;Aoxomoxoa;Grateful Dead;8
-900;American Idiot;Green Day;8
-901;Coda;Led Zeppelin;8
-902;Nuthin' Fancy;Lynyrd Skynyrd;8
-903;The Holy Bible;Manic Street Preachers;8
-904;Killing Is My Business...And Business Is Good!;Megadeth;8
-905;Ride the Lightning;Metallica;8
-906;Movement;New Order;8
-907;Power, Corruption & Lies;New Order;8
-908;Kicking Against the Pricks;Nick Cave & the Bad Seeds;8
-909;Danger Zone;Player;8
-910;4ever;Prince;8
-911;Green;R.E.M.;8
-912;Leave Home;Ramones;8
-913;... A Las Lombrices;Rosendo;8
-914;Canciones Para Normales y Mero Dementes;Rosendo;8
-915;Lovedrive;Scorpions;8
-916;Singles 93-03;The Chemical Brothers;8
-917;Pornography;The Cure;8
-918;Singles;The Smiths;8
-919;Raw Power;The Stooges;8
-920;Older;Various Artists;8
-921;Suffer;Bad Religion;7
-922;Never Say Die!;Black Sabbath;7
-923;Live At The Budokan;Blur;7
-924;The Wild, the Innocent & the E Street Shuffle;Bruce Springsteen;7
-925;Live Santa Monica '72;David Bowie;7
-926;Deep Purple In Rock;Deep Purple;7
-927;Who Do We Think We Are;Deep Purple;7
-928;Branquias Bajo el Agua;Derribos Arias;7
-929;Nursery Cryme;Genesis;7
-930;The Marvelous Miller Medleys;Glenn Miller;7
-931;Golpes bajos;Golpes Bajos;7
-932;El Espiritu Del Vino;Héroes del Silencio;7
-933;Yours Truly, Angry Mob;Kaiser Chiefs;7
-934;Empire;Kasabian;7
-935;Trans-Europe Express;Kraftwerk;7
-936;Presence;Led Zeppelin;7
-937;A Día De Hoy;Luis Eduardo Aute;7
-938;Tubular Bells II;Mike Oldfield;7
-939;Unplugged in New York;Nirvana;7
-940;Songs For The Front Row - The Best of Ocean Colour Scene - ARK21;Ocean Colour Scene;7
-941;Fly To The Rainbow;Scorpions;7
-942;Mellon Collie and the Infinite Sadness (CD 1 Dawn to Dusk);The Smashing Pumpkins;7
-943;Vivir Para Contarlo;Violadores del Verso;7
-944;Don't Stop;Billy Idol;6
-945;Bustin' + Dronin' (Disc-1);Blur;6
-946;The Freewheelin' Bob Dylan;Bob Dylan;6
-947;Mali Music;Damon Albarn;6
-948;Foxtrot;Genesis;6
-949;Double Fantasy;John Lennon/Yoko Ono;6
-950;Korn;Korn;6
-951;Generation Terrorists;Manic Street Preachers;6
-952;Life in Cartoon Motion;Mika;6
-953;Big Calm;Morcheeba;6
-954;Metal Box;Public Image Ltd.;6
-955;Death Goes To The Disco;Pulp;6
-956;Pleasant Dreams;Ramones;6
-957;Grand Theft Auto: San Andreas Official Soundtrack Box Set;Soundtrack;6
-958;Minute by Minute;The Doobie Brothers;6
-959;Saturday Night Fever: The Original Movie Sound Track;The Trammps;6
-960;White light, white heat;The Velvet Underground;6
-961;The Invisible Band;Travis;6
-962;Dirty Deeds Done Dirt Cheap;AC/DC;5
-963;Parklive Disc 3;Blur;5
-964;Buddy Holly 75 - CD03;Buddy Holly;5
-965;4 años, 2 meses y 1 dia;Cicatriz;5
-966;Dr Dee;Damon Albarn;5
-967;Pin Ups;David Bowie;5
-968;Scary Monsters;David Bowie;5
-969;Oi!;Decibelios;5
-970;Pulp Fiction (Collector's Edition);Dick Dale;5
-971;El Apóstol De La Lujuria;Ilegales;5
-972;El Muchacho Eléctrico;Jaime Urrutia;5
-973;Best Of Bossa Nova - 75 Classic Hits (Disc 1);João Gilberto;5
-974;Kollected - The Best Of Kula Shaker;Kula Shaker;5
-975;Kind of Blue;Miles Davis;5
-976;Maybe You've Been Brainwashed Too;New Radicals;5
-977;Animals;Pink Floyd;5
-978;A Pelo;Platero y tú;5
-979;Chronic Town;R.E.M.;5
-980;Up;R.E.M.;5
-981;The Great Rock'n'Roll Swindle;Sid Vicious;5
-982;Best Of Bossa Nova - 75 Classic Hits (Disc 1);Sylvia Telles;5
-983;Sweetheart Of The Rodeo;The Byrds;5
-984;In Concert CD2;The Doors;5
-985;Sam's Town;The Killers;5
-986;Dirty Work;The Rolling Stones;5
-987;Pop;U2;5
-988;Vampire Weekend;Vampire Weekend;5
-989;Van Halen II;Van Halen;5
-990;Al Green Is Love;Al Green;4
-991;En Vivo Mucho Mejor;Ariel Rot;4
-992;Licensed to Ill;Beastie Boys;4
-993;The Boy with the Arab Strap;Belle and Sebastian;4
-994;Grandes Éxitos Pequeños Regalos 2;Celtas Cortos;4
-995;The Marshall Mathers LP;Eminem;4
-996;Los singles;Gabinete Caligari;4
-997;Sombras Negras;Gabinete Caligari;4
-998;The New Glenn Miller Orchestra in Hi Fi;Glenn Miller;4
-999;Mentiras Piadosas;Joaquín Sabina;4
-1000;Canciones de un Poeta;José Luis Perales;4
-1001;Vaqueros del espacio;Loquillo y Trogloditas;4
-1002;Incantations;Mike Oldfield;4
-1003;Prepárate;Obús;4
-1004;Different Class (bonus disc);Pulp;4
-1005;Greatest Hits II;Queen;4
-1006;Music Kills Me;Rinôçérôse;4
-1007;File Live Yardbirds;The Yardbirds;4
-1008;Pulp Fiction (Collector's Edition);Al Green;3
-1009;Metalmorfosis;Barón Rojo;3
-1010;Saturday Night Fever Soundtrack;Bee Gees;3
-1011;Colours - Fan Club Single;Blur;3
-1012;Midlife A Beginner's Guide To Blur;Blur;3
-1013;The Times They Are A-Changin';Bob Dylan;3
-1014;A Different Kind of Tension;Buzzcocks;3
-1015;9:30 El Remix;El Club de los Poetas Violentos;3
-1016;The Good, the Bad and the Ugly;Ennio Morricone;3
-1017;El Viaje A Ninguna Parte (disc 1);Enrique Bunbury;3
-1018;Grandes éxitos y fracasos (Episodio segundo);Extremoduro;3
-1019;Song Machine, Season One: Strange Timez (Japanese Edition);Gorillaz;3
-1020;Love Will Tear Us Apart;Joy Division;3
-1021;Saturday Night Fever: The Original Movie Sound Track;KC and The Sunshine Band;3
-1022;Saturday Night Fever: The Original Movie Sound Track;Kool & the Gang;3
-1023;Proxima Estación: Esperanza;Manu Chao;3
-1024;Absolution;Muse;3
-1025;Innuendo;Queen;3
-1026;The Miracle;Queen;3
-1027;La Ley Del Desierto, La Ley Del Mar;Radio Futura;3
-1028;Saturday Night Fever: The Original Movie Sound Track;Ralph MacDonald;3
-1029;Anthology Disc 2;Ramones;3
-1030;Paranoid;Soundtrack;3
-1031;Saturday Night Fever: The Original Movie Sound Track;Tavares;3
-1032;Disintegration;The Cure;3
-1033;Hot Fuss (limited edition);The Killers;3
-1034;Hums Of The Lovin' Spoonful;The Lovin' Spoonful;3
-1035;Saturday Night Fever: The Original Movie Sound Track;Various Artists;3
-1036;Saturday Night Fever: The Original Movie Sound Track;Walter Murphy;3
-1037;Close to the Edge;Yes;3
-1038;Saturday Night Fever: The Original Movie Sound Track;Yvonne Elliman;3
-1039;Le origini - Volume 2;Adriano Celentano;2
-1040;Mask;Bauhaus;2
-1041;All the people... Blur: Live in Hyde Park 02/07/2009 - Disc 01;Blur;2
-1042;BBC Broadcasts, 1995.06.17 London, Mile End Stadium;Blur;2
-1043;Blurb 1;Blur;2
-1044;Pulp Fiction (Collector's Edition);Brothers Johnson;2
-1045;Amor Libre;Camilo Sesto;2
-1046;Grandes Éxitos Pequeños Regalos 1;Celtas Cortos;2
-1047;Reality;David Bowie;2
-1048;The Very Best of Elvis Costello Disc 2;Elvis Costello;2
-1049;The Very Best of Elvis Costello Disc 2;Elvis Costello & The Attractions;2
-1050;Cuatro rosas. Que Dios reparta suerte;Gabinete Caligari;2
-1051;Física y Química;Joaquín Sabina;2
-1052;Pulp Fiction (Collector's Edition);John Travolta;2
-1053;Raindrops Keep Fallin' On My Head;Johnny Mathis;2
-1054;Pulp Fiction (Collector's Edition);Kool & the Gang;2
-1055;2002 - KOLLECTED - THE BEST OF;Kula Shaker;2
-1056;Better Can't Make Your Life Better;Lilys;2
-1057;¿Dónde Estabas Tú En El 77?;Loquillo y Trogloditas;2
-1058;Pacífico / Todos los chico en la playa;Loquillo y Trogloditas;2
-1059;Disco Pirata;Los Rodríguez;2
-1060;Metal Machine Music;Lou Reed;2
-1061;So Far, So Good... So What!;Megadeth;2
-1062;Crises;Mike Oldfield;2
-1063;Ommadawn;Mike Oldfield;2
-1064;Apocalypshit;Molotov;2
-1065;The 2nd Law;Muse;2
-1066;One From the Modern;Ocean Colour Scene;2
-1067;It;Pulp;2
-1068;Bookends;Simon & Garfunkel;2
-1069;Performance and Cocktails;Stereophonics;2
-1070;Best Of The Capitol Years 1995-2007;The Dandy Warhols;2
-1071;Absent Friends;The Divine Comedy;2
-1072;Rotten Apples;The Smashing Pumpkins;2
-1073;Is This It (US);The Strokes;2
-1074;Winning Days;The Vines;2
-1075;Let's Stay Together;Al Green;1
-1076;Alaska Y Los Pegamoides;Alaska y Los Pegamoides;1
-1077;Raindrops Keep Fallin' on My Head;B.J. Thomas;1
-1078;La Araña;Barricada;1
-1079;Greatest Hits;Billy Idol;1
-1080;Rebel Yell;Billy Idol;1
-1081;Grand Theft Auto: San Andreas Official Soundtrack Box Set;Black Harmony;1
-1082;Enema of the State;blink-182;1
-1083;All the people... Blur: Live in Hyde Park 02/07/2009 - Disc 02;Blur;1
-1084;Atrapado en el Amor;Burning;1
-1085;Camilo;Camilo Sesto;1
-1086;Best Of Bossa Nova - 75 Classic Hits (Disc 1);Carlos Lyra;1
-1087;1. Outside - The Nathan Adler Diaries: A Hyper Cycle;David Bowie;1
-1088;David Live CD1;David Bowie;1
-1089;Space Oddity (Bonus Disc);David Bowie;1
-1090;Stage (disc 2);David Bowie;1
-1091;Vacaciones en el Prat;Decibelios;1
-1092;Ultramemia;Def con Dos;1
-1093;Pulp Fiction (Collector's Edition);Duane Whitaker;1
-1094;Closeup;Frankie Valli;1
-1095;PIAS 2005 Music First;Franz Ferdinand;1
-1096;SUBID LA MUSICA;Gabinete Caligari;1
-1097;Older;George Michael;1
-1098;For The Very First Time Vol. 2;Glenn Miller;1
-1099;The Sound of Glenn Miller;Glenn Miller;1
-1100;Kasabian;Ｇｏｒｉｌｌａｚ;1
-1101;Better Than Raw;Helloween;1
-1102;Bonito;Jarabe de Palo;1
-1103;De Vuelta Y Vuelta;Jarabe de Palo;1
-1104;Depende;Jarabe de Palo;1
-1105;Pulp Fiction (Collector's Edition);Link Wray & His Wraymen;1
-1106;Bultacos Y Montesas;Los Sencillos;1
-1107;Ese Día Piensa En Mí;Los Suaves;1
-1108;PIAS 2005 Music First;Marc Parrot;1
-1109;Pulp Fiction (Collector's Edition);Maria McKee;1
-1110;Antichrist Superstar;Marilyn Manson;1
-1111;Metallica (Black Album);Metallica;1
-1112;PIAS 2005 Music First;Mowgai;1
-1113;Tender Prey;Nick Cave & the Bad Seeds;1
-1114;Mi Tierra;Nino Bravo;1
-1115;Best Of The Capitol Years 1995-2007;Original TV Soundtrack;1
-1116;Manners;Passion Pit;1
-1117;Sounds of Silence;Paul Simon;1
-1118;Best Of Bossa Nova - 75 Classic Hits (Disc 1);Pery Ribeiro;1
-1119;Anthology ( Disc 2 );Ramones;1
-1120;Listos Para La Reconversión;Rosendo;1
-1121;Pulp Fiction (Collector's Edition);Samuel L. Jackson;1
-1122;Blackout;Scorpions;1
-1123;Never Mind The Bollocks [TOCP-53098 TOSHIBA-EMI JAPAN];Sex Pistols;1
-1124;The Great Rock'n'Roll Swindle;Sex Pistols;1
-1125;Sounds of Silence;Simon & Garfunkel;1
-1126;Siniestro Total II: El Regreso;Siniestro Total;1
-1127;Easy Rider;Steppenwolf;1
-1128;Adventure;Television;1
-1129;Push the Button;The Chemical Brothers;1
-1130;PIAS 2005 Music First;The Go! Team;1
-1131;Get The Knack;The Knack;1
-1132;Pulp Fiction (Collector's Edition);The Lively Ones;1
-1133;Someone to Drive You Home;The Long Blondes;1
-1134;Pulp Fiction (Collector's Edition);The Marketts;1
-1135;Always Outnumbered Never Outgu;The Prodigy;1
-1136;Pulp Fiction (Collector's Edition);The Robins;1
-1137;It's Only Rock ' N Roll;The Rolling Stones;1
-1138;Their Satanic Majesties Request;The Rolling Stones;1
-1139;Mellon Collie and the Infinite Sadness (CD 2 Twilight to Starlight);The Smashing Pumpkins;1
-1140;Hatful Of Hollow (Japan MiniLP WPCR-12439);The Smiths;1
-1141;Strangeways, Here We Come;The Smiths;1
-1142;Pulp Fiction (Collector's Edition);The Statler Brothers;1
-1143;Van Halen;Van Halen;1
-1144;The Bends;Varios intérpretes;1
-1145;Let's Stay Together;Various Artists;1
-1146;The Invisible Band;Various Artists;1
-1147;Best Of Bossa Nova - 75 Classic Hits (Disc 1);Vinícius de Moraes;1
+189;All Summer Long;The Beach Boys;57
+190;Plastic Beach;Gorillaz;56
+191;Adore;The Smashing Pumpkins;56
+192;Turbo;Judas Priest;55
+193;Unidad De Desplazamiento;Los Planetas;55
+194;End of the Century;Ramones;55
+195;Please Please Me;The Beatles;55
+196;Combat Rock;The Clash;55
+197;Mellon Collie and the Infinite Sadness (Dawn to Dusk);The Smashing Pumpkins;55
+198;Fighting;Thin Lizzy;55
+199;1977;Ash;54
+200;Modern Life Is Rubbish (Special Edition);Blur;54
+201;Young Americans;David Bowie;54
+202;Juez y Parte;Joaquín Sabina;54
+203;Sally Can't Dance;Lou Reed;54
+204;Weezer (The Blue Album);Weezer;54
+205;Highway 61 Revisited;Bob Dylan;53
+206;Cosmo's Factory;Creedence Clearwater Revival;53
+207;Elastica;Elastica;53
+208;One Step Beyond;Madness;53
+209;This Is My Truth Tell Me Yours;Manic Street Preachers;53
+210;The Fat Of The Land;Prodigy;53
+211;Space Oddity;David Bowie;52
+212;1999;Prince;52
+213;Costa Azul;Sidonie;52
+214;Aladdin Sane;David Bowie;51
+215;You're Living All Over Me;Dinosaur Jr.;51
+216;Black Tie White Noise;David Bowie;50
+217;Led Zeppelin II;Led Zeppelin;50
+218;Supergrass;Supergrass;50
+219;The Velvet Underground & Nico;The Velvet Underground;50
+220;Alta Suciedad;Andrés Calamaro;49
+221;The Man Who Sold the World;David Bowie;49
+222;Duran Duran;Duran Duran;49
+223;Gorillaz;Gorillaz;49
+224;Lust for Life;Iggy Pop;49
+225;In Utero;Nirvana;49
+226;Loco Por Incordiar;Rosendo;49
+227;The Madcap Laughs;Syd Barrett;49
+228;Parallel Lines;Blondie;48
+229;Spiders;Space;48
+230;Everyone's Got One;Echobelly;47
+231;Sad Wings of Destiny;Judas Priest;47
+232;We Love Life;Pulp;47
+233;Ramones;Ramones;47
+234;The Stone Roses;The Stone Roses;47
+235;Eliminator;ZZ Top;47
+236;Toys in the Attic;Aerosmith;46
+237;Aloha From Hawaii Via Satellite;Elvis Presley;46
+238;Song Machine, Season One: Strange Timez;Gorillaz;46
+239;Ilegales;Ilegales;46
+240;Led Zeppelin III;Led Zeppelin;46
+241;Frankenstein;Los Suaves;46
+242;Be Here Now;Oasis;46
+243;Herzeleid;Rammstein;46
+244;Outlandos D'Amour;The Police;46
+245;Let It Bleed;The Rolling Stones;46
+246;Hatful of Hollow;The Smiths;46
+247;Willy and the Poor Boys;Creedence Clearwater Revival;45
+248;The Fall;Gorillaz;45
+249;Defenders of the Faith;Judas Priest;45
+250;Tragic Kingdom;No Doubt;45
+251;Exodus;Bob Marley & The Wailers;44
+252;Senderos De Traición;Héroes del Silencio;44
+253;Surrealistic Pillow;Jefferson Airplane;44
+254;Otis Blue;Otis Redding;44
+255;Kid A;Radiohead;44
+256;Anthology Disc 1;Ramones;43
+257;In It for the Money;Supergrass;43
+258;Gran Turismo;The Cardigans;43
+259;The Gift;The Jam;43
+260;Is This It;The Strokes;43
+261;Honestidad Brutal CD1;Andrés Calamaro;42
+262;Parachutes;Coldplay;42
+263;Everyday Robots;Damon Albarn;42
+264;Dookie;Green Day;42
+265;Buena Suerte;Los Rodríguez;42
+266;Come On Pilgrim;Pixies;42
+267;The Good, the Bad & the Queen;The Good, the Bad & the Queen;42
+268;Achtung Baby;U2;42
+269;Pinkerton;Weezer;42
+270;Powerage;AC/DC;41
+271;Master of Reality;Black Sabbath;41
+272;The Sky Is Too High;Graham Coxon;41
+273;Oracular Spectacular;MGMT;41
+274;Walk Among Us;Misfits;41
+275;Black Holes and Revelations;Muse;41
+276;Isn't Anything;my bloody valentine;41
+277;Punk in Drublic;NOFX;41
+278;Dig Out Your Soul;Oasis;41
+279;Superstate (feat. Graham Coxon);Superstate;41
+280;Beggars Banquet;The Rolling Stones;41
+281;Best of Specials;The Specials;41
+282;Who's Next;The Who;41
+283;The Great Escape (Special Edition);Blur;40
+284;Rocka Rolla;Judas Priest;40
+285;Alevosía;Luis Eduardo Aute;40
+286;Attack Of The Grey Lantern;Mansun;40
+287;The Masterplan;Oasis;40
+288;Ram;Paul McCartney;40
+289;Meddle;Pink Floyd;40
+290;Are You Experienced?;The Jimi Hendrix Experience;40
+291;City Lights;The WAEVE;40
+292;The WAEVE;The WAEVE;40
+293;The Ideal Crash;dEUS;39
+294;Malas Compañías;Joaquín Sabina;39
+295;Double Fantasy;John Lennon;39
+296;Here's Little Richard;Little Richard;39
+297;Rock 'n' Roll Animal;Lou Reed;39
+298;Wallpaper For The Soul;Tahiti 80;39
+299;The Band;The Band;39
+300;Tyrannosaurus Hives;The Hives;39
+301;1984;Van Halen;39
+302;Back in Black;AC/DC;38
+303;Too Low For Zero;Elton John;38
+304;The Rise & Fall;Madness;38
+305;18;Moby;38
+306;Don't Believe the Truth;Oasis;38
+307;Mellon Collie And The Infinite Sadness (Twilight To Starlight);The Smashing Pumpkins;38
+308;Todos Están Muertos;Ilegales;37
+309;Street Hassle;Lou Reed;37
+310;It's Never Been Like That;Phoenix;37
+311;Jazz;Queen;37
+312;These People;Richard Ashcroft;37
+313;A Hard Day's Night;The Beatles;37
+314;The La's;The La's;37
+315;The Smiths;The Smiths;37
+316;Facelift;Alice in Chains;36
+317;The Nearer the Fountain, More Pure the Stream Flows;Damon Albarn;36
+318;Machine Head;Deep Purple;36
+319;2nd to None;Elvis Presley;36
+320;Impuesto Revolucionario;Eskorbuto;36
+321;What's Going On;Marvin Gaye;36
+322;Thriller;Michael Jackson;36
+323;The Clash (U.K.);The Clash;36
+324;The Very Best Of Edith Piaf;Édith Piaf;35
+325;Version 2.0;Garbage;35
+326;Avalancha;Héroes del Silencio;35
+327;Surfing with the Alien;Joe Satriani;35
+328;Unknown Pleasures;Joy Division;35
+329;Próxima Estación...Esperanza;Manu Chao;35
+330;Blue Lines;Massive Attack;35
+331;Out of Time;R.E.M.;35
+332;Surrender;The Chemical Brothers;35
+333;Boys Don't Cry;The Cure;35
+334;The Best of Van Morrison;Van Morrison;35
+335;Blur (Special Edition);Blur;34
+336;Let's Dance;David Bowie;34
+337;Sanatorio de Muñecos;Hamlet;34
+338;Ultrasónica;Los Piratas;34
+339;Alphabetical;Phoenix;34
+340;Screamadelica;Primal Scream;34
+341;Rage Against the Machine;Rage Against the Machine;34
+342;Giant Steps;The Boo Radleys;34
+343;In the City;The Jam;34
+344;Highly Evolved;The Vines;34
+345;Mr. Natural;Bee Gees;33
+346;Nuevas mezclas;El Último de la Fila;33
+347;A+E;Graham Coxon;33
+348;The Golden D;Graham Coxon;33
+349;Life;Inspiral Carpets;33
+350;Synkronized;Jamiroquai;33
+351;Mezzanine;Massive Attack;33
+352;Play;Moby;33
+353;Player;Player;33
+354;Mars Audiac Quintet;Stereolab;33
+355;Elephant;The White Stripes;33
+356;The Joshua Tree;U2;33
+357;All The People... Blur: Live In Hyde Park 02/07/2009;Blur;32
+358;Leisure (Special Edition);Blur;32
+359;Parklife (Special Edition);Blur;32
+360;Antidotes;Foals;32
+361;There Is Nothing Left to Lose;Foo Fighters;32
+362;Appetite for Destruction;Guns N' Roses;32
+363;Patente De Corso;Jaime Urrutia;32
+364;Greatest Hits;Joe Cocker;32
+365;Vulgar Display of Power;Pantera;32
+366;Rated R;Queens of the Stone Age;32
+367;Sehnsucht;Rammstein;32
+368;Vol.4;Black Sabbath;31
+369;On the Third Day;Electric Light Orchestra;31
+370;Rock Transgresivo;Extremoduro;31
+371;Al calor del amor en un bar;Gabinete Caligari;31
+372;In Through the Out Door;Led Zeppelin;31
+373;Bleach;Nirvana;31
+374;Wish You Were Here;Pink Floyd;31
+375;Voy a acabar borracho;Platero y tú;31
+376;Bad Moon Rising;Sonic Youth;31
+377;Dirty;Sonic Youth;31
+378;Music for the Jilted Generation;The Prodigy;31
+379;After-Math;The Rolling Stones;31
+380;Homework;Daft Punk;30
+381;Radio Songs;Dave Rowntree;30
+382;Somos unos Animales;Extremoduro;30
+383;Franz Ferdinand;Franz Ferdinand;30
+384;Ladies And Gentlemen... The Best Of George Michael;George Michael;30
+385;Once Upon a Time in the West;Hard-Fi;30
+386;Grace;Jeff Buckley;30
+387;El Hombre del Traje Gris;Joaquín Sabina;30
+388;Painkiller;Judas Priest;30
+389;30 Años De Éxitos;Los Toreros Muertos;30
+390;Second Helping;Lynyrd Skynyrd;30
+391;Grease;Soundtrack;30
+392;A Short Cut To Teenage Fanclub;Teenage Fanclub;30
+393;Three Imaginary Boys;The Cure;30
+394;Kinda Kinks;The Kinks;30
+395;Use Your Brain;Clawfinger;29
+396;Alzheimer;Def con Dos;29
+397;Face the Music;Electric Light Orchestra;29
+398;Angel Dust;Faith No More;29
+399;Rumours;Fleetwood Mac;29
+400;Employment;Kaiser Chiefs;29
+401;His 'n' Hers (Bonus Disc);Pulp;29
+402;Paranoid;Black Sabbath;28
+403;Station to Station;David Bowie;28
+404;The Next Day;David Bowie;28
+405;Estopa;Estopa;28
+406;King for a Day... Fool for a Lifetime;Faith No More;28
+407;Warning;Green Day;28
+408;Our Love to Admire;Interpol;28
+409;Ruleta Rusa;Joaquín Sabina;28
+410;Sin Documentos;Los Rodríguez;28
+411;¿Donde jugarán las niñas?;Molotov;28
+412;The Coral;The Coral;28
+413;Neon Bible;Arcade Fire;27
+414;Suck It and See;Arctic Monkeys;27
+415;Mutations;Beck;27
+416;Another Music In A Different Kitchen;Buzzcocks;27
+417;Waterloo To Anywhere;Dirty Pretty Things;27
+418;On;Echobelly;27
+419;Eldorado;Electric Light Orchestra;27
+420;Too Fast for Love;Mötley Crüe;27
+421;Horses;Patti Smith;27
+422;A Kind of Magic;Queen;27
+423;Remain in Light;Talking Heads;27
+424;My Generation;The Who;27
+425;Vagabonds of the Western World;Thin Lizzy;27
+426;Main Course;Bee Gees;26
+427;Billy Idol;Billy Idol;26
+428;Debut;Björk;26
+429;Crystal Castles III;Crystal Castles;26
+430;Rio;Duran Duran;26
+431;D-Sides CD1;Gorillaz;26
+432;Regreso Al Sexo Químicamente Puro;Ilegales;26
+433;Because of the Times;Kings of Leon;26
+434;Dressed To Kill;Kiss;26
+435;Kiss;Kiss;26
+436;The Firstborn Is Dead;Nick Cave & the Bad Seeds;26
+437;Chasing Yesterday;Noel Gallagher's High Flying Birds;26
+438;Sheer Heart Attack;Queen;26
+439;Rocket to Russia;Ramones;26
+440;Righeira;Righeira;26
+441;Rocket Juice & the Moon;Rocket Juice & The Moon;26
+442;Fuera De Lugar;Rosendo;26
+443;Ogden's Nut Gone Flake;Small Faces;26
+444;Beatles for Sale;The Beatles;26
+445;Songs The Lord Taught Us;The Cramps;26
+446;Hot Fuss;The Killers;26
+447;Smash;The Offspring;26
+448;Pizza Pop;Australian Blonde;25
+449;Larga Vida Al Rock and Roll;Barón Rojo;25
+450;Spirits Having Flown;Bee Gees;25
+451;The River;Bruce Springsteen;25
+452;Creedence Clearwater Revival;Creedence Clearwater Revival;25
+453;3 Feet High and Rising;De La Soul;25
+454;Metropolis Pt. 2: Scenes From a Memory;Dream Theater;25
+455;Tumbleweed Connection;Elton John;25
+456;Sketches of Spain;Miles Davis;25
+457;Low-Life;New Order;25
+458;Noel Gallagher's High Flying Birds;Noel Gallagher;25
+459;Seventeen Seconds;The Cure;25
+460;Yoshimi Battles the Pink Robots;The Flaming Lips;25
+461;Experience;The Prodigy;25
+462;Enter the Wu-Tang (36 Chambers);Wu-Tang Clan;25
+463;Among the Living;Anthrax;24
+464;Saturday Night Fever: The Original Movie Sound Track;Bee Gees;24
+465;Dire Straits;Dire Straits;24
+466;Leaders of the Free World;Elbow;24
+467;From Here to Eternity;Giorgio Moroder;24
+468;Crow Sit on Blood Tree;Graham Coxon;24
+469;Chicos Pálidos Para La Máquina;Ilegales;24
+470;The Number of the Beast;Iron Maiden;24
+471;Surfing the Void;Klaxons;24
+472;El ritmo del garage;Loquillo y Trogloditas;24
+473;Countdown to Extinction;Megadeth;24
+474;Iron Fist;Motörhead;24
+475;Moseley Shoals;Ocean Colour Scene;24
+476;Stories From the City, Stories From the Sea;PJ Harvey;24
+477;The Slider;T. Rex;24
+478;Marquee Moon;Television;24
+479;Volcano;Temples;24
+480;Pretenders;The Pretenders;24
+481;Maxinquaye;Tricky;24
+482;It's Blitz!;Yeah Yeah Yeahs;24
+483;Por Instinto;Barricada;23
+484;Buddy Holly 75 - CD2;Buddy Holly;23
+485;Crowded House;Crowded House;23
+486;Right Thoughts, Right Words, Right Action;Franz Ferdinand;23
+487;Back To Front;Gilbert O'Sullivan;23
+488;Earth A.D. & Wolfsblood;Misfits;23
+489;Animal Rights;Moby;23
+490;Standing on the Shoulder of Giants;Oasis;23
+491;Yield;Pearl Jam;23
+492;The Wall [CD1];Pink Floyd;23
+493;Good Humor;Saint Etienne;23
+494;Magical Mystery Tour;The Beatles;23
+495;The Fat of the Land;The Prodigy;23
+496;Tommy;The Who;23
+497;Fragile;Yes;23
+498;Hours...;David Bowie;22
+499;Caldo de Pollo;Decibelios;22
+500;Fireball;Deep Purple;22
+501;Freak Out!;Frank Zappa;22
+502;A Funk Odyssey;Jamiroquai;22
+503;Myths of the Near Future;Klaxons;22
+504;Esta Vida Me Va A Matar;Los Suaves;22
+505;Origin of Symmetry;Muse;22
+506;New York Dolls;New York Dolls;22
+507;Correos;Platero y tú;22
+508;Dummy;Portishead;22
+509;A Day at the Races;Queen;22
+510;The Works;Queen;22
+511;Amnesiac;Radiohead;22
+512;Blood Sugar Sex Magik;Red Hot Chili Peppers;22
+513;By the Way;Red Hot Chili Peppers;22
+514;Nowhere;Ride;22
+515;A Tientas y Barrancas;Rosendo;22
+516;Kaleidoscope;Siouxsie and the Banshees;22
+517;Goo;Sonic Youth;22
+518;Night Thoughts;Suede;22
+519;Even in the Quietest Moments...;Supertramp;22
+520;A Catholic Education;Teenage Fanclub;22
+521;Setting Sons;The Jam;22
+522;Ghost In The Machine;The Police;22
+523;Reggatta de Blanc;The Police;22
+524;Room on Fire;The Strokes;22
+525;Buddy Holly 75 - CD01;Buddy Holly;21
+526;El fin de la década;Burning;21
+527;Music for the Masses;Depeche Mode;21
+528;I Got Dem Ol' Kozmic Blues Again, Mama;Janis Joplin;21
+529;Encuentros con entidades;Los Planetas;21
+530;Super 8;Los Planetas;21
+531;Una semana en el motor de un autobús;Los Planetas;21
+532;New Sensations;Lou Reed;21
+533;Tubular Bells;Mike Oldfield;21
+534;Brighten the Corners;Pavement;21
+535;Reckoning;R.E.M.;21
+536;Deuce;Rory Gallagher;21
+537;Talking Book;Stevie Wonder;21
+538;Absolutely Live;The Doors;21
+539;Gish;The Smashing Pumpkins;21
+540;A Northern Soul;The Verve;21
+541;Whatever People Say I Am, That's What I'm Not;Arctic Monkeys;20
+542;Midlife: A Beginner's Guide To Blur;Blur;20
+543;Emergency On Planet Earth;Jamiroquai;20
+544;Point of Entry;Judas Priest;20
+545;Destroyer;Kiss;20
+546;(pronounced 'lĕh-'nérd 'skin-'nérd);Lynyrd Skynyrd;20
+547;MGMT;MGMT;20
+548;Colour Of The Trap;Miles Kane;20
+549;Bomber;Motörhead;20
+550;Showbiz;Muse;20
+551;Grabaciones Completas 1981-1983;Parálisis Permanente;20
+552;Vitalogy;Pearl Jam;20
+553;Muy Deficiente;Platero Y Tu;20
+554;Life Thru a Lens;Robbie Williams;20
+555;For Your Pleasure;Roxy Music;20
+556;True;Spandau Ballet;20
+557;Crisis? What Crisis?;Supertramp;20
+558;The Best of Talking Heads;Talking Heads;20
+559;The Head on the Door;The Cure;20
+560;Primary Colours;The Horrors;20
+561;The Kink Kontroversy;The Kinks;20
+562;Machina - The Machines of God;The Smashing Pumpkins;20
+563;The Queen Is Dead;The Smiths;20
+564;The Who by Numbers;The Who;20
+565;Undertow;Tool;20
+566;Nine Lives;Aerosmith;19
+567;Black Sabbath;Black Sabbath;19
+568;13 (Special Edition);Blur;19
+569;Ocean Rain;Echo & the Bunnymen;19
+570;Salve;La Polla Records;19
+571;Led Zeppelin I;Led Zeppelin;19
+572;Songs of Leonard Cohen;Leonard Cohen;19
+573;Rust In Peace;Megadeth;19
+574;Don't Forget Who You Are;Miles Kane;19
+575;Black Market Music;Placebo;19
+576;Queen;Queen;19
+577;With the Beatles;The Beatles;19
+578;Yellow Submarine;The Beatles;19
+579;Meat Is Murder;The Smiths;19
+580;Funeral;Arcade Fire;18
+581;Think Tank (Special Edition);Blur;18
+582;The Best Of Chet Baker;Chet Baker;18
+583;Disraeli Gears;Cream;18
+584;Armas Pal Pueblo;Def con Dos;18
+585;Communiqué;Dire Straits;18
+586;Flamingos;Enrique Bunbury;18
+587;Slowhand;Eric Clapton;18
+588;This Is Glenn Miller And His Orchestra;Glenn Miller;18
+589;Stand Up;Jethro Tull;18
+590;Substance;Joy Division;18
+591;In the Court of the Crimson King;King Crimson;18
+592;Growing Up in Public;Lou Reed;18
+593;Gold Against the Soul;Manic Street Preachers;18
+594;Master of Puppets;Metallica;18
+595;The Piper at the Gates of Dawn;Pink Floyd;18
+596;Complete 'B' Sides;Pixies;18
+597;Separations;Pulp;18
+598;Automatic for the People;R.E.M.;18
+599;Robbie Dupree;Robbie Dupree;18
+600;Jugar Al Gua;Rosendo;18
+601;Bailaré Sobre Tu Tumba;Siniestro Total;18
+602;Kiss Me, Kiss Me, Kiss Me;The Cure;18
+603;Black and Blue;The Rolling Stones;18
+604;It's Only Rock 'n' Roll;The Rolling Stones;18
+605;summerteeth;Wilco;18
+606;The Suburbs;Arcade Fire;17
+607;Eat to the Beat;Blondie;17
+608;Rasgos;Camilo Sesto;17
+609;Bug;Dinosaur Jr.;17
+610;Milestones Of A Swing Legend CD6;Glenn Miller;17
+611;El Mar No Cesa;Héroes del Silencio;17
+612;Crooked Rain, Crooked Rain;Pavement;17
+613;Muy deficiente;Platero y tú;17
+614;Songs for the Deaf;Queens of the Stone Age;17
+615;Nunca es Tarde... si la Dicha es Buena;Reincidentes;17
+616;¿Cuándo se come aqui?;Siniestro Total;17
+617;Menos Mal Que Nos Queda Portugal;Siniestro Total;17
+618;The It Girl;Sleeper;17
+619;Superunknown;Soundgarden;17
+620;A New Morning;Suede;17
+621;Crime of the Century;Supertramp;17
+622;Between 10th and 11th;The Charlatans;17
+623;Some Girls;The Rolling Stones;17
+624;NME Presents the 90s Disc 1;Various Artists;17
+625;NME Presents the 90s Disc 2;Various Artists;17
+626;NME Presents the 90s Disc 3;Various Artists;17
+627;Weezer (The Green Album);Weezer;17
+628;Reflektor;Arcade Fire;16
+629;Odelay;Beck;16
+630;Cria Cuervos;Boikot;16
+631;Catch Bull At Four;Cat Stevens;16
+632;Inadaptados;Cicatriz;16
+633;You Could Have It So Much Better;Franz Ferdinand;16
+634;Glasvegas;Glasvegas;16
+635;16 Biggest Hits;Johnny Cash;16
+636;Kasabian;Kasabian;16
+637;Life Is Peachy;Korn;16
+638;Autobahn;Kraftwerk;16
+639;Physical Graffiti (CD2);Led Zeppelin;16
+640;Chocolate Starfish and the Hot Dog Flavored Water;Limp Bizkit;16
+641;Peace Sells... But Who's Buying?;Megadeth;16
+642;... And Justice for All;Metallica;16
+643;Marchin' Already;Ocean Colour Scene;16
+644;Greatest Hits I;Queen;16
+645;Rancid;Rancid;16
+646;Veo, Veo... Mamoneo;Rosendo;16
+647;Sandinista!;The Clash;16
+648;Darklands;The Jesus and Mary Chain;16
+649;Siamese Dream;The Smashing Pumpkins;16
+650;Live & Dangerous;Thin Lizzy;16
+651;Good Feeling;Travis;16
+652;Le origini volume 1;Adriano Celentano;15
+653;No Control;Bad Religion;15
+654;Balas Blancas;Barricada;15
+655;Never Say Die!;Black Sabbath;15
+656;Madrid;Burning;15
+657;Grandes éxitos y fracasos (Episodio primero);Extremoduro;15
+658;You've Come a Long Way, Baby;Fatboy Slim;15
+659;Strangers in the Night;Frank Sinatra;15
+660;Privado;Gabinete Caligari;15
+661;Use Your Illusion II;Guns N' Roses;15
+662;Some Time In New York City [CD1]];John Lennon;15
+663;Palabras más, Palabras Menos;Los Rodríguez;15
+664;The Downward Spiral;Nine Inch Nails;15
+665;7;Platero y tú;15
+666;This Is Hardcore (Bonus Disc);Pulp;15
+667;Música moderna;Radio Futura;15
+668;Live aus Berlin;Rammstein;15
+669;La Tortuga;Rosendo;15
+670;In Trance;Scorpions;15
+671;Never Mind the Bollocks;Sex Pistols;15
+672;Von;Sigur Rós;15
+673;How to Make Friends and Influence People;Terrorvision;15
+674;The Hush;Texas;15
+675;The Clash (U.S.);The Clash;15
+676;To the Faithful Departed;The Cranberries;15
+677;Band on the Run;Wings;15
+678;Volumen Brutal;Barón Rojo;14
+679;In the Flat Field;Bauhaus;14
+680;Sabotage;Black Sabbath;14
+681;Under the Westway;Blur;14
+682;Born in the U.S.A.;Bruce Springsteen;14
+683;Madrid, zona bruta;El Club de los Poetas Violentos;14
+684;Iros Todos a Tomar Por Culo;Extremoduro;14
+685;Sun Valley Serenade;Glenn Miller;14
+686;Use Your Illusion I;Guns N' Roses;14
+687;The Return Of The Space Cowboy;Jamiroquai;14
+688;LHR;La Habitación Roja;14
+689;Revolución;La Polla Records;14
+690;New York;Lou Reed;14
+691;Load;Metallica;14
+692;Bad;Michael Jackson;14
+693;Ten;Pearl Jam;14
+694;Hay Poco Rock & Roll;Platero y tú;14
+695;Tin Planet;Space;14
+696;Stage Fright;The Band;14
+697;Come With Us;The Chemical Brothers;14
+698;Psychedelic Jungle;The Cramps;14
+699;Faith;The Cure;14
+700;Sound Affects;The Jam;14
+701;Ixnay on the Hombre;The Offspring;14
+702;White Music;XTC;14
+703;Get a Grip;Aerosmith;13
+704;Favourite Worst Nightmare;Arctic Monkeys;13
+705;Shotter´s Nation;Babyshambles;13
+706;Different Gear, Still Speeding;Beady Eye;13
+707;Big Brother & Holding Company;Big Brother & The Holding Company;13
+708;Plastic Letters;Blondie;13
+709;Parklive Disc 1;Blur;13
+710;The River 1;Bruce Springsteen;13
+711;Never Let Me Down;David Bowie;13
+712;Transatlanticism;Death Cab for Cutie;13
+713;Pyromania;Def Leppard;13
+714;Violator;Depeche Mode;13
+715;ELO 2;Electric Light Orchestra;13
+716;Pequeño;Enrique Bunbury;13
+717;Agíla;Extremoduro;13
+718;Tonight: Franz Ferdinand;Franz Ferdinand;13
+719;Juke Box Saturday Night;Glenn Miller;13
+720;Make Yourself;Incubus;13
+721;Ray of Light;Madonna;13
+722;Te quiero,Te quiero;Nino Bravo;13
+723;Un Beso Y Una Flor;Nino Bravo;13
+724;Mechanical Wonder;Ocean Colour Scene;13
+725;Evil Heat;Primal Scream;13
+726;Mother's Milk;Red Hot Chili Peppers;13
+727;Sing When You're Winning;Robbie Williams;13
+728;Emperor Tomato Ketchup;Stereolab;13
+729;Bandwagonesque;Teenage Fanclub;13
+730;Grand Prix;Teenage Fanclub;13
+731;First Band on the Moon;The Cardigans;13
+732;Tellin' Stories (US Edition);The Charlatans;13
+733;Dig Your Own Hole;The Chemical Brothers;13
+734;No Need to Argue;The Cranberries;13
+735;Hate;The Delgados;13
+736;Live at the Hollywood Bowl;The Doors;13
+737;Muswell Hillbillies;The Kinks;13
+738;Bridges to Babylon;The Rolling Stones;13
+739;Get Behind Me Satan;The White Stripes;13
+740;A Quick One;The Who;13
+741;The Eraser;Thom Yorke;13
+742;Lateralus;Tool;13
+743;Maladroit;Weezer;13
+744;Permanent Vacation;Aerosmith;12
+745;Humbug;Arctic Monkeys;12
+746;Sunday at the vanguard;Bill Evans;12
+747;Parklive Disc 2;Blur;12
+748;Greetings From Asbury Park;Bruce Springsteen;12
+749;La Taberna del Buda;Café Quijano;12
+750;Mardi Gras;Creedence Clearwater Revival;12
+751;Captain Fantastic and the Brown Dirt Cowboy;Elton John;12
+752;Destrangis;Estopa;12
+753;Deltoya;Extremoduro;12
+754;Garbage;Garbage;12
+755;E=MC2;Giorgio Moroder;12
+756;American Beauty;Grateful Dead;12
+757;New Values;Iggy Pop;12
+758;S.C.I.E.N.C.E.;Incubus;12
+759;Further Complications;Jarvis Cocker;12
+760;Live in New York City;John Lennon;12
+761;Fatal Portrait;King Diamond;12
+762;Radio-Activity;Kraftwerk;12
+763;The Man Machine;Kraftwerk;12
+764;Lovelife;Lush;12
+765;Things to Make and Do;Moloko;12
+766;After the Gold Rush;Neil Young;12
+767;Too Much Too Soon;New York Dolls;12
+768;The Wall [CD2];Pink Floyd;12
+769;Indie Cindy;Pixies;12
+770;Vamos Tirando;Platero y tú;12
+771;Freaks;Pulp;12
+772;Murmur;R.E.M.;12
+773;Deja Que les Diga Que No!;Rosendo;12
+774;El Incendio;Sidonie;12
+775;Barrett;Syd Barrett;12
+776;Spirit of Eden;Talk Talk;12
+777;Veni Vidi Vicious;The Hives;12
+778;Skying;The Horrors;12
+779;Strange House;The Horrors;12
+780;All Mod Cons;The Jam;12
+781;Americana;The Offspring;12
+782;Zenyattà Mondatta;The Police;12
+783;Pretenders II;The Pretenders;12
+784;Blondie;Blondie;11
+785;Best of;Blur;11
+786;Bringing It All Back Home;Bob Dylan;11
+787;Pendulum;Creedence Clearwater Revival;11
+788;Adrenaline;Deftones;11
+789;Hellville de Luxe;Enrique Bunbury;11
+790;Anti Todo;Eskorbuto;11
+791;¿Dónde Están Mis Amigos?;Extremoduro;11
+792;Canciones Prohibidas;Extremoduro;11
+793;All Things Must Pass (disc 2);George Harrison;11
+794;Orchestra Wives;Glenn Miller;11
+795;Song Machine, Season One: Strange Timez (Deluxe Edition);Gorillaz;11
+796;Celebrity Skin;Hole;11
+797;Si la muerte me mira de frente, me pongo de lao;Ilegales;11
+798;Nothing's Shocking;Jane's Addiction;11
+799;Aqualung;Jethro Tull;11
+800;The Messenger;Johnny Marr;11
+801;Peasants, Pigs & Astronauts;Kula Shaker;11
+802;Pop;Los Planetas;11
+803;Shout at the Devil;Mötley Crüe;11
+804;Loveless;my bloody valentine;11
+805;Prepárate;Obus;11
+806;Infest;Papa Roach;11
+807;Vs.;Pearl Jam;11
+808;Atom Heart Mother;Pink Floyd;11
+809;Portishead;Portishead;11
+810;The Game;Queen;11
+811;Evil Empire;Rage Against the Machine;11
+812;Mutter;Rammstein;11
+813;Show No Mercy;Slayer;11
+814;Purple;Stone Temple Pilots;11
+815;Long Gone Before Daylight;The Cardigans;11
+816;Some Friendly;The Charlatans;11
+817;Exit Planet Dust;The Chemical Brothers;11
+818;Village Green Preservation Society [Special Deluxe Edition 2004] (CD2 Mono);The Kinks;11
+819;Synchronicity;The Police;11
+820;Goats Head Soup;The Rolling Stones;11
+821;Tattoo You;The Rolling Stones;11
+822;Bringing Down The Horse;The Wallflowers;11
+823;White Blood Cells;The White Stripes;11
+824;Zooropa;U2;11
+825;Year Of The Cat;Al Stewart;10
+826;Billion Dollar Babies;Alice Cooper;10
+827;HONESTIDAD BRUTAL CD2;Andrés Calamaro;10
+828;The Man;Barry White;10
+829;If You're Feeling Sinister;Belle and Sebastian;10
+830;Darkness on the Edge of Town;Bruce Springsteen;10
+831;La extraordinaria paradoja del sonido Quijano;Café Quijano;10
+832;Sentimientos;Camilo Sesto;10
+833;A Rush of Blood to the Head;Coldplay;10
+834;Earthling;David Bowie;10
+835;Cien Mil Vueltas;Gabinete Caligari;10
+836;The Kiss of Morning;Graham Coxon;10
+837;Nimrod;Green Day;10
+838;Pearl;Janis Joplin;10
+839;La Flaca;Jarabe de Palo;10
+840;Ram It Down;Judas Priest;10
+841;Rock and Roll Over;Kiss;10
+842;Physical Graffiti (CD1);Led Zeppelin;10
+843;Entre Amigos;Luis Eduardo Aute;10
+844;Kill 'Em All;Metallica;10
+845;Hergest Ridge;Mike Oldfield;10
+846;Overkill;Motörhead;10
+847;The Resistance;Muse;10
+848;Harvest;Neil Young;10
+849;Pretty Hate Machine;Nine Inch Nails;10
+850;Songs For The Front Row - The Best Of Ocean Colour Scene;Ocean Colour Scene;10
+851;Placebo;Placebo;10
+852;De un país en llamas;Radio Futura;10
+853;La canción de Juan Perro;Radio Futura;10
+854;Roxy Music;Roxy Music;10
+855;Reign in Blood;Slayer;10
+856;Other Voices;The Doors;10
+857;Costello Music;The Fratellis;10
+858;First Impressions of Earth;The Strokes;10
+859;It's Hard;The Who;10
+860;Afterburner;ZZ Top;10
+861;El Loco;ZZ Top;10
+862;Tres Hombres;ZZ Top;10
+863;High Voltage;AC/DC;9
+864;School's Out;Alice Cooper;9
+865;Flowing Rivers;Andy Gibb;9
+866;Imaginations From The Other Side;Blind Guardian;9
+867;Blonde on Blond;Bob Dylan;9
+868;Algo más;Camilo Sesto;9
+869;Indicios;Carlos Berlanga;9
+870;Saturday Night Fever: The Original Movie Sound Track;David Shire;9
+871;Some Great Reward;Depeche Mode;9
+872;Camino Soria;Gabinete Caligari;9
+873;Selling England by the Pound;Genesis;9
+874;Iron Maiden;Iron Maiden;9
+875;Piece of Mind;Iron Maiden;9
+876;Volunteers;Jefferson Airplane;9
+877;Hotel, Dulce Hotel;Joaquín Sabina;9
+878;Señales de Humo;Los Coronas;9
+879;Mecano;Mecano;9
+880;Porgy and Bess;Miles Davis;9
+881;Brotherhood;New Order;9
+882;The Good Son;Nick Cave & the Bad Seeds;9
+883;Your Funeral... My Trial;Nick Cave & the Bad Seeds;9
+884;McCartney;Paul McCartney;9
+885;Para Mal O Para Bien;Rosendo;9
+886;Virgin Killer;Scorpions;9
+887;Fresh Cream;Soundtrack;9
+888;Pulp Fiction (Collector's Edition);Soundtrack;9
+889;Step II;Sylvester;9
+890;Back Stabbers;The O'Jays;9
+891;Along Came Jones;Tom Jones;9
+892;Wild Life;Wings;9
+893;Le Fabuleux Destin d'Amélie Poulain;Yann Tiersen;9
+894;Diez;Alaska y Dinarama;8
+895;Technical Ectasy;Black Sabbath;8
+896;Chic;Chic;8
+897;David Bowie;David Bowie;8
+898;Segundo Asalto;Def con Dos;8
+899;Porcupine;Echo & the Bunnymen;8
+900;Glenn Miller (An Album Of Outstanding Arrangements);Glenn Miller;8
+901;Aoxomoxoa;Grateful Dead;8
+902;American Idiot;Green Day;8
+903;Coda;Led Zeppelin;8
+904;Nuthin' Fancy;Lynyrd Skynyrd;8
+905;The Holy Bible;Manic Street Preachers;8
+906;Killing Is My Business...And Business Is Good!;Megadeth;8
+907;Ride the Lightning;Metallica;8
+908;Movement;New Order;8
+909;Power, Corruption & Lies;New Order;8
+910;Kicking Against the Pricks;Nick Cave & the Bad Seeds;8
+911;Danger Zone;Player;8
+912;4ever;Prince;8
+913;Green;R.E.M.;8
+914;Leave Home;Ramones;8
+915;... A Las Lombrices;Rosendo;8
+916;Canciones Para Normales y Mero Dementes;Rosendo;8
+917;Lovedrive;Scorpions;8
+918;Singles 93-03;The Chemical Brothers;8
+919;Pornography;The Cure;8
+920;Singles;The Smiths;8
+921;Raw Power;The Stooges;8
+922;Older;Various Artists;8
+923;Suffer;Bad Religion;7
+924;Live At The Budokan;Blur;7
+925;The Wild, the Innocent & the E Street Shuffle;Bruce Springsteen;7
+926;Live Santa Monica '72;David Bowie;7
+927;Deep Purple In Rock;Deep Purple;7
+928;Who Do We Think We Are;Deep Purple;7
+929;Branquias Bajo el Agua;Derribos Arias;7
+930;Nursery Cryme;Genesis;7
+931;The Marvelous Miller Medleys;Glenn Miller;7
+932;Golpes bajos;Golpes Bajos;7
+933;El Espiritu Del Vino;Héroes del Silencio;7
+934;Yours Truly, Angry Mob;Kaiser Chiefs;7
+935;Empire;Kasabian;7
+936;Trans-Europe Express;Kraftwerk;7
+937;Presence;Led Zeppelin;7
+938;A Día De Hoy;Luis Eduardo Aute;7
+939;Auterretratos Vol.1 (CD1);Luis Eduardo Aute;7
+940;Tubular Bells II;Mike Oldfield;7
+941;Unplugged in New York;Nirvana;7
+942;Songs For The Front Row - The Best of Ocean Colour Scene - ARK21;Ocean Colour Scene;7
+943;Fly To The Rainbow;Scorpions;7
+944;Mellon Collie and the Infinite Sadness (CD 1 Dawn to Dusk);The Smashing Pumpkins;7
+945;Vivir Para Contarlo;Violadores del Verso;7
+946;Don't Stop;Billy Idol;6
+947;Bustin' + Dronin' (Disc-1);Blur;6
+948;The Freewheelin' Bob Dylan;Bob Dylan;6
+949;Mali Music;Damon Albarn;6
+950;Foxtrot;Genesis;6
+951;Double Fantasy;John Lennon/Yoko Ono;6
+952;Korn;Korn;6
+953;Generation Terrorists;Manic Street Preachers;6
+954;Life in Cartoon Motion;Mika;6
+955;Big Calm;Morcheeba;6
+956;Metal Box;Public Image Ltd.;6
+957;Death Goes To The Disco;Pulp;6
+958;Pleasant Dreams;Ramones;6
+959;Grand Theft Auto: San Andreas Official Soundtrack Box Set;Soundtrack;6
+960;Minute by Minute;The Doobie Brothers;6
+961;Saturday Night Fever: The Original Movie Sound Track;The Trammps;6
+962;White light, white heat;The Velvet Underground;6
+963;The Invisible Band;Travis;6
+964;Dirty Deeds Done Dirt Cheap;AC/DC;5
+965;Parklive Disc 3;Blur;5
+966;Buddy Holly 75 - CD03;Buddy Holly;5
+967;4 años, 2 meses y 1 dia;Cicatriz;5
+968;Dr Dee;Damon Albarn;5
+969;Pin Ups;David Bowie;5
+970;Scary Monsters;David Bowie;5
+971;Oi!;Decibelios;5
+972;Pulp Fiction (Collector's Edition);Dick Dale;5
+973;El Apóstol De La Lujuria;Ilegales;5
+974;El Muchacho Eléctrico;Jaime Urrutia;5
+975;Best Of Bossa Nova - 75 Classic Hits (Disc 1);João Gilberto;5
+976;Kollected - The Best Of Kula Shaker;Kula Shaker;5
+977;Kind of Blue;Miles Davis;5
+978;Maybe You've Been Brainwashed Too;New Radicals;5
+979;Animals;Pink Floyd;5
+980;A Pelo;Platero y tú;5
+981;Chronic Town;R.E.M.;5
+982;Up;R.E.M.;5
+983;The Great Rock'n'Roll Swindle;Sid Vicious;5
+984;Best Of Bossa Nova - 75 Classic Hits (Disc 1);Sylvia Telles;5
+985;Sweetheart Of The Rodeo;The Byrds;5
+986;In Concert CD2;The Doors;5
+987;Sam's Town;The Killers;5
+988;Dirty Work;The Rolling Stones;5
+989;Pop;U2;5
+990;Vampire Weekend;Vampire Weekend;5
+991;Van Halen II;Van Halen;5
+992;Al Green Is Love;Al Green;4
+993;En Vivo Mucho Mejor;Ariel Rot;4
+994;Licensed to Ill;Beastie Boys;4
+995;The Boy with the Arab Strap;Belle and Sebastian;4
+996;Amor Libre;Camilo Sesto;4
+997;Grandes Éxitos Pequeños Regalos 2;Celtas Cortos;4
+998;The Marshall Mathers LP;Eminem;4
+999;Los singles;Gabinete Caligari;4
+1000;Sombras Negras;Gabinete Caligari;4
+1001;The New Glenn Miller Orchestra in Hi Fi;Glenn Miller;4
+1002;Mentiras Piadosas;Joaquín Sabina;4
+1003;Canciones de un Poeta;José Luis Perales;4
+1004;Vaqueros del espacio;Loquillo y Trogloditas;4
+1005;Incantations;Mike Oldfield;4
+1006;Prepárate;Obús;4
+1007;Different Class (bonus disc);Pulp;4
+1008;Greatest Hits II;Queen;4
+1009;Music Kills Me;Rinôçérôse;4
+1010;File Live Yardbirds;The Yardbirds;4
+1011;Pulp Fiction (Collector's Edition);Al Green;3
+1012;Metalmorfosis;Barón Rojo;3
+1013;Saturday Night Fever Soundtrack;Bee Gees;3
+1014;Colours - Fan Club Single;Blur;3
+1015;Midlife A Beginner's Guide To Blur;Blur;3
+1016;The Times They Are A-Changin';Bob Dylan;3
+1017;A Different Kind of Tension;Buzzcocks;3
+1018;Camilo;Camilo Sesto;3
+1019;9:30 El Remix;El Club de los Poetas Violentos;3
+1020;The Good, the Bad and the Ugly;Ennio Morricone;3
+1021;El Viaje A Ninguna Parte (disc 1);Enrique Bunbury;3
+1022;Grandes éxitos y fracasos (Episodio segundo);Extremoduro;3
+1023;Song Machine, Season One: Strange Timez (Japanese Edition);Gorillaz;3
+1024;Love Will Tear Us Apart;Joy Division;3
+1025;Saturday Night Fever: The Original Movie Sound Track;KC and The Sunshine Band;3
+1026;Saturday Night Fever: The Original Movie Sound Track;Kool & the Gang;3
+1027;Proxima Estación: Esperanza;Manu Chao;3
+1028;Absolution;Muse;3
+1029;Mi Tierra;Nino Bravo;3
+1030;Innuendo;Queen;3
+1031;The Miracle;Queen;3
+1032;La Ley Del Desierto, La Ley Del Mar;Radio Futura;3
+1033;Saturday Night Fever: The Original Movie Sound Track;Ralph MacDonald;3
+1034;Anthology Disc 2;Ramones;3
+1035;Paranoid;Soundtrack;3
+1036;Saturday Night Fever: The Original Movie Sound Track;Tavares;3
+1037;Disintegration;The Cure;3
+1038;Hot Fuss (limited edition);The Killers;3
+1039;Hums Of The Lovin' Spoonful;The Lovin' Spoonful;3
+1040;Saturday Night Fever: The Original Movie Sound Track;Various Artists;3
+1041;Saturday Night Fever: The Original Movie Sound Track;Walter Murphy;3
+1042;Close to the Edge;Yes;3
+1043;Saturday Night Fever: The Original Movie Sound Track;Yvonne Elliman;3
+1044;Le origini - Volume 2;Adriano Celentano;2
+1045;Mask;Bauhaus;2
+1046;All the people... Blur: Live in Hyde Park 02/07/2009 - Disc 01;Blur;2
+1047;BBC Broadcasts, 1995.06.17 London, Mile End Stadium;Blur;2
+1048;Blurb 1;Blur;2
+1049;Pulp Fiction (Collector's Edition);Brothers Johnson;2
+1050;Grandes Éxitos Pequeños Regalos 1;Celtas Cortos;2
+1051;Reality;David Bowie;2
+1052;The Very Best of Elvis Costello Disc 2;Elvis Costello;2
+1053;The Very Best of Elvis Costello Disc 2;Elvis Costello & The Attractions;2
+1054;Cuatro rosas. Que Dios reparta suerte;Gabinete Caligari;2
+1055;Física y Química;Joaquín Sabina;2
+1056;Pulp Fiction (Collector's Edition);John Travolta;2
+1057;Raindrops Keep Fallin' On My Head;Johnny Mathis;2
+1058;Pulp Fiction (Collector's Edition);Kool & the Gang;2
+1059;2002 - KOLLECTED - THE BEST OF;Kula Shaker;2
+1060;Better Can't Make Your Life Better;Lilys;2
+1061;¿Dónde Estabas Tú En El 77?;Loquillo y Trogloditas;2
+1062;Pacífico / Todos los chico en la playa;Loquillo y Trogloditas;2
+1063;Disco Pirata;Los Rodríguez;2
+1064;Metal Machine Music;Lou Reed;2
+1065;So Far, So Good... So What!;Megadeth;2
+1066;Crises;Mike Oldfield;2
+1067;Ommadawn;Mike Oldfield;2
+1068;Apocalypshit;Molotov;2
+1069;The 2nd Law;Muse;2
+1070;One From the Modern;Ocean Colour Scene;2
+1071;It;Pulp;2
+1072;Bookends;Simon & Garfunkel;2
+1073;Performance and Cocktails;Stereophonics;2
+1074;Best Of The Capitol Years 1995-2007;The Dandy Warhols;2
+1075;Absent Friends;The Divine Comedy;2
+1076;Rotten Apples;The Smashing Pumpkins;2
+1077;Is This It (US);The Strokes;2
+1078;Winning Days;The Vines;2
+1079;Let's Stay Together;Al Green;1
+1080;Alaska Y Los Pegamoides;Alaska y Los Pegamoides;1
+1081;Raindrops Keep Fallin' on My Head;B.J. Thomas;1
+1082;La Araña;Barricada;1
+1083;Greatest Hits;Billy Idol;1
+1084;Rebel Yell;Billy Idol;1
+1085;Grand Theft Auto: San Andreas Official Soundtrack Box Set;Black Harmony;1
+1086;Enema of the State;blink-182;1
+1087;All the people... Blur: Live in Hyde Park 02/07/2009 - Disc 02;Blur;1
+1088;Atrapado en el Amor;Burning;1
+1089;Best Of Bossa Nova - 75 Classic Hits (Disc 1);Carlos Lyra;1
+1090;1. Outside - The Nathan Adler Diaries: A Hyper Cycle;David Bowie;1
+1091;David Live CD1;David Bowie;1
+1092;Space Oddity (Bonus Disc);David Bowie;1
+1093;Stage (disc 2);David Bowie;1
+1094;Vacaciones en el Prat;Decibelios;1
+1095;Ultramemia;Def con Dos;1
+1096;Pulp Fiction (Collector's Edition);Duane Whitaker;1
+1097;Closeup;Frankie Valli;1
+1098;PIAS 2005 Music First;Franz Ferdinand;1
+1099;SUBID LA MUSICA;Gabinete Caligari;1
+1100;Older;George Michael;1
+1101;For The Very First Time Vol. 2;Glenn Miller;1
+1102;The Sound of Glenn Miller;Glenn Miller;1
+1103;Kasabian;Ｇｏｒｉｌｌａｚ;1
+1104;Better Than Raw;Helloween;1
+1105;Bonito;Jarabe de Palo;1
+1106;De Vuelta Y Vuelta;Jarabe de Palo;1
+1107;Depende;Jarabe de Palo;1
+1108;Pulp Fiction (Collector's Edition);Link Wray & His Wraymen;1
+1109;Bultacos Y Montesas;Los Sencillos;1
+1110;Ese Día Piensa En Mí;Los Suaves;1
+1111;PIAS 2005 Music First;Marc Parrot;1
+1112;Pulp Fiction (Collector's Edition);Maria McKee;1
+1113;Antichrist Superstar;Marilyn Manson;1
+1114;Metallica (Black Album);Metallica;1
+1115;PIAS 2005 Music First;Mowgai;1
+1116;Tender Prey;Nick Cave & the Bad Seeds;1
+1117;Best Of The Capitol Years 1995-2007;Original TV Soundtrack;1
+1118;Manners;Passion Pit;1
+1119;Sounds of Silence;Paul Simon;1
+1120;Best Of Bossa Nova - 75 Classic Hits (Disc 1);Pery Ribeiro;1
+1121;Anthology ( Disc 2 );Ramones;1
+1122;Listos Para La Reconversión;Rosendo;1
+1123;Pulp Fiction (Collector's Edition);Samuel L. Jackson;1
+1124;Blackout;Scorpions;1
+1125;Never Mind The Bollocks [TOCP-53098 TOSHIBA-EMI JAPAN];Sex Pistols;1
+1126;The Great Rock'n'Roll Swindle;Sex Pistols;1
+1127;Sounds of Silence;Simon & Garfunkel;1
+1128;Siniestro Total II: El Regreso;Siniestro Total;1
+1129;Easy Rider;Steppenwolf;1
+1130;Adventure;Television;1
+1131;Push the Button;The Chemical Brothers;1
+1132;PIAS 2005 Music First;The Go! Team;1
+1133;Get The Knack;The Knack;1
+1134;Pulp Fiction (Collector's Edition);The Lively Ones;1
+1135;Someone to Drive You Home;The Long Blondes;1
+1136;Pulp Fiction (Collector's Edition);The Marketts;1
+1137;Always Outnumbered Never Outgu;The Prodigy;1
+1138;Pulp Fiction (Collector's Edition);The Robins;1
+1139;It's Only Rock ' N Roll;The Rolling Stones;1
+1140;Their Satanic Majesties Request;The Rolling Stones;1
+1141;Mellon Collie and the Infinite Sadness (CD 2 Twilight to Starlight);The Smashing Pumpkins;1
+1142;Hatful Of Hollow (Japan MiniLP WPCR-12439);The Smiths;1
+1143;Strangeways, Here We Come;The Smiths;1
+1144;Pulp Fiction (Collector's Edition);The Statler Brothers;1
+1145;Van Halen;Van Halen;1
+1146;The Bends;Varios intérpretes;1
+1147;Let's Stay Together;Various Artists;1
+1148;The Invisible Band;Various Artists;1
+1149;Best Of Bossa Nova - 75 Classic Hits (Disc 1);Vinícius de Moraes;1
