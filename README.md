@@ -3,11 +3,15 @@ Last.FM es una red social, radio virtual y sistema de recomendación de música 
 
 lastfm.py descarga varios tipos de listados y muestra resumen general de un usuario introducido como parámetro. A modo de ejemplo, incluyo listados de mi usuario (hayman3030). Para poder obtener los datos hay que tener una clave activa en la API de Last.FM. Se puede solicitar gratuitamente en el siguiente enlace: https://www.last.fm/api/account/create. Manual: https://www.last.fm/es/api).
 
+lastfm_db.py inserta los registros en una Base de Datos MySQL o PostgreSQL. Cada listado equivale a una tabla. El script crea el esquema relacional sobre un servidor existente.
+
 REQUISITOS: 
 
--> Instalar Python y el módulo externo request (pip install request).
+-> Instalar Python y el módulo externo request ``` pip install request ```. 
 
 -> Modificar línea 11 del script con tu clave api ```API_KEY = "Introduce tu clave" ```
+
+-> Para el script de Bases de Datos instalar módulos adicionales: ``` pip install sqlalchemy pymysql psycopg2-binary ```
 
 ## 0. SINTAXIS
 ### python lastfm.py --help
@@ -315,7 +319,7 @@ Tiempo total de ejecución: 4 minutos y 34 segundos
 
 ![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/last_fm/main/capturas/scrobbles.png)
 
-## 7. COMBINACIÓN OPCIONES
+## 7. COMBINAR OPCIONES
 ### python lastfm.py --opción --opción usuario
 ```
 E:\LastFMCollector>python lastfm.py --artistas --discos hayman3030
@@ -352,7 +356,283 @@ RESUMEN FINAL
 Tiempo total de ejecución: 6 segundos
 ```
 
-## 8. CONTROL DE ERRORES
+## 8. BASES DE DATOS
+
+Script lastfm_db.py exportar los resultados a una Base de Datos MySQL o PostgreSQL en lugar de guardarlos en archivos externos.
+
+### SINTAXIS: python lastfm_db --help
+```
+E:\LastFMCollector>python lastfm_db.py --help
+============================================================
+Last.FM Collector BBDD Script
+============================================================
+[Inicio] 2025-06-22 14:12:39
+usage: lastfm_db.py [-h] usuario motor ip puerto usuario_bd password
+
+Extrae todos los datos de Last.fm e inserta en una base de datos SQL
+
+positional arguments:
+  usuario     Nombre de usuario de Last.fm
+  motor       Motor de BBDD: mysql o postgresql
+  ip          IP o hostname del servidor BBDD
+  puerto      Puerto del servidor BBDD (ej: 3306 para MySQL, 5432 para PostgreSQL)
+  usuario_bd  Usuario para la BBDD
+  password    Password para la BBDD
+
+options:
+  -h, --help  show this help message and exit
+```
+
+### MYSQL
+
+EJECUCIÓN:
+
+```
+E:\LastFMCollector>python lastfm_db.py hayman3030 mysql 192.168.1.40 3306 david *****
+============================================================
+Last.FM Collector BBDD Script
+============================================================
+[Inicio] 2025-06-22 14:26:25
+
+Verificando usuario 'hayman3030' en Last.fm...
+✔ Usuario encontrado
+
+Verificando y creando base de datos si es necesario...
+✔ Base de datos 'lastfm' verificada/creada en MySQL
+
+Conectando a la base de datos 'lastfm' (mysql)...
+✔ Conexión a la base de datos exitosa
+
+============================================================
+INICIANDO EXTRACCIÓN DE DATOS
+============================================================
+
+--- Procesando ARTISTAS ---
+✔ Tabla 'artistas' creada/verificada
+Total de artistas: 443 en 3 páginas
+Procesando: 100.0% (3/3) - Insertados: 443
+✔ Completado: 443 registros insertados en la tabla 'artistas'
+
+--- Procesando DISCOS ---
+✔ Tabla 'discos' creada/verificada
+Total de discos: 1.149 en 6 páginas
+Procesando: 100.0% (6/6) - Insertados: 1.149
+✔ Completado: 1.149 registros insertados en la tabla 'discos'
+
+--- Procesando CANCIONES ---
+✔ Tabla 'canciones' creada/verificada
+Total de canciones: 10.351 en 52 páginas
+Procesando: 100.0% (52/52) - Insertados: 10.351
+✔ Completado: 10.351 registros insertados en la tabla 'canciones'
+
+--- Procesando SCROBBLES ---
+✔ Tabla 'scrobbles' creada/verificada
+Total de scrobbles: 38.432 en 193 páginas
+Procesando: 100.0% (193/193) - Insertados: 38.432
+✔ Completado: 38.432 registros insertados en la tabla 'scrobbles'
+
+============================================================
+RESUMEN FINAL
+============================================================
+Usuario: hayman3030
+Total registros insertados: 50.375
+Duración: 0:04:14
+[Fin] 2025-06-22 14:30:39
+============================================================
+```
+
+RESULTADOS:
+
+```
+bash-5.1# mysql -h 192.168.1.40 -u david -p
+Enter password:
+Welcome to the MySQL monitor.  Commands end with ; or \g.
+Your MySQL connection id is 11
+Server version: 8.0.42 MySQL Community Server - GPL
+
+Copyright (c) 2000, 2025, Oracle and/or its affiliates.
+
+Oracle is a registered trademark of Oracle Corporation and/or its
+affiliates. Other names may be trademarks of their respective
+owners.
+
+Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+
+mysql> use lastfm
+Reading table information for completion of table and column names
+You can turn off this feature to get a quicker startup with -A
+
+Database changed
+mysql> show tables;
++------------------+
+| Tables_in_lastfm |
++------------------+
+| artistas         |
+| canciones        |
+| discos           |
+| scrobbles        |
++------------------+
+4 rows in set (0.00 sec)
+
+mysql> select * from artistas limit 5;
++--------+-------------+-----------+------------+
+| puesto | artista     | scrobbles | usuario    |
++--------+-------------+-----------+------------+
+|      1 | Blur        |      2242 | hayman3030 |
+|      2 | Lou Reed    |      1205 | hayman3030 |
+|      3 | David Bowie |      1168 | hayman3030 |
+|      4 | The Beatles |      1103 | hayman3030 |
+|      5 | The Doors   |      1029 | hayman3030 |
++--------+-------------+-----------+------------+
+5 rows in set (0.00 sec)
+
+mysql> select * from canciones limit 5;
++--------+-------------------+---------------+-----------+------------+
+| puesto | cancion           | artista       | scrobbles | usuario    |
++--------+-------------------+---------------+-----------+------------+
+|      1 | Coney Island Baby | Lou Reed      |        77 | hayman3030 |
+|      2 | City Lights       | Lou Reed      |        70 | hayman3030 |
+|      3 | Oh Darling        | Supertramp    |        69 | hayman3030 |
+|      4 | Beetlebum         | Blur          |        67 | hayman3030 |
+|      5 | That's Life       | Frank Sinatra |        65 | hayman3030 |
++--------+-------------------+---------------+-----------+------------+
+5 rows in set (0.00 sec)
+
+mysql> select * from discos limit 5;
++--------+----------------------------------+---------------+-----------+------------+
+| puesto | disco                            | artista       | scrobbles | usuario    |
++--------+----------------------------------+---------------+-----------+------------+
+|      1 | Parklife                         | Blur          |       422 | hayman3030 |
+|      2 | My Way the Best of Frank Sinatra | Frank Sinatra |       353 | hayman3030 |
+|      3 | The Doors                        | The Doors     |       341 | hayman3030 |
+|      4 | The Boss                         | Diana Ross    |       319 | hayman3030 |
+|      5 | Breakfast in America             | Supertramp    |       303 | hayman3030 |
++--------+----------------------------------+---------------+-----------+------------+
+5 rows in set (0.00 sec)
+
+mysql> select count(*) from scrobbles;
++----------+
+| count(*) |
++----------+
+|    38432 |
++----------+
+```
+
+### POSTGRESQL
+
+EJECUCIÓN
+
+```
+E:\LastFMCollector>python lastfm_db.py hayman3030 postgresql 192.168.1.40 5432 david *****
+============================================================
+Last.FM Collector BBDD Script
+============================================================
+[Inicio] 2025-06-22 14:38:58
+
+Verificando usuario 'hayman3030' en Last.fm...
+✔ Usuario encontrado
+
+Verificando y creando base de datos si es necesario...
+✔ Base de datos 'lastfm' creada en PostgreSQL
+
+Conectando a la base de datos 'lastfm' (postgresql)...
+✔ Conexión a la base de datos exitosa
+
+============================================================
+INICIANDO EXTRACCIÓN DE DATOS
+============================================================
+
+--- Procesando ARTISTAS ---
+✔ Tabla 'artistas' creada/verificada
+Total de artistas: 443 en 3 páginas
+Procesando: 100.0% (3/3) - Insertados: 443
+✔ Completado: 443 registros insertados en la tabla 'artistas'
+
+--- Procesando DISCOS ---
+✔ Tabla 'discos' creada/verificada
+Total de discos: 1.149 en 6 páginas
+Procesando: 100.0% (6/6) - Insertados: 1.149
+✔ Completado: 1.149 registros insertados en la tabla 'discos'
+
+--- Procesando CANCIONES ---
+✔ Tabla 'canciones' creada/verificada
+Total de canciones: 10.351 en 52 páginas
+Procesando: 100.0% (52/52) - Insertados: 10.351
+✔ Completado: 10.351 registros insertados en la tabla 'canciones'
+
+--- Procesando SCROBBLES ---
+✔ Tabla 'scrobbles' creada/verificada
+Total de scrobbles: 38.432 en 193 páginas
+Procesando: 100.0% (193/193) - Insertados: 38.432
+✔ Completado: 38.432 registros insertados en la tabla 'scrobbles'
+
+============================================================
+RESUMEN FINAL
+============================================================
+Usuario: hayman3030
+Total registros insertados: 50.375
+Duración: 0:04:21
+[Fin] 2025-06-22 14:43:19
+============================================================
+```
+
+RESULTADOS
+
+```
+root@599e54234e13:/# psql -h 192.168.1.40 -U david -d lastfm
+Password for user david:
+psql (17.5 (Debian 17.5-1.pgdg120+1))
+Type "help" for help.
+
+lastfm=# \dt
+         List of relations
+ Schema |   Name    | Type  | Owner
+--------+-----------+-------+-------
+ public | artistas  | table | david
+ public | canciones | table | david
+ public | discos    | table | david
+ public | scrobbles | table | david
+(4 rows)
+
+lastfm=# select * from artistas limit 5;
+ puesto |   artista   | scrobbles |  usuario
+--------+-------------+-----------+------------
+      1 | Blur        |      2242 | hayman3030
+      2 | Lou Reed    |      1205 | hayman3030
+      3 | David Bowie |      1168 | hayman3030
+      4 | The Beatles |      1103 | hayman3030
+      5 | The Doors   |      1029 | hayman3030
+(5 rows)
+
+lastfm=# select * from canciones limit 5;
+ puesto |      cancion      |    artista    | scrobbles |  usuario
+--------+-------------------+---------------+-----------+------------
+      1 | Coney Island Baby | Lou Reed      |        77 | hayman3030
+      2 | City Lights       | Lou Reed      |        70 | hayman3030
+      3 | Oh Darling        | Supertramp    |        69 | hayman3030
+      4 | Beetlebum         | Blur          |        67 | hayman3030
+      5 | That's Life       | Frank Sinatra |        65 | hayman3030
+(5 rows)
+
+lastfm=# select * from discos limit 5;
+ puesto |              disco               |    artista    | scrobbles |  usuario
+--------+----------------------------------+---------------+-----------+------------
+      1 | Parklife                         | Blur          |       422 | hayman3030
+      2 | My Way the Best of Frank Sinatra | Frank Sinatra |       353 | hayman3030
+      3 | The Doors                        | The Doors     |       341 | hayman3030
+      4 | The Boss                         | Diana Ross    |       319 | hayman3030
+      5 | Breakfast in America             | Supertramp    |       303 | hayman3030
+(5 rows)
+
+lastfm=# select count(*) from scrobbles;
+ count
+-------
+ 38432
+(1 row)
+
+```
+
+## 9. CONTROL DE ERRORES
 
 ### Sin usuario:
 ```
