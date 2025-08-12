@@ -7,7 +7,7 @@ lastfm_db.py inserta los registros en una Base de Datos MySQL o PostgreSQL. Cada
 
 REQUISITOS: 
 
--> Instalar Python y el módulo externo request ``` pip install request ```. 
+-> Instalar Python y el módulo externo requests ``` pip install requests ```. 
 
 -> Modificar línea 11 del script con tu clave api ```API_KEY = "Introduce tu clave" ```
 
