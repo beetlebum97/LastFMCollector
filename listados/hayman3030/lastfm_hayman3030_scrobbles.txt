@@ -1,3 +1,708 @@
+Fecha: 22 Aug 2025, 00:48 | Canción: Gigantic | Disco: Surfer Rosa | Artista: Pixies | ID: 39117
+Fecha: 22 Aug 2025, 00:42 | Canción: Black Hole Sun | Disco: Superunknown | Artista: Soundgarden | ID: 39116
+Fecha: 22 Aug 2025, 00:34 | Canción: Lazy Flies | Disco: Mutations | Artista: Beck | ID: 39115
+Fecha: 22 Aug 2025, 00:27 | Canción: Be Thankful for What You've Got | Disco: Blue Lines | Artista: Massive Attack | ID: 39114
+Fecha: 22 Aug 2025, 00:20 | Canción: Beetlebum | Disco: Blur | Artista: Blur | ID: 39113
+Fecha: 21 Aug 2025, 23:59 | Canción: Youth Against Facism | Disco: Dirty | Artista: Sonic Youth | ID: 39112
+Fecha: 21 Aug 2025, 23:47 | Canción: Party Hard | Disco: This Is Hardcore | Artista: Pulp | ID: 39111
+Fecha: 21 Aug 2025, 23:40 | Canción: Goldfinger | Disco: 1977 | Artista: Ash | ID: 39110
+Fecha: 21 Aug 2025, 23:34 | Canción: Lithium | Disco: Nevermind | Artista: Nirvana | ID: 39109
+Fecha: 21 Aug 2025, 15:54 | Canción: Looking Glass | Disco: The La's | Artista: The La's | ID: 39108
+Fecha: 21 Aug 2025, 15:51 | Canción: Failure | Disco: The La's | Artista: The La's | ID: 39107
+Fecha: 21 Aug 2025, 15:49 | Canción: Freedom Song | Disco: The La's | Artista: The La's | ID: 39106
+Fecha: 21 Aug 2025, 15:46 | Canción: I.O.U. | Disco: The La's | Artista: The La's | ID: 39105
+Fecha: 21 Aug 2025, 15:44 | Canción: Way Out | Disco: The La's | Artista: The La's | ID: 39104
+Fecha: 21 Aug 2025, 15:42 | Canción: Feelin' | Disco: The La's | Artista: The La's | ID: 39103
+Fecha: 21 Aug 2025, 15:39 | Canción: Doledrum | Disco: The La's | Artista: The La's | ID: 39102
+Fecha: 21 Aug 2025, 15:35 | Canción: There She Goes | Disco: The La's | Artista: The La's | ID: 39101
+Fecha: 21 Aug 2025, 15:33 | Canción: Liberty Ship | Disco: The La's | Artista: The La's | ID: 39100
+Fecha: 21 Aug 2025, 15:29 | Canción: Timeless Melody | Disco: The La's | Artista: The La's | ID: 39099
+Fecha: 21 Aug 2025, 15:26 | Canción: I Can't Sleep | Disco: The La's | Artista: The La's | ID: 39098
+Fecha: 21 Aug 2025, 15:24 | Canción: Son of a Gun | Disco: The La's | Artista: The La's | ID: 39097
+Fecha: 21 Aug 2025, 13:43 | Canción: Elegie | Disco: Horses | Artista: Patti Smith | ID: 39096
+Fecha: 21 Aug 2025, 13:34 | Canción: Land: Horses + Land Of A Thousand Dances + La Mer (de) | Disco: Horses | Artista: Patti Smith | ID: 39095
+Fecha: 21 Aug 2025, 13:26 | Canción: Break It Up | Disco: Horses | Artista: Patti Smith | ID: 39094
+Fecha: 21 Aug 2025, 13:21 | Canción: Kimberly | Disco: Horses | Artista: Patti Smith | ID: 39093
+Fecha: 21 Aug 2025, 13:17 | Canción: Free Money | Disco: Horses | Artista: Patti Smith | ID: 39092
+Fecha: 21 Aug 2025, 13:06 | Canción: Birdland | Disco: Horses | Artista: Patti Smith | ID: 39091
+Fecha: 21 Aug 2025, 13:03 | Canción: Redondo Beach | Disco: Horses | Artista: Patti Smith | ID: 39090
+Fecha: 21 Aug 2025, 12:57 | Canción: Gloria | Disco: Horses | Artista: Patti Smith | ID: 39089
+Fecha: 21 Aug 2025, 12:18 | Canción: The Masterplan | Disco: The Masterplan | Artista: Oasis | ID: 39088
+Fecha: 21 Aug 2025, 12:13 | Canción: Headshrinker | Disco: The Masterplan | Artista: Oasis | ID: 39087
+Fecha: 21 Aug 2025, 12:08 | Canción: Stay Young | Disco: The Masterplan | Artista: Oasis | ID: 39086
+Fecha: 21 Aug 2025, 12:03 | Canción: (It's Good) To Be Free | Disco: The Masterplan | Artista: Oasis | ID: 39085
+Fecha: 21 Aug 2025, 11:58 | Canción: Half the World Away | Disco: The Masterplan | Artista: Oasis | ID: 39084
+Fecha: 21 Aug 2025, 11:54 | Canción: Rockin' Chair | Disco: The Masterplan | Artista: Oasis | ID: 39083
+Fecha: 21 Aug 2025, 11:47 | Canción: Listen Up | Disco: The Masterplan | Artista: Oasis | ID: 39082
+Fecha: 21 Aug 2025, 11:41 | Canción: I Am The Walrus [Live] | Disco: The Masterplan | Artista: Oasis | ID: 39081
+Fecha: 21 Aug 2025, 11:00 | Canción: The Swamp Song | Disco: The Masterplan | Artista: Oasis | ID: 39080
+Fecha: 21 Aug 2025, 10:56 | Canción: Fade Away | Disco: The Masterplan | Artista: Oasis | ID: 39079
+Fecha: 21 Aug 2025, 10:51 | Canción: Going Nowhere | Disco: The Masterplan | Artista: Oasis | ID: 39078
+Fecha: 21 Aug 2025, 10:47 | Canción: Talk Tonight | Disco: The Masterplan | Artista: Oasis | ID: 39077
+Fecha: 21 Aug 2025, 10:41 | Canción: Underneath the Sky | Disco: The Masterplan | Artista: Oasis | ID: 39076
+Fecha: 21 Aug 2025, 10:35 | Canción: Acquiesce | Disco: The Masterplan | Artista: Oasis | ID: 39075
+Fecha: 19 Aug 2025, 12:27 | Canción: Gold Dust Woman | Disco: Rumours | Artista: Fleetwood Mac | ID: 39074
+Fecha: 19 Aug 2025, 12:23 | Canción: Oh Daddy | Disco: Rumours | Artista: Fleetwood Mac | ID: 39073
+Fecha: 19 Aug 2025, 12:19 | Canción: I Don't Want to Know | Disco: Rumours | Artista: Fleetwood Mac | ID: 39072
+Fecha: 19 Aug 2025, 12:15 | Canción: You Make Loving Fun | Disco: Rumours | Artista: Fleetwood Mac | ID: 39071
+Fecha: 19 Aug 2025, 12:10 | Canción: The Chain | Disco: Rumours | Artista: Fleetwood Mac | ID: 39070
+Fecha: 19 Aug 2025, 12:06 | Canción: Songbird | Disco: Rumours | Artista: Fleetwood Mac | ID: 39069
+Fecha: 19 Aug 2025, 12:01 | Canción: Go Your Own Way | Disco: Rumours | Artista: Fleetwood Mac | ID: 39068
+Fecha: 19 Aug 2025, 11:58 | Canción: Don't Stop | Disco: Rumours | Artista: Fleetwood Mac | ID: 39067
+Fecha: 19 Aug 2025, 11:55 | Canción: Never Going Back Again | Disco: Rumours | Artista: Fleetwood Mac | ID: 39066
+Fecha: 19 Aug 2025, 11:51 | Canción: Dreams | Disco: Rumours | Artista: Fleetwood Mac | ID: 39065
+Fecha: 19 Aug 2025, 11:47 | Canción: Second Hand News | Disco: Rumours | Artista: Fleetwood Mac | ID: 39064
+Fecha: 19 Aug 2025, 11:08 | Canción: Boogie Woogie Dance | Disco: Johnny the Fox | Artista: Thin Lizzy | ID: 39063
+Fecha: 19 Aug 2025, 11:04 | Canción: Sweet Marie | Disco: Johnny the Fox | Artista: Thin Lizzy | ID: 39062
+Fecha: 19 Aug 2025, 11:01 | Canción: Massacre | Disco: Johnny the Fox | Artista: Thin Lizzy | ID: 39061
+Fecha: 19 Aug 2025, 10:57 | Canción: Old Flame | Disco: Johnny the Fox | Artista: Thin Lizzy | ID: 39060
+Fecha: 19 Aug 2025, 10:50 | Canción: Johnny the Fox Meets Jimmy the Weed | Disco: Johnny the Fox | Artista: Thin Lizzy | ID: 39059
+Fecha: 19 Aug 2025, 10:46 | Canción: Fools Gold | Disco: Johnny the Fox | Artista: Thin Lizzy | ID: 39058
+Fecha: 19 Aug 2025, 10:44 | Canción: Don't Believe a Word | Disco: Johnny the Fox | Artista: Thin Lizzy | ID: 39057
+Fecha: 19 Aug 2025, 10:39 | Canción: Borderline | Disco: Johnny the Fox | Artista: Thin Lizzy | ID: 39056
+Fecha: 19 Aug 2025, 10:34 | Canción: Rocky | Disco: Johnny the Fox | Artista: Thin Lizzy | ID: 39055
+Fecha: 19 Aug 2025, 10:30 | Canción: Johnny | Disco: Johnny the Fox | Artista: Thin Lizzy | ID: 39054
+Fecha: 18 Aug 2025, 23:10 | Canción: Luna | Disco: Siamese Dream | Artista: The Smashing Pumpkins | ID: 39053
+Fecha: 18 Aug 2025, 23:08 | Canción: Sweet Sweet | Disco: Siamese Dream | Artista: The Smashing Pumpkins | ID: 39052
+Fecha: 18 Aug 2025, 22:58 | Canción: Silverfuck | Disco: Siamese Dream | Artista: The Smashing Pumpkins | ID: 39051
+Fecha: 18 Aug 2025, 22:54 | Canción: Spaceboy | Disco: Siamese Dream | Artista: The Smashing Pumpkins | ID: 39050
+Fecha: 18 Aug 2025, 22:48 | Canción: Mayonaise | Disco: Siamese Dream | Artista: The Smashing Pumpkins | ID: 39049
+Fecha: 18 Aug 2025, 22:43 | Canción: Geek U.S.A. | Disco: Siamese Dream | Artista: The Smashing Pumpkins | ID: 39048
+Fecha: 18 Aug 2025, 22:36 | Canción: Soma | Disco: Siamese Dream | Artista: The Smashing Pumpkins | ID: 39047
+Fecha: 18 Aug 2025, 22:32 | Canción: Disarm | Disco: Siamese Dream | Artista: The Smashing Pumpkins | ID: 39046
+Fecha: 18 Aug 2025, 22:28 | Canción: Rocket | Disco: Siamese Dream | Artista: The Smashing Pumpkins | ID: 39045
+Fecha: 18 Aug 2025, 22:21 | Canción: Hummer | Disco: Siamese Dream | Artista: The Smashing Pumpkins | ID: 39044
+Fecha: 18 Aug 2025, 22:18 | Canción: Today | Disco: Siamese Dream | Artista: The Smashing Pumpkins | ID: 39043
+Fecha: 18 Aug 2025, 22:14 | Canción: Quiet | Disco: Siamese Dream | Artista: The Smashing Pumpkins | ID: 39042
+Fecha: 18 Aug 2025, 22:09 | Canción: Cherub Rock | Disco: Siamese Dream | Artista: The Smashing Pumpkins | ID: 39041
+Fecha: 18 Aug 2025, 19:13 | Canción: Golpes | Disco: La Culpa Fue De Gabinete | Artista: Gabinete Caligari | ID: 39040
+Fecha: 18 Aug 2025, 19:09 | Canción: Haciendo el bobo | Disco: La Culpa Fue De Gabinete | Artista: Gabinete Caligari | ID: 39039
+Fecha: 18 Aug 2025, 19:06 | Canción: Amor De Madre | Disco: La Culpa Fue De Gabinete | Artista: Gabinete Caligari | ID: 39038
+Fecha: 18 Aug 2025, 19:03 | Canción: Lo Mejor De Ti | Disco: La Culpa Fue De Gabinete | Artista: Gabinete Caligari | ID: 39037
+Fecha: 18 Aug 2025, 18:57 | Canción: La Chispa Adecuada | Disco: Canciones '84 - '96 (CD 2 von 2) | Artista: Heroes Del Silencio | ID: 39036
+Fecha: 18 Aug 2025, 18:52 | Canción: Iberia Sumergida | Disco: Canciones '84 - '96 (CD 2 von 2) | Artista: Heroes Del Silencio | ID: 39035
+Fecha: 18 Aug 2025, 18:15 | Canción: No Mas Lagrimas (Live) | Disco: Canciones 84-96 CD1 | Artista: Héroes del Silencio | ID: 39034
+Fecha: 18 Aug 2025, 18:11 | Canción: Oracion (Live) | Disco: Canciones 84-96 CD1 | Artista: Héroes del Silencio | ID: 39033
+Fecha: 18 Aug 2025, 18:02 | Canción: Fuente Esperanza | Disco: Canciones 84-96 CD1 | Artista: Héroes del Silencio | ID: 39032
+Fecha: 18 Aug 2025, 17:57 | Canción: En Brazos De La Fiebre | Disco: Canciones 84-96 CD1 | Artista: Héroes del Silencio | ID: 39031
+Fecha: 18 Aug 2025, 17:55 | Canción: Tesoro | Disco: Canciones 84-96 CD1 | Artista: Héroes del Silencio | ID: 39030
+Fecha: 18 Aug 2025, 17:49 | Canción: Opio (Live) | Disco: Canciones 84-96 CD1 | Artista: Héroes del Silencio | ID: 39029
+Fecha: 18 Aug 2025, 17:46 | Canción: Despertar | Disco: Canciones 84-96 CD1 | Artista: Heroes Del Silencio | ID: 39028
+Fecha: 18 Aug 2025, 17:41 | Canción: Flor Venenosa | Disco: Canciones 84-96 CD1 | Artista: Heroes Del Silencio | ID: 39027
+Fecha: 18 Aug 2025, 17:37 | Canción: Apuesta por el R'n'R | Disco: Canciones 84-96 CD1 | Artista: Héroes del Silencio | ID: 39026
+Fecha: 18 Aug 2025, 17:33 | Canción: La herida (edit) | Disco: Canciones 84-96 CD1 | Artista: Héroes del Silencio | ID: 39025
+Fecha: 18 Aug 2025, 17:28 | Canción: deshacer el mundo | Disco: Canciones 84-96 CD1 | Artista: Heroes Del Silencio | ID: 39024
+Fecha: 18 Aug 2025, 17:23 | Canción: La Sirena Varada | Disco: Canciones 84-96 CD1 | Artista: Héroes del Silencio | ID: 39023
+Fecha: 18 Aug 2025, 17:19 | Canción: Mar Adentro | Disco: Canciones 84-96 CD1 | Artista: Heroes Del Silencio | ID: 39022
+Fecha: 18 Aug 2025, 17:14 | Canción: Maldito Duende | Disco: Canciones 84-96 CD1 | Artista: Heroes Del Silencio | ID: 39021
+Fecha: 18 Aug 2025, 17:08 | Canción: Entre Dos Tierras | Disco: Canciones 84-96 CD1 | Artista: Heroes Del Silencio | ID: 39020
+Fecha: 18 Aug 2025, 15:00 | Canción: Down in the Tube Station at Midnight | Disco: All Mod Cons | Artista: The Jam | ID: 39019
+Fecha: 18 Aug 2025, 14:57 | Canción: 'A' Bomb in Wardour Street | Disco: All Mod Cons | Artista: The Jam | ID: 39018
+Fecha: 18 Aug 2025, 14:53 | Canción: The Place I Love | Disco: All Mod Cons | Artista: The Jam | ID: 39017
+Fecha: 18 Aug 2025, 14:50 | Canción: Fly | Disco: All Mod Cons | Artista: The Jam | ID: 39016
+Fecha: 18 Aug 2025, 14:46 | Canción: It's Too Bad | Disco: All Mod Cons | Artista: The Jam | ID: 39015
+Fecha: 18 Aug 2025, 14:42 | Canción: Billy Hunt | Disco: All Mod Cons | Artista: The Jam | ID: 39014
+Fecha: 18 Aug 2025, 14:36 | Canción: In the Crowd | Disco: All Mod Cons | Artista: The Jam | ID: 39013
+Fecha: 18 Aug 2025, 14:33 | Canción: English Rose | Disco: All Mod Cons | Artista: The Jam | ID: 39012
+Fecha: 18 Aug 2025, 14:30 | Canción: David Watts | Disco: All Mod Cons | Artista: The Jam | ID: 39011
+Fecha: 18 Aug 2025, 14:26 | Canción: Mr. Clean | Disco: All Mod Cons | Artista: The Jam | ID: 39010
+Fecha: 18 Aug 2025, 14:23 | Canción: To Be Someone (Didn't We Have a Nice Time) | Disco: All Mod Cons | Artista: The Jam | ID: 39009
+Fecha: 18 Aug 2025, 14:22 | Canción: All Mod Cons | Disco: All Mod Cons | Artista: The Jam | ID: 39008
+Fecha: 18 Aug 2025, 13:14 | Canción: Faultlines | Disco: Bloodsports | Artista: Suede | ID: 39007
+Fecha: 18 Aug 2025, 13:09 | Canción: Always | Disco: Bloodsports | Artista: Suede | ID: 39006
+Fecha: 18 Aug 2025, 13:06 | Canción: What Are You Not Telling Me? | Disco: Bloodsports | Artista: Suede | ID: 39005
+Fecha: 18 Aug 2025, 13:01 | Canción: Sometimes I Feel I’ll Float Away | Disco: Bloodsports | Artista: Suede | ID: 39004
+Fecha: 18 Aug 2025, 12:57 | Canción: Hit Me | Disco: Bloodsports | Artista: Suede | ID: 39003
+Fecha: 18 Aug 2025, 12:53 | Canción: For the Strangers | Disco: Bloodsports | Artista: Suede | ID: 39002
+Fecha: 18 Aug 2025, 12:49 | Canción: Sabotage | Disco: Bloodsports | Artista: Suede | ID: 39001
+Fecha: 18 Aug 2025, 12:45 | Canción: It Starts and Ends With You | Disco: Bloodsports | Artista: Suede | ID: 39000
+Fecha: 18 Aug 2025, 12:41 | Canción: Snowblind | Disco: Bloodsports | Artista: Suede | ID: 38999
+Fecha: 18 Aug 2025, 12:37 | Canción: Barriers | Disco: Bloodsports | Artista: Suede | ID: 38998
+Fecha: 17 Aug 2025, 12:47 | Canción: Walk On The Water | Disco: Creedence Clearwater Revival | Artista: Creedence Clearwater Revival | ID: 38997
+Fecha: 17 Aug 2025, 12:43 | Canción: Gloomy | Disco: Creedence Clearwater Revival | Artista: Creedence Clearwater Revival | ID: 38996
+Fecha: 17 Aug 2025, 12:36 | Canción: Porterville | Disco: Creedence Clearwater Revival | Artista: Creedence Clearwater Revival | ID: 38995
+Fecha: 17 Aug 2025, 12:31 | Canción: Get Down Woman | Disco: Creedence Clearwater Revival | Artista: Creedence Clearwater Revival | ID: 38994
+Fecha: 17 Aug 2025, 12:26 | Canción: Ninety-Nine And A Half | Disco: Creedence Clearwater Revival | Artista: Creedence Clearwater Revival | ID: 38993
+Fecha: 17 Aug 2025, 12:17 | Canción: Susie Q | Disco: Creedence Clearwater Revival | Artista: Creedence Clearwater Revival | ID: 38992
+Fecha: 17 Aug 2025, 12:14 | Canción: The Working Man | Disco: Creedence Clearwater Revival | Artista: Creedence Clearwater Revival | ID: 38991
+Fecha: 17 Aug 2025, 12:09 | Canción: I Put a Spell on You | Disco: Creedence Clearwater Revival | Artista: Creedence Clearwater Revival | ID: 38990
+Fecha: 17 Aug 2025, 11:14 | Canción: Meat City | Disco: Mind Games | Artista: John Lennon | ID: 38989
+Fecha: 17 Aug 2025, 11:09 | Canción: You Are Here | Disco: Mind Games | Artista: John Lennon | ID: 38988
+Fecha: 17 Aug 2025, 11:06 | Canción: I Know (I Know) | Disco: Mind Games | Artista: John Lennon | ID: 38987
+Fecha: 17 Aug 2025, 11:02 | Canción: Only People | Disco: Mind Games | Artista: John Lennon | ID: 38986
+Fecha: 17 Aug 2025, 10:58 | Canción: Out the Blue | Disco: Mind Games | Artista: John Lennon | ID: 38985
+Fecha: 17 Aug 2025, 10:55 | Canción: Intuition | Disco: Mind Games | Artista: John Lennon | ID: 38984
+Fecha: 17 Aug 2025, 10:49 | Canción: Bring on the Lucie (Freda Peeple) | Disco: Mind Games | Artista: John Lennon | ID: 38983
+Fecha: 17 Aug 2025, 10:46 | Canción: One Day (At a Time) | Disco: Mind Games | Artista: John Lennon | ID: 38982
+Fecha: 17 Aug 2025, 10:41 | Canción: Aisumasen (I'm Sorry) | Disco: Mind Games | Artista: John Lennon | ID: 38981
+Fecha: 17 Aug 2025, 10:37 | Canción: Tight As | Disco: Mind Games | Artista: John Lennon | ID: 38980
+Fecha: 17 Aug 2025, 10:33 | Canción: Mind Games | Disco: Mind Games | Artista: John Lennon | ID: 38979
+Fecha: 15 Aug 2025, 00:56 | Canción: Poor Boy | Disco: Crisis? What Crisis? | Artista: Supertramp | ID: 38978
+Fecha: 15 Aug 2025, 00:43 | Canción: Fool's Overture | Disco: Even in the Quietest Moments... | Artista: Supertramp | ID: 38977
+Fecha: 15 Aug 2025, 00:31 | Canción: From Now On | Disco: Even in the Quietest Moments... | Artista: Supertramp | ID: 38976
+Fecha: 15 Aug 2025, 00:27 | Canción: Babaji | Disco: Even in the Quietest Moments... | Artista: Supertramp | ID: 38975
+Fecha: 15 Aug 2025, 00:17 | Canción: Downstream | Disco: Even in the Quietest Moments... | Artista: Supertramp | ID: 38974
+Fecha: 15 Aug 2025, 00:11 | Canción: Even In The Quietest Moments | Disco: Even in the Quietest Moments... | Artista: Supertramp | ID: 38973
+Fecha: 14 Aug 2025, 23:57 | Canción: Lover Boy | Disco: Even in the Quietest Moments... | Artista: Supertramp | ID: 38972
+Fecha: 14 Aug 2025, 23:53 | Canción: Give a Little Bit | Disco: Even in the Quietest Moments... | Artista: Supertramp | ID: 38971
+Fecha: 14 Aug 2025, 16:52 | Canción: Sometimes I Make You Sad | Disco: In It for the Money | Artista: Supergrass | ID: 38970
+Fecha: 14 Aug 2025, 16:48 | Canción: Hollow Little Reign | Disco: In It for the Money | Artista: Supergrass | ID: 38969
+Fecha: 14 Aug 2025, 16:44 | Canción: You Can See Me | Disco: In It for the Money | Artista: Supergrass | ID: 38968
+Fecha: 14 Aug 2025, 16:41 | Canción: Cheapskate | Disco: In It for the Money | Artista: Supergrass | ID: 38967
+Fecha: 14 Aug 2025, 16:34 | Canción: It's Not Me | Disco: In It for the Money | Artista: Supergrass | ID: 38966
+Fecha: 14 Aug 2025, 16:18 | Canción: Going Out | Disco: In It for the Money | Artista: Supergrass | ID: 38965
+Fecha: 14 Aug 2025, 16:13 | Canción: Sun Hits the Sky | Disco: In It for the Money | Artista: Supergrass | ID: 38964
+Fecha: 14 Aug 2025, 16:09 | Canción: G-Song | Disco: In It for the Money | Artista: Supergrass | ID: 38963
+Fecha: 14 Aug 2025, 16:04 | Canción: Late in the Day | Disco: In It for the Money | Artista: Supergrass | ID: 38962
+Fecha: 14 Aug 2025, 16:00 | Canción: Tonight | Disco: In It for the Money | Artista: Supergrass | ID: 38961
+Fecha: 14 Aug 2025, 15:57 | Canción: Richard III | Disco: In It for the Money | Artista: Supergrass | ID: 38960
+Fecha: 14 Aug 2025, 15:53 | Canción: In It for the Money | Disco: In It for the Money | Artista: Supergrass | ID: 38959
+Fecha: 13 Aug 2025, 00:54 | Canción: Voodoo Dolly | Disco: Juju | Artista: Siouxsie and the Banshees | ID: 38958
+Fecha: 13 Aug 2025, 00:49 | Canción: Head Cut | Disco: Juju | Artista: Siouxsie and the Banshees | ID: 38957
+Fecha: 13 Aug 2025, 00:45 | Canción: Sin In My Heart | Disco: Juju | Artista: Siouxsie and the Banshees | ID: 38956
+Fecha: 13 Aug 2025, 00:39 | Canción: Night Shift | Disco: Juju | Artista: Siouxsie and the Banshees | ID: 38955
+Fecha: 13 Aug 2025, 00:33 | Canción: Monitor | Disco: Juju | Artista: Siouxsie and the Banshees | ID: 38954
+Fecha: 13 Aug 2025, 00:29 | Canción: Halloween | Disco: Juju | Artista: Siouxsie and the Banshees | ID: 38953
+Fecha: 13 Aug 2025, 00:26 | Canción: Arabian Knights | Disco: Juju | Artista: Siouxsie and the Banshees | ID: 38952
+Fecha: 13 Aug 2025, 00:22 | Canción: Into the Light | Disco: Juju | Artista: Siouxsie and the Banshees | ID: 38951
+Fecha: 13 Aug 2025, 00:18 | Canción: Spellbound | Disco: Juju | Artista: Siouxsie and the Banshees | ID: 38950
+Fecha: 13 Aug 2025, 00:10 | Canción: M.O.R. | Disco: Blur | Artista: Blur | ID: 38949
+Fecha: 12 Aug 2025, 23:47 | Canción: Untitled | Disco: Disintegration | Artista: The Cure | ID: 38948
+Fecha: 12 Aug 2025, 23:35 | Canción: Homesick | Disco: Disintegration | Artista: The Cure | ID: 38947
+Fecha: 12 Aug 2025, 23:26 | Canción: Disintegration | Disco: Disintegration | Artista: The Cure | ID: 38946
+Fecha: 12 Aug 2025, 23:17 | Canción: The Same Deep Water as You | Disco: Disintegration | Artista: The Cure | ID: 38945
+Fecha: 12 Aug 2025, 23:11 | Canción: Prayers for Rain | Disco: Disintegration | Artista: The Cure | ID: 38944
+Fecha: 12 Aug 2025, 23:05 | Canción: Fascination Street | Disco: Disintegration | Artista: The Cure | ID: 38943
+Fecha: 12 Aug 2025, 23:01 | Canción: Lullaby | Disco: Disintegration | Artista: The Cure | ID: 38942
+Fecha: 12 Aug 2025, 22:55 | Canción: Last Dance | Disco: Disintegration | Artista: The Cure | ID: 38941
+Fecha: 12 Aug 2025, 22:52 | Canción: Lovesong | Disco: Disintegration | Artista: The Cure | ID: 38940
+Fecha: 12 Aug 2025, 22:47 | Canción: Closedown | Disco: Disintegration | Artista: The Cure | ID: 38939
+Fecha: 12 Aug 2025, 22:40 | Canción: Pictures of You | Disco: Disintegration | Artista: The Cure | ID: 38938
+Fecha: 12 Aug 2025, 22:33 | Canción: Plainsong | Disco: Disintegration | Artista: The Cure | ID: 38937
+Fecha: 10 Aug 2025, 13:39 | Canción: Can I Go With You | Disco: Back To Front | Artista: Gilbert O'Sullivan | ID: 38936
+Fecha: 10 Aug 2025, 13:36 | Canción: That's Love | Disco: Back To Front | Artista: Gilbert O'Sullivan | ID: 38935
+Fecha: 10 Aug 2025, 13:31 | Canción: Alone Again (Naturally) | Disco: Back To Front | Artista: Gilbert O'Sullivan | ID: 38934
+Fecha: 10 Aug 2025, 13:28 | Canción: In My Hole | Disco: Back To Front | Artista: Gilbert O'Sullivan | ID: 38933
+Fecha: 10 Aug 2025, 13:25 | Canción: Intro / I Hope You'll Stay | Disco: Back To Front | Artista: Gilbert O'Sullivan | ID: 38932
+Fecha: 10 Aug 2025, 13:18 | Canción: Something Better Beginning | Disco: Kinda Kinks | Artista: The Kinks | ID: 38931
+Fecha: 10 Aug 2025, 13:16 | Canción: You Shouldn't Be Sad | Disco: Kinda Kinks | Artista: The Kinks | ID: 38930
+Fecha: 10 Aug 2025, 13:11 | Canción: So Long | Disco: Kinda Kinks | Artista: The Kinks | ID: 38929
+Fecha: 10 Aug 2025, 13:09 | Canción: Come On Now | Disco: Kinda Kinks | Artista: The Kinks | ID: 38928
+Fecha: 10 Aug 2025, 13:07 | Canción: Don't Ever Change | Disco: Kinda Kinks | Artista: The Kinks | ID: 38927
+Fecha: 10 Aug 2025, 13:04 | Canción: Dancing In the Street | Disco: Kinda Kinks | Artista: The Kinks | ID: 38926
+Fecha: 10 Aug 2025, 13:02 | Canción: Tired of Waiting for You | Disco: Kinda Kinks | Artista: The Kinks | ID: 38925
+Fecha: 10 Aug 2025, 12:59 | Canción: Tired of Waiting for You | Disco: Kinda Kinks | Artista: The Kinks | ID: 38924
+Fecha: 10 Aug 2025, 12:57 | Canción: Wonder Where My Baby Is Tonight | Disco: Kinda Kinks | Artista: The Kinks | ID: 38923
+Fecha: 10 Aug 2025, 12:54 | Canción: Naggin' Woman | Disco: Kinda Kinks | Artista: The Kinks | ID: 38922
+Fecha: 10 Aug 2025, 12:51 | Canción: Nothin' In the World Can Stop Me Worryin' 'Bout That Girl | Disco: Kinda Kinks | Artista: The Kinks | ID: 38921
+Fecha: 10 Aug 2025, 12:48 | Canción: Got My Feet On the Ground | Disco: Kinda Kinks | Artista: The Kinks | ID: 38920
+Fecha: 10 Aug 2025, 12:46 | Canción: Look for Me Baby | Disco: Kinda Kinks | Artista: The Kinks | ID: 38919
+Fecha: 07 Aug 2025, 23:28 | Canción: Heavy Seas of Love | Disco: Everyday Robots | Artista: Damon Albarn | ID: 38918
+Fecha: 07 Aug 2025, 23:24 | Canción: The History of a Cheating Heart | Disco: Everyday Robots | Artista: Damon Albarn | ID: 38917
+Fecha: 07 Aug 2025, 23:19 | Canción: Photographs (You Are Taking Now) | Disco: Everyday Robots | Artista: Damon Albarn | ID: 38916
+Fecha: 07 Aug 2025, 23:18 | Canción: Seven High | Disco: Everyday Robots | Artista: Damon Albarn | ID: 38915
+Fecha: 07 Aug 2025, 23:13 | Canción: Hollow Ponds | Disco: Everyday Robots | Artista: Damon Albarn | ID: 38914
+Fecha: 07 Aug 2025, 23:08 | Canción: The Selfish Giant | Disco: Everyday Robots | Artista: Damon Albarn | ID: 38913
+Fecha: 07 Aug 2025, 23:03 | Canción: Everyday Robots | Disco: Everyday Robots | Artista: Damon Albarn | ID: 38912
+Fecha: 07 Aug 2025, 23:03 | Canción: Parakeet | Disco: Everyday Robots | Artista: Damon Albarn | ID: 38911
+Fecha: 07 Aug 2025, 22:58 | Canción: Hostiles | Disco: Everyday Robots | Artista: Damon Albarn | ID: 38910
+Fecha: 07 Aug 2025, 22:54 | Canción: Lonely Press Play | Disco: Everyday Robots | Artista: Damon Albarn | ID: 38909
+Fecha: 07 Aug 2025, 22:50 | Canción: Mr Tembo | Disco: Everyday Robots | Artista: Damon Albarn | ID: 38908
+Fecha: 07 Aug 2025, 22:43 | Canción: You And Me | Disco: Everyday Robots | Artista: Damon Albarn | ID: 38907
+Fecha: 07 Aug 2025, 20:45 | Canción: Everything's Not Lost | Disco: Parachutes | Artista: Coldplay | ID: 38906
+Fecha: 07 Aug 2025, 20:40 | Canción: We Never Change | Disco: Parachutes | Artista: Coldplay | ID: 38905
+Fecha: 07 Aug 2025, 20:36 | Canción: High Speed | Disco: Parachutes | Artista: Coldplay | ID: 38904
+Fecha: 07 Aug 2025, 20:35 | Canción: Parachutes | Disco: Parachutes | Artista: Coldplay | ID: 38903
+Fecha: 07 Aug 2025, 20:31 | Canción: Trouble | Disco: Parachutes | Artista: Coldplay | ID: 38902
+Fecha: 07 Aug 2025, 20:26 | Canción: Yellow | Disco: Parachutes | Artista: Coldplay | ID: 38901
+Fecha: 07 Aug 2025, 20:22 | Canción: Sparks | Disco: Parachutes | Artista: Coldplay | ID: 38900
+Fecha: 07 Aug 2025, 20:17 | Canción: Spies | Disco: Parachutes | Artista: Coldplay | ID: 38899
+Fecha: 07 Aug 2025, 20:11 | Canción: Shiver | Disco: Parachutes | Artista: Coldplay | ID: 38898
+Fecha: 07 Aug 2025, 20:08 | Canción: Don't Panic | Disco: Parachutes | Artista: Coldplay | ID: 38897
+Fecha: 07 Aug 2025, 19:57 | Canción: Oceans Burning | Disco: Skying | Artista: The Horrors | ID: 38896
+Fecha: 07 Aug 2025, 19:52 | Canción: Monica Gems | Disco: Skying | Artista: The Horrors | ID: 38895
+Fecha: 07 Aug 2025, 19:44 | Canción: Moving Further Away | Disco: Skying | Artista: The Horrors | ID: 38894
+Fecha: 07 Aug 2025, 19:39 | Canción: Wild Eyed | Disco: Skying | Artista: The Horrors | ID: 38893
+Fecha: 07 Aug 2025, 19:34 | Canción: Still Life | Disco: Skying | Artista: The Horrors | ID: 38892
+Fecha: 07 Aug 2025, 19:26 | Canción: Dive In | Disco: Skying | Artista: The Horrors | ID: 38891
+Fecha: 07 Aug 2025, 19:21 | Canción: Changing The Rain | Disco: Skying | Artista: The Horrors | ID: 38890
+Fecha: 07 Aug 2025, 19:16 | Canción: You Said | Disco: Skying | Artista: The Horrors | ID: 38889
+Fecha: 07 Aug 2025, 19:10 | Canción: Endless Blue | Disco: Skying | Artista: The Horrors | ID: 38888
+Fecha: 07 Aug 2025, 19:05 | Canción: I Can See Through You | Disco: Skying | Artista: The Horrors | ID: 38887
+Fecha: 07 Aug 2025, 17:01 | Canción: Shake It | Disco: Let's Dance | Artista: David Bowie | ID: 38886
+Fecha: 07 Aug 2025, 16:55 | Canción: Cat People | Disco: Let's Dance | Artista: David Bowie | ID: 38885
+Fecha: 07 Aug 2025, 16:50 | Canción: Criminal World | Disco: Let's Dance | Artista: David Bowie | ID: 38884
+Fecha: 07 Aug 2025, 16:44 | Canción: Ricochet | Disco: Let's Dance | Artista: David Bowie | ID: 38883
+Fecha: 07 Aug 2025, 16:32 | Canción: Without You | Disco: Let's Dance | Artista: David Bowie | ID: 38882
+Fecha: 07 Aug 2025, 16:22 | Canción: Let's Dance | Disco: Let's Dance | Artista: David Bowie | ID: 38881
+Fecha: 07 Aug 2025, 16:16 | Canción: China Girl | Disco: Let's Dance | Artista: David Bowie | ID: 38880
+Fecha: 07 Aug 2025, 16:11 | Canción: Modern Love | Disco: Let's Dance | Artista: David Bowie | ID: 38879
+Fecha: 06 Aug 2025, 11:30 | Canción: Condemned to Rock 'n' Roll | Disco: Generation Terrorists | Artista: Manic Street Preachers | ID: 38878
+Fecha: 06 Aug 2025, 11:23 | Canción: Methadone Pretty | Disco: Generation Terrorists | Artista: Manic Street Preachers | ID: 38877
+Fecha: 06 Aug 2025, 11:19 | Canción: Crucifix Kiss | Disco: Generation Terrorists | Artista: Manic Street Preachers | ID: 38876
+Fecha: 06 Aug 2025, 11:16 | Canción: Damn Dog | Disco: Generation Terrorists | Artista: Manic Street Preachers | ID: 38875
+Fecha: 06 Aug 2025, 11:07 | Canción: Spectators of Suicide | Disco: Generation Terrorists | Artista: Manic Street Preachers | ID: 38874
+Fecha: 06 Aug 2025, 11:04 | Canción: Repeat (UK) | Disco: Generation Terrorists | Artista: Manic Street Preachers | ID: 38873
+Fecha: 06 Aug 2025, 10:55 | Canción: So Dead | Disco: Generation Terrorists | Artista: Manic Street Preachers | ID: 38872
+Fecha: 06 Aug 2025, 10:40 | Canción: Stay Beautiful | Disco: Generation Terrorists | Artista: Manic Street Preachers | ID: 38871
+Fecha: 06 Aug 2025, 10:34 | Canción: Another Invented Disease | Disco: Generation Terrorists | Artista: Manic Street Preachers | ID: 38870
+Fecha: 06 Aug 2025, 10:27 | Canción: Tennessee | Disco: Generation Terrorists | Artista: Manic Street Preachers | ID: 38869
+Fecha: 06 Aug 2025, 10:23 | Canción: Repeat (Stars and Stripes) | Disco: Generation Terrorists | Artista: Manic Street Preachers | ID: 38868
+Fecha: 06 Aug 2025, 10:18 | Canción: Little Baby Nothing | Disco: Generation Terrorists | Artista: Manic Street Preachers | ID: 38867
+Fecha: 06 Aug 2025, 10:09 | Canción: Love's Sweet Exile | Disco: Generation Terrorists | Artista: Manic Street Preachers | ID: 38866
+Fecha: 06 Aug 2025, 10:04 | Canción: You Love Us | Disco: Generation Terrorists | Artista: Manic Street Preachers | ID: 38865
+Fecha: 06 Aug 2025, 09:57 | Canción: Motorcycle Emptiness | Disco: Generation Terrorists | Artista: Manic Street Preachers | ID: 38864
+Fecha: 06 Aug 2025, 09:53 | Canción: Born to End | Disco: Generation Terrorists | Artista: Manic Street Preachers | ID: 38863
+Fecha: 06 Aug 2025, 09:49 | Canción: Nat West-Barclays-Midlands-Lloyds | Disco: Generation Terrorists | Artista: Manic Street Preachers | ID: 38862
+Fecha: 06 Aug 2025, 09:44 | Canción: Slash 'n' Burn | Disco: Generation Terrorists | Artista: Manic Street Preachers | ID: 38861
+Fecha: 05 Aug 2025, 18:11 | Canción: Find the River | Disco: Automatic for the People | Artista: R.E.M. | ID: 38860
+Fecha: 05 Aug 2025, 18:05 | Canción: Nightswimming | Disco: Automatic for the People | Artista: R.E.M. | ID: 38859
+Fecha: 05 Aug 2025, 17:45 | Canción: Man on the Moon | Disco: Automatic for the People | Artista: R.E.M. | ID: 38858
+Fecha: 05 Aug 2025, 17:41 | Canción: Star Me Kitten | Disco: Automatic for the People | Artista: R.E.M. | ID: 38857
+Fecha: 05 Aug 2025, 17:37 | Canción: Ignoreland | Disco: Automatic for the People | Artista: R.E.M. | ID: 38856
+Fecha: 05 Aug 2025, 17:33 | Canción: Monty Got a Raw Deal | Disco: Automatic for the People | Artista: R.E.M. | ID: 38855
+Fecha: 05 Aug 2025, 17:27 | Canción: Sweetness Follows | Disco: Automatic for the People | Artista: R.E.M. | ID: 38854
+Fecha: 05 Aug 2025, 17:25 | Canción: New Orleans Instrumental No. 1 | Disco: Automatic for the People | Artista: R.E.M. | ID: 38853
+Fecha: 05 Aug 2025, 17:19 | Canción: Everybody Hurts | Disco: Automatic for the People | Artista: R.E.M. | ID: 38852
+Fecha: 05 Aug 2025, 17:15 | Canción: The Sidewinder Sleeps Tonite | Disco: Automatic for the People | Artista: R.E.M. | ID: 38851
+Fecha: 05 Aug 2025, 17:11 | Canción: Try Not to Breathe | Disco: Automatic for the People | Artista: R.E.M. | ID: 38850
+Fecha: 05 Aug 2025, 17:06 | Canción: Drive | Disco: Automatic for the People | Artista: R.E.M. | ID: 38849
+Fecha: 03 Aug 2025, 17:21 | Canción: Rust In Peace...Polaris | Disco: Rust In Peace | Artista: Megadeth | ID: 38848
+Fecha: 03 Aug 2025, 17:18 | Canción: Dawn Patrol | Disco: Rust In Peace | Artista: Megadeth | ID: 38847
+Fecha: 03 Aug 2025, 17:13 | Canción: Tornado of Souls | Disco: Rust In Peace | Artista: Megadeth | ID: 38846
+Fecha: 03 Aug 2025, 17:08 | Canción: Lucretia | Disco: Rust In Peace | Artista: Megadeth | ID: 38845
+Fecha: 03 Aug 2025, 17:05 | Canción: Poison Was the Cure | Disco: Rust In Peace | Artista: Megadeth | ID: 38844
+Fecha: 03 Aug 2025, 16:59 | Canción: Five Magics | Disco: Rust In Peace | Artista: Megadeth | ID: 38843
+Fecha: 03 Aug 2025, 16:55 | Canción: Take No Prisoners | Disco: Rust In Peace | Artista: Megadeth | ID: 38842
+Fecha: 03 Aug 2025, 16:50 | Canción: Hangar 18 | Disco: Rust In Peace | Artista: Megadeth | ID: 38841
+Fecha: 03 Aug 2025, 16:43 | Canción: Holy Wars... The Punishment Due | Disco: Rust In Peace | Artista: Megadeth | ID: 38840
+Fecha: 03 Aug 2025, 11:43 | Canción: I Am the Resurrection | Disco: The Stone Roses | Artista: The Stone Roses | ID: 38839
+Fecha: 03 Aug 2025, 11:35 | Canción: This Is the One | Disco: The Stone Roses | Artista: The Stone Roses | ID: 38838
+Fecha: 03 Aug 2025, 11:11 | Canción: Shoot You Down | Disco: The Stone Roses | Artista: The Stone Roses | ID: 38837
+Fecha: 03 Aug 2025, 11:07 | Canción: Made of Stone | Disco: The Stone Roses | Artista: The Stone Roses | ID: 38836
+Fecha: 03 Aug 2025, 11:03 | Canción: (Song for My) Sugar Spun Sister | Disco: The Stone Roses | Artista: The Stone Roses | ID: 38835
+Fecha: 03 Aug 2025, 11:02 | Canción: Elizabeth My Dear | Disco: The Stone Roses | Artista: The Stone Roses | ID: 38834
+Fecha: 03 Aug 2025, 10:58 | Canción: Bye Bye Badman | Disco: The Stone Roses | Artista: The Stone Roses | ID: 38833
+Fecha: 03 Aug 2025, 10:52 | Canción: Don't Stop | Disco: The Stone Roses | Artista: The Stone Roses | ID: 38832
+Fecha: 03 Aug 2025, 10:35 | Canción: Waterfall | Disco: The Stone Roses | Artista: The Stone Roses | ID: 38831
+Fecha: 03 Aug 2025, 10:31 | Canción: She Bangs the Drums | Disco: The Stone Roses | Artista: The Stone Roses | ID: 38830
+Fecha: 03 Aug 2025, 10:26 | Canción: I Wanna Be Adored | Disco: The Stone Roses | Artista: The Stone Roses | ID: 38829
+Fecha: 03 Aug 2025, 01:42 | Canción: Carnage Visors: The Soundtrack | Disco: Faith | Artista: The Cure | ID: 38828
+Fecha: 03 Aug 2025, 01:35 | Canción: Faith | Disco: Faith | Artista: The Cure | ID: 38827
+Fecha: 03 Aug 2025, 01:30 | Canción: The Drowning Man | Disco: Faith | Artista: The Cure | ID: 38826
+Fecha: 03 Aug 2025, 01:27 | Canción: Doubt | Disco: Faith | Artista: The Cure | ID: 38825
+Fecha: 03 Aug 2025, 01:22 | Canción: The Funeral Party | Disco: Faith | Artista: The Cure | ID: 38824
+Fecha: 03 Aug 2025, 01:17 | Canción: All Cats Are Grey | Disco: Faith | Artista: The Cure | ID: 38823
+Fecha: 03 Aug 2025, 01:12 | Canción: Other Voices | Disco: Faith | Artista: The Cure | ID: 38822
+Fecha: 03 Aug 2025, 01:08 | Canción: Primary | Disco: Faith | Artista: The Cure | ID: 38821
+Fecha: 03 Aug 2025, 01:04 | Canción: The Holy Hour | Disco: Faith | Artista: The Cure | ID: 38820
+Fecha: 02 Aug 2025, 13:22 | Canción: The Rumor | Disco: Stage Fright | Artista: The Band | ID: 38819
+Fecha: 02 Aug 2025, 13:15 | Canción: Stage Fright | Disco: Stage Fright | Artista: The Band | ID: 38818
+Fecha: 02 Aug 2025, 13:09 | Canción: Daniel and the Sacred Harp | Disco: Stage Fright | Artista: The Band | ID: 38817
+Fecha: 02 Aug 2025, 13:02 | Canción: The W.S. Walcott Medicine Show | Disco: Stage Fright | Artista: The Band | ID: 38816
+Fecha: 02 Aug 2025, 12:58 | Canción: The Shape I'm In | Disco: Stage Fright | Artista: The Band | ID: 38815
+Fecha: 02 Aug 2025, 12:54 | Canción: All La Glory | Disco: Stage Fright | Artista: The Band | ID: 38814
+Fecha: 02 Aug 2025, 12:49 | Canción: Just Another Whistle Stop | Disco: Stage Fright | Artista: The Band | ID: 38813
+Fecha: 02 Aug 2025, 12:45 | Canción: Time to Kill | Disco: Stage Fright | Artista: The Band | ID: 38812
+Fecha: 02 Aug 2025, 12:42 | Canción: Sleeping | Disco: Stage Fright | Artista: The Band | ID: 38811
+Fecha: 02 Aug 2025, 12:38 | Canción: Strawberry Wine | Disco: Stage Fright | Artista: The Band | ID: 38810
+Fecha: 02 Aug 2025, 12:25 | Canción: Good Night | Disco: The Beatles [White Album] Disc 2 | Artista: The Beatles | ID: 38809
+Fecha: 02 Aug 2025, 12:17 | Canción: Revolution 9 | Disco: The Beatles [White Album] Disc 2 | Artista: The Beatles | ID: 38808
+Fecha: 02 Aug 2025, 12:14 | Canción: Cry Baby Cry | Disco: The Beatles [White Album] Disc 2 | Artista: The Beatles | ID: 38807
+Fecha: 02 Aug 2025, 12:11 | Canción: Savoy Truffle | Disco: The Beatles [White Album] Disc 2 | Artista: The Beatles | ID: 38806
+Fecha: 02 Aug 2025, 12:08 | Canción: Honey Pie | Disco: The Beatles [White Album] Disc 2 | Artista: The Beatles | ID: 38805
+Fecha: 02 Aug 2025, 12:02 | Canción: Revolution 1 | Disco: The Beatles [White Album] Disc 2 | Artista: The Beatles | ID: 38804
+Fecha: 02 Aug 2025, 11:57 | Canción: Long, Long, Long | Disco: The Beatles [White Album] Disc 2 | Artista: The Beatles | ID: 38803
+Fecha: 02 Aug 2025, 11:52 | Canción: Helter Skelter | Disco: The Beatles [White Album] Disc 2 | Artista: The Beatles | ID: 38802
+Fecha: 02 Aug 2025, 11:48 | Canción: Sexy Sadie | Disco: The Beatles [White Album] Disc 2 | Artista: The Beatles | ID: 38801
+Fecha: 02 Aug 2025, 11:45 | Canción: Everybody's Got Something to Hide Except Me and My Monkey | Disco: The Beatles [White Album] Disc 2 | Artista: The Beatles | ID: 38800
+Fecha: 02 Aug 2025, 11:42 | Canción: Mother Nature's Son | Disco: The Beatles [White Album] Disc 2 | Artista: The Beatles | ID: 38799
+Fecha: 02 Aug 2025, 11:37 | Canción: Yer Blues | Disco: The Beatles [White Album] Disc 2 | Artista: The Beatles | ID: 38798
+Fecha: 02 Aug 2025, 11:34 | Canción: Birthday | Disco: The Beatles [White Album] Disc 2 | Artista: The Beatles | ID: 38797
+Fecha: 02 Aug 2025, 11:31 | Canción: Julia | Disco: The Beatles [White Album] Disc 1 | Artista: The Beatles | ID: 38796
+Fecha: 02 Aug 2025, 11:29 | Canción: I Will | Disco: The Beatles [White Album] Disc 1 | Artista: The Beatles | ID: 38795
+Fecha: 02 Aug 2025, 11:27 | Canción: Why Don't We Do It in the Road? | Disco: The Beatles [White Album] Disc 1 | Artista: The Beatles | ID: 38794
+Fecha: 02 Aug 2025, 11:22 | Canción: Don't Pass Me By | Disco: The Beatles [White Album] Disc 1 | Artista: The Beatles | ID: 38793
+Fecha: 02 Aug 2025, 11:19 | Canción: Rocky Raccoon | Disco: The Beatles [White Album] Disc 1 | Artista: The Beatles | ID: 38792
+Fecha: 02 Aug 2025, 11:16 | Canción: Piggies | Disco: The Beatles [White Album] Disc 1 | Artista: The Beatles | ID: 38791
+Fecha: 02 Aug 2025, 11:13 | Canción: Blackbird | Disco: The Beatles [White Album] Disc 1 | Artista: The Beatles | ID: 38790
+Fecha: 02 Aug 2025, 11:10 | Canción: I'm So Tired | Disco: The Beatles [White Album] Disc 1 | Artista: The Beatles | ID: 38789
+Fecha: 02 Aug 2025, 11:08 | Canción: Martha My Dear | Disco: The Beatles [White Album] Disc 1 | Artista: The Beatles | ID: 38788
+Fecha: 02 Aug 2025, 11:05 | Canción: Happiness Is a Warm Gun | Disco: The Beatles [White Album] Disc 1 | Artista: The Beatles | ID: 38787
+Fecha: 02 Aug 2025, 11:00 | Canción: While My Guitar Gently Weeps | Disco: The Beatles [White Album] Disc 1 | Artista: The Beatles | ID: 38786
+Fecha: 02 Aug 2025, 10:57 | Canción: The Continuing Story of Bungalow Bill | Disco: The Beatles [White Album] Disc 1 | Artista: The Beatles | ID: 38785
+Fecha: 02 Aug 2025, 10:56 | Canción: Wild Honey Pie | Disco: The Beatles [White Album] Disc 1 | Artista: The Beatles | ID: 38784
+Fecha: 02 Aug 2025, 10:53 | Canción: Ob-La-Di, Ob-La-Da | Disco: The Beatles [White Album] Disc 1 | Artista: The Beatles | ID: 38783
+Fecha: 02 Aug 2025, 10:50 | Canción: Glass Onion | Disco: The Beatles [White Album] Disc 1 | Artista: The Beatles | ID: 38782
+Fecha: 02 Aug 2025, 10:45 | Canción: Dear Prudence | Disco: The Beatles [White Album] Disc 1 | Artista: The Beatles | ID: 38781
+Fecha: 02 Aug 2025, 10:42 | Canción: Back in the U.S.S.R. | Disco: The Beatles [White Album] Disc 1 | Artista: The Beatles | ID: 38780
+Fecha: 01 Aug 2025, 20:46 | Canción: New Dress | Disco: Black Celebration | Artista: Depeche Mode | ID: 38779
+Fecha: 01 Aug 2025, 20:43 | Canción: Dressed in Black | Disco: Black Celebration | Artista: Depeche Mode | ID: 38778
+Fecha: 01 Aug 2025, 20:39 | Canción: World Full of Nothing | Disco: Black Celebration | Artista: Depeche Mode | ID: 38777
+Fecha: 01 Aug 2025, 20:35 | Canción: Here Is the House | Disco: Black Celebration | Artista: Depeche Mode | ID: 38776
+Fecha: 01 Aug 2025, 20:29 | Canción: Stripped | Disco: Black Celebration | Artista: Depeche Mode | ID: 38775
+Fecha: 01 Aug 2025, 20:24 | Canción: A Question of Time | Disco: Black Celebration | Artista: Depeche Mode | ID: 38774
+Fecha: 01 Aug 2025, 20:22 | Canción: It Doesn't Matter Two | Disco: Black Celebration | Artista: Depeche Mode | ID: 38773
+Fecha: 01 Aug 2025, 20:16 | Canción: Sometimes | Disco: Black Celebration | Artista: Depeche Mode | ID: 38772
+Fecha: 01 Aug 2025, 20:10 | Canción: A Question of Lust | Disco: Black Celebration | Artista: Depeche Mode | ID: 38771
+Fecha: 01 Aug 2025, 20:05 | Canción: Fly on the Windscreen (Final) | Disco: Black Celebration | Artista: Depeche Mode | ID: 38770
+Fecha: 01 Aug 2025, 19:59 | Canción: Black Celebration | Disco: Black Celebration | Artista: Depeche Mode | ID: 38769
+Fecha: 01 Aug 2025, 19:22 | Canción: Soon | Disco: Loveless | Artista: my bloody valentine | ID: 38768
+Fecha: 01 Aug 2025, 19:16 | Canción: What You Want | Disco: Loveless | Artista: my bloody valentine | ID: 38767
+Fecha: 01 Aug 2025, 19:10 | Canción: Blown a Wish | Disco: Loveless | Artista: my bloody valentine | ID: 38766
+Fecha: 01 Aug 2025, 19:05 | Canción: Sometimes | Disco: Loveless | Artista: my bloody valentine | ID: 38765
+Fecha: 01 Aug 2025, 19:00 | Canción: Come in Alone | Disco: Loveless | Artista: my bloody valentine | ID: 38764
+Fecha: 01 Aug 2025, 18:55 | Canción: I Only Said | Disco: Loveless | Artista: my bloody valentine | ID: 38763
+Fecha: 01 Aug 2025, 18:48 | Canción: When You Sleep | Disco: Loveless | Artista: my bloody valentine | ID: 38762
+Fecha: 01 Aug 2025, 18:42 | Canción: To Here Knows When | Disco: Loveless | Artista: my bloody valentine | ID: 38761
+Fecha: 01 Aug 2025, 18:41 | Canción: Touched | Disco: Loveless | Artista: my bloody valentine | ID: 38760
+Fecha: 01 Aug 2025, 18:38 | Canción: Loomer | Disco: Loveless | Artista: my bloody valentine | ID: 38759
+Fecha: 01 Aug 2025, 18:33 | Canción: Only Shallow | Disco: Loveless | Artista: my bloody valentine | ID: 38758
+Fecha: 01 Aug 2025, 17:29 | Canción: All The Saints | Disco: Head Carrier | Artista: Pixies | ID: 38757
+Fecha: 01 Aug 2025, 17:27 | Canción: Plaster Of Paris | Disco: Head Carrier | Artista: Pixies | ID: 38756
+Fecha: 01 Aug 2025, 17:24 | Canción: Um Chagga Lagga | Disco: Head Carrier | Artista: Pixies | ID: 38755
+Fecha: 01 Aug 2025, 17:20 | Canción: All I Think About Now | Disco: Head Carrier | Artista: Pixies | ID: 38754
+Fecha: 01 Aug 2025, 17:17 | Canción: Bel Esprit | Disco: Head Carrier | Artista: Pixies | ID: 38753
+Fecha: 01 Aug 2025, 17:14 | Canción: Tenement Song | Disco: Head Carrier | Artista: Pixies | ID: 38752
+Fecha: 01 Aug 2025, 17:11 | Canción: Talent | Disco: Head Carrier | Artista: Pixies | ID: 38751
+Fecha: 01 Aug 2025, 17:08 | Canción: Oona | Disco: Head Carrier | Artista: Pixies | ID: 38750
+Fecha: 01 Aug 2025, 17:04 | Canción: Might As Well Be Gone | Disco: Head Carrier | Artista: Pixies | ID: 38749
+Fecha: 01 Aug 2025, 17:02 | Canción: Baal's Back | Disco: Head Carrier | Artista: Pixies | ID: 38748
+Fecha: 01 Aug 2025, 16:59 | Canción: Classic Masher | Disco: Head Carrier | Artista: Pixies | ID: 38747
+Fecha: 01 Aug 2025, 16:55 | Canción: Head Carrier | Disco: Head Carrier | Artista: Pixies | ID: 38746
+Fecha: 01 Aug 2025, 00:10 | Canción: Careering | Disco: Metal Box | Artista: Public Image Ltd. | ID: 38745
+Fecha: 31 Jul 2025, 23:59 | Canción: Poptones | Disco: Metal Box | Artista: Public Image Ltd. | ID: 38744
+Fecha: 31 Jul 2025, 23:54 | Canción: Swan Lake | Disco: Metal Box | Artista: Public Image Ltd. | ID: 38743
+Fecha: 31 Jul 2025, 23:49 | Canción: Memories | Disco: Metal Box | Artista: Public Image Ltd. | ID: 38742
+Fecha: 31 Jul 2025, 23:38 | Canción: Albatross | Disco: Metal Box | Artista: Public Image Ltd. | ID: 38741
+Fecha: 31 Jul 2025, 22:26 | Canción: Purple Rain | Disco: Purple Rain | Artista: Prince | ID: 38740
+Fecha: 31 Jul 2025, 22:21 | Canción: Baby I'm a Star | Disco: Purple Rain | Artista: Prince | ID: 38739
+Fecha: 31 Jul 2025, 22:18 | Canción: I Would Die 4 U | Disco: Purple Rain | Artista: Prince | ID: 38738
+Fecha: 31 Jul 2025, 22:12 | Canción: When Doves Cry | Disco: Purple Rain | Artista: Prince | ID: 38737
+Fecha: 31 Jul 2025, 22:07 | Canción: Darling Nikki | Disco: Purple Rain | Artista: Prince | ID: 38736
+Fecha: 31 Jul 2025, 22:03 | Canción: Computer Blue | Disco: Purple Rain | Artista: Prince | ID: 38735
+Fecha: 31 Jul 2025, 21:59 | Canción: Take Me With U | Disco: Purple Rain | Artista: Prince | ID: 38734
+Fecha: 31 Jul 2025, 21:54 | Canción: Let's Go Crazy | Disco: Purple Rain | Artista: Prince | ID: 38733
+Fecha: 31 Jul 2025, 18:21 | Canción: Butterfly | Disco: Pinkerton | Artista: Weezer | ID: 38732
+Fecha: 31 Jul 2025, 18:18 | Canción: Falling for You | Disco: Pinkerton | Artista: Weezer | ID: 38731
+Fecha: 31 Jul 2025, 18:13 | Canción: Pink Triangle | Disco: Pinkerton | Artista: Weezer | ID: 38730
+Fecha: 31 Jul 2025, 18:09 | Canción: El Scorcho | Disco: Pinkerton | Artista: Weezer | ID: 38729
+Fecha: 31 Jul 2025, 18:04 | Canción: The Good Life | Disco: Pinkerton | Artista: Weezer | ID: 38728
+Fecha: 31 Jul 2025, 18:00 | Canción: Across the Sea | Disco: Pinkerton | Artista: Weezer | ID: 38727
+Fecha: 31 Jul 2025, 17:57 | Canción: Why Bother | Disco: Pinkerton | Artista: Weezer | ID: 38726
+Fecha: 31 Jul 2025, 17:54 | Canción: No Other One | Disco: Pinkerton | Artista: Weezer | ID: 38725
+Fecha: 31 Jul 2025, 17:49 | Canción: Getchoo | Disco: Pinkerton | Artista: Weezer | ID: 38724
+Fecha: 31 Jul 2025, 17:46 | Canción: Tired of Sex | Disco: Pinkerton | Artista: Weezer | ID: 38723
+Fecha: 31 Jul 2025, 17:29 | Canción: Teo Torriatte (Let Us Cling Together) | Disco: A Day at the Races | Artista: Queen | ID: 38722
+Fecha: 31 Jul 2025, 17:25 | Canción: Drowse | Disco: A Day at the Races | Artista: Queen | ID: 38721
+Fecha: 31 Jul 2025, 17:21 | Canción: Good Old-Fashioned Lover Boy | Disco: A Day at the Races | Artista: Queen | ID: 38720
+Fecha: 31 Jul 2025, 17:16 | Canción: White Man | Disco: A Day at the Races | Artista: Queen | ID: 38719
+Fecha: 31 Jul 2025, 17:11 | Canción: Somebody to Love | Disco: A Day at the Races | Artista: Queen | ID: 38718
+Fecha: 31 Jul 2025, 17:07 | Canción: You and I | Disco: A Day at the Races | Artista: Queen | ID: 38717
+Fecha: 31 Jul 2025, 17:02 | Canción: The Millionaire Waltz | Disco: A Day at the Races | Artista: Queen | ID: 38716
+Fecha: 31 Jul 2025, 16:58 | Canción: Long Away | Disco: A Day at the Races | Artista: Queen | ID: 38715
+Fecha: 31 Jul 2025, 16:53 | Canción: You Take My Breath Away | Disco: A Day at the Races | Artista: Queen | ID: 38714
+Fecha: 31 Jul 2025, 16:48 | Canción: Tie Your Mother Down | Disco: A Day at the Races | Artista: Queen | ID: 38713
+Fecha: 31 Jul 2025, 00:02 | Canción: Follow Me Home | Disco: Communiqué | Artista: Dire Straits | ID: 38712
+Fecha: 30 Jul 2025, 23:57 | Canción: Single Handed Sailor | Disco: Communiqué | Artista: Dire Straits | ID: 38711
+Fecha: 30 Jul 2025, 23:52 | Canción: Portobello Belle | Disco: Communiqué | Artista: Dire Straits | ID: 38710
+Fecha: 30 Jul 2025, 23:40 | Canción: Angel of Mercy | Disco: Communiqué | Artista: Dire Straits | ID: 38709
+Fecha: 30 Jul 2025, 23:36 | Canción: Lady Writer | Disco: Communiqué | Artista: Dire Straits | ID: 38708
+Fecha: 30 Jul 2025, 23:30 | Canción: Communiqué | Disco: Communiqué | Artista: Dire Straits | ID: 38707
+Fecha: 30 Jul 2025, 23:26 | Canción: Where Do You Think You're Going? | Disco: Communiqué | Artista: Dire Straits | ID: 38706
+Fecha: 30 Jul 2025, 23:21 | Canción: News | Disco: Communiqué | Artista: Dire Straits | ID: 38705
+Fecha: 30 Jul 2025, 23:15 | Canción: Once Upon a Time in the West | Disco: Communiqué | Artista: Dire Straits | ID: 38704
+Fecha: 30 Jul 2025, 18:33 | Canción: Fight For Your Rights | Disco: Theatre of Pain | Artista: Mötley Crüe | ID: 38703
+Fecha: 30 Jul 2025, 18:30 | Canción: Raise Your Hands To Rock | Disco: Theatre of Pain | Artista: Mötley Crüe | ID: 38702
+Fecha: 30 Jul 2025, 18:24 | Canción: Save Our Souls | Disco: Theatre of Pain | Artista: Mötley Crüe | ID: 38701
+Fecha: 30 Jul 2025, 18:21 | Canción: Use It Or Lose It | Disco: Theatre of Pain | Artista: Mötley Crüe | ID: 38700
+Fecha: 30 Jul 2025, 18:16 | Canción: Tonight (We Need A Lover) | Disco: Theatre of Pain | Artista: Mötley Crüe | ID: 38699
+Fecha: 30 Jul 2025, 18:11 | Canción: Home Sweet Home | Disco: Theatre of Pain | Artista: Mötley Crüe | ID: 38698
+Fecha: 30 Jul 2025, 18:06 | Canción: Keep Your Eye On The Money | Disco: Theatre of Pain | Artista: Mötley Crüe | ID: 38697
+Fecha: 30 Jul 2025, 18:04 | Canción: Louder Than Hell | Disco: Theatre of Pain | Artista: Mötley Crüe | ID: 38696
+Fecha: 30 Jul 2025, 18:00 | Canción: Smokin' In The Boys Room | Disco: Theatre of Pain | Artista: Mötley Crüe | ID: 38695
+Fecha: 30 Jul 2025, 17:56 | Canción: City Boy Blues | Disco: Theatre of Pain | Artista: Mötley Crüe | ID: 38694
+Fecha: 30 Jul 2025, 17:50 | Canción: Devil's Child | Disco: Screaming for Vengeance | Artista: Judas Priest | ID: 38693
+Fecha: 30 Jul 2025, 17:44 | Canción: Fever | Disco: Screaming for Vengeance | Artista: Judas Priest | ID: 38692
+Fecha: 30 Jul 2025, 17:39 | Canción: You've Got Another Thing Comin' | Disco: Screaming for Vengeance | Artista: Judas Priest | ID: 38691
+Fecha: 30 Jul 2025, 17:34 | Canción: Screaming for Vengeance | Disco: Screaming for Vengeance | Artista: Judas Priest | ID: 38690
+Fecha: 30 Jul 2025, 17:30 | Canción: Pain and Pleasure | Disco: Screaming for Vengeance | Artista: Judas Priest | ID: 38689
+Fecha: 30 Jul 2025, 17:26 | Canción: (Take These) Chains | Disco: Screaming for Vengeance | Artista: Judas Priest | ID: 38688
+Fecha: 30 Jul 2025, 17:22 | Canción: Bloodstone | Disco: Screaming for Vengeance | Artista: Judas Priest | ID: 38687
+Fecha: 30 Jul 2025, 17:19 | Canción: Riding on the Wind | Disco: Screaming for Vengeance | Artista: Judas Priest | ID: 38686
+Fecha: 30 Jul 2025, 17:15 | Canción: Electric Eye | Disco: Screaming for Vengeance | Artista: Judas Priest | ID: 38685
+Fecha: 30 Jul 2025, 17:14 | Canción: The Hellion | Disco: Screaming for Vengeance | Artista: Judas Priest | ID: 38684
+Fecha: 30 Jul 2025, 17:07 | Canción: Under the Sun | Disco: Vol.4 | Artista: Black Sabbath | ID: 38683
+Fecha: 30 Jul 2025, 17:04 | Canción: St. Vitus Dance | Disco: Vol.4 | Artista: Black Sabbath | ID: 38682
+Fecha: 30 Jul 2025, 17:01 | Canción: Laguna Sunrise | Disco: Vol.4 | Artista: Black Sabbath | ID: 38681
+Fecha: 30 Jul 2025, 16:55 | Canción: Cornucopia | Disco: Vol.4 | Artista: Black Sabbath | ID: 38680
+Fecha: 30 Jul 2025, 16:35 | Canción: Snowblind | Disco: Vol.4 | Artista: Black Sabbath | ID: 38679
+Fecha: 30 Jul 2025, 16:30 | Canción: Supernaut | Disco: Vol.4 | Artista: Black Sabbath | ID: 38678
+Fecha: 30 Jul 2025, 16:28 | Canción: FX | Disco: Vol.4 | Artista: Black Sabbath | ID: 38677
+Fecha: 30 Jul 2025, 16:23 | Canción: Changes | Disco: Vol.4 | Artista: Black Sabbath | ID: 38676
+Fecha: 30 Jul 2025, 16:20 | Canción: Tomorrows Dream | Disco: Vol.4 | Artista: Black Sabbath | ID: 38675
+Fecha: 30 Jul 2025, 16:11 | Canción: Wheels of Confusion | Disco: Vol.4 | Artista: Black Sabbath | ID: 38674
+Fecha: 26 Jul 2025, 10:12 | Canción: Garageland | Disco: The Clash (U.K.) | Artista: The Clash | ID: 38673
+Fecha: 26 Jul 2025, 10:08 | Canción: 48 Hours | Disco: The Clash (U.K.) | Artista: The Clash | ID: 38672
+Fecha: 26 Jul 2025, 10:00 | Canción: Police & Thieves | Disco: The Clash (U.K.) | Artista: The Clash | ID: 38671
+Fecha: 26 Jul 2025, 09:58 | Canción: Protex Blue | Disco: The Clash (U.K.) | Artista: The Clash | ID: 38670
+Fecha: 26 Jul 2025, 09:56 | Canción: Cheat | Disco: The Clash (U.K.) | Artista: The Clash | ID: 38669
+Fecha: 26 Jul 2025, 09:54 | Canción: Career Opportunities | Disco: The Clash (U.K.) | Artista: The Clash | ID: 38668
+Fecha: 26 Jul 2025, 09:52 | Canción: London's Burning | Disco: The Clash (U.K.) | Artista: The Clash | ID: 38667
+Fecha: 26 Jul 2025, 09:49 | Canción: Deny | Disco: The Clash (U.K.) | Artista: The Clash | ID: 38666
+Fecha: 26 Jul 2025, 09:47 | Canción: What's My Name | Disco: The Clash (U.K.) | Artista: The Clash | ID: 38665
+Fecha: 26 Jul 2025, 09:45 | Canción: Hate & War | Disco: The Clash (U.K.) | Artista: The Clash | ID: 38664
+Fecha: 26 Jul 2025, 09:43 | Canción: White Riot | Disco: The Clash (U.K.) | Artista: The Clash | ID: 38663
+Fecha: 26 Jul 2025, 09:40 | Canción: I'm So Bored With the U.S.A. | Disco: The Clash (U.K.) | Artista: The Clash | ID: 38662
+Fecha: 26 Jul 2025, 09:37 | Canción: Remote Control | Disco: The Clash (U.K.) | Artista: The Clash | ID: 38661
+Fecha: 26 Jul 2025, 09:35 | Canción: Janie Jones | Disco: The Clash (U.K.) | Artista: The Clash | ID: 38660
+Fecha: 26 Jul 2025, 09:04 | Canción: Trash | Disco: Coming Up | Artista: Suede | ID: 38659
+Fecha: 26 Jul 2025, 00:53 | Canción: Under the Westway | Disco: Under the Westway | Artista: Blur | ID: 38658
+Fecha: 26 Jul 2025, 00:46 | Canción: Don't Look Back in Anger | Disco: (What's the Story) Morning Glory? | Artista: Oasis | ID: 38657
+Fecha: 26 Jul 2025, 00:24 | Canción: A Certain Romance | Disco: Whatever People Say I Am, That's What I'm Not | Artista: Arctic Monkeys | ID: 38656
+Fecha: 26 Jul 2025, 00:21 | Canción: From the Ritz to the Rubble | Disco: Whatever People Say I Am, That's What I'm Not | Artista: Arctic Monkeys | ID: 38655
+Fecha: 26 Jul 2025, 00:17 | Canción: When the Sun Goes Down | Disco: Whatever People Say I Am, That's What I'm Not | Artista: Arctic Monkeys | ID: 38654
+Fecha: 26 Jul 2025, 00:12 | Canción: Perhaps Vampires Is a Bit Strong But... | Disco: Whatever People Say I Am, That's What I'm Not | Artista: Arctic Monkeys | ID: 38653
+Fecha: 26 Jul 2025, 00:09 | Canción: Mardy Bum | Disco: Whatever People Say I Am, That's What I'm Not | Artista: Arctic Monkeys | ID: 38652
+Fecha: 26 Jul 2025, 00:07 | Canción: Red Light Indicates Doors Are Secured | Disco: Whatever People Say I Am, That's What I'm Not | Artista: Arctic Monkeys | ID: 38651
+Fecha: 26 Jul 2025, 00:05 | Canción: Riot Van | Disco: Whatever People Say I Am, That's What I'm Not | Artista: Arctic Monkeys | ID: 38650
+Fecha: 26 Jul 2025, 00:02 | Canción: Still Take You Home | Disco: Whatever People Say I Am, That's What I'm Not | Artista: Arctic Monkeys | ID: 38649
+Fecha: 25 Jul 2025, 23:59 | Canción: You Probably Couldn't See for the Lights but You Were Staring Straight at Me | Disco: Whatever People Say I Am, That's What I'm Not | Artista: Arctic Monkeys | ID: 38648
+Fecha: 25 Jul 2025, 23:57 | Canción: Dancing Shoes | Disco: Whatever People Say I Am, That's What I'm Not | Artista: Arctic Monkeys | ID: 38647
+Fecha: 25 Jul 2025, 23:54 | Canción: Fake Tales of San Francisco | Disco: Whatever People Say I Am, That's What I'm Not | Artista: Arctic Monkeys | ID: 38646
+Fecha: 25 Jul 2025, 23:51 | Canción: I Bet You Look Good on the Dancefloor | Disco: Whatever People Say I Am, That's What I'm Not | Artista: Arctic Monkeys | ID: 38645
+Fecha: 25 Jul 2025, 23:47 | Canción: The View from the Afternoon | Disco: Whatever People Say I Am, That's What I'm Not | Artista: Arctic Monkeys | ID: 38644
+Fecha: 25 Jul 2025, 23:38 | Canción: Beetlebum | Disco: Blur | Artista: Blur | ID: 38643
+Fecha: 25 Jul 2025, 00:01 | Canción: I Wanna Be Sedated | Disco: Anthology Disc 1 | Artista: Ramones | ID: 38642
+Fecha: 24 Jul 2025, 23:59 | Canción: I Don't Care (single version) | Disco: Anthology Disc 1 | Artista: Ramones | ID: 38641
+Fecha: 24 Jul 2025, 23:56 | Canción: Surfin' Bird | Disco: Anthology Disc 1 | Artista: Ramones | ID: 38640
+Fecha: 24 Jul 2025, 23:54 | Canción: Teenage Lobotomy | Disco: Anthology Disc 1 | Artista: Ramones | ID: 38639
+Fecha: 24 Jul 2025, 23:51 | Canción: Here Today, Gone Tomorrow | Disco: Anthology Disc 1 | Artista: Ramones | ID: 38638
+Fecha: 24 Jul 2025, 23:49 | Canción: Rockaway Beach | Disco: Anthology Disc 1 | Artista: Ramones | ID: 38637
+Fecha: 24 Jul 2025, 23:46 | Canción: Sheena Is a Punk Rocker (single version) | Disco: Anthology Disc 1 | Artista: Ramones | ID: 38636
+Fecha: 24 Jul 2025, 23:43 | Canción: Pinhead | Disco: Anthology Disc 1 | Artista: Ramones | ID: 38635
+Fecha: 24 Jul 2025, 23:41 | Canción: Carbona Not Glue | Disco: Anthology Disc 1 | Artista: Ramones | ID: 38634
+Fecha: 24 Jul 2025, 23:39 | Canción: Commando | Disco: Anthology Disc 1 | Artista: Ramones | ID: 38633
+Fecha: 24 Jul 2025, 23:37 | Canción: California Sun | Disco: Anthology Disc 1 | Artista: Ramones | ID: 38632
+Fecha: 24 Jul 2025, 23:35 | Canción: I Remember You | Disco: Anthology Disc 1 | Artista: Ramones | ID: 38631
+Fecha: 24 Jul 2025, 23:33 | Canción: Gimme Gimme Shock Treatment | Disco: Anthology Disc 1 | Artista: Ramones | ID: 38630
+Fecha: 24 Jul 2025, 23:30 | Canción: Glad to See You Go | Disco: Anthology Disc 1 | Artista: Ramones | ID: 38629
+Fecha: 24 Jul 2025, 23:29 | Canción: Now I Wanna Sniff Some Glue | Disco: Anthology Disc 1 | Artista: Ramones | ID: 38628
+Fecha: 24 Jul 2025, 23:26 | Canción: I Wanna Be Your Boyfriend | Disco: Anthology Disc 1 | Artista: Ramones | ID: 38627
+Fecha: 24 Jul 2025, 23:24 | Canción: Judy Is a Punk | Disco: Anthology Disc 1 | Artista: Ramones | ID: 38626
+Fecha: 24 Jul 2025, 23:22 | Canción: Beat on the Brat | Disco: Anthology Disc 1 | Artista: Ramones | ID: 38625
+Fecha: 24 Jul 2025, 23:19 | Canción: Blitzkrieg Bop | Disco: Anthology Disc 1 | Artista: Ramones | ID: 38624
+Fecha: 24 Jul 2025, 22:37 | Canción: Late for the Train | Disco: Love Bites | Artista: Buzzcocks | ID: 38623
+Fecha: 24 Jul 2025, 22:32 | Canción: E.S.P. | Disco: Love Bites | Artista: Buzzcocks | ID: 38622
+Fecha: 24 Jul 2025, 22:27 | Canción: Nothing Left | Disco: Love Bites | Artista: Buzzcocks | ID: 38621
+Fecha: 24 Jul 2025, 22:24 | Canción: Love Is Lies | Disco: Love Bites | Artista: Buzzcocks | ID: 38620
+Fecha: 24 Jul 2025, 22:22 | Canción: Walking Distance | Disco: Love Bites | Artista: Buzzcocks | ID: 38619
+Fecha: 24 Jul 2025, 22:18 | Canción: Sixteen Again | Disco: Love Bites | Artista: Buzzcocks | ID: 38618
+Fecha: 24 Jul 2025, 22:15 | Canción: Just Lust | Disco: Love Bites | Artista: Buzzcocks | ID: 38617
+Fecha: 24 Jul 2025, 22:12 | Canción: Nostalgia | Disco: Love Bites | Artista: Buzzcocks | ID: 38616
+Fecha: 24 Jul 2025, 22:08 | Canción: Operator's Manual | Disco: Love Bites | Artista: Buzzcocks | ID: 38615
+Fecha: 24 Jul 2025, 22:05 | Canción: Ever Fallen in Love (With Someone You Shouldn't've) | Disco: Love Bites | Artista: Buzzcocks | ID: 38614
+Fecha: 24 Jul 2025, 22:02 | Canción: Real World | Disco: Love Bites | Artista: Buzzcocks | ID: 38613
+Fecha: 22 Jul 2025, 02:01 | Canción: Sound and Vision | Disco: Low | Artista: David Bowie | ID: 38612
+Fecha: 22 Jul 2025, 01:57 | Canción: Soul Love | Disco: The Rise and Fall of Ziggy Stardust and the Spiders From Mars | Artista: David Bowie | ID: 38611
+Fecha: 22 Jul 2025, 01:51 | Canción: Space Oddity | Disco: Space Oddity | Artista: David Bowie | ID: 38610
+Fecha: 22 Jul 2025, 01:47 | Canción: Life On Mars | Disco: Hunky Dory | Artista: David Bowie | ID: 38609
+Fecha: 22 Jul 2025, 01:43 | Canción: Life On Mars | Disco: Hunky Dory | Artista: David Bowie | ID: 38608
+Fecha: 22 Jul 2025, 01:39 | Canción: Rooftop Garden | Disco: Legendary Hearts | Artista: Lou Reed | ID: 38607
+Fecha: 22 Jul 2025, 01:32 | Canción: Home Of The Brave | Disco: Legendary Hearts | Artista: Lou Reed | ID: 38606
+Fecha: 22 Jul 2025, 01:28 | Canción: Bottoming Out | Disco: Legendary Hearts | Artista: Lou Reed | ID: 38605
+Fecha: 22 Jul 2025, 01:20 | Canción: Bottoming Out | Disco: Legendary Hearts | Artista: Lou Reed | ID: 38604
+Fecha: 22 Jul 2025, 01:17 | Canción: Betrayed | Disco: Legendary Hearts | Artista: Lou Reed | ID: 38603
+Fecha: 22 Jul 2025, 01:14 | Canción: Pow Wow | Disco: Legendary Hearts | Artista: Lou Reed | ID: 38602
+Fecha: 22 Jul 2025, 01:11 | Canción: Turn Out The Light | Disco: Legendary Hearts | Artista: Lou Reed | ID: 38601
+Fecha: 22 Jul 2025, 01:07 | Canción: The Last Shot | Disco: Legendary Hearts | Artista: Lou Reed | ID: 38600
+Fecha: 22 Jul 2025, 01:01 | Canción: Martial Law | Disco: Legendary Hearts | Artista: Lou Reed | ID: 38599
+Fecha: 22 Jul 2025, 00:58 | Canción: Make Up My Mind | Disco: Legendary Hearts | Artista: Lou Reed | ID: 38598
+Fecha: 22 Jul 2025, 00:56 | Canción: Don't Talk To Me About Work | Disco: Legendary Hearts | Artista: Lou Reed | ID: 38597
+Fecha: 22 Jul 2025, 00:52 | Canción: Legendary Hearts | Disco: Legendary Hearts | Artista: Lou Reed | ID: 38596
+Fecha: 22 Jul 2025, 00:35 | Canción: Is This Love | Disco: Legend | Artista: Bob Marley | ID: 38595
+Fecha: 22 Jul 2025, 00:31 | Canción: Jamming | Disco: Legend | Artista: Bob Marley | ID: 38594
+Fecha: 22 Jul 2025, 00:19 | Canción: If This Is A Plan | Disco: Hate | Artista: The Delgados | ID: 38593
+Fecha: 22 Jul 2025, 00:14 | Canción: Never Look At The Sun | Disco: Hate | Artista: The Delgados | ID: 38592
+Fecha: 22 Jul 2025, 00:09 | Canción: All Rise | Disco: Hate | Artista: The Delgados | ID: 38591
+Fecha: 22 Jul 2025, 00:04 | Canción: Favours | Disco: Hate | Artista: The Delgados | ID: 38590
+Fecha: 21 Jul 2025, 23:57 | Canción: Child Killers | Disco: Hate | Artista: The Delgados | ID: 38589
+Fecha: 21 Jul 2025, 23:53 | Canción: Coming in From the Cold | Disco: Hate | Artista: The Delgados | ID: 38588
+Fecha: 21 Jul 2025, 23:48 | Canción: The Drowning Years | Disco: Hate | Artista: The Delgados | ID: 38587
+Fecha: 21 Jul 2025, 23:41 | Canción: Woke From Dreaming | Disco: Hate | Artista: The Delgados | ID: 38586
+Fecha: 21 Jul 2025, 23:38 | Canción: All You Need Is Hate | Disco: Hate | Artista: The Delgados | ID: 38585
+Fecha: 21 Jul 2025, 23:33 | Canción: The Light Before We Land | Disco: Hate | Artista: The Delgados | ID: 38584
+Fecha: 21 Jul 2025, 23:08 | Canción: The Top | Disco: The Top | Artista: The Cure | ID: 38583
+Fecha: 21 Jul 2025, 23:05 | Canción: Bananafishbones | Disco: The Top | Artista: The Cure | ID: 38582
+Fecha: 21 Jul 2025, 23:02 | Canción: The Empty World | Disco: The Top | Artista: The Cure | ID: 38581
+Fecha: 21 Jul 2025, 22:58 | Canción: Piggy in the Mirror | Disco: The Top | Artista: The Cure | ID: 38580
+Fecha: 21 Jul 2025, 22:54 | Canción: The Caterpillar | Disco: The Top | Artista: The Cure | ID: 38579
+Fecha: 21 Jul 2025, 22:52 | Canción: Dressing Up | Disco: The Top | Artista: The Cure | ID: 38578
+Fecha: 21 Jul 2025, 22:48 | Canción: Give Me It | Disco: The Top | Artista: The Cure | ID: 38577
+Fecha: 21 Jul 2025, 22:42 | Canción: Wailing Wall | Disco: The Top | Artista: The Cure | ID: 38576
+Fecha: 21 Jul 2025, 22:38 | Canción: Bird Mad Girl | Disco: The Top | Artista: The Cure | ID: 38575
+Fecha: 21 Jul 2025, 22:33 | Canción: Shake Dog Shake | Disco: The Top | Artista: The Cure | ID: 38574
+Fecha: 21 Jul 2025, 22:25 | Canción: Best Days | Disco: The Great Escape | Artista: Blur | ID: 38573
+Fecha: 19 Jul 2025, 01:13 | Canción: Reaching Out | Disco: Spirits Having Flown | Artista: Bee Gees | ID: 38572
+Fecha: 19 Jul 2025, 01:08 | Canción: Love You Inside Out | Disco: Spirits Having Flown | Artista: Bee Gees | ID: 38571
+Fecha: 19 Jul 2025, 01:03 | Canción: Too Much Heaven | Disco: Spirits Having Flown | Artista: Bee Gees | ID: 38570
+Fecha: 19 Jul 2025, 00:58 | Canción: Tragedy | Disco: Spirits Having Flown | Artista: Bee Gees | ID: 38569
+Fecha: 19 Jul 2025, 00:52 | Canción: Living Eyes | Disco: Living Eyes | Artista: Bee Gees | ID: 38568
+Fecha: 19 Jul 2025, 00:44 | Canción: Professeur Suicide | Disco: Music Kills Me | Artista: Rinôçérôse | ID: 38567
+Fecha: 19 Jul 2025, 00:40 | Canción: Résurrection D'une Idôle Pop | Disco: Music Kills Me | Artista: Rinôçérôse | ID: 38566
+Fecha: 19 Jul 2025, 00:34 | Canción: Dead Flowers | Disco: Music Kills Me | Artista: Rinôçérôse | ID: 38565
+Fecha: 19 Jul 2025, 00:28 | Canción: Lost Love | Disco: Music Kills Me | Artista: Rinôçérôse | ID: 38564
+Fecha: 19 Jul 2025, 00:23 | Canción: It's Time To Go Now! | Disco: Music Kills Me | Artista: Rinôçérôse | ID: 38563
+Fecha: 19 Jul 2025, 00:16 | Canción: Music Kills Me | Disco: Music Kills Me | Artista: Rinôçérôse | ID: 38562
+Fecha: 19 Jul 2025, 00:12 | Canción: Le Rock Summer | Disco: Music Kills Me | Artista: Rinôçérôse | ID: 38561
+Fecha: 19 Jul 2025, 00:03 | Canción: Tell Me What to Swallow | Disco: Crystal Castles | Artista: Crystal Castles | ID: 38560
+Fecha: 18 Jul 2025, 23:55 | Canción: Black Panther | Disco: Crystal Castles | Artista: Crystal Castles | ID: 38559
+Fecha: 18 Jul 2025, 23:51 | Canción: Reckless | Disco: Crystal Castles | Artista: Crystal Castles | ID: 38558
+Fecha: 18 Jul 2025, 23:48 | Canción: Through the Hosiery | Disco: Crystal Castles | Artista: Crystal Castles | ID: 38557
+Fecha: 18 Jul 2025, 23:45 | Canción: Love and Caring | Disco: Crystal Castles | Artista: Crystal Castles | ID: 38556
+Fecha: 18 Jul 2025, 23:42 | Canción: Knights | Disco: Crystal Castles | Artista: Crystal Castles | ID: 38555
+Fecha: 18 Jul 2025, 23:38 | Canción: Vanished | Disco: Crystal Castles | Artista: Crystal Castles | ID: 38554
+Fecha: 18 Jul 2025, 23:36 | Canción: 1991 | Disco: Crystal Castles | Artista: Crystal Castles | ID: 38553
+Fecha: 18 Jul 2025, 23:31 | Canción: Good Time | Disco: Crystal Castles | Artista: Crystal Castles | ID: 38552
+Fecha: 18 Jul 2025, 23:27 | Canción: Courtship Dating | Disco: Crystal Castles | Artista: Crystal Castles | ID: 38551
+Fecha: 18 Jul 2025, 23:23 | Canción: Air War | Disco: Crystal Castles | Artista: Crystal Castles | ID: 38550
+Fecha: 18 Jul 2025, 23:21 | Canción: xxzxcuzx me | Disco: Crystal Castles | Artista: Crystal Castles | ID: 38549
+Fecha: 18 Jul 2025, 23:14 | Canción: Magic Spells | Disco: Crystal Castles | Artista: Crystal Castles | ID: 38548
+Fecha: 18 Jul 2025, 23:10 | Canción: Crimewave | Disco: Crystal Castles | Artista: Crystal Castles | ID: 38547
+Fecha: 18 Jul 2025, 23:07 | Canción: Alice Practice | Disco: Crystal Castles | Artista: Crystal Castles | ID: 38546
+Fecha: 18 Jul 2025, 23:04 | Canción: Untrust Us | Disco: Crystal Castles | Artista: Crystal Castles | ID: 38545
+Fecha: 18 Jul 2025, 20:23 | Canción: River Euphrates | Disco: Complete 'B' Sides | Artista: Pixies | ID: 38544
+Fecha: 18 Jul 2025, 20:18 | Canción: The Navajo Know | Disco: Trompe le Monde | Artista: Pixies | ID: 38543
+Fecha: 18 Jul 2025, 20:13 | Canción: Motorway to Roswell | Disco: Trompe le Monde | Artista: Pixies | ID: 38542
+Fecha: 18 Jul 2025, 20:11 | Canción: Lovely Day | Disco: Trompe le Monde | Artista: Pixies | ID: 38541
+Fecha: 18 Jul 2025, 20:09 | Canción: Distance Equals Rate Times Time | Disco: Trompe le Monde | Artista: Pixies | ID: 38540
+Fecha: 18 Jul 2025, 20:07 | Canción: Subbacultcha | Disco: Trompe le Monde | Artista: Pixies | ID: 38539
+Fecha: 18 Jul 2025, 20:02 | Canción: Space (I Believe In) | Disco: Trompe le Monde | Artista: Pixies | ID: 38538
+Fecha: 18 Jul 2025, 19:59 | Canción: Bird Dream of the Olympus Mons | Disco: Trompe le Monde | Artista: Pixies | ID: 38537
+Fecha: 18 Jul 2025, 19:56 | Canción: Letter to Memphis | Disco: Trompe le Monde | Artista: Pixies | ID: 38536
+Fecha: 18 Jul 2025, 19:54 | Canción: Palace of the Brine | Disco: Trompe le Monde | Artista: Pixies | ID: 38535
+Fecha: 18 Jul 2025, 19:51 | Canción: U-Mass | Disco: Trompe le Monde | Artista: Pixies | ID: 38534
+Fecha: 18 Jul 2025, 19:48 | Canción: Head On | Disco: Trompe le Monde | Artista: Pixies | ID: 38533
+Fecha: 18 Jul 2025, 19:45 | Canción: The Sad Punk | Disco: Trompe le Monde | Artista: Pixies | ID: 38532
+Fecha: 18 Jul 2025, 19:42 | Canción: Alec Eiffel | Disco: Trompe le Monde | Artista: Pixies | ID: 38531
+Fecha: 18 Jul 2025, 19:40 | Canción: Planet of Sound | Disco: Trompe le Monde | Artista: Pixies | ID: 38530
+Fecha: 18 Jul 2025, 19:38 | Canción: Trompe le Monde | Disco: Trompe le Monde | Artista: Pixies | ID: 38529
+Fecha: 18 Jul 2025, 19:31 | Canción: Take Me Out | Disco: Franz Ferdinand | Artista: Franz Ferdinand | ID: 38528
+Fecha: 18 Jul 2025, 19:26 | Canción: Supersonic | Disco: Definitely Maybe | Artista: Oasis | ID: 38527
+Fecha: 18 Jul 2025, 19:19 | Canción: Bitter Sweet Symphony | Disco: Urban Hymns | Artista: The Verve | ID: 38526
+Fecha: 18 Jul 2025, 19:14 | Canción: Beetlebum | Disco: Blur | Artista: Blur | ID: 38525
+Fecha: 13 Jul 2025, 21:37 | Canción: Balada para una Viuda | Disco: El fin de la década | Artista: Burning | ID: 38524
+Fecha: 13 Jul 2025, 21:31 | Canción: Lo que el tiempo no borró | Disco: El fin de la década | Artista: Burning | ID: 38523
+Fecha: 13 Jul 2025, 21:25 | Canción: Las chicas del drugstore | Disco: El fin de la década | Artista: Burning | ID: 38522
+Fecha: 13 Jul 2025, 21:23 | Canción: Seducción | Disco: El fin de la década | Artista: Burning | ID: 38521
+Fecha: 13 Jul 2025, 21:20 | Canción: Puedes Sentirlo | Disco: El fin de la década | Artista: Burning | ID: 38520
+Fecha: 13 Jul 2025, 21:17 | Canción: Puedes Sentirlo | Disco: El fin de la década | Artista: Burning | ID: 38519
+Fecha: 13 Jul 2025, 21:12 | Canción: Bajo los Focos | Disco: El fin de la década | Artista: Burning | ID: 38518
+Fecha: 13 Jul 2025, 21:08 | Canción: Un poquito nada más | Disco: El fin de la década | Artista: Burning | ID: 38517
+Fecha: 13 Jul 2025, 21:04 | Canción: ¿qué hace una chica como tú en un sitio como éste? | Disco: El fin de la década | Artista: Burning | ID: 38516
+Fecha: 13 Jul 2025, 21:01 | Canción: Mueve Tus Caderas | Disco: El fin de la década | Artista: Burning | ID: 38515
+Fecha: 13 Jul 2025, 20:56 | Canción: La Vecina | Disco: Hay Poco Rock & Roll | Artista: Platero y tú | ID: 38514
+Fecha: 13 Jul 2025, 20:52 | Canción: Ya no existe la vida | Disco: Voy a acabar borracho | Artista: Platero y tú | ID: 38513
+Fecha: 13 Jul 2025, 20:49 | Canción: No me quieres saludar | Disco: Voy a acabar borracho | Artista: Platero y tú | ID: 38512
+Fecha: 13 Jul 2025, 20:46 | Canción: Tiemblan los corazones | Disco: Voy a acabar borracho | Artista: Platero y tú | ID: 38511
+Fecha: 13 Jul 2025, 20:43 | Canción: Estás solo | Disco: Muy Deficiente | Artista: Platero y tú | ID: 38510
+Fecha: 13 Jul 2025, 20:38 | Canción: El roce de tu cuerpo | Disco: Muy Deficiente | Artista: Platero y tú | ID: 38509
+Fecha: 13 Jul 2025, 20:34 | Canción: Relación Convencional | Disco: Deltoya | Artista: Extremoduro | ID: 38508
+Fecha: 13 Jul 2025, 20:30 | Canción: Ama, Ama, Ama y Ensancha el Alma | Disco: Deltoya | Artista: Extremoduro | ID: 38507
+Fecha: 13 Jul 2025, 20:24 | Canción: Quemando Tus Recuerdos | Disco: Somos unos Animales | Artista: Extremoduro | ID: 38506
+Fecha: 13 Jul 2025, 20:19 | Canción: Tu Corazón | Disco: Somos unos Animales | Artista: Extremoduro | ID: 38505
+Fecha: 13 Jul 2025, 20:15 | Canción: Necesito Droga y Amor | Disco: Somos unos Animales | Artista: Extremoduro | ID: 38504
+Fecha: 13 Jul 2025, 20:09 | Canción: Salir | Disco: Canciones Prohibidas | Artista: Extremoduro | ID: 38503
+Fecha: 13 Jul 2025, 19:59 | Canción: Primer movimiento: el sueño | Disco: La ley innata | Artista: Extremoduro | ID: 38502
+Fecha: 13 Jul 2025, 19:08 | Canción: Rime of the Ancient Mariner | Disco: Powerslave | Artista: Iron Maiden | ID: 38501
+Fecha: 13 Jul 2025, 19:01 | Canción: Powerslave | Disco: Powerslave | Artista: Iron Maiden | ID: 38500
+Fecha: 13 Jul 2025, 18:55 | Canción: Back in the Village | Disco: Powerslave | Artista: Iron Maiden | ID: 38499
+Fecha: 13 Jul 2025, 18:49 | Canción: The Duellists | Disco: Powerslave | Artista: Iron Maiden | ID: 38498
+Fecha: 13 Jul 2025, 18:45 | Canción: Flash of the Blade | Disco: Powerslave | Artista: Iron Maiden | ID: 38497
+Fecha: 13 Jul 2025, 18:40 | Canción: Losfer Words (Big 'Orra) | Disco: Powerslave | Artista: Iron Maiden | ID: 38496
+Fecha: 13 Jul 2025, 18:34 | Canción: 2 Minutes to Midnight | Disco: Powerslave | Artista: Iron Maiden | ID: 38495
+Fecha: 13 Jul 2025, 18:29 | Canción: Aces High | Disco: Powerslave | Artista: Iron Maiden | ID: 38494
+Fecha: 11 Jul 2025, 20:08 | Canción: Steeler | Disco: British Steel | Artista: Judas Priest | ID: 38493
+Fecha: 11 Jul 2025, 20:05 | Canción: Living After Midnight | Disco: British Steel | Artista: Judas Priest | ID: 38492
+Fecha: 11 Jul 2025, 20:01 | Canción: Grinder | Disco: British Steel | Artista: Judas Priest | ID: 38491
+Fecha: 11 Jul 2025, 19:57 | Canción: Metal Gods | Disco: British Steel | Artista: Judas Priest | ID: 38490
+Fecha: 07 Jul 2025, 20:41 | Canción: Instant Karma! | Disco: Lennon Legend | Artista: John Lennon | ID: 38489
+Fecha: 07 Jul 2025, 20:38 | Canción: Power to the People | Disco: Lennon Legend | Artista: John Lennon | ID: 38488
+Fecha: 07 Jul 2025, 20:34 | Canción: Nobody Told Me | Disco: Lennon Legend | Artista: John Lennon | ID: 38487
+Fecha: 07 Jul 2025, 20:30 | Canción: God | Disco: John Lennon/Plastic Ono Band | Artista: John Lennon | ID: 38486
+Fecha: 07 Jul 2025, 20:24 | Canción: The Heights | Disco: The Ballad of Darren | Artista: Blur | ID: 38485
+Fecha: 04 Jul 2025, 19:50 | Canción: Acquiesce | Disco: The Masterplan | Artista: Oasis | ID: 38484
+Fecha: 04 Jul 2025, 19:45 | Canción: Fade Away | Disco: The Masterplan | Artista: Oasis | ID: 38483
+Fecha: 04 Jul 2025, 19:35 | Canción: Champagne Supernova | Disco: (What's the Story) Morning Glory? | Artista: Oasis | ID: 38482
+Fecha: 04 Jul 2025, 19:35 | Canción: The Swamp Song [excerpt 2] | Disco: (What's the Story) Morning Glory? | Artista: Oasis | ID: 38481
+Fecha: 04 Jul 2025, 19:30 | Canción: Morning Glory | Disco: (What's the Story) Morning Glory? | Artista: Oasis | ID: 38480
+Fecha: 04 Jul 2025, 19:26 | Canción: She's Electric | Disco: (What's the Story) Morning Glory? | Artista: Oasis | ID: 38479
+Fecha: 04 Jul 2025, 19:21 | Canción: Cast No Shadow | Disco: (What's the Story) Morning Glory? | Artista: Oasis | ID: 38478
+Fecha: 04 Jul 2025, 19:16 | Canción: Some Might Say | Disco: (What's the Story) Morning Glory? | Artista: Oasis | ID: 38477
+Fecha: 04 Jul 2025, 19:15 | Canción: The Swamp Song [excerpt 1] | Disco: (What's the Story) Morning Glory? | Artista: Oasis | ID: 38476
+Fecha: 04 Jul 2025, 19:09 | Canción: Hey Now! | Disco: (What's the Story) Morning Glory? | Artista: Oasis | ID: 38475
+Fecha: 04 Jul 2025, 19:04 | Canción: Don't Look Back in Anger | Disco: (What's the Story) Morning Glory? | Artista: Oasis | ID: 38474
+Fecha: 04 Jul 2025, 19:00 | Canción: Wonderwall | Disco: (What's the Story) Morning Glory? | Artista: Oasis | ID: 38473
+Fecha: 04 Jul 2025, 18:56 | Canción: Roll with It | Disco: (What's the Story) Morning Glory? | Artista: Oasis | ID: 38472
+Fecha: 04 Jul 2025, 18:53 | Canción: Hello | Disco: (What's the Story) Morning Glory? | Artista: Oasis | ID: 38471
+Fecha: 29 Jun 2025, 13:24 | Canción: Dulce introducción al caos | Disco: La ley innata | Artista: Extremoduro | ID: 38470
+Fecha: 29 Jun 2025, 13:18 | Canción: Primer movimiento: el sueño | Disco: La ley innata | Artista: Extremoduro | ID: 38469
+Fecha: 28 Jun 2025, 19:27 | Canción: Bodies | Disco: Never Mind The Bollocks, Here's The Sex Pistols | Artista: Sex Pistols | ID: 38468
+Fecha: 28 Jun 2025, 19:18 | Canción: Primer movimiento: el sueño | Disco: La ley innata | Artista: Extremoduro | ID: 38467
+Fecha: 24 Jun 2025, 17:05 | Canción: Calle Esperanza s/n | Disco: Material Defectuoso | Artista: Extremoduro | ID: 38466
+Fecha: 24 Jun 2025, 16:54 | Canción: Tango suicida | Disco: Material Defectuoso | Artista: Extremoduro | ID: 38465
+Fecha: 24 Jun 2025, 16:45 | Canción: Si te vas... | Disco: Material Defectuoso | Artista: Extremoduro | ID: 38464
+Fecha: 24 Jun 2025, 16:39 | Canción: Otra inútil canción para la paz | Disco: Material Defectuoso | Artista: Extremoduro | ID: 38463
+Fecha: 24 Jun 2025, 16:33 | Canción: Mi espíritu imperecedero | Disco: Material Defectuoso | Artista: Extremoduro | ID: 38462
+Fecha: 24 Jun 2025, 16:25 | Canción: Desarraigo | Disco: Material Defectuoso | Artista: Extremoduro | ID: 38461
+Fecha: 24 Jun 2025, 15:20 | Canción: Coda Flamenca (Otra Realidad) | Disco: La ley innata | Artista: Extremoduro | ID: 38460
+Fecha: 24 Jun 2025, 15:14 | Canción: Cuarto Movimiento: La Realidad | Disco: La ley innata | Artista: Extremoduro | ID: 38459
+Fecha: 24 Jun 2025, 15:06 | Canción: Tercer Movimiento: Lo de Dentro | Disco: La ley innata | Artista: Extremoduro | ID: 38458
+Fecha: 24 Jun 2025, 14:51 | Canción: Segundo Movimiento: Lo de Fuera | Disco: La ley innata | Artista: Extremoduro | ID: 38457
+Fecha: 24 Jun 2025, 14:45 | Canción: Primer movimiento: el sueño | Disco: La ley innata | Artista: Extremoduro | ID: 38456
+Fecha: 24 Jun 2025, 14:37 | Canción: Dulce introducción al caos | Disco: La ley innata | Artista: Extremoduro | ID: 38455
+Fecha: 24 Jun 2025, 13:21 | Canción: Judy and the Dream of Horses | Disco: If You're Feeling Sinister | Artista: Belle and Sebastian | ID: 38454
+Fecha: 24 Jun 2025, 13:17 | Canción: The Boy Done Wrong Again | Disco: If You're Feeling Sinister | Artista: Belle and Sebastian | ID: 38453
+Fecha: 24 Jun 2025, 13:13 | Canción: Mayfly | Disco: If You're Feeling Sinister | Artista: Belle and Sebastian | ID: 38452
+Fecha: 24 Jun 2025, 13:05 | Canción: If You're Feeling Sinister | Disco: If You're Feeling Sinister | Artista: Belle and Sebastian | ID: 38451
+Fecha: 24 Jun 2025, 13:01 | Canción: Get Me Away from Here, I'm Dying | Disco: If You're Feeling Sinister | Artista: Belle and Sebastian | ID: 38450
+Fecha: 24 Jun 2025, 12:56 | Canción: The Fox in the Snow | Disco: If You're Feeling Sinister | Artista: Belle and Sebastian | ID: 38449
+Fecha: 24 Jun 2025, 12:52 | Canción: Like Dylan in the Movies | Disco: If You're Feeling Sinister | Artista: Belle and Sebastian | ID: 38448
+Fecha: 24 Jun 2025, 12:48 | Canción: Me and the Major | Disco: If You're Feeling Sinister | Artista: Belle and Sebastian | ID: 38447
+Fecha: 24 Jun 2025, 12:43 | Canción: Seeing Other People | Disco: If You're Feeling Sinister | Artista: Belle and Sebastian | ID: 38446
+Fecha: 24 Jun 2025, 12:38 | Canción: The Stars of Track and Field | Disco: If You're Feeling Sinister | Artista: Belle and Sebastian | ID: 38445
+Fecha: 24 Jun 2025, 12:12 | Canción: Bar Italia | Disco: Different Class | Artista: Pulp | ID: 38444
+Fecha: 24 Jun 2025, 12:08 | Canción: Monday Morning | Disco: Different Class | Artista: Pulp | ID: 38443
+Fecha: 24 Jun 2025, 12:04 | Canción: Underwear | Disco: Different Class | Artista: Pulp | ID: 38442
+Fecha: 24 Jun 2025, 11:57 | Canción: F.E.E.L.I.N.G.C.A.L.L.E.D.L.O.V.E | Disco: Different Class | Artista: Pulp | ID: 38441
+Fecha: 24 Jun 2025, 11:53 | Canción: Sorted for E's & Wizz | Disco: Different Class | Artista: Pulp | ID: 38440
+Fecha: 24 Jun 2025, 11:49 | Canción: Something Changed | Disco: Different Class | Artista: Pulp | ID: 38439
+Fecha: 24 Jun 2025, 11:45 | Canción: Live Bed Show | Disco: Different Class | Artista: Pulp | ID: 38438
+Fecha: 24 Jun 2025, 11:40 | Canción: Disco 2000 | Disco: Different Class | Artista: Pulp | ID: 38437
+Fecha: 24 Jun 2025, 11:34 | Canción: I Spy | Disco: Different Class | Artista: Pulp | ID: 38436
+Fecha: 24 Jun 2025, 11:28 | Canción: Common People | Disco: Different Class | Artista: Pulp | ID: 38435
+Fecha: 24 Jun 2025, 11:24 | Canción: Pencil Skirt | Disco: Different Class | Artista: Pulp | ID: 38434
+Fecha: 24 Jun 2025, 11:20 | Canción: Mis-Shapes | Disco: Different Class | Artista: Pulp | ID: 38433
+Fecha: 21 Jun 2025, 01:13 | Canción: Mask | Disco: Mask | Artista: Bauhaus | ID: 38432
+Fecha: 21 Jun 2025, 01:10 | Canción: The Man With The X-Rays Eyes | Disco: Mask | Artista: Bauhaus | ID: 38431
+Fecha: 21 Jun 2025, 01:07 | Canción: Muscle in Plastic | Disco: Mask | Artista: Bauhaus | ID: 38430
+Fecha: 21 Jun 2025, 01:04 | Canción: In Fear of Fear | Disco: Mask | Artista: Bauhaus | ID: 38429
+Fecha: 21 Jun 2025, 01:00 | Canción: Kick in the Eye | Disco: Mask | Artista: Bauhaus | ID: 38428
+Fecha: 21 Jun 2025, 00:54 | Canción: Hollow Hills | Disco: Mask | Artista: Bauhaus | ID: 38427
+Fecha: 21 Jun 2025, 00:51 | Canción: Dancing | Disco: Mask | Artista: Bauhaus | ID: 38426
+Fecha: 21 Jun 2025, 00:48 | Canción: Of Lillies and Remains | Disco: Mask | Artista: Bauhaus | ID: 38425
+Fecha: 21 Jun 2025, 00:44 | Canción: Passion of Lovers | Disco: Mask | Artista: Bauhaus | ID: 38424
+Fecha: 21 Jun 2025, 00:41 | Canción: Hair of the Dog | Disco: Mask | Artista: Bauhaus | ID: 38423
+Fecha: 21 Jun 2025, 00:36 | Canción: Seventeen Seconds | Disco: Seventeen Seconds | Artista: The Cure | ID: 38422
+Fecha: 21 Jun 2025, 00:30 | Canción: At Night | Disco: Seventeen Seconds | Artista: The Cure | ID: 38421
+Fecha: 21 Jun 2025, 00:27 | Canción: M | Disco: Seventeen Seconds | Artista: The Cure | ID: 38420
+Fecha: 21 Jun 2025, 00:21 | Canción: A Forest | Disco: Seventeen Seconds | Artista: The Cure | ID: 38419
+Fecha: 21 Jun 2025, 00:20 | Canción: The Final Sound | Disco: Seventeen Seconds | Artista: The Cure | ID: 38418
+Fecha: 21 Jun 2025, 00:17 | Canción: Three | Disco: Seventeen Seconds | Artista: The Cure | ID: 38417
+Fecha: 21 Jun 2025, 00:13 | Canción: In Your House | Disco: Seventeen Seconds | Artista: The Cure | ID: 38416
+Fecha: 21 Jun 2025, 00:09 | Canción: Secrets | Disco: Seventeen Seconds | Artista: The Cure | ID: 38415
+Fecha: 21 Jun 2025, 00:06 | Canción: Play for Today | Disco: Seventeen Seconds | Artista: The Cure | ID: 38414
+Fecha: 21 Jun 2025, 00:03 | Canción: A Reflection | Disco: Seventeen Seconds | Artista: The Cure | ID: 38413
 Fecha: 17 Jun 2025, 17:51 | Canción: Gigantic | Disco: Surfer Rosa | Artista: Pixies | ID: 38412
 Fecha: 17 Jun 2025, 17:45 | Canción: Everything Flows | Disco: A Short Cut To Teenage Fanclub | Artista: Teenage Fanclub | ID: 38411
 Fecha: 17 Jun 2025, 17:41 | Canción: The Lung | Disco: You're Living All Over Me | Artista: Dinosaur Jr. | ID: 38410
@@ -31867,7 +32572,7 @@ Fecha: 24 Nov 2015, 20:17 | Canción: Morir Todavía | Disco: Avalancha | Artist
 Fecha: 24 Nov 2015, 18:02 | Canción: El Número De La Bestia | Disco: Regreso Al Sexo Químicamente Puro | Artista: Ilegales | ID: 6546
 Fecha: 24 Nov 2015, 17:58 | Canción: No Me Gusta El Blues | Disco: Regreso Al Sexo Químicamente Puro | Artista: Ilegales | ID: 6545
 Fecha: 24 Nov 2015, 17:54 | Canción: Los Chicos Desconfían | Disco: Regreso Al Sexo Químicamente Puro | Artista: Ilegales | ID: 6544
-Fecha: 23 Nov 2015, 21:59 | Canción: Con Nombre De Guerra | Disco: Senderos De Traición | Artista: Heroes Del Silencio | ID: 6543
+Fecha: 23 Nov 2015, 21:59 | Canción: Con Nombre De Guerra | Disco: Senderos De Traición | Artista: Héroes del Silencio | ID: 6543
 Fecha: 23 Nov 2015, 21:51 | Canción: La Herida | Disco: El Espiritu Del Vino | Artista: Heroes Del Silencio | ID: 6542
 Fecha: 23 Nov 2015, 21:49 | Canción: Tesoro | Disco: El Espiritu Del Vino | Artista: Héroes del Silencio | ID: 6541
 Fecha: 23 Nov 2015, 21:35 | Canción: Donde Manda Marinero | Disco: Alta Suciedad | Artista: Andrés Calamaro | ID: 6540
@@ -33815,7 +34520,7 @@ Fecha: 07 Aug 2015, 00:21 | Canción: Viajero Nocturno | Disco: Fascinado | Arti
 Fecha: 07 Aug 2015, 00:14 | Canción: ¿Quién me ha robado el mes de Abril? | Disco: El Hombre del Traje Gris | Artista: Joaquín Sabina | ID: 4598
 Fecha: 07 Aug 2015, 00:10 | Canción: Ponme un trago más | Disco: Mentiras Piadosas | Artista: Joaquín Sabina | ID: 4597
 Fecha: 06 Aug 2015, 23:45 | Canción: El muro de BerlÍn | Disco: Mentiras Piadosas | Artista: Joaquín Sabina | ID: 4596
-Fecha: 06 Aug 2015, 23:40 | Canción: Con Nombre De Guerra | Disco: Senderos De Traición | Artista: Heroes Del Silencio | ID: 4595
+Fecha: 06 Aug 2015, 23:40 | Canción: Con Nombre De Guerra | Disco: Senderos De Traición | Artista: Héroes del Silencio | ID: 4595
 Fecha: 06 Aug 2015, 23:36 | Canción: Despertar | Disco: Senderos De Traición | Artista: Heroes Del Silencio | ID: 4594
 Fecha: 06 Aug 2015, 23:33 | Canción: Tesoro | Disco: El Espiritu Del Vino | Artista: Héroes del Silencio | ID: 4593
 Fecha: 06 Aug 2015, 23:29 | Canción: Buena Suerte | Disco: Buena Suerte | Artista: Los Rodríguez | ID: 4592
