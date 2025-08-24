@@ -1,7 +1,7 @@
 # :guitar: LastFMCollector  :guitar:
 LastFMCollector es un conjunto de herramientas en Python para extraer y analizar tus datos musicales de **Last.fm**, red social y plataforma de recomendación musical que rastrea tus hábitos de escucha a lo largo del tiempo mediante "scrobbles" (reproducciones registradas).
 
-Este proyecto te permite:
+Este proyecto permite:
 
 📊 Obtener resúmenes estadísticos de tu actividad en Last.fm.
 
@@ -9,13 +9,13 @@ Este proyecto te permite:
 
 🗄️ Almacenar toda tu información en una base de datos MySQL o PostgreSQL para análisis avanzados.
 
-**[ SCRIPTS INCLUIDOS ]**
+🔸 **[ SCRIPTS API ]**
 
 **lastfm.py**: Descarga listados de artistas, canciones, discos e historial de scrobbles en formato de texto y CSV.
 
 **lastfm_db.py**: Inserta los mismos datos directamente en una base de datos SQL.
 
-**[ REQUISITOS ]**
+🔸 **[ REQUISITOS ]**
 
 1º) Obten una clave API de Last.fm. Solicítala gratuitamente en https://www.last.fm/api/account/create. Manual: https://www.last.fm/es/api).
 
@@ -23,6 +23,15 @@ Este proyecto te permite:
 
 3º) Instala Python 3 y los módulos requests (para lastfm.py) y sqlalchemy, pymysql, psycopg2-binary (para lastfm_db.py).
 
+🔸 **[ DESPLIEGUE CLOUD ]** 
+
+Mediante **lastfm_azure.sh** puedes realizar en la Cloud Shell de Azure un despliegue IaaS automatizado que incluye:
+
+- Terraform para infraestructura.
+- Ansible para configuración.
+- Docker para contenedores.
+
+Ver [documentación de Azure](./azure/README_AZURE.md) para detalles específicos.
 
 ## 0. SINTAXIS
 ### python lastfm.py --help
@@ -695,6 +704,11 @@ Esperando 1 segundos antes de reintentar...
 Procesando página 150/193 (77.7%)
 Procesando página 160/193 (82.9%)
 ```
+
+
+
+
+
 
 
 

@@ -1,0 +1,85 @@
+---
+- hosts: debian12
+  become: true
+  vars:
+    db_user: david
+    db_pass: "1234"
+    db_name: lastfm
+    db_host: "{{ inventory_hostname }}"
+    db_driver: "{{ lookup('env', 'DB_DRIVER') | default('mysql+pymysql') }}"
+
+  tasks:
+    - name: Crear directorio de la app en el host
+      file:
+        path: /opt/lastfm-frontend/app
+        state: directory
+        mode: '0755'
+
+    - name: Copiar aplicación Flask
+      copy:
+        src: app/
+        dest: /opt/lastfm-frontend/app/
+        mode: '0644'
+
+    - name: Crear red docker para lastfm
+      community.docker.docker_network:
+        name: lastfm-net
+
+    - name: Crear contenedor frontend (Flask)
+      community.docker.docker_container:
+        name: lastfm-frontend
+        image: python:3.11-slim
+        command: >
+          bash -c "pip install flask sqlalchemy pymysql psycopg2-binary &&
+          DB_HOST={{ db_host }} DB_DRIVER={{ db_driver }} FLASK_APP=app.py flask run --host=0.0.0.0 --port=5000 --debug"
+        working_dir: /opt/lastfm-frontend/app
+        volumes:
+          - /opt/lastfm-frontend/app:/opt/lastfm-frontend/app
+        networks:
+          - name: lastfm-net
+        ports:
+          - "5000:5000"  # ✅ AÑADIDO - Exponer puerto
+        restart_policy: always
+        env:  # ✅ MEJOR PRÁCTICA - Variables de entorno separadas
+          DB_HOST: "{{ db_host }}"
+          DB_DRIVER: "{{ db_driver }}"
+          FLASK_APP: "app.py"
+
+    - name: Crear directorio de configuración nginx en el host
+      file:
+        path: /opt/lastfm-frontend/nginx
+        state: directory
+        mode: '0755'
+
+    - name: Copiar configuración nginx para /lastfm
+      copy:
+        dest: /opt/lastfm-frontend/nginx/lastfm.conf
+        content: |
+          server {
+              listen 80;
+              server_name _;
+              
+              location /lastfm/ {
+                  proxy_pass http://lastfm-frontend:5000/lastfm/;
+                  proxy_set_header Host $host;
+                  proxy_set_header X-Real-IP $remote_addr;
+                  proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+                  proxy_set_header X-Forwarded-Proto $scheme;
+              }
+              
+              location / {
+                  return 404;
+              }
+          }
+
+    - name: Recrear contenedor nginx con config custom
+      community.docker.docker_container:
+        name: nginx
+        image: nginx:latest
+        networks:
+          - name: lastfm-net
+        ports:
+          - "80:80"
+        volumes:
+          - /opt/lastfm-frontend/nginx/lastfm.conf:/etc/nginx/conf.d/default.conf:ro  # ✅ Cambiado a default.conf
+        restart_policy: always
