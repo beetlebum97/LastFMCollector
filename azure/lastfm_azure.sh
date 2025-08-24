@@ -49,7 +49,7 @@ curl -L "${BASE_URL}/azure/terraform/variables.tf" -o "terraform/variables.tf"
 
 echo "Descargando archivos de Ansible (Configuración)..."
 curl -L "${BASE_URL}/azure/ansible/site.yml" -o "ansible/site.yml"
-curl -L "${BASE_URL}/azure/ansible/frontend.tf" -o "ansible/frontend.yml"
+curl -L "${BASE_URL}/azure/ansible/frontend.yml" -o "ansible/frontend.yml"
 curl -L "${BASE_URL}/azure/ansible/app/app.py" -o "ansible/app/app.py"
 
 # ====================================================== #
