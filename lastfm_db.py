@@ -6,10 +6,12 @@ import time
 import os
 import argparse
 import concurrent.futures
+import getpass
 from sqlalchemy import create_engine, Table, Column, Integer, String, MetaData, text
 from sqlalchemy.exc import SQLAlchemyError
 
-API_KEY = "Introduce tu clave"
+# API_KEY se definirá interactivamente
+API_KEY = None
 API_URL = "http://ws.audioscrobbler.com/2.0/"
 
 def mostrar_encabezado():
@@ -20,10 +22,75 @@ def mostrar_encabezado():
     print("[Inicio]", inicio.strftime("%Y-%m-%d %H:%M:%S"))
     return inicio
 
-def validar_api_key():
-    if API_KEY == "Introduce tu clave" or not API_KEY.strip():
-        print("Error: Debes introducir tu clave API de Last.fm en la línea 12 del script.")
-        sys.exit(1)
+def solicitar_api_key():
+    """Solicita la API key interactivamente con 3 intentos"""
+    global API_KEY
+    
+    intentos = 3
+    for intento in range(intentos):
+        try:
+            print(f"\nIntroduce tu API key de Last.fm (intento {intento + 1}/{intentos}):")
+            api_key = getpass.getpass("API key: ").strip()
+            
+            if not api_key:
+                print("Error: La API key no puede estar vacía.")
+                continue
+            
+            # Validar formato básico (debería ser alfanumérico)
+            if not api_key.replace('-', '').replace('_', '').isalnum():
+                print("Error: La API key tiene un formato inválido.")
+                continue
+            
+            # Validar que la API key funciona haciendo una prueba simple
+            if validar_api_key_en_servidor(api_key):
+                API_KEY = api_key
+                print("✓ API key válida y verificada")
+                return True
+            else:
+                print("Error: La API key no es válida o no tiene permisos.")
+                
+        except KeyboardInterrupt:
+            print("\nOperación cancelada por el usuario.")
+            sys.exit(1)
+        except Exception as e:
+            print(f"Error validando API key: {e}")
+    
+    print(f"\nError: Demasiados intentos fallidos. Saliendo...")
+    return False
+
+def validar_api_key_en_servidor(api_key):
+    """Valida que la API key funcione correctamente con el servidor de Last.fm"""
+    params = {
+        "method": "chart.getTopArtists",
+        "api_key": api_key,
+        "format": "json",
+        "limit": 1
+    }
+    
+    try:
+        response = requests.get(API_URL, params=params, timeout=10)
+        
+        if response.status_code == 403:
+            return False
+        
+        response.raise_for_status()
+        data = response.json()
+        
+        if "error" in data:
+            return False
+        
+        return True
+        
+    except requests.exceptions.RequestException:
+        return False
+    except (json.JSONDecodeError, KeyError):
+        return False
+
+def validar_api_key_configurada():
+    """Valida que se haya configurado una API key válida"""
+    if API_KEY is None:
+        if not solicitar_api_key():
+            sys.exit(1)
 
 def configurar_argumentos():
     parser = argparse.ArgumentParser(description='Extrae todos los datos de Last.fm e inserta en una base de datos SQL')
@@ -227,7 +294,9 @@ def parse_scrobbles(response, usuario, offset):
 def main():
     inicio = mostrar_encabezado()
     args = configurar_argumentos()
-    validar_api_key()
+    
+    # Solicitar API key interactivamente
+    validar_api_key_configurada()
 
     print(f"\nVerificando usuario '{args.usuario}' en Last.fm...")
     if not usuario_existe(args.usuario):

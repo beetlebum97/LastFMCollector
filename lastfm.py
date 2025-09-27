@@ -7,9 +7,10 @@ import os
 import csv
 import argparse
 import concurrent.futures
+import getpass
 
-
-API_KEY = "Introduce tu clave"
+# API_KEY se definirá interactivamente
+API_KEY = None
 API_URL = "http://ws.audioscrobbler.com/2.0/"
 
 def mostrar_encabezado():
@@ -21,12 +22,75 @@ def mostrar_encabezado():
     print("[Inicio]", inicio.strftime("%Y-%m-%d %H:%M:%S"))
     return inicio
 
-def validar_api_key():
+def solicitar_api_key():
+    """Solicita la API key interactivamente con 3 intentos"""
+    global API_KEY
+    
+    intentos = 3
+    for intento in range(intentos):
+        try:
+            print(f"\nIntroduce tu API key de Last.fm (intento {intento + 1}/{intentos}):")
+            api_key = getpass.getpass("API key: ").strip()
+            
+            if not api_key:
+                print("Error: La API key no puede estar vacía.")
+                continue
+            
+            # Validar formato básico (debería ser alfanumérico)
+            if not api_key.replace('-', '').replace('_', '').isalnum():
+                print("Error: La API key tiene un formato inválido.")
+                continue
+            
+            # Validar que la API key funciona haciendo una prueba simple
+            if validar_api_key_en_servidor(api_key):
+                API_KEY = api_key
+                print("✓ API key válida y verificada")
+                return True
+            else:
+                print("Error: La API key no es válida o no tiene permisos.")
+                
+        except KeyboardInterrupt:
+            print("\nOperación cancelada por el usuario.")
+            sys.exit(1)
+        except Exception as e:
+            print(f"Error validando API key: {e}")
+    
+    print(f"\nError: Demasiados intentos fallidos. Saliendo...")
+    return False
+
+def validar_api_key_en_servidor(api_key):
+    """Valida que la API key funcione correctamente con el servidor de Last.fm"""
+    params = {
+        "method": "chart.getTopArtists",
+        "api_key": api_key,
+        "format": "json",
+        "limit": 1
+    }
+    
+    try:
+        response = requests.get(API_URL, params=params, timeout=10)
+        
+        if response.status_code == 403:
+            return False
+        
+        response.raise_for_status()
+        data = response.json()
+        
+        if "error" in data:
+            return False
+        
+        return True
+        
+    except requests.exceptions.RequestException:
+        return False
+    except (json.JSONDecodeError, KeyError):
+        return False
+
+def validar_api_key_configurada():
     """Valida que se haya configurado una API key válida"""
-    if API_KEY == "Introduce tu clave" or not API_KEY.strip():
-        print("Error: Debes introducir tu clave API de Last.fm en la línea 12 del script.")
-        print("Visita https://www.last.fm/api/account/create para obtener una clave API.")
-        sys.exit(1)
+    if API_KEY is None:
+        if not solicitar_api_key():
+            sys.exit(1)
 
 def configurar_argumentos():
     """Configura y parsea los argumentos de línea de comandos"""
@@ -170,8 +234,8 @@ def main():
     # Configurar argumentos
     args = configurar_argumentos()
     
-    # Validar API key
-    validar_api_key()
+    # Solicitar API key interactivamente
+    validar_api_key_configurada()
     
     usuario = args.usuario
     

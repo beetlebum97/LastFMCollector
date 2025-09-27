@@ -1,701 +1,701 @@
-Puesto: 1 | Disco: Parklife | Artista: Blur | Scrobbles: 422
-Puesto: 2 | Disco: My Way the Best of Frank Sinatra | Artista: Frank Sinatra | Scrobbles: 353
-Puesto: 3 | Disco: The Doors | Artista: The Doors | Scrobbles: 341
-Puesto: 4 | Disco: The Boss | Artista: Diana Ross | Scrobbles: 319
-Puesto: 5 | Disco: Breakfast in America | Artista: Supertramp | Scrobbles: 303
-Puesto: 6 | Disco: Modern Life Is Rubbish | Artista: Blur | Scrobbles: 269
-Puesto: 7 | Disco: Morrison Hotel | Artista: The Doors | Scrobbles: 263
-Puesto: 8 | Disco: Blur | Artista: Blur | Scrobbles: 261
-Puesto: 9 | Disco: Out of the Blue | Artista: Electric Light Orchestra | Scrobbles: 254
-Puesto: 10 | Disco: British Steel | Artista: Judas Priest | Scrobbles: 254
-Puesto: 11 | Disco: The Magic Whip | Artista: Blur | Scrobbles: 248
+Puesto: 1 | Disco: Parklife | Artista: Blur | Scrobbles: 421
+Puesto: 2 | Disco: My Way the Best of Frank Sinatra | Artista: Frank Sinatra | Scrobbles: 357
+Puesto: 3 | Disco: The Doors | Artista: The Doors | Scrobbles: 345
+Puesto: 4 | Disco: The Boss | Artista: Diana Ross | Scrobbles: 325
+Puesto: 5 | Disco: Breakfast in America | Artista: Supertramp | Scrobbles: 305
+Puesto: 6 | Disco: Morrison Hotel | Artista: The Doors | Scrobbles: 263
+Puesto: 7 | Disco: Modern Life Is Rubbish | Artista: Blur | Scrobbles: 262
+Puesto: 8 | Disco: Blur | Artista: Blur | Scrobbles: 259
+Puesto: 9 | Disco: British Steel | Artista: Judas Priest | Scrobbles: 254
+Puesto: 10 | Disco: Out of the Blue | Artista: Electric Light Orchestra | Scrobbles: 251
+Puesto: 11 | Disco: The Magic Whip | Artista: Blur | Scrobbles: 246
 Puesto: 12 | Disco: Bossanova | Artista: Pixies | Scrobbles: 237
-Puesto: 13 | Disco: Diana | Artista: Diana Ross | Scrobbles: 221
+Puesto: 13 | Disco: Diana | Artista: Diana Ross | Scrobbles: 219
 Puesto: 14 | Disco: Arthur (Or the Decline and Fall of the British Empire) | Artista: The Kinks | Scrobbles: 209
-Puesto: 15 | Disco: Coney Island Baby | Artista: Lou Reed | Scrobbles: 203
-Puesto: 16 | Disco: Berlin | Artista: Lou Reed | Scrobbles: 194
-Puesto: 17 | Disco: The Blue Mask | Artista: Lou Reed | Scrobbles: 190
+Puesto: 15 | Disco: Coney Island Baby | Artista: Lou Reed | Scrobbles: 200
+Puesto: 16 | Disco: The Blue Mask | Artista: Lou Reed | Scrobbles: 200
+Puesto: 17 | Disco: Berlin | Artista: Lou Reed | Scrobbles: 194
 Puesto: 18 | Disco: The Beatles [White Album] Disc 1 | Artista: The Beatles | Scrobbles: 186
-Puesto: 19 | Disco: (What's the Story) Morning Glory? | Artista: Oasis | Scrobbles: 184
-Puesto: 20 | Disco: Bad Reputation | Artista: Thin Lizzy | Scrobbles: 184
+Puesto: 19 | Disco: Bad Reputation | Artista: Thin Lizzy | Scrobbles: 184
+Puesto: 20 | Disco: (What's the Story) Morning Glory? | Artista: Oasis | Scrobbles: 183
 Puesto: 21 | Disco: Crystal Castles | Artista: Crystal Castles | Scrobbles: 178
 Puesto: 22 | Disco: Rubber Soul | Artista: The Beatles | Scrobbles: 174
 Puesto: 23 | Disco: Surfer Rosa | Artista: Pixies | Scrobbles: 173
-Puesto: 24 | Disco: Hunky Dory | Artista: David Bowie | Scrobbles: 167
-Puesto: 25 | Disco: OK Computer | Artista: Radiohead | Scrobbles: 167
+Puesto: 24 | Disco: OK Computer | Artista: Radiohead | Scrobbles: 170
+Puesto: 25 | Disco: Hunky Dory | Artista: David Bowie | Scrobbles: 167
 Puesto: 26 | Disco: Elvis: 30 #1 Hits | Artista: Elvis Presley | Scrobbles: 166
 Puesto: 27 | Disco: Trompe le Monde | Artista: Pixies | Scrobbles: 159
-Puesto: 28 | Disco: Something Else By The Kinks | Artista: The Kinks | Scrobbles: 157
-Puesto: 29 | Disco: Drums and Wires | Artista: XTC | Scrobbles: 153
+Puesto: 28 | Disco: Something Else By The Kinks | Artista: The Kinks | Scrobbles: 158
+Puesto: 29 | Disco: The Great Escape | Artista: Blur | Scrobbles: 156
 Puesto: 30 | Disco: Songs in the Key of Life (disc 2) | Artista: Stevie Wonder | Scrobbles: 148
 Puesto: 31 | Disco: Humanz | Artista: Gorillaz | Scrobbles: 147
 Puesto: 32 | Disco: Different Class | Artista: Pulp | Scrobbles: 147
 Puesto: 33 | Disco: Doolittle | Artista: Pixies | Scrobbles: 145
-Puesto: 34 | Disco: The Bells | Artista: Lou Reed | Scrobbles: 144
-Puesto: 35 | Disco: The Great Escape | Artista: Blur | Scrobbles: 141
+Puesto: 34 | Disco: The Bells | Artista: Lou Reed | Scrobbles: 143
+Puesto: 35 | Disco: Drums and Wires | Artista: XTC | Scrobbles: 142
 Puesto: 36 | Disco: The Ballad of Darren | Artista: Blur | Scrobbles: 140
 Puesto: 37 | Disco: Smart | Artista: Sleeper | Scrobbles: 140
 Puesto: 38 | Disco: Songs in the Key of Life (disc 1) | Artista: Stevie Wonder | Scrobbles: 140
 Puesto: 39 | Disco: John Lennon/Plastic Ono Band | Artista: John Lennon | Scrobbles: 137
 Puesto: 40 | Disco: A Night at the Opera | Artista: Queen | Scrobbles: 137
-Puesto: 41 | Disco: Abbey Road | Artista: The Beatles | Scrobbles: 137
-Puesto: 42 | Disco: Children of the World | Artista: Bee Gees | Scrobbles: 136
-Puesto: 43 | Disco: Think Tank | Artista: Blur | Scrobbles: 136
-Puesto: 44 | Disco: Waiting for the Sun | Artista: The Doors | Scrobbles: 135
-Puesto: 45 | Disco: 13 | Artista: Blur | Scrobbles: 134
-Puesto: 46 | Disco: The Wall | Artista: Pink Floyd | Scrobbles: 133
-Puesto: 47 | Disco: International Velvet | Artista: Catatonia | Scrobbles: 132
-Puesto: 48 | Disco: Lodger | Artista: David Bowie | Scrobbles: 131
+Puesto: 41 | Disco: Blade Runner | Artista: Vangelis | Scrobbles: 136
+Puesto: 42 | Disco: Children of the World | Artista: Bee Gees | Scrobbles: 135
+Puesto: 43 | Disco: Waiting for the Sun | Artista: The Doors | Scrobbles: 135
+Puesto: 44 | Disco: 13 | Artista: Blur | Scrobbles: 133
+Puesto: 45 | Disco: The Wall | Artista: Pink Floyd | Scrobbles: 133
+Puesto: 46 | Disco: Abbey Road | Artista: The Beatles | Scrobbles: 133
+Puesto: 47 | Disco: Think Tank | Artista: Blur | Scrobbles: 132
+Puesto: 48 | Disco: International Velvet | Artista: Catatonia | Scrobbles: 131
 Puesto: 49 | Disco: Imagine | Artista: John Lennon | Scrobbles: 131
-Puesto: 50 | Disco: Imagination | Artista: Gladys Knight & The Pips | Scrobbles: 126
-Puesto: 51 | Disco: Music From Big Pink | Artista: The Band | Scrobbles: 125
-Puesto: 52 | Disco: Goodbye Yellow Brick Road | Artista: Elton John | Scrobbles: 124
-Puesto: 53 | Disco: Blade Runner | Artista: Vangelis | Scrobbles: 124
-Puesto: 54 | Disco: Bayou Country | Artista: Creedence Clearwater Revival | Scrobbles: 123
-Puesto: 55 | Disco: Discovery | Artista: Electric Light Orchestra | Scrobbles: 123
+Puesto: 50 | Disco: Bayou Country | Artista: Creedence Clearwater Revival | Scrobbles: 129
+Puesto: 51 | Disco: Lodger | Artista: David Bowie | Scrobbles: 129
+Puesto: 52 | Disco: Imagination | Artista: Gladys Knight & The Pips | Scrobbles: 126
+Puesto: 53 | Disco: Music From Big Pink | Artista: The Band | Scrobbles: 126
+Puesto: 54 | Disco: Goodbye Yellow Brick Road | Artista: Elton John | Scrobbles: 124
+Puesto: 55 | Disco: Discovery | Artista: Electric Light Orchestra | Scrobbles: 122
 Puesto: 56 | Disco: The Dark Side of the Moon | Artista: Pink Floyd | Scrobbles: 122
 Puesto: 57 | Disco: The Kinks Are the Village Green Preservation Society | Artista: The Kinks | Scrobbles: 122
 Puesto: 58 | Disco: Demon Days | Artista: Gorillaz | Scrobbles: 121
-Puesto: 59 | Disco: I Should Coco | Artista: Supergrass | Scrobbles: 121
-Puesto: 60 | Disco: Off the Wall | Artista: Michael Jackson | Scrobbles: 120
-Puesto: 61 | Disco: Ace of Spades | Artista: Motörhead | Scrobbles: 120
-Puesto: 62 | Disco: The Beatles [White Album] Disc 2 | Artista: The Beatles | Scrobbles: 117
+Puesto: 59 | Disco: I Should Coco | Artista: Supergrass | Scrobbles: 119
+Puesto: 60 | Disco: The Beatles [White Album] Disc 2 | Artista: The Beatles | Scrobbles: 118
+Puesto: 61 | Disco: Off the Wall | Artista: Michael Jackson | Scrobbles: 117
+Puesto: 62 | Disco: Ace of Spades | Artista: Motörhead | Scrobbles: 116
 Puesto: 63 | Disco: White Trash, Two Heebs and a Bean | Artista: NOFX | Scrobbles: 115
-Puesto: 64 | Disco: Kinks | Artista: The Kinks | Scrobbles: 115
+Puesto: 64 | Disco: Kinks | Artista: The Kinks | Scrobbles: 114
 Puesto: 65 | Disco: Up the Bracket | Artista: The Libertines | Scrobbles: 114
 Puesto: 66 | Disco: Sticky Fingers | Artista: The Rolling Stones | Scrobbles: 113
-Puesto: 67 | Disco: Leisure | Artista: Blur | Scrobbles: 111
-Puesto: 68 | Disco: Low | Artista: David Bowie | Scrobbles: 111
-Puesto: 69 | Disco: This Is Hardcore | Artista: Pulp | Scrobbles: 111
+Puesto: 67 | Disco: This Is Hardcore | Artista: Pulp | Scrobbles: 111
+Puesto: 68 | Disco: Leisure | Artista: Blur | Scrobbles: 110
+Puesto: 69 | Disco: Low | Artista: David Bowie | Scrobbles: 110
 Puesto: 70 | Disco: Lou Reed | Artista: Lou Reed | Scrobbles: 109
 Puesto: 71 | Disco: Definitely Maybe | Artista: Oasis | Scrobbles: 108
 Puesto: 72 | Disco: Lennon Legend | Artista: John Lennon | Scrobbles: 107
 Puesto: 73 | Disco: Stained Class | Artista: Judas Priest | Scrobbles: 107
 Puesto: 74 | Disco: Nevermind | Artista: Nirvana | Scrobbles: 107
-Puesto: 75 | Disco: Screaming for Vengeance | Artista: Judas Priest | Scrobbles: 105
+Puesto: 75 | Disco: Killing Machine | Artista: Judas Priest | Scrobbles: 106
 Puesto: 76 | Disco: Bloodsports | Artista: Suede | Scrobbles: 105
-Puesto: 77 | Disco: Transformer | Artista: Lou Reed | Scrobbles: 104
-Puesto: 78 | Disco: Urban Hymns | Artista: The Verve | Scrobbles: 102
-Puesto: 79 | Disco: Green River | Artista: Creedence Clearwater Revival | Scrobbles: 101
-Puesto: 80 | Disco: K | Artista: Kula Shaker | Scrobbles: 101
-Puesto: 81 | Disco: Currents | Artista: Tame Impala | Scrobbles: 100
-Puesto: 82 | Disco: The Rise and Fall of Ziggy Stardust and the Spiders From Mars | Artista: David Bowie | Scrobbles: 99
-Puesto: 83 | Disco: The Secret Migration | Artista: Mercury Rev | Scrobbles: 98
-Puesto: 84 | Disco: London Calling | Artista: The Clash | Scrobbles: 98
-Puesto: 85 | Disco: Talking Heads: 77 | Artista: Talking Heads | Scrobbles: 97
-Puesto: 86 | Disco: Sin After Sin | Artista: Judas Priest | Scrobbles: 96
-Puesto: 87 | Disco: His 'n' Hers | Artista: Pulp | Scrobbles: 96
+Puesto: 77 | Disco: Screaming for Vengeance | Artista: Judas Priest | Scrobbles: 104
+Puesto: 78 | Disco: Transformer | Artista: Lou Reed | Scrobbles: 103
+Puesto: 79 | Disco: Urban Hymns | Artista: The Verve | Scrobbles: 102
+Puesto: 80 | Disco: Green River | Artista: Creedence Clearwater Revival | Scrobbles: 101
+Puesto: 81 | Disco: K | Artista: Kula Shaker | Scrobbles: 101
+Puesto: 82 | Disco: Currents | Artista: Tame Impala | Scrobbles: 100
+Puesto: 83 | Disco: The Rise and Fall of Ziggy Stardust and the Spiders From Mars | Artista: David Bowie | Scrobbles: 99
+Puesto: 84 | Disco: The Secret Migration | Artista: Mercury Rev | Scrobbles: 98
+Puesto: 85 | Disco: London Calling | Artista: The Clash | Scrobbles: 98
+Puesto: 86 | Disco: Talking Heads: 77 | Artista: Talking Heads | Scrobbles: 97
+Puesto: 87 | Disco: Sin After Sin | Artista: Judas Priest | Scrobbles: 96
 Puesto: 88 | Disco: L.A. Woman | Artista: The Doors | Scrobbles: 96
 Puesto: 89 | Disco: Legend | Artista: Bob Marley | Scrobbles: 95
-Puesto: 90 | Disco: Killing Machine | Artista: Judas Priest | Scrobbles: 95
-Puesto: 91 | Disco: Jailbreak | Artista: Thin Lizzy | Scrobbles: 93
-Puesto: 92 | Disco: Crystal Castles II | Artista: Crystal Castles | Scrobbles: 92
-Puesto: 93 | Disco: Living in the Material World | Artista: George Harrison | Scrobbles: 92
-Puesto: 94 | Disco: News of the World | Artista: Queen | Scrobbles: 92
-Puesto: 95 | Disco: Coming Up | Artista: Suede | Scrobbles: 91
-Puesto: 96 | Disco: Pet Sounds | Artista: The Beach Boys | Scrobbles: 91
-Puesto: 97 | Disco: Lola Versus Powerman And The Moneygoround, Part One | Artista: The Kinks | Scrobbles: 91
-Puesto: 98 | Disco: A New World Record | Artista: Electric Light Orchestra | Scrobbles: 90
+Puesto: 90 | Disco: More Songs About Buildings and Food | Artista: Talking Heads | Scrobbles: 94
+Puesto: 91 | Disco: Jailbreak | Artista: Thin Lizzy | Scrobbles: 94
+Puesto: 92 | Disco: His 'n' Hers | Artista: Pulp | Scrobbles: 93
+Puesto: 93 | Disco: Crystal Castles II | Artista: Crystal Castles | Scrobbles: 92
+Puesto: 94 | Disco: Living in the Material World | Artista: George Harrison | Scrobbles: 92
+Puesto: 95 | Disco: Pet Sounds | Artista: The Beach Boys | Scrobbles: 92
+Puesto: 96 | Disco: Lola Versus Powerman And The Moneygoround, Part One | Artista: The Kinks | Scrobbles: 91
+Puesto: 97 | Disco: A New World Record | Artista: Electric Light Orchestra | Scrobbles: 90
+Puesto: 98 | Disco: News of the World | Artista: Queen | Scrobbles: 90
 Puesto: 99 | Disco: Never Mind The Bollocks, Here's The Sex Pistols | Artista: Sex Pistols | Scrobbles: 90
 Puesto: 100 | Disco: Fush Yu Mang | Artista: Smash Mouth | Scrobbles: 90
 Puesto: 101 | Disco: Everything Must Go | Artista: Manic Street Preachers | Scrobbles: 89
-Puesto: 102 | Disco: X&Y | Artista: Coldplay | Scrobbles: 88
-Puesto: 103 | Disco: Killers | Artista: Iron Maiden | Scrobbles: 88
-Puesto: 104 | Disco: More Songs About Buildings and Food | Artista: Talking Heads | Scrobbles: 87
-Puesto: 105 | Disco: Heroes | Artista: David Bowie | Scrobbles: 86
+Puesto: 102 | Disco: Coming Up | Artista: Suede | Scrobbles: 89
+Puesto: 103 | Disco: Fear of Music | Artista: Talking Heads | Scrobbles: 88
+Puesto: 104 | Disco: X&Y | Artista: Coldplay | Scrobbles: 87
+Puesto: 105 | Disco: Killers | Artista: Iron Maiden | Scrobbles: 87
 Puesto: 106 | Disco: Love Bites | Artista: Buzzcocks | Scrobbles: 85
 Puesto: 107 | Disco: Blonde on Blonde | Artista: Bob Dylan | Scrobbles: 84
-Puesto: 108 | Disco: Scary Monsters (and Super Creeps) | Artista: David Bowie | Scrobbles: 84
-Puesto: 109 | Disco: Led Zeppelin IV | Artista: Led Zeppelin | Scrobbles: 84
-Puesto: 110 | Disco: Travelling Without Moving | Artista: Jamiroquai | Scrobbles: 83
-Puesto: 111 | Disco: Suede | Artista: Suede | Scrobbles: 83
-Puesto: 112 | Disco: The Spinning Top | Artista: Graham Coxon | Scrobbles: 82
-Puesto: 113 | Disco: Steppenwolf | Artista: Steppenwolf | Scrobbles: 82
-Puesto: 114 | Disco: The Who Sell Out | Artista: The Who | Scrobbles: 82
-Puesto: 115 | Disco: Nightlife | Artista: Thin Lizzy | Scrobbles: 82
-Puesto: 116 | Disco: Grandes Éxitos Pequeños Regalos | Artista: Celtas Cortos | Scrobbles: 81
-Puesto: 117 | Disco: Electric Warrior | Artista: T. Rex | Scrobbles: 80
+Puesto: 108 | Disco: Heroes | Artista: David Bowie | Scrobbles: 84
+Puesto: 109 | Disco: Scary Monsters (and Super Creeps) | Artista: David Bowie | Scrobbles: 84
+Puesto: 110 | Disco: The Bends | Artista: Radiohead | Scrobbles: 84
+Puesto: 111 | Disco: Travelling Without Moving | Artista: Jamiroquai | Scrobbles: 83
+Puesto: 112 | Disco: Led Zeppelin IV | Artista: Led Zeppelin | Scrobbles: 83
+Puesto: 113 | Disco: Steppenwolf | Artista: Steppenwolf | Scrobbles: 83
+Puesto: 114 | Disco: Suede | Artista: Suede | Scrobbles: 83
+Puesto: 115 | Disco: Ross | Artista: Diana Ross | Scrobbles: 82
+Puesto: 116 | Disco: The Who Sell Out | Artista: The Who | Scrobbles: 82
+Puesto: 117 | Disco: The Spinning Top | Artista: Graham Coxon | Scrobbles: 80
 Puesto: 118 | Disco: Innerspeaker | Artista: Tame Impala | Scrobbles: 80
 Puesto: 119 | Disco: Lonerism | Artista: Tame Impala | Scrobbles: 80
-Puesto: 120 | Disco: The Essential Tracks | Artista: Jerry Lee Lewis | Scrobbles: 79
-Puesto: 121 | Disco: Congratulations | Artista: MGMT | Scrobbles: 79
+Puesto: 120 | Disco: Nightlife | Artista: Thin Lizzy | Scrobbles: 80
+Puesto: 121 | Disco: The Essential Tracks | Artista: Jerry Lee Lewis | Scrobbles: 79
 Puesto: 122 | Disco: Purple Rain | Artista: Prince | Scrobbles: 79
-Puesto: 123 | Disco: Happiness In Magazines | Artista: Graham Coxon | Scrobbles: 78
-Puesto: 124 | Disco: Mind Games | Artista: John Lennon | Scrobbles: 78
+Puesto: 123 | Disco: Electric Warrior | Artista: T. Rex | Scrobbles: 79
+Puesto: 124 | Disco: Grandes Éxitos Pequeños Regalos | Artista: Celtas Cortos | Scrobbles: 78
 Puesto: 125 | Disco: Deserter's Songs | Artista: Mercury Rev | Scrobbles: 78
-Puesto: 126 | Disco: Go 2 | Artista: XTC | Scrobbles: 78
-Puesto: 127 | Disco: Highway to Hell | Artista: AC/DC | Scrobbles: 77
-Puesto: 128 | Disco: Fear of Music | Artista: Talking Heads | Scrobbles: 77
-Puesto: 129 | Disco: Fresh Cream | Artista: Cream | Scrobbles: 76
-Puesto: 130 | Disco: La Culpa Fue De Gabinete | Artista: Gabinete Caligari | Scrobbles: 76
+Puesto: 126 | Disco: Congratulations | Artista: MGMT | Scrobbles: 78
+Puesto: 127 | Disco: Go 2 | Artista: XTC | Scrobbles: 78
+Puesto: 128 | Disco: Highway to Hell | Artista: AC/DC | Scrobbles: 77
+Puesto: 129 | Disco: Happiness In Magazines | Artista: Graham Coxon | Scrobbles: 77
+Puesto: 130 | Disco: Fresh Cream | Artista: Cream | Scrobbles: 76
 Puesto: 131 | Disco: Agotados de esperar el fin | Artista: Ilegales | Scrobbles: 76
-Puesto: 132 | Disco: Rock And Roll Heart | Artista: Lou Reed | Scrobbles: 76
+Puesto: 132 | Disco: Mind Games | Artista: John Lennon | Scrobbles: 76
 Puesto: 133 | Disco: Any Minute Now | Artista: Soulwax | Scrobbles: 76
 Puesto: 134 | Disco: Strange Days | Artista: The Doors | Scrobbles: 76
-Puesto: 135 | Disco: Black Sea | Artista: XTC | Scrobbles: 76
-Puesto: 136 | Disco: Sabbath Bloody Sabbath | Artista: Black Sabbath | Scrobbles: 75
+Puesto: 135 | Disco: Sabbath Bloody Sabbath | Artista: Black Sabbath | Scrobbles: 75
+Puesto: 136 | Disco: La Culpa Fue De Gabinete | Artista: Gabinete Caligari | Scrobbles: 75
 Puesto: 137 | Disco: Sgt. Pepper's Lonely Hearts Club Band | Artista: The Beatles | Scrobbles: 75
 Puesto: 138 | Disco: The Libertines | Artista: The Libertines | Scrobbles: 75
 Puesto: 139 | Disco: Discovery | Artista: Daft Punk | Scrobbles: 74
 Puesto: 140 | Disco: The Freddie Mercury Album | Artista: Freddie Mercury | Scrobbles: 74
-Puesto: 141 | Disco: Hot Space | Artista: Queen | Scrobbles: 74
-Puesto: 142 | Disco: Fulfillingness First Finale | Artista: Stevie Wonder | Scrobbles: 74
-Puesto: 143 | Disco: 1 | Artista: The Beatles | Scrobbles: 74
-Puesto: 144 | Disco: Ross | Artista: Diana Ross | Scrobbles: 73
-Puesto: 145 | Disco: Johnny the Fox | Artista: Thin Lizzy | Scrobbles: 73
-Puesto: 146 | Disco: Diamond Dogs | Artista: David Bowie | Scrobbles: 72
-Puesto: 147 | Disco: United | Artista: Phoenix | Scrobbles: 72
-Puesto: 148 | Disco: The Bends | Artista: Radiohead | Scrobbles: 72
-Puesto: 149 | Disco: Revolver | Artista: The Beatles | Scrobbles: 72
+Puesto: 141 | Disco: Rock And Roll Heart | Artista: Lou Reed | Scrobbles: 74
+Puesto: 142 | Disco: Hot Space | Artista: Queen | Scrobbles: 74
+Puesto: 143 | Disco: Fulfillingness First Finale | Artista: Stevie Wonder | Scrobbles: 74
+Puesto: 144 | Disco: Johnny the Fox | Artista: Thin Lizzy | Scrobbles: 73
+Puesto: 145 | Disco: Diamond Dogs | Artista: David Bowie | Scrobbles: 72
+Puesto: 146 | Disco: United | Artista: Phoenix | Scrobbles: 72
+Puesto: 147 | Disco: 1 | Artista: The Beatles | Scrobbles: 72
+Puesto: 148 | Disco: Revolver | Artista: The Beatles | Scrobbles: 72
+Puesto: 149 | Disco: Black Sea | Artista: XTC | Scrobbles: 72
 Puesto: 150 | Disco: Give 'Em Enough Rope | Artista: The Clash | Scrobbles: 71
 Puesto: 151 | Disco: Californication | Artista: Red Hot Chili Peppers | Scrobbles: 70
 Puesto: 152 | Disco: The Soft Parade | Artista: The Doors | Scrobbles: 70
 Puesto: 153 | Disco: If You Can Believe Your Eyes and Ears | Artista: The Mamas & the Papas | Scrobbles: 70
-Puesto: 154 | Disco: Road to Ruin | Artista: Ramones | Scrobbles: 69
+Puesto: 154 | Disco: Glenn Miller Plays Selections From The Glenn Miller Story And Other Hits | Artista: Glenn Miller | Scrobbles: 69
 Puesto: 155 | Disco: Fascinado | Artista: Sidonie | Scrobbles: 69
-Puesto: 156 | Disco: Maneras de vivir (Todos los grandes éxitos) | Artista: Leno | Scrobbles: 68
-Puesto: 157 | Disco: Veneno En La Piel | Artista: Radio Futura | Scrobbles: 68
-Puesto: 158 | Disco: Innervisions | Artista: Stevie Wonder | Scrobbles: 68
-Puesto: 159 | Disco: El Espíritu Del Vino | Artista: Héroes del Silencio | Scrobbles: 67
+Puesto: 156 | Disco: Dog Man Star | Artista: Suede | Scrobbles: 69
+Puesto: 157 | Disco: Maneras de vivir (Todos los grandes éxitos) | Artista: Leno | Scrobbles: 68
+Puesto: 158 | Disco: Veneno En La Piel | Artista: Radio Futura | Scrobbles: 68
+Puesto: 159 | Disco: Innervisions | Artista: Stevie Wonder | Scrobbles: 68
 Puesto: 160 | Disco: Physical Graffiti | Artista: Led Zeppelin | Scrobbles: 67
-Puesto: 161 | Disco: Merrie Land | Artista: The Good, the Bad & the Queen | Scrobbles: 67
+Puesto: 161 | Disco: See You On the Other Side | Artista: Mercury Rev | Scrobbles: 66
 Puesto: 162 | Disco: McCartney II | Artista: Paul McCartney | Scrobbles: 66
-Puesto: 163 | Disco: Face to Face | Artista: The Kinks | Scrobbles: 66
-Puesto: 164 | Disco: The Now Now | Artista: Gorillaz | Scrobbles: 65
-Puesto: 165 | Disco: Love Travels At Illegal Speeds | Artista: Graham Coxon | Scrobbles: 65
-Puesto: 166 | Disco: See You On the Other Side | Artista: Mercury Rev | Scrobbles: 65
-Puesto: 167 | Disco: Wowee Zowee | Artista: Pavement | Scrobbles: 65
+Puesto: 163 | Disco: Road to Ruin | Artista: Ramones | Scrobbles: 66
+Puesto: 164 | Disco: Face to Face | Artista: The Kinks | Scrobbles: 66
+Puesto: 165 | Disco: El Espíritu Del Vino | Artista: Héroes del Silencio | Scrobbles: 65
+Puesto: 166 | Disco: Wowee Zowee | Artista: Pavement | Scrobbles: 65
+Puesto: 167 | Disco: A Saucerful of Secrets | Artista: Pink Floyd | Scrobbles: 65
 Puesto: 168 | Disco: Without You I'm Nothing | Artista: Placebo | Scrobbles: 65
-Puesto: 169 | Disco: Walls and Bridges | Artista: John Lennon | Scrobbles: 64
-Puesto: 170 | Disco: Hail to the Thief | Artista: Radiohead | Scrobbles: 64
-Puesto: 171 | Disco: Born to Run | Artista: Bruce Springsteen | Scrobbles: 63
-Puesto: 172 | Disco: Glenn Miller Plays Selections From The Glenn Miller Story And Other Hits | Artista: Glenn Miller | Scrobbles: 63
-Puesto: 173 | Disco: All Is Dream | Artista: Mercury Rev | Scrobbles: 63
-Puesto: 174 | Disco: Head Music | Artista: Suede | Scrobbles: 63
-Puesto: 175 | Disco: Casanova | Artista: The Divine Comedy | Scrobbles: 63
-Puesto: 176 | Disco: All Things Must Pass (disc 1) | Artista: George Harrison | Scrobbles: 62
-Puesto: 177 | Disco: Anthology Disc 1 | Artista: Ramones | Scrobbles: 62
-Puesto: 178 | Disco: Help! | Artista: The Beatles | Scrobbles: 62
-Puesto: 179 | Disco: Life | Artista: The Cardigans | Scrobbles: 62
-Puesto: 180 | Disco: Psychocandy | Artista: The Jesus and Mary Chain | Scrobbles: 60
-Puesto: 181 | Disco: Rocks | Artista: Aerosmith | Scrobbles: 59
-Puesto: 182 | Disco: The Very Best Of Elvis Costello Disc 1 | Artista: Elvis Costello & The Attractions | Scrobbles: 59
-Puesto: 183 | Disco: The Real Thing | Artista: Faith No More | Scrobbles: 59
-Puesto: 184 | Disco: Jarvis | Artista: Jarvis Cocker | Scrobbles: 59
-Puesto: 185 | Disco: Let It Be | Artista: The Beatles | Scrobbles: 59
-Puesto: 186 | Disco: Houses of the Holy | Artista: Led Zeppelin | Scrobbles: 58
-Puesto: 187 | Disco: A Saucerful of Secrets | Artista: Pink Floyd | Scrobbles: 58
-Puesto: 188 | Disco: Pablo Honey | Artista: Radiohead | Scrobbles: 58
-Puesto: 189 | Disco: The Stone Roses | Artista: The Stone Roses | Scrobbles: 58
-Puesto: 190 | Disco: Dog Man Star | Artista: Suede | Scrobbles: 57
-Puesto: 191 | Disco: All Summer Long | Artista: The Beach Boys | Scrobbles: 57
-Puesto: 192 | Disco: Plastic Beach | Artista: Gorillaz | Scrobbles: 56
-Puesto: 193 | Disco: The Masterplan | Artista: Oasis | Scrobbles: 56
-Puesto: 194 | Disco: Adore | Artista: The Smashing Pumpkins | Scrobbles: 56
-Puesto: 195 | Disco: 1977 | Artista: Ash | Scrobbles: 55
-Puesto: 196 | Disco: Turbo | Artista: Judas Priest | Scrobbles: 55
-Puesto: 197 | Disco: Unidad De Desplazamiento | Artista: Los Planetas | Scrobbles: 55
-Puesto: 198 | Disco: End of the Century | Artista: Ramones | Scrobbles: 55
-Puesto: 199 | Disco: In It for the Money | Artista: Supergrass | Scrobbles: 55
-Puesto: 200 | Disco: Please Please Me | Artista: The Beatles | Scrobbles: 55
-Puesto: 201 | Disco: Combat Rock | Artista: The Clash | Scrobbles: 55
-Puesto: 202 | Disco: Mellon Collie and the Infinite Sadness (Dawn to Dusk) | Artista: The Smashing Pumpkins | Scrobbles: 55
-Puesto: 203 | Disco: Fighting | Artista: Thin Lizzy | Scrobbles: 55
-Puesto: 204 | Disco: Modern Life Is Rubbish (Special Edition) | Artista: Blur | Scrobbles: 54
-Puesto: 205 | Disco: Everyday Robots | Artista: Damon Albarn | Scrobbles: 54
-Puesto: 206 | Disco: Young Americans | Artista: David Bowie | Scrobbles: 54
-Puesto: 207 | Disco: Juez y Parte | Artista: Joaquín Sabina | Scrobbles: 54
-Puesto: 208 | Disco: Sally Can't Dance | Artista: Lou Reed | Scrobbles: 54
-Puesto: 209 | Disco: Weezer (The Blue Album) | Artista: Weezer | Scrobbles: 54
-Puesto: 210 | Disco: Highway 61 Revisited | Artista: Bob Dylan | Scrobbles: 53
-Puesto: 211 | Disco: Cosmo's Factory | Artista: Creedence Clearwater Revival | Scrobbles: 53
-Puesto: 212 | Disco: Space Oddity | Artista: David Bowie | Scrobbles: 53
-Puesto: 213 | Disco: Elastica | Artista: Elastica | Scrobbles: 53
-Puesto: 214 | Disco: One Step Beyond | Artista: Madness | Scrobbles: 53
-Puesto: 215 | Disco: This Is My Truth Tell Me Yours | Artista: Manic Street Preachers | Scrobbles: 53
-Puesto: 216 | Disco: The Fat Of The Land | Artista: Prodigy | Scrobbles: 53
-Puesto: 217 | Disco: Parachutes | Artista: Coldplay | Scrobbles: 52
-Puesto: 218 | Disco: 1999 | Artista: Prince | Scrobbles: 52
-Puesto: 219 | Disco: Costa Azul | Artista: Sidonie | Scrobbles: 52
-Puesto: 220 | Disco: Pinkerton | Artista: Weezer | Scrobbles: 52
-Puesto: 221 | Disco: Aladdin Sane | Artista: David Bowie | Scrobbles: 51
-Puesto: 222 | Disco: You're Living All Over Me | Artista: Dinosaur Jr. | Scrobbles: 51
-Puesto: 223 | Disco: Black Tie White Noise | Artista: David Bowie | Scrobbles: 50
-Puesto: 224 | Disco: Led Zeppelin II | Artista: Led Zeppelin | Scrobbles: 50
-Puesto: 225 | Disco: Supergrass | Artista: Supergrass | Scrobbles: 50
-Puesto: 226 | Disco: The Clash (U.K.) | Artista: The Clash | Scrobbles: 50
-Puesto: 227 | Disco: The Velvet Underground & Nico | Artista: The Velvet Underground | Scrobbles: 50
-Puesto: 228 | Disco: Alta Suciedad | Artista: Andrés Calamaro | Scrobbles: 49
-Puesto: 229 | Disco: The Man Who Sold the World | Artista: David Bowie | Scrobbles: 49
-Puesto: 230 | Disco: Duran Duran | Artista: Duran Duran | Scrobbles: 49
-Puesto: 231 | Disco: Gorillaz | Artista: Gorillaz | Scrobbles: 49
-Puesto: 232 | Disco: Lust for Life | Artista: Iggy Pop | Scrobbles: 49
-Puesto: 233 | Disco: In Utero | Artista: Nirvana | Scrobbles: 49
-Puesto: 234 | Disco: Loco Por Incordiar | Artista: Rosendo | Scrobbles: 49
-Puesto: 235 | Disco: The Madcap Laughs | Artista: Syd Barrett | Scrobbles: 49
-Puesto: 236 | Disco: The La's | Artista: The La's | Scrobbles: 49
-Puesto: 237 | Disco: Parallel Lines | Artista: Blondie | Scrobbles: 48
-Puesto: 238 | Disco: Spiders | Artista: Space | Scrobbles: 48
-Puesto: 239 | Disco: Everyone's Got One | Artista: Echobelly | Scrobbles: 47
-Puesto: 240 | Disco: Sad Wings of Destiny | Artista: Judas Priest | Scrobbles: 47
-Puesto: 241 | Disco: We Love Life | Artista: Pulp | Scrobbles: 47
-Puesto: 242 | Disco: Ramones | Artista: Ramones | Scrobbles: 47
-Puesto: 243 | Disco: Eliminator | Artista: ZZ Top | Scrobbles: 47
-Puesto: 244 | Disco: Toys in the Attic | Artista: Aerosmith | Scrobbles: 46
-Puesto: 245 | Disco: Aloha From Hawaii Via Satellite | Artista: Elvis Presley | Scrobbles: 46
-Puesto: 246 | Disco: Song Machine, Season One: Strange Timez | Artista: Gorillaz | Scrobbles: 46
-Puesto: 247 | Disco: Ilegales | Artista: Ilegales | Scrobbles: 46
-Puesto: 248 | Disco: Led Zeppelin III | Artista: Led Zeppelin | Scrobbles: 46
-Puesto: 249 | Disco: Frankenstein | Artista: Los Suaves | Scrobbles: 46
-Puesto: 250 | Disco: Be Here Now | Artista: Oasis | Scrobbles: 46
-Puesto: 251 | Disco: Herzeleid | Artista: Rammstein | Scrobbles: 46
-Puesto: 252 | Disco: Outlandos D'Amour | Artista: The Police | Scrobbles: 46
-Puesto: 253 | Disco: Let It Bleed | Artista: The Rolling Stones | Scrobbles: 46
-Puesto: 254 | Disco: Hatful of Hollow | Artista: The Smiths | Scrobbles: 46
-Puesto: 255 | Disco: Willy and the Poor Boys | Artista: Creedence Clearwater Revival | Scrobbles: 45
-Puesto: 256 | Disco: The Fall | Artista: Gorillaz | Scrobbles: 45
-Puesto: 257 | Disco: Defenders of the Faith | Artista: Judas Priest | Scrobbles: 45
-Puesto: 258 | Disco: Tragic Kingdom | Artista: No Doubt | Scrobbles: 45
-Puesto: 259 | Disco: Exodus | Artista: Bob Marley & The Wailers | Scrobbles: 44
-Puesto: 260 | Disco: Senderos De Traición | Artista: Héroes del Silencio | Scrobbles: 44
-Puesto: 261 | Disco: Surrealistic Pillow | Artista: Jefferson Airplane | Scrobbles: 44
-Puesto: 262 | Disco: Otis Blue | Artista: Otis Redding | Scrobbles: 44
-Puesto: 263 | Disco: Kid A | Artista: Radiohead | Scrobbles: 44
-Puesto: 264 | Disco: Gran Turismo | Artista: The Cardigans | Scrobbles: 43
-Puesto: 265 | Disco: The Gift | Artista: The Jam | Scrobbles: 43
-Puesto: 266 | Disco: Kinda Kinks | Artista: The Kinks | Scrobbles: 43
-Puesto: 267 | Disco: Is This It | Artista: The Strokes | Scrobbles: 43
-Puesto: 268 | Disco: Honestidad Brutal CD1 | Artista: Andrés Calamaro | Scrobbles: 42
-Puesto: 269 | Disco: Let's Dance | Artista: David Bowie | Scrobbles: 42
-Puesto: 270 | Disco: Dookie | Artista: Green Day | Scrobbles: 42
-Puesto: 271 | Disco: Buena Suerte | Artista: Los Rodríguez | Scrobbles: 42
-Puesto: 272 | Disco: Come On Pilgrim | Artista: Pixies | Scrobbles: 42
-Puesto: 273 | Disco: The Good, the Bad & the Queen | Artista: The Good, the Bad & the Queen | Scrobbles: 42
-Puesto: 274 | Disco: Achtung Baby | Artista: U2 | Scrobbles: 42
-Puesto: 275 | Disco: Powerage | Artista: AC/DC | Scrobbles: 41
-Puesto: 276 | Disco: Master of Reality | Artista: Black Sabbath | Scrobbles: 41
-Puesto: 277 | Disco: Vol.4 | Artista: Black Sabbath | Scrobbles: 41
-Puesto: 278 | Disco: The Sky Is Too High | Artista: Graham Coxon | Scrobbles: 41
-Puesto: 279 | Disco: Oracular Spectacular | Artista: MGMT | Scrobbles: 41
-Puesto: 280 | Disco: Walk Among Us | Artista: Misfits | Scrobbles: 41
-Puesto: 281 | Disco: Black Holes and Revelations | Artista: Muse | Scrobbles: 41
-Puesto: 282 | Disco: Isn't Anything | Artista: my bloody valentine | Scrobbles: 41
-Puesto: 283 | Disco: Punk in Drublic | Artista: NOFX | Scrobbles: 41
-Puesto: 284 | Disco: Dig Out Your Soul | Artista: Oasis | Scrobbles: 41
-Puesto: 285 | Disco: Superstate (feat. Graham Coxon) | Artista: Superstate | Scrobbles: 41
-Puesto: 286 | Disco: Beggars Banquet | Artista: The Rolling Stones | Scrobbles: 41
-Puesto: 287 | Disco: Best of Specials | Artista: The Specials | Scrobbles: 41
-Puesto: 288 | Disco: Who's Next | Artista: The Who | Scrobbles: 41
+Puesto: 169 | Disco: Merrie Land | Artista: The Good, the Bad & the Queen | Scrobbles: 65
+Puesto: 170 | Disco: The Now Now | Artista: Gorillaz | Scrobbles: 64
+Puesto: 171 | Disco: Walls and Bridges | Artista: John Lennon | Scrobbles: 64
+Puesto: 172 | Disco: Born to Run | Artista: Bruce Springsteen | Scrobbles: 63
+Puesto: 173 | Disco: Love Travels At Illegal Speeds | Artista: Graham Coxon | Scrobbles: 63
+Puesto: 174 | Disco: All Is Dream | Artista: Mercury Rev | Scrobbles: 63
+Puesto: 175 | Disco: Head Music | Artista: Suede | Scrobbles: 63
+Puesto: 176 | Disco: Casanova | Artista: The Divine Comedy | Scrobbles: 63
+Puesto: 177 | Disco: All Things Must Pass (disc 1) | Artista: George Harrison | Scrobbles: 62
+Puesto: 178 | Disco: Hail to the Thief | Artista: Radiohead | Scrobbles: 62
+Puesto: 179 | Disco: Anthology Disc 1 | Artista: Ramones | Scrobbles: 62
+Puesto: 180 | Disco: Life | Artista: The Cardigans | Scrobbles: 62
+Puesto: 181 | Disco: Help! | Artista: The Beatles | Scrobbles: 61
+Puesto: 182 | Disco: Psychocandy | Artista: The Jesus and Mary Chain | Scrobbles: 60
+Puesto: 183 | Disco: Rocks | Artista: Aerosmith | Scrobbles: 59
+Puesto: 184 | Disco: The Very Best Of Elvis Costello Disc 1 | Artista: Elvis Costello & The Attractions | Scrobbles: 59
+Puesto: 185 | Disco: The Real Thing | Artista: Faith No More | Scrobbles: 59
+Puesto: 186 | Disco: Jarvis | Artista: Jarvis Cocker | Scrobbles: 59
+Puesto: 187 | Disco: Pablo Honey | Artista: Radiohead | Scrobbles: 59
+Puesto: 188 | Disco: Let It Be | Artista: The Beatles | Scrobbles: 59
+Puesto: 189 | Disco: Houses of the Holy | Artista: Led Zeppelin | Scrobbles: 58
+Puesto: 190 | Disco: The Stone Roses | Artista: The Stone Roses | Scrobbles: 58
+Puesto: 191 | Disco: Led Zeppelin III | Artista: Led Zeppelin | Scrobbles: 57
+Puesto: 192 | Disco: All Summer Long | Artista: The Beach Boys | Scrobbles: 57
+Puesto: 193 | Disco: Plastic Beach | Artista: Gorillaz | Scrobbles: 56
+Puesto: 194 | Disco: Superstate (feat. Graham Coxon) | Artista: Superstate | Scrobbles: 56
+Puesto: 195 | Disco: Adore | Artista: The Smashing Pumpkins | Scrobbles: 56
+Puesto: 196 | Disco: 1977 | Artista: Ash | Scrobbles: 55
+Puesto: 197 | Disco: Turbo | Artista: Judas Priest | Scrobbles: 55
+Puesto: 198 | Disco: Unidad De Desplazamiento | Artista: Los Planetas | Scrobbles: 55
+Puesto: 199 | Disco: The Masterplan | Artista: Oasis | Scrobbles: 55
+Puesto: 200 | Disco: In It for the Money | Artista: Supergrass | Scrobbles: 55
+Puesto: 201 | Disco: Please Please Me | Artista: The Beatles | Scrobbles: 55
+Puesto: 202 | Disco: Combat Rock | Artista: The Clash | Scrobbles: 55
+Puesto: 203 | Disco: Mellon Collie and the Infinite Sadness (Dawn to Dusk) | Artista: The Smashing Pumpkins | Scrobbles: 55
+Puesto: 204 | Disco: Fighting | Artista: Thin Lizzy | Scrobbles: 55
+Puesto: 205 | Disco: Modern Life Is Rubbish (Special Edition) | Artista: Blur | Scrobbles: 54
+Puesto: 206 | Disco: Everyday Robots | Artista: Damon Albarn | Scrobbles: 54
+Puesto: 207 | Disco: Young Americans | Artista: David Bowie | Scrobbles: 54
+Puesto: 208 | Disco: Juez y Parte | Artista: Joaquín Sabina | Scrobbles: 54
+Puesto: 209 | Disco: Sally Can't Dance | Artista: Lou Reed | Scrobbles: 54
+Puesto: 210 | Disco: Kid A | Artista: Radiohead | Scrobbles: 54
+Puesto: 211 | Disco: End of the Century | Artista: Ramones | Scrobbles: 54
+Puesto: 212 | Disco: Is This It | Artista: The Strokes | Scrobbles: 54
+Puesto: 213 | Disco: Weezer (The Blue Album) | Artista: Weezer | Scrobbles: 54
+Puesto: 214 | Disco: Highway 61 Revisited | Artista: Bob Dylan | Scrobbles: 53
+Puesto: 215 | Disco: Cosmo's Factory | Artista: Creedence Clearwater Revival | Scrobbles: 53
+Puesto: 216 | Disco: Space Oddity | Artista: David Bowie | Scrobbles: 53
+Puesto: 217 | Disco: Elastica | Artista: Elastica | Scrobbles: 53
+Puesto: 218 | Disco: Alevosía | Artista: Luis Eduardo Aute | Scrobbles: 53
+Puesto: 219 | Disco: This Is My Truth Tell Me Yours | Artista: Manic Street Preachers | Scrobbles: 53
+Puesto: 220 | Disco: The Fat Of The Land | Artista: Prodigy | Scrobbles: 53
+Puesto: 221 | Disco: Parachutes | Artista: Coldplay | Scrobbles: 52
+Puesto: 222 | Disco: 1999 | Artista: Prince | Scrobbles: 52
+Puesto: 223 | Disco: Pinkerton | Artista: Weezer | Scrobbles: 52
+Puesto: 224 | Disco: Aladdin Sane | Artista: David Bowie | Scrobbles: 51
+Puesto: 225 | Disco: You're Living All Over Me | Artista: Dinosaur Jr. | Scrobbles: 51
+Puesto: 226 | Disco: One Step Beyond | Artista: Madness | Scrobbles: 51
+Puesto: 227 | Disco: Black Tie White Noise | Artista: David Bowie | Scrobbles: 50
+Puesto: 228 | Disco: Loco Por Incordiar | Artista: Rosendo | Scrobbles: 50
+Puesto: 229 | Disco: Costa Azul | Artista: Sidonie | Scrobbles: 50
+Puesto: 230 | Disco: Supergrass | Artista: Supergrass | Scrobbles: 50
+Puesto: 231 | Disco: The Clash (U.K.) | Artista: The Clash | Scrobbles: 50
+Puesto: 232 | Disco: The Velvet Underground & Nico | Artista: The Velvet Underground | Scrobbles: 50
+Puesto: 233 | Disco: The Man Who Sold the World | Artista: David Bowie | Scrobbles: 49
+Puesto: 234 | Disco: Duran Duran | Artista: Duran Duran | Scrobbles: 49
+Puesto: 235 | Disco: Gorillaz | Artista: Gorillaz | Scrobbles: 49
+Puesto: 236 | Disco: Lust for Life | Artista: Iggy Pop | Scrobbles: 49
+Puesto: 237 | Disco: Led Zeppelin II | Artista: Led Zeppelin | Scrobbles: 49
+Puesto: 238 | Disco: In Utero | Artista: Nirvana | Scrobbles: 49
+Puesto: 239 | Disco: The La's | Artista: The La's | Scrobbles: 49
+Puesto: 240 | Disco: Parallel Lines | Artista: Blondie | Scrobbles: 48
+Puesto: 241 | Disco: Alta Suciedad | Artista: Andrés Calamaro | Scrobbles: 47
+Puesto: 242 | Disco: Everyone's Got One | Artista: Echobelly | Scrobbles: 47
+Puesto: 243 | Disco: Sad Wings of Destiny | Artista: Judas Priest | Scrobbles: 47
+Puesto: 244 | Disco: We Love Life | Artista: Pulp | Scrobbles: 47
+Puesto: 245 | Disco: Ramones | Artista: Ramones | Scrobbles: 47
+Puesto: 246 | Disco: The Madcap Laughs | Artista: Syd Barrett | Scrobbles: 47
+Puesto: 247 | Disco: Eliminator | Artista: ZZ Top | Scrobbles: 47
+Puesto: 248 | Disco: Toys in the Attic | Artista: Aerosmith | Scrobbles: 46
+Puesto: 249 | Disco: Aloha From Hawaii Via Satellite | Artista: Elvis Presley | Scrobbles: 46
+Puesto: 250 | Disco: Ilegales | Artista: Ilegales | Scrobbles: 46
+Puesto: 251 | Disco: Frankenstein | Artista: Los Suaves | Scrobbles: 46
+Puesto: 252 | Disco: Be Here Now | Artista: Oasis | Scrobbles: 46
+Puesto: 253 | Disco: Herzeleid | Artista: Rammstein | Scrobbles: 46
+Puesto: 254 | Disco: Outlandos D'Amour | Artista: The Police | Scrobbles: 46
+Puesto: 255 | Disco: Hatful of Hollow | Artista: The Smiths | Scrobbles: 46
+Puesto: 256 | Disco: Willy and the Poor Boys | Artista: Creedence Clearwater Revival | Scrobbles: 45
+Puesto: 257 | Disco: The Fall | Artista: Gorillaz | Scrobbles: 45
+Puesto: 258 | Disco: Unknown Pleasures | Artista: Joy Division | Scrobbles: 45
+Puesto: 259 | Disco: Defenders of the Faith | Artista: Judas Priest | Scrobbles: 45
+Puesto: 260 | Disco: Alphabetical | Artista: Phoenix | Scrobbles: 45
+Puesto: 261 | Disco: Exodus | Artista: Bob Marley & The Wailers | Scrobbles: 44
+Puesto: 262 | Disco: Song Machine, Season One: Strange Timez | Artista: Gorillaz | Scrobbles: 44
+Puesto: 263 | Disco: Senderos De Traición | Artista: Héroes del Silencio | Scrobbles: 44
+Puesto: 264 | Disco: Surrealistic Pillow | Artista: Jefferson Airplane | Scrobbles: 44
+Puesto: 265 | Disco: Otis Blue | Artista: Otis Redding | Scrobbles: 44
+Puesto: 266 | Disco: Let It Bleed | Artista: The Rolling Stones | Scrobbles: 44
+Puesto: 267 | Disco: Machine Head | Artista: Deep Purple | Scrobbles: 43
+Puesto: 268 | Disco: Spiders | Artista: Space | Scrobbles: 43
+Puesto: 269 | Disco: Gran Turismo | Artista: The Cardigans | Scrobbles: 43
+Puesto: 270 | Disco: The Gift | Artista: The Jam | Scrobbles: 43
+Puesto: 271 | Disco: Kinda Kinks | Artista: The Kinks | Scrobbles: 43
+Puesto: 272 | Disco: Let's Dance | Artista: David Bowie | Scrobbles: 42
+Puesto: 273 | Disco: Dookie | Artista: Green Day | Scrobbles: 42
+Puesto: 274 | Disco: Buena Suerte | Artista: Los Rodríguez | Scrobbles: 42
+Puesto: 275 | Disco: Come On Pilgrim | Artista: Pixies | Scrobbles: 42
+Puesto: 276 | Disco: The Good, the Bad & the Queen | Artista: The Good, the Bad & the Queen | Scrobbles: 42
+Puesto: 277 | Disco: Who's Next | Artista: The Who | Scrobbles: 42
+Puesto: 278 | Disco: Powerage | Artista: AC/DC | Scrobbles: 41
+Puesto: 279 | Disco: Honestidad Brutal CD1 | Artista: Andrés Calamaro | Scrobbles: 41
+Puesto: 280 | Disco: Master of Reality | Artista: Black Sabbath | Scrobbles: 41
+Puesto: 281 | Disco: Vol.4 | Artista: Black Sabbath | Scrobbles: 41
+Puesto: 282 | Disco: The Sky Is Too High | Artista: Graham Coxon | Scrobbles: 41
+Puesto: 283 | Disco: Oracular Spectacular | Artista: MGMT | Scrobbles: 41
+Puesto: 284 | Disco: Walk Among Us | Artista: Misfits | Scrobbles: 41
+Puesto: 285 | Disco: Isn't Anything | Artista: my bloody valentine | Scrobbles: 41
+Puesto: 286 | Disco: Punk in Drublic | Artista: NOFX | Scrobbles: 41
+Puesto: 287 | Disco: Dig Out Your Soul | Artista: Oasis | Scrobbles: 41
+Puesto: 288 | Disco: Beggars Banquet | Artista: The Rolling Stones | Scrobbles: 41
 Puesto: 289 | Disco: The Great Escape (Special Edition) | Artista: Blur | Scrobbles: 40
 Puesto: 290 | Disco: Rumours | Artista: Fleetwood Mac | Scrobbles: 40
 Puesto: 291 | Disco: Rocka Rolla | Artista: Judas Priest | Scrobbles: 40
-Puesto: 292 | Disco: Alevosía | Artista: Luis Eduardo Aute | Scrobbles: 40
-Puesto: 293 | Disco: Attack Of The Grey Lantern | Artista: Mansun | Scrobbles: 40
-Puesto: 294 | Disco: Ram | Artista: Paul McCartney | Scrobbles: 40
+Puesto: 292 | Disco: Attack Of The Grey Lantern | Artista: Mansun | Scrobbles: 40
+Puesto: 293 | Disco: Black Holes and Revelations | Artista: Muse | Scrobbles: 40
+Puesto: 294 | Disco: Tragic Kingdom | Artista: No Doubt | Scrobbles: 40
 Puesto: 295 | Disco: Meddle | Artista: Pink Floyd | Scrobbles: 40
 Puesto: 296 | Disco: Are You Experienced? | Artista: The Jimi Hendrix Experience | Scrobbles: 40
-Puesto: 297 | Disco: City Lights | Artista: The WAEVE | Scrobbles: 40
-Puesto: 298 | Disco: The WAEVE | Artista: The WAEVE | Scrobbles: 40
-Puesto: 299 | Disco: The Ideal Crash | Artista: dEUS | Scrobbles: 39
-Puesto: 300 | Disco: Malas Compañías | Artista: Joaquín Sabina | Scrobbles: 39
-Puesto: 301 | Disco: Double Fantasy | Artista: John Lennon | Scrobbles: 39
-Puesto: 302 | Disco: Here's Little Richard | Artista: Little Richard | Scrobbles: 39
-Puesto: 303 | Disco: Rock 'n' Roll Animal | Artista: Lou Reed | Scrobbles: 39
-Puesto: 304 | Disco: Wallpaper For The Soul | Artista: Tahiti 80 | Scrobbles: 39
-Puesto: 305 | Disco: The Band | Artista: The Band | Scrobbles: 39
-Puesto: 306 | Disco: Tyrannosaurus Hives | Artista: The Hives | Scrobbles: 39
-Puesto: 307 | Disco: 1984 | Artista: Van Halen | Scrobbles: 39
-Puesto: 308 | Disco: Back in Black | Artista: AC/DC | Scrobbles: 38
-Puesto: 309 | Disco: Too Low For Zero | Artista: Elton John | Scrobbles: 38
-Puesto: 310 | Disco: The Rise & Fall | Artista: Madness | Scrobbles: 38
-Puesto: 311 | Disco: 18 | Artista: Moby | Scrobbles: 38
-Puesto: 312 | Disco: Don't Believe the Truth | Artista: Oasis | Scrobbles: 38
-Puesto: 313 | Disco: Mellon Collie And The Infinite Sadness (Twilight To Starlight) | Artista: The Smashing Pumpkins | Scrobbles: 38
-Puesto: 314 | Disco: Todos Están Muertos | Artista: Ilegales | Scrobbles: 37
-Puesto: 315 | Disco: Street Hassle | Artista: Lou Reed | Scrobbles: 37
-Puesto: 316 | Disco: It's Never Been Like That | Artista: Phoenix | Scrobbles: 37
-Puesto: 317 | Disco: Jazz | Artista: Queen | Scrobbles: 37
-Puesto: 318 | Disco: These People | Artista: Richard Ashcroft | Scrobbles: 37
-Puesto: 319 | Disco: A Hard Day's Night | Artista: The Beatles | Scrobbles: 37
-Puesto: 320 | Disco: The Smiths | Artista: The Smiths | Scrobbles: 37
-Puesto: 321 | Disco: Facelift | Artista: Alice in Chains | Scrobbles: 36
-Puesto: 322 | Disco: The Nearer the Fountain, More Pure the Stream Flows | Artista: Damon Albarn | Scrobbles: 36
-Puesto: 323 | Disco: Machine Head | Artista: Deep Purple | Scrobbles: 36
-Puesto: 324 | Disco: 2nd to None | Artista: Elvis Presley | Scrobbles: 36
-Puesto: 325 | Disco: Impuesto Revolucionario | Artista: Eskorbuto | Scrobbles: 36
-Puesto: 326 | Disco: What's Going On | Artista: Marvin Gaye | Scrobbles: 36
-Puesto: 327 | Disco: Blue Lines | Artista: Massive Attack | Scrobbles: 36
-Puesto: 328 | Disco: Thriller | Artista: Michael Jackson | Scrobbles: 36
-Puesto: 329 | Disco: The Very Best Of Edith Piaf | Artista: Édith Piaf | Scrobbles: 35
-Puesto: 330 | Disco: Version 2.0 | Artista: Garbage | Scrobbles: 35
-Puesto: 331 | Disco: Avalancha | Artista: Héroes del Silencio | Scrobbles: 35
-Puesto: 332 | Disco: Surfing with the Alien | Artista: Joe Satriani | Scrobbles: 35
-Puesto: 333 | Disco: Unknown Pleasures | Artista: Joy Division | Scrobbles: 35
-Puesto: 334 | Disco: Próxima Estación...Esperanza | Artista: Manu Chao | Scrobbles: 35
-Puesto: 335 | Disco: Horses | Artista: Patti Smith | Scrobbles: 35
-Puesto: 336 | Disco: Out of Time | Artista: R.E.M. | Scrobbles: 35
-Puesto: 337 | Disco: Surrender | Artista: The Chemical Brothers | Scrobbles: 35
-Puesto: 338 | Disco: Boys Don't Cry | Artista: The Cure | Scrobbles: 35
-Puesto: 339 | Disco: Seventeen Seconds | Artista: The Cure | Scrobbles: 35
-Puesto: 340 | Disco: The Best of Van Morrison | Artista: Van Morrison | Scrobbles: 35
-Puesto: 341 | Disco: Blur (Special Edition) | Artista: Blur | Scrobbles: 34
-Puesto: 342 | Disco: Sanatorio de Muñecos | Artista: Hamlet | Scrobbles: 34
-Puesto: 343 | Disco: Ultrasónica | Artista: Los Piratas | Scrobbles: 34
-Puesto: 344 | Disco: Alphabetical | Artista: Phoenix | Scrobbles: 34
-Puesto: 345 | Disco: Voy a acabar borracho | Artista: Platero y tú | Scrobbles: 34
-Puesto: 346 | Disco: Screamadelica | Artista: Primal Scream | Scrobbles: 34
-Puesto: 347 | Disco: Rage Against the Machine | Artista: Rage Against the Machine | Scrobbles: 34
-Puesto: 348 | Disco: Giant Steps | Artista: The Boo Radleys | Scrobbles: 34
-Puesto: 349 | Disco: In the City | Artista: The Jam | Scrobbles: 34
-Puesto: 350 | Disco: Highly Evolved | Artista: The Vines | Scrobbles: 34
-Puesto: 351 | Disco: Whatever People Say I Am, That's What I'm Not | Artista: Arctic Monkeys | Scrobbles: 33
-Puesto: 352 | Disco: Mr. Natural | Artista: Bee Gees | Scrobbles: 33
-Puesto: 353 | Disco: Creedence Clearwater Revival | Artista: Creedence Clearwater Revival | Scrobbles: 33
-Puesto: 354 | Disco: Nuevas mezclas | Artista: El Último de la Fila | Scrobbles: 33
-Puesto: 355 | Disco: Somos unos Animales | Artista: Extremoduro | Scrobbles: 33
-Puesto: 356 | Disco: A+E | Artista: Graham Coxon | Scrobbles: 33
-Puesto: 357 | Disco: The Golden D | Artista: Graham Coxon | Scrobbles: 33
-Puesto: 358 | Disco: Life | Artista: Inspiral Carpets | Scrobbles: 33
-Puesto: 359 | Disco: Synkronized | Artista: Jamiroquai | Scrobbles: 33
-Puesto: 360 | Disco: Mezzanine | Artista: Massive Attack | Scrobbles: 33
-Puesto: 361 | Disco: Play | Artista: Moby | Scrobbles: 33
-Puesto: 362 | Disco: Player | Artista: Player | Scrobbles: 33
-Puesto: 363 | Disco: Mars Audiac Quintet | Artista: Stereolab | Scrobbles: 33
-Puesto: 364 | Disco: Elephant | Artista: The White Stripes | Scrobbles: 33
-Puesto: 365 | Disco: The Joshua Tree | Artista: U2 | Scrobbles: 33
-Puesto: 366 | Disco: All The People... Blur: Live In Hyde Park 02/07/2009 | Artista: Blur | Scrobbles: 32
-Puesto: 367 | Disco: Leisure (Special Edition) | Artista: Blur | Scrobbles: 32
-Puesto: 368 | Disco: Parklife (Special Edition) | Artista: Blur | Scrobbles: 32
-Puesto: 369 | Disco: Antidotes | Artista: Foals | Scrobbles: 32
-Puesto: 370 | Disco: There Is Nothing Left to Lose | Artista: Foo Fighters | Scrobbles: 32
-Puesto: 371 | Disco: Appetite for Destruction | Artista: Guns N' Roses | Scrobbles: 32
-Puesto: 372 | Disco: Patente De Corso | Artista: Jaime Urrutia | Scrobbles: 32
-Puesto: 373 | Disco: Greatest Hits | Artista: Joe Cocker | Scrobbles: 32
-Puesto: 374 | Disco: Vulgar Display of Power | Artista: Pantera | Scrobbles: 32
-Puesto: 375 | Disco: A Day at the Races | Artista: Queen | Scrobbles: 32
-Puesto: 376 | Disco: Rated R | Artista: Queens of the Stone Age | Scrobbles: 32
-Puesto: 377 | Disco: Sehnsucht | Artista: Rammstein | Scrobbles: 32
-Puesto: 378 | Disco: Dirty | Artista: Sonic Youth | Scrobbles: 32
-Puesto: 379 | Disco: El fin de la década | Artista: Burning | Scrobbles: 31
-Puesto: 380 | Disco: On the Third Day | Artista: Electric Light Orchestra | Scrobbles: 31
-Puesto: 381 | Disco: Rock Transgresivo | Artista: Extremoduro | Scrobbles: 31
-Puesto: 382 | Disco: Franz Ferdinand | Artista: Franz Ferdinand | Scrobbles: 31
-Puesto: 383 | Disco: Al calor del amor en un bar | Artista: Gabinete Caligari | Scrobbles: 31
-Puesto: 384 | Disco: In Through the Out Door | Artista: Led Zeppelin | Scrobbles: 31
-Puesto: 385 | Disco: Bleach | Artista: Nirvana | Scrobbles: 31
-Puesto: 386 | Disco: Wish You Were Here | Artista: Pink Floyd | Scrobbles: 31
-Puesto: 387 | Disco: Bad Moon Rising | Artista: Sonic Youth | Scrobbles: 31
-Puesto: 388 | Disco: Music for the Jilted Generation | Artista: The Prodigy | Scrobbles: 31
-Puesto: 389 | Disco: After-Math | Artista: The Rolling Stones | Scrobbles: 31
-Puesto: 390 | Disco: Homework | Artista: Daft Punk | Scrobbles: 30
-Puesto: 391 | Disco: Radio Songs | Artista: Dave Rowntree | Scrobbles: 30
-Puesto: 392 | Disco: Ladies And Gentlemen... The Best Of George Michael | Artista: George Michael | Scrobbles: 30
-Puesto: 393 | Disco: Once Upon a Time in the West | Artista: Hard-Fi | Scrobbles: 30
-Puesto: 394 | Disco: Grace | Artista: Jeff Buckley | Scrobbles: 30
-Puesto: 395 | Disco: El Hombre del Traje Gris | Artista: Joaquín Sabina | Scrobbles: 30
-Puesto: 396 | Disco: Painkiller | Artista: Judas Priest | Scrobbles: 30
-Puesto: 397 | Disco: 30 Años De Éxitos | Artista: Los Toreros Muertos | Scrobbles: 30
-Puesto: 398 | Disco: Second Helping | Artista: Lynyrd Skynyrd | Scrobbles: 30
-Puesto: 399 | Disco: Automatic for the People | Artista: R.E.M. | Scrobbles: 30
-Puesto: 400 | Disco: Grease | Artista: Soundtrack | Scrobbles: 30
-Puesto: 401 | Disco: A Short Cut To Teenage Fanclub | Artista: Teenage Fanclub | Scrobbles: 30
-Puesto: 402 | Disco: Three Imaginary Boys | Artista: The Cure | Scrobbles: 30
-Puesto: 403 | Disco: Spirits Having Flown | Artista: Bee Gees | Scrobbles: 29
-Puesto: 404 | Disco: Use Your Brain | Artista: Clawfinger | Scrobbles: 29
-Puesto: 405 | Disco: Alzheimer | Artista: Def con Dos | Scrobbles: 29
-Puesto: 406 | Disco: Face the Music | Artista: Electric Light Orchestra | Scrobbles: 29
-Puesto: 407 | Disco: Angel Dust | Artista: Faith No More | Scrobbles: 29
-Puesto: 408 | Disco: Employment | Artista: Kaiser Chiefs | Scrobbles: 29
-Puesto: 409 | Disco: His 'n' Hers (Bonus Disc) | Artista: Pulp | Scrobbles: 29
-Puesto: 410 | Disco: Even in the Quietest Moments... | Artista: Supertramp | Scrobbles: 29
-Puesto: 411 | Disco: Siamese Dream | Artista: The Smashing Pumpkins | Scrobbles: 29
-Puesto: 412 | Disco: Mutations | Artista: Beck | Scrobbles: 28
-Puesto: 413 | Disco: Paranoid | Artista: Black Sabbath | Scrobbles: 28
-Puesto: 414 | Disco: Station to Station | Artista: David Bowie | Scrobbles: 28
-Puesto: 415 | Disco: The Next Day | Artista: David Bowie | Scrobbles: 28
-Puesto: 416 | Disco: Estopa | Artista: Estopa | Scrobbles: 28
-Puesto: 417 | Disco: King for a Day... Fool for a Lifetime | Artista: Faith No More | Scrobbles: 28
-Puesto: 418 | Disco: Back To Front | Artista: Gilbert O'Sullivan | Scrobbles: 28
-Puesto: 419 | Disco: Warning | Artista: Green Day | Scrobbles: 28
-Puesto: 420 | Disco: Our Love to Admire | Artista: Interpol | Scrobbles: 28
-Puesto: 421 | Disco: Ruleta Rusa | Artista: Joaquín Sabina | Scrobbles: 28
-Puesto: 422 | Disco: Sin Documentos | Artista: Los Rodríguez | Scrobbles: 28
-Puesto: 423 | Disco: Rust In Peace | Artista: Megadeth | Scrobbles: 28
-Puesto: 424 | Disco: ¿Donde jugarán las niñas? | Artista: Molotov | Scrobbles: 28
-Puesto: 425 | Disco: The Coral | Artista: The Coral | Scrobbles: 28
-Puesto: 426 | Disco: Neon Bible | Artista: Arcade Fire | Scrobbles: 27
-Puesto: 427 | Disco: Suck It and See | Artista: Arctic Monkeys | Scrobbles: 27
-Puesto: 428 | Disco: Another Music In A Different Kitchen | Artista: Buzzcocks | Scrobbles: 27
-Puesto: 429 | Disco: Communiqué | Artista: Dire Straits | Scrobbles: 27
-Puesto: 430 | Disco: Waterloo To Anywhere | Artista: Dirty Pretty Things | Scrobbles: 27
-Puesto: 431 | Disco: On | Artista: Echobelly | Scrobbles: 27
-Puesto: 432 | Disco: Eldorado | Artista: Electric Light Orchestra | Scrobbles: 27
-Puesto: 433 | Disco: Too Fast for Love | Artista: Mötley Crüe | Scrobbles: 27
-Puesto: 434 | Disco: A Kind of Magic | Artista: Queen | Scrobbles: 27
-Puesto: 435 | Disco: Remain in Light | Artista: Talking Heads | Scrobbles: 27
-Puesto: 436 | Disco: My Generation | Artista: The Who | Scrobbles: 27
-Puesto: 437 | Disco: Vagabonds of the Western World | Artista: Thin Lizzy | Scrobbles: 27
-Puesto: 438 | Disco: Main Course | Artista: Bee Gees | Scrobbles: 26
-Puesto: 439 | Disco: Billy Idol | Artista: Billy Idol | Scrobbles: 26
-Puesto: 440 | Disco: Debut | Artista: Björk | Scrobbles: 26
-Puesto: 441 | Disco: Crystal Castles III | Artista: Crystal Castles | Scrobbles: 26
-Puesto: 442 | Disco: Rio | Artista: Duran Duran | Scrobbles: 26
-Puesto: 443 | Disco: D-Sides CD1 | Artista: Gorillaz | Scrobbles: 26
-Puesto: 444 | Disco: Regreso Al Sexo Químicamente Puro | Artista: Ilegales | Scrobbles: 26
-Puesto: 445 | Disco: Because of the Times | Artista: Kings of Leon | Scrobbles: 26
-Puesto: 446 | Disco: Dressed To Kill | Artista: Kiss | Scrobbles: 26
-Puesto: 447 | Disco: Kiss | Artista: Kiss | Scrobbles: 26
-Puesto: 448 | Disco: The Firstborn Is Dead | Artista: Nick Cave & the Bad Seeds | Scrobbles: 26
-Puesto: 449 | Disco: Chasing Yesterday | Artista: Noel Gallagher's High Flying Birds | Scrobbles: 26
-Puesto: 450 | Disco: Sheer Heart Attack | Artista: Queen | Scrobbles: 26
-Puesto: 451 | Disco: Rocket to Russia | Artista: Ramones | Scrobbles: 26
-Puesto: 452 | Disco: Righeira | Artista: Righeira | Scrobbles: 26
-Puesto: 453 | Disco: Rocket Juice & the Moon | Artista: Rocket Juice & The Moon | Scrobbles: 26
-Puesto: 454 | Disco: Fuera De Lugar | Artista: Rosendo | Scrobbles: 26
-Puesto: 455 | Disco: Ogden's Nut Gone Flake | Artista: Small Faces | Scrobbles: 26
-Puesto: 456 | Disco: Beatles for Sale | Artista: The Beatles | Scrobbles: 26
-Puesto: 457 | Disco: Songs The Lord Taught Us | Artista: The Cramps | Scrobbles: 26
-Puesto: 458 | Disco: Hot Fuss | Artista: The Killers | Scrobbles: 26
-Puesto: 459 | Disco: Smash | Artista: The Offspring | Scrobbles: 26
-Puesto: 460 | Disco: Pizza Pop | Artista: Australian Blonde | Scrobbles: 25
-Puesto: 461 | Disco: Larga Vida Al Rock and Roll | Artista: Barón Rojo | Scrobbles: 25
-Puesto: 462 | Disco: The River | Artista: Bruce Springsteen | Scrobbles: 25
-Puesto: 463 | Disco: 3 Feet High and Rising | Artista: De La Soul | Scrobbles: 25
-Puesto: 464 | Disco: Metropolis Pt. 2: Scenes From a Memory | Artista: Dream Theater | Scrobbles: 25
-Puesto: 465 | Disco: Tumbleweed Connection | Artista: Elton John | Scrobbles: 25
-Puesto: 466 | Disco: Sketches of Spain | Artista: Miles Davis | Scrobbles: 25
-Puesto: 467 | Disco: Low-Life | Artista: New Order | Scrobbles: 25
-Puesto: 468 | Disco: Noel Gallagher's High Flying Birds | Artista: Noel Gallagher | Scrobbles: 25
-Puesto: 469 | Disco: Yoshimi Battles the Pink Robots | Artista: The Flaming Lips | Scrobbles: 25
-Puesto: 470 | Disco: Experience | Artista: The Prodigy | Scrobbles: 25
-Puesto: 471 | Disco: Enter the Wu-Tang (36 Chambers) | Artista: Wu-Tang Clan | Scrobbles: 25
-Puesto: 472 | Disco: Among the Living | Artista: Anthrax | Scrobbles: 24
-Puesto: 473 | Disco: Saturday Night Fever: The Original Movie Sound Track | Artista: Bee Gees | Scrobbles: 24
-Puesto: 474 | Disco: Dire Straits | Artista: Dire Straits | Scrobbles: 24
-Puesto: 475 | Disco: Leaders of the Free World | Artista: Elbow | Scrobbles: 24
-Puesto: 476 | Disco: From Here to Eternity | Artista: Giorgio Moroder | Scrobbles: 24
-Puesto: 477 | Disco: Crow Sit on Blood Tree | Artista: Graham Coxon | Scrobbles: 24
-Puesto: 478 | Disco: Chicos Pálidos Para La Máquina | Artista: Ilegales | Scrobbles: 24
-Puesto: 479 | Disco: The Number of the Beast | Artista: Iron Maiden | Scrobbles: 24
-Puesto: 480 | Disco: Surfing the Void | Artista: Klaxons | Scrobbles: 24
-Puesto: 481 | Disco: El ritmo del garage | Artista: Loquillo y Trogloditas | Scrobbles: 24
-Puesto: 482 | Disco: Generation Terrorists | Artista: Manic Street Preachers | Scrobbles: 24
-Puesto: 483 | Disco: Countdown to Extinction | Artista: Megadeth | Scrobbles: 24
-Puesto: 484 | Disco: Iron Fist | Artista: Motörhead | Scrobbles: 24
-Puesto: 485 | Disco: Moseley Shoals | Artista: Ocean Colour Scene | Scrobbles: 24
-Puesto: 486 | Disco: Stories From the City, Stories From the Sea | Artista: PJ Harvey | Scrobbles: 24
-Puesto: 487 | Disco: The Slider | Artista: T. Rex | Scrobbles: 24
-Puesto: 488 | Disco: Marquee Moon | Artista: Television | Scrobbles: 24
-Puesto: 489 | Disco: Volcano | Artista: Temples | Scrobbles: 24
-Puesto: 490 | Disco: Stage Fright | Artista: The Band | Scrobbles: 24
-Puesto: 491 | Disco: All Mod Cons | Artista: The Jam | Scrobbles: 24
-Puesto: 492 | Disco: Pretenders | Artista: The Pretenders | Scrobbles: 24
-Puesto: 493 | Disco: Maxinquaye | Artista: Tricky | Scrobbles: 24
-Puesto: 494 | Disco: It's Blitz! | Artista: Yeah Yeah Yeahs | Scrobbles: 24
-Puesto: 495 | Disco: Por Instinto | Artista: Barricada | Scrobbles: 23
-Puesto: 496 | Disco: Buddy Holly 75 - CD2 | Artista: Buddy Holly | Scrobbles: 23
-Puesto: 497 | Disco: Crowded House | Artista: Crowded House | Scrobbles: 23
-Puesto: 498 | Disco: Right Thoughts, Right Words, Right Action | Artista: Franz Ferdinand | Scrobbles: 23
-Puesto: 499 | Disco: Earth A.D. & Wolfsblood | Artista: Misfits | Scrobbles: 23
-Puesto: 500 | Disco: Animal Rights | Artista: Moby | Scrobbles: 23
-Puesto: 501 | Disco: Standing on the Shoulder of Giants | Artista: Oasis | Scrobbles: 23
-Puesto: 502 | Disco: Yield | Artista: Pearl Jam | Scrobbles: 23
-Puesto: 503 | Disco: The Wall [CD1] | Artista: Pink Floyd | Scrobbles: 23
-Puesto: 504 | Disco: Good Humor | Artista: Saint Etienne | Scrobbles: 23
-Puesto: 505 | Disco: Magical Mystery Tour | Artista: The Beatles | Scrobbles: 23
-Puesto: 506 | Disco: Faith | Artista: The Cure | Scrobbles: 23
-Puesto: 507 | Disco: Hate | Artista: The Delgados | Scrobbles: 23
-Puesto: 508 | Disco: The Fat of the Land | Artista: The Prodigy | Scrobbles: 23
-Puesto: 509 | Disco: Tommy | Artista: The Who | Scrobbles: 23
-Puesto: 510 | Disco: Fragile | Artista: Yes | Scrobbles: 23
-Puesto: 511 | Disco: Hours... | Artista: David Bowie | Scrobbles: 22
-Puesto: 512 | Disco: Caldo de Pollo | Artista: Decibelios | Scrobbles: 22
-Puesto: 513 | Disco: Fireball | Artista: Deep Purple | Scrobbles: 22
-Puesto: 514 | Disco: Freak Out! | Artista: Frank Zappa | Scrobbles: 22
-Puesto: 515 | Disco: A Funk Odyssey | Artista: Jamiroquai | Scrobbles: 22
-Puesto: 516 | Disco: Myths of the Near Future | Artista: Klaxons | Scrobbles: 22
-Puesto: 517 | Disco: Esta Vida Me Va A Matar | Artista: Los Suaves | Scrobbles: 22
-Puesto: 518 | Disco: Origin of Symmetry | Artista: Muse | Scrobbles: 22
-Puesto: 519 | Disco: Loveless | Artista: my bloody valentine | Scrobbles: 22
-Puesto: 520 | Disco: New York Dolls | Artista: New York Dolls | Scrobbles: 22
-Puesto: 521 | Disco: Muy Deficiente | Artista: Platero Y Tu | Scrobbles: 22
-Puesto: 522 | Disco: Correos | Artista: Platero y tú | Scrobbles: 22
-Puesto: 523 | Disco: Dummy | Artista: Portishead | Scrobbles: 22
-Puesto: 524 | Disco: The Works | Artista: Queen | Scrobbles: 22
-Puesto: 525 | Disco: Amnesiac | Artista: Radiohead | Scrobbles: 22
-Puesto: 526 | Disco: Blood Sugar Sex Magik | Artista: Red Hot Chili Peppers | Scrobbles: 22
-Puesto: 527 | Disco: By the Way | Artista: Red Hot Chili Peppers | Scrobbles: 22
-Puesto: 528 | Disco: Nowhere | Artista: Ride | Scrobbles: 22
-Puesto: 529 | Disco: A Tientas y Barrancas | Artista: Rosendo | Scrobbles: 22
-Puesto: 530 | Disco: Kaleidoscope | Artista: Siouxsie and the Banshees | Scrobbles: 22
-Puesto: 531 | Disco: Goo | Artista: Sonic Youth | Scrobbles: 22
-Puesto: 532 | Disco: Night Thoughts | Artista: Suede | Scrobbles: 22
-Puesto: 533 | Disco: A Catholic Education | Artista: Teenage Fanclub | Scrobbles: 22
-Puesto: 534 | Disco: Skying | Artista: The Horrors | Scrobbles: 22
-Puesto: 535 | Disco: Setting Sons | Artista: The Jam | Scrobbles: 22
-Puesto: 536 | Disco: Ghost In The Machine | Artista: The Police | Scrobbles: 22
-Puesto: 537 | Disco: Reggatta de Blanc | Artista: The Police | Scrobbles: 22
-Puesto: 538 | Disco: Room on Fire | Artista: The Strokes | Scrobbles: 22
-Puesto: 539 | Disco: Buddy Holly 75 - CD01 | Artista: Buddy Holly | Scrobbles: 21
-Puesto: 540 | Disco: Music for the Masses | Artista: Depeche Mode | Scrobbles: 21
-Puesto: 541 | Disco: I Got Dem Ol' Kozmic Blues Again, Mama | Artista: Janis Joplin | Scrobbles: 21
-Puesto: 542 | Disco: Encuentros con entidades | Artista: Los Planetas | Scrobbles: 21
-Puesto: 543 | Disco: Super 8 | Artista: Los Planetas | Scrobbles: 21
-Puesto: 544 | Disco: Una semana en el motor de un autobús | Artista: Los Planetas | Scrobbles: 21
-Puesto: 545 | Disco: New Sensations | Artista: Lou Reed | Scrobbles: 21
-Puesto: 546 | Disco: Tubular Bells | Artista: Mike Oldfield | Scrobbles: 21
-Puesto: 547 | Disco: Brighten the Corners | Artista: Pavement | Scrobbles: 21
-Puesto: 548 | Disco: Reckoning | Artista: R.E.M. | Scrobbles: 21
-Puesto: 549 | Disco: Deuce | Artista: Rory Gallagher | Scrobbles: 21
-Puesto: 550 | Disco: Talking Book | Artista: Stevie Wonder | Scrobbles: 21
-Puesto: 551 | Disco: Crisis? What Crisis? | Artista: Supertramp | Scrobbles: 21
-Puesto: 552 | Disco: Absolutely Live | Artista: The Doors | Scrobbles: 21
-Puesto: 553 | Disco: Gish | Artista: The Smashing Pumpkins | Scrobbles: 21
-Puesto: 554 | Disco: A Northern Soul | Artista: The Verve | Scrobbles: 21
-Puesto: 555 | Disco: If You're Feeling Sinister | Artista: Belle and Sebastian | Scrobbles: 20
-Puesto: 556 | Disco: Midlife: A Beginner's Guide To Blur | Artista: Blur | Scrobbles: 20
-Puesto: 557 | Disco: Emergency On Planet Earth | Artista: Jamiroquai | Scrobbles: 20
-Puesto: 558 | Disco: Point of Entry | Artista: Judas Priest | Scrobbles: 20
-Puesto: 559 | Disco: Destroyer | Artista: Kiss | Scrobbles: 20
-Puesto: 560 | Disco: (pronounced 'lĕh-'nérd 'skin-'nérd) | Artista: Lynyrd Skynyrd | Scrobbles: 20
-Puesto: 561 | Disco: MGMT | Artista: MGMT | Scrobbles: 20
-Puesto: 562 | Disco: Colour Of The Trap | Artista: Miles Kane | Scrobbles: 20
-Puesto: 563 | Disco: Bomber | Artista: Motörhead | Scrobbles: 20
-Puesto: 564 | Disco: Showbiz | Artista: Muse | Scrobbles: 20
-Puesto: 565 | Disco: Grabaciones Completas 1981-1983 | Artista: Parálisis Permanente | Scrobbles: 20
-Puesto: 566 | Disco: Vitalogy | Artista: Pearl Jam | Scrobbles: 20
-Puesto: 567 | Disco: Life Thru a Lens | Artista: Robbie Williams | Scrobbles: 20
-Puesto: 568 | Disco: For Your Pleasure | Artista: Roxy Music | Scrobbles: 20
-Puesto: 569 | Disco: True | Artista: Spandau Ballet | Scrobbles: 20
-Puesto: 570 | Disco: The Best of Talking Heads | Artista: Talking Heads | Scrobbles: 20
-Puesto: 571 | Disco: The Head on the Door | Artista: The Cure | Scrobbles: 20
-Puesto: 572 | Disco: Primary Colours | Artista: The Horrors | Scrobbles: 20
-Puesto: 573 | Disco: The Kink Kontroversy | Artista: The Kinks | Scrobbles: 20
-Puesto: 574 | Disco: Machina - The Machines of God | Artista: The Smashing Pumpkins | Scrobbles: 20
-Puesto: 575 | Disco: The Queen Is Dead | Artista: The Smiths | Scrobbles: 20
-Puesto: 576 | Disco: The Who by Numbers | Artista: The Who | Scrobbles: 20
-Puesto: 577 | Disco: Undertow | Artista: Tool | Scrobbles: 20
-Puesto: 578 | Disco: Nine Lives | Artista: Aerosmith | Scrobbles: 19
-Puesto: 579 | Disco: Black Sabbath | Artista: Black Sabbath | Scrobbles: 19
-Puesto: 580 | Disco: 13 (Special Edition) | Artista: Blur | Scrobbles: 19
-Puesto: 581 | Disco: Ocean Rain | Artista: Echo & the Bunnymen | Scrobbles: 19
-Puesto: 582 | Disco: Salve | Artista: La Polla Records | Scrobbles: 19
-Puesto: 583 | Disco: Led Zeppelin I | Artista: Led Zeppelin | Scrobbles: 19
-Puesto: 584 | Disco: Songs of Leonard Cohen | Artista: Leonard Cohen | Scrobbles: 19
-Puesto: 585 | Disco: Don't Forget Who You Are | Artista: Miles Kane | Scrobbles: 19
-Puesto: 586 | Disco: Complete 'B' Sides | Artista: Pixies | Scrobbles: 19
-Puesto: 587 | Disco: Black Market Music | Artista: Placebo | Scrobbles: 19
-Puesto: 588 | Disco: Queen | Artista: Queen | Scrobbles: 19
-Puesto: 589 | Disco: With the Beatles | Artista: The Beatles | Scrobbles: 19
-Puesto: 590 | Disco: Yellow Submarine | Artista: The Beatles | Scrobbles: 19
-Puesto: 591 | Disco: Meat Is Murder | Artista: The Smiths | Scrobbles: 19
-Puesto: 592 | Disco: Funeral | Artista: Arcade Fire | Scrobbles: 18
-Puesto: 593 | Disco: Think Tank (Special Edition) | Artista: Blur | Scrobbles: 18
-Puesto: 594 | Disco: The Best Of Chet Baker | Artista: Chet Baker | Scrobbles: 18
-Puesto: 595 | Disco: Disraeli Gears | Artista: Cream | Scrobbles: 18
-Puesto: 596 | Disco: Armas Pal Pueblo | Artista: Def con Dos | Scrobbles: 18
-Puesto: 597 | Disco: Flamingos | Artista: Enrique Bunbury | Scrobbles: 18
-Puesto: 598 | Disco: Slowhand | Artista: Eric Clapton | Scrobbles: 18
-Puesto: 599 | Disco: This Is Glenn Miller And His Orchestra | Artista: Glenn Miller | Scrobbles: 18
-Puesto: 600 | Disco: Stand Up | Artista: Jethro Tull | Scrobbles: 18
-Puesto: 601 | Disco: Substance | Artista: Joy Division | Scrobbles: 18
-Puesto: 602 | Disco: In the Court of the Crimson King | Artista: King Crimson | Scrobbles: 18
-Puesto: 603 | Disco: Growing Up in Public | Artista: Lou Reed | Scrobbles: 18
-Puesto: 604 | Disco: Gold Against the Soul | Artista: Manic Street Preachers | Scrobbles: 18
-Puesto: 605 | Disco: Master of Puppets | Artista: Metallica | Scrobbles: 18
-Puesto: 606 | Disco: The Piper at the Gates of Dawn | Artista: Pink Floyd | Scrobbles: 18
-Puesto: 607 | Disco: Separations | Artista: Pulp | Scrobbles: 18
-Puesto: 608 | Disco: Robbie Dupree | Artista: Robbie Dupree | Scrobbles: 18
-Puesto: 609 | Disco: Jugar Al Gua | Artista: Rosendo | Scrobbles: 18
-Puesto: 610 | Disco: Bailaré Sobre Tu Tumba | Artista: Siniestro Total | Scrobbles: 18
-Puesto: 611 | Disco: Superunknown | Artista: Soundgarden | Scrobbles: 18
-Puesto: 612 | Disco: Kiss Me, Kiss Me, Kiss Me | Artista: The Cure | Scrobbles: 18
-Puesto: 613 | Disco: Black and Blue | Artista: The Rolling Stones | Scrobbles: 18
-Puesto: 614 | Disco: It's Only Rock 'n' Roll | Artista: The Rolling Stones | Scrobbles: 18
-Puesto: 615 | Disco: summerteeth | Artista: Wilco | Scrobbles: 18
-Puesto: 616 | Disco: The Suburbs | Artista: Arcade Fire | Scrobbles: 17
-Puesto: 617 | Disco: Eat to the Beat | Artista: Blondie | Scrobbles: 17
-Puesto: 618 | Disco: Rasgos | Artista: Camilo Sesto | Scrobbles: 17
-Puesto: 619 | Disco: Bug | Artista: Dinosaur Jr. | Scrobbles: 17
-Puesto: 620 | Disco: Milestones Of A Swing Legend CD6 | Artista: Glenn Miller | Scrobbles: 17
-Puesto: 621 | Disco: El Mar No Cesa | Artista: Héroes del Silencio | Scrobbles: 17
-Puesto: 622 | Disco: Crooked Rain, Crooked Rain | Artista: Pavement | Scrobbles: 17
-Puesto: 623 | Disco: Muy deficiente | Artista: Platero y tú | Scrobbles: 17
-Puesto: 624 | Disco: Songs for the Deaf | Artista: Queens of the Stone Age | Scrobbles: 17
-Puesto: 625 | Disco: Nunca es Tarde... si la Dicha es Buena | Artista: Reincidentes | Scrobbles: 17
-Puesto: 626 | Disco: ¿Cuándo se come aqui? | Artista: Siniestro Total | Scrobbles: 17
-Puesto: 627 | Disco: Menos Mal Que Nos Queda Portugal | Artista: Siniestro Total | Scrobbles: 17
-Puesto: 628 | Disco: The It Girl | Artista: Sleeper | Scrobbles: 17
-Puesto: 629 | Disco: A New Morning | Artista: Suede | Scrobbles: 17
-Puesto: 630 | Disco: Crime of the Century | Artista: Supertramp | Scrobbles: 17
-Puesto: 631 | Disco: Between 10th and 11th | Artista: The Charlatans | Scrobbles: 17
-Puesto: 632 | Disco: Some Girls | Artista: The Rolling Stones | Scrobbles: 17
-Puesto: 633 | Disco: NME Presents the 90s Disc 1 | Artista: Various Artists | Scrobbles: 17
-Puesto: 634 | Disco: NME Presents the 90s Disc 2 | Artista: Various Artists | Scrobbles: 17
-Puesto: 635 | Disco: NME Presents the 90s Disc 3 | Artista: Various Artists | Scrobbles: 17
-Puesto: 636 | Disco: Weezer (The Green Album) | Artista: Weezer | Scrobbles: 17
-Puesto: 637 | Disco: Reflektor | Artista: Arcade Fire | Scrobbles: 16
-Puesto: 638 | Disco: Odelay | Artista: Beck | Scrobbles: 16
-Puesto: 639 | Disco: Cria Cuervos | Artista: Boikot | Scrobbles: 16
-Puesto: 640 | Disco: Catch Bull At Four | Artista: Cat Stevens | Scrobbles: 16
-Puesto: 641 | Disco: Inadaptados | Artista: Cicatriz | Scrobbles: 16
-Puesto: 642 | Disco: You Could Have It So Much Better | Artista: Franz Ferdinand | Scrobbles: 16
-Puesto: 643 | Disco: Glasvegas | Artista: Glasvegas | Scrobbles: 16
-Puesto: 644 | Disco: 16 Biggest Hits | Artista: Johnny Cash | Scrobbles: 16
-Puesto: 645 | Disco: Kasabian | Artista: Kasabian | Scrobbles: 16
-Puesto: 646 | Disco: Life Is Peachy | Artista: Korn | Scrobbles: 16
-Puesto: 647 | Disco: Autobahn | Artista: Kraftwerk | Scrobbles: 16
-Puesto: 648 | Disco: Physical Graffiti (CD2) | Artista: Led Zeppelin | Scrobbles: 16
-Puesto: 649 | Disco: Chocolate Starfish and the Hot Dog Flavored Water | Artista: Limp Bizkit | Scrobbles: 16
-Puesto: 650 | Disco: Peace Sells... But Who's Buying? | Artista: Megadeth | Scrobbles: 16
-Puesto: 651 | Disco: ... And Justice for All | Artista: Metallica | Scrobbles: 16
-Puesto: 652 | Disco: Marchin' Already | Artista: Ocean Colour Scene | Scrobbles: 16
-Puesto: 653 | Disco: Greatest Hits I | Artista: Queen | Scrobbles: 16
-Puesto: 654 | Disco: Rancid | Artista: Rancid | Scrobbles: 16
-Puesto: 655 | Disco: Veo, Veo... Mamoneo | Artista: Rosendo | Scrobbles: 16
-Puesto: 656 | Disco: Sandinista! | Artista: The Clash | Scrobbles: 16
-Puesto: 657 | Disco: Darklands | Artista: The Jesus and Mary Chain | Scrobbles: 16
-Puesto: 658 | Disco: Live & Dangerous | Artista: Thin Lizzy | Scrobbles: 16
-Puesto: 659 | Disco: Good Feeling | Artista: Travis | Scrobbles: 16
-Puesto: 660 | Disco: Le origini volume 1 | Artista: Adriano Celentano | Scrobbles: 15
-Puesto: 661 | Disco: No Control | Artista: Bad Religion | Scrobbles: 15
-Puesto: 662 | Disco: Balas Blancas | Artista: Barricada | Scrobbles: 15
-Puesto: 663 | Disco: Never Say Die! | Artista: Black Sabbath | Scrobbles: 15
-Puesto: 664 | Disco: Under the Westway | Artista: Blur | Scrobbles: 15
-Puesto: 665 | Disco: Madrid | Artista: Burning | Scrobbles: 15
-Puesto: 666 | Disco: Grandes éxitos y fracasos (Episodio primero) | Artista: Extremoduro | Scrobbles: 15
-Puesto: 667 | Disco: You've Come a Long Way, Baby | Artista: Fatboy Slim | Scrobbles: 15
-Puesto: 668 | Disco: Strangers in the Night | Artista: Frank Sinatra | Scrobbles: 15
-Puesto: 669 | Disco: Privado | Artista: Gabinete Caligari | Scrobbles: 15
-Puesto: 670 | Disco: Use Your Illusion II | Artista: Guns N' Roses | Scrobbles: 15
-Puesto: 671 | Disco: Canciones 84-96 CD1 | Artista: Héroes del Silencio | Scrobbles: 15
-Puesto: 672 | Disco: Some Time In New York City [CD1]] | Artista: John Lennon | Scrobbles: 15
-Puesto: 673 | Disco: Palabras más, Palabras Menos | Artista: Los Rodríguez | Scrobbles: 15
-Puesto: 674 | Disco: The Downward Spiral | Artista: Nine Inch Nails | Scrobbles: 15
-Puesto: 675 | Disco: 7 | Artista: Platero y tú | Scrobbles: 15
-Puesto: 676 | Disco: Hay Poco Rock & Roll | Artista: Platero y tú | Scrobbles: 15
-Puesto: 677 | Disco: This Is Hardcore (Bonus Disc) | Artista: Pulp | Scrobbles: 15
-Puesto: 678 | Disco: Música moderna | Artista: Radio Futura | Scrobbles: 15
-Puesto: 679 | Disco: Live aus Berlin | Artista: Rammstein | Scrobbles: 15
-Puesto: 680 | Disco: La Tortuga | Artista: Rosendo | Scrobbles: 15
-Puesto: 681 | Disco: In Trance | Artista: Scorpions | Scrobbles: 15
-Puesto: 682 | Disco: Never Mind the Bollocks | Artista: Sex Pistols | Scrobbles: 15
-Puesto: 683 | Disco: Von | Artista: Sigur Rós | Scrobbles: 15
-Puesto: 684 | Disco: How to Make Friends and Influence People | Artista: Terrorvision | Scrobbles: 15
-Puesto: 685 | Disco: The Hush | Artista: Texas | Scrobbles: 15
-Puesto: 686 | Disco: The Clash (U.S.) | Artista: The Clash | Scrobbles: 15
-Puesto: 687 | Disco: To the Faithful Departed | Artista: The Cranberries | Scrobbles: 15
-Puesto: 688 | Disco: Disintegration | Artista: The Cure | Scrobbles: 15
-Puesto: 689 | Disco: Band on the Run | Artista: Wings | Scrobbles: 15
-Puesto: 690 | Disco: Volumen Brutal | Artista: Barón Rojo | Scrobbles: 14
-Puesto: 691 | Disco: In the Flat Field | Artista: Bauhaus | Scrobbles: 14
-Puesto: 692 | Disco: Sabotage | Artista: Black Sabbath | Scrobbles: 14
-Puesto: 693 | Disco: Born in the U.S.A. | Artista: Bruce Springsteen | Scrobbles: 14
-Puesto: 694 | Disco: Madrid, zona bruta | Artista: El Club de los Poetas Violentos | Scrobbles: 14
-Puesto: 695 | Disco: Deltoya | Artista: Extremoduro | Scrobbles: 14
-Puesto: 696 | Disco: Iros Todos a Tomar Por Culo | Artista: Extremoduro | Scrobbles: 14
-Puesto: 697 | Disco: Sun Valley Serenade | Artista: Glenn Miller | Scrobbles: 14
-Puesto: 698 | Disco: Use Your Illusion I | Artista: Guns N' Roses | Scrobbles: 14
+Puesto: 297 | Disco: Best of Specials | Artista: The Specials | Scrobbles: 40
+Puesto: 298 | Disco: City Lights | Artista: The WAEVE | Scrobbles: 40
+Puesto: 299 | Disco: The WAEVE | Artista: The WAEVE | Scrobbles: 40
+Puesto: 300 | Disco: 1984 | Artista: Van Halen | Scrobbles: 40
+Puesto: 301 | Disco: The Ideal Crash | Artista: dEUS | Scrobbles: 39
+Puesto: 302 | Disco: Avalancha | Artista: Héroes del Silencio | Scrobbles: 39
+Puesto: 303 | Disco: Malas Compañías | Artista: Joaquín Sabina | Scrobbles: 39
+Puesto: 304 | Disco: Here's Little Richard | Artista: Little Richard | Scrobbles: 39
+Puesto: 305 | Disco: Ram | Artista: Paul McCartney | Scrobbles: 39
+Puesto: 306 | Disco: Wallpaper For The Soul | Artista: Tahiti 80 | Scrobbles: 39
+Puesto: 307 | Disco: The Band | Artista: The Band | Scrobbles: 39
+Puesto: 308 | Disco: Tyrannosaurus Hives | Artista: The Hives | Scrobbles: 39
+Puesto: 309 | Disco: Achtung Baby | Artista: U2 | Scrobbles: 39
+Puesto: 310 | Disco: Back in Black | Artista: AC/DC | Scrobbles: 38
+Puesto: 311 | Disco: Too Low For Zero | Artista: Elton John | Scrobbles: 38
+Puesto: 312 | Disco: Ruleta Rusa | Artista: Joaquín Sabina | Scrobbles: 38
+Puesto: 313 | Disco: Rock 'n' Roll Animal | Artista: Lou Reed | Scrobbles: 38
+Puesto: 314 | Disco: The Rise & Fall | Artista: Madness | Scrobbles: 38
+Puesto: 315 | Disco: 18 | Artista: Moby | Scrobbles: 38
+Puesto: 316 | Disco: Don't Believe the Truth | Artista: Oasis | Scrobbles: 38
+Puesto: 317 | Disco: Mellon Collie And The Infinite Sadness (Twilight To Starlight) | Artista: The Smashing Pumpkins | Scrobbles: 38
+Puesto: 318 | Disco: Todos Están Muertos | Artista: Ilegales | Scrobbles: 37
+Puesto: 319 | Disco: Street Hassle | Artista: Lou Reed | Scrobbles: 37
+Puesto: 320 | Disco: It's Never Been Like That | Artista: Phoenix | Scrobbles: 37
+Puesto: 321 | Disco: Jazz | Artista: Queen | Scrobbles: 37
+Puesto: 322 | Disco: These People | Artista: Richard Ashcroft | Scrobbles: 37
+Puesto: 323 | Disco: Even in the Quietest Moments... | Artista: Supertramp | Scrobbles: 37
+Puesto: 324 | Disco: A Hard Day's Night | Artista: The Beatles | Scrobbles: 37
+Puesto: 325 | Disco: The Smiths | Artista: The Smiths | Scrobbles: 37
+Puesto: 326 | Disco: Facelift | Artista: Alice in Chains | Scrobbles: 36
+Puesto: 327 | Disco: The Nearer the Fountain, More Pure the Stream Flows | Artista: Damon Albarn | Scrobbles: 36
+Puesto: 328 | Disco: 2nd to None | Artista: Elvis Presley | Scrobbles: 36
+Puesto: 329 | Disco: Impuesto Revolucionario | Artista: Eskorbuto | Scrobbles: 36
+Puesto: 330 | Disco: What's Going On | Artista: Marvin Gaye | Scrobbles: 36
+Puesto: 331 | Disco: Blue Lines | Artista: Massive Attack | Scrobbles: 36
+Puesto: 332 | Disco: Thriller | Artista: Michael Jackson | Scrobbles: 36
+Puesto: 333 | Disco: Iron Fist | Artista: Motörhead | Scrobbles: 36
+Puesto: 334 | Disco: Kiss Me, Kiss Me, Kiss Me | Artista: The Cure | Scrobbles: 36
+Puesto: 335 | Disco: Version 2.0 | Artista: Garbage | Scrobbles: 35
+Puesto: 336 | Disco: Surfing with the Alien | Artista: Joe Satriani | Scrobbles: 35
+Puesto: 337 | Disco: Double Fantasy | Artista: John Lennon | Scrobbles: 35
+Puesto: 338 | Disco: Próxima Estación...Esperanza | Artista: Manu Chao | Scrobbles: 35
+Puesto: 339 | Disco: Horses | Artista: Patti Smith | Scrobbles: 35
+Puesto: 340 | Disco: Out of Time | Artista: R.E.M. | Scrobbles: 35
+Puesto: 341 | Disco: Surrender | Artista: The Chemical Brothers | Scrobbles: 35
+Puesto: 342 | Disco: Boys Don't Cry | Artista: The Cure | Scrobbles: 35
+Puesto: 343 | Disco: Seventeen Seconds | Artista: The Cure | Scrobbles: 35
+Puesto: 344 | Disco: The Best of Van Morrison | Artista: Van Morrison | Scrobbles: 35
+Puesto: 345 | Disco: Blur (Special Edition) | Artista: Blur | Scrobbles: 34
+Puesto: 346 | Disco: The Very Best Of Edith Piaf | Artista: Édith Piaf | Scrobbles: 34
+Puesto: 347 | Disco: Sanatorio de Muñecos | Artista: Hamlet | Scrobbles: 34
+Puesto: 348 | Disco: Ultrasónica | Artista: Los Piratas | Scrobbles: 34
+Puesto: 349 | Disco: Voy a acabar borracho | Artista: Platero y tú | Scrobbles: 34
+Puesto: 350 | Disco: Rage Against the Machine | Artista: Rage Against the Machine | Scrobbles: 34
+Puesto: 351 | Disco: Giant Steps | Artista: The Boo Radleys | Scrobbles: 34
+Puesto: 352 | Disco: In the City | Artista: The Jam | Scrobbles: 34
+Puesto: 353 | Disco: Highly Evolved | Artista: The Vines | Scrobbles: 34
+Puesto: 354 | Disco: Whatever People Say I Am, That's What I'm Not | Artista: Arctic Monkeys | Scrobbles: 33
+Puesto: 355 | Disco: Larga Vida Al Rock and Roll | Artista: Barón Rojo | Scrobbles: 33
+Puesto: 356 | Disco: Mr. Natural | Artista: Bee Gees | Scrobbles: 33
+Puesto: 357 | Disco: Creedence Clearwater Revival | Artista: Creedence Clearwater Revival | Scrobbles: 33
+Puesto: 358 | Disco: Nuevas mezclas | Artista: El Último de la Fila | Scrobbles: 33
+Puesto: 359 | Disco: Somos unos Animales | Artista: Extremoduro | Scrobbles: 33
+Puesto: 360 | Disco: A+E | Artista: Graham Coxon | Scrobbles: 33
+Puesto: 361 | Disco: The Golden D | Artista: Graham Coxon | Scrobbles: 33
+Puesto: 362 | Disco: Life | Artista: Inspiral Carpets | Scrobbles: 33
+Puesto: 363 | Disco: Synkronized | Artista: Jamiroquai | Scrobbles: 33
+Puesto: 364 | Disco: Mezzanine | Artista: Massive Attack | Scrobbles: 33
+Puesto: 365 | Disco: Play | Artista: Moby | Scrobbles: 33
+Puesto: 366 | Disco: Player | Artista: Player | Scrobbles: 33
+Puesto: 367 | Disco: Dummy | Artista: Portishead | Scrobbles: 33
+Puesto: 368 | Disco: Kaleidoscope | Artista: Siouxsie and the Banshees | Scrobbles: 33
+Puesto: 369 | Disco: Elephant | Artista: The White Stripes | Scrobbles: 33
+Puesto: 370 | Disco: The Joshua Tree | Artista: U2 | Scrobbles: 33
+Puesto: 371 | Disco: All The People... Blur: Live In Hyde Park 02/07/2009 | Artista: Blur | Scrobbles: 32
+Puesto: 372 | Disco: Leisure (Special Edition) | Artista: Blur | Scrobbles: 32
+Puesto: 373 | Disco: Antidotes | Artista: Foals | Scrobbles: 32
+Puesto: 374 | Disco: There Is Nothing Left to Lose | Artista: Foo Fighters | Scrobbles: 32
+Puesto: 375 | Disco: Appetite for Destruction | Artista: Guns N' Roses | Scrobbles: 32
+Puesto: 376 | Disco: Patente De Corso | Artista: Jaime Urrutia | Scrobbles: 32
+Puesto: 377 | Disco: Vulgar Display of Power | Artista: Pantera | Scrobbles: 32
+Puesto: 378 | Disco: A Day at the Races | Artista: Queen | Scrobbles: 32
+Puesto: 379 | Disco: Rated R | Artista: Queens of the Stone Age | Scrobbles: 32
+Puesto: 380 | Disco: Dirty | Artista: Sonic Youth | Scrobbles: 32
+Puesto: 381 | Disco: Parklife (Special Edition) | Artista: Blur | Scrobbles: 31
+Puesto: 382 | Disco: El fin de la década | Artista: Burning | Scrobbles: 31
+Puesto: 383 | Disco: Waterloo To Anywhere | Artista: Dirty Pretty Things | Scrobbles: 31
+Puesto: 384 | Disco: On the Third Day | Artista: Electric Light Orchestra | Scrobbles: 31
+Puesto: 385 | Disco: Franz Ferdinand | Artista: Franz Ferdinand | Scrobbles: 31
+Puesto: 386 | Disco: Al calor del amor en un bar | Artista: Gabinete Caligari | Scrobbles: 31
+Puesto: 387 | Disco: In Through the Out Door | Artista: Led Zeppelin | Scrobbles: 31
+Puesto: 388 | Disco: Showbiz | Artista: Muse | Scrobbles: 31
+Puesto: 389 | Disco: Bleach | Artista: Nirvana | Scrobbles: 31
+Puesto: 390 | Disco: Wish You Were Here | Artista: Pink Floyd | Scrobbles: 31
+Puesto: 391 | Disco: Bad Moon Rising | Artista: Sonic Youth | Scrobbles: 31
+Puesto: 392 | Disco: Music for the Jilted Generation | Artista: The Prodigy | Scrobbles: 31
+Puesto: 393 | Disco: After-Math | Artista: The Rolling Stones | Scrobbles: 31
+Puesto: 394 | Disco: Homework | Artista: Daft Punk | Scrobbles: 30
+Puesto: 395 | Disco: Radio Songs | Artista: Dave Rowntree | Scrobbles: 30
+Puesto: 396 | Disco: Rock Transgresivo | Artista: Extremoduro | Scrobbles: 30
+Puesto: 397 | Disco: Ladies And Gentlemen... The Best Of George Michael | Artista: George Michael | Scrobbles: 30
+Puesto: 398 | Disco: Grace | Artista: Jeff Buckley | Scrobbles: 30
+Puesto: 399 | Disco: El Hombre del Traje Gris | Artista: Joaquín Sabina | Scrobbles: 30
+Puesto: 400 | Disco: Greatest Hits | Artista: Joe Cocker | Scrobbles: 30
+Puesto: 401 | Disco: Painkiller | Artista: Judas Priest | Scrobbles: 30
+Puesto: 402 | Disco: 30 Años De Éxitos | Artista: Los Toreros Muertos | Scrobbles: 30
+Puesto: 403 | Disco: Second Helping | Artista: Lynyrd Skynyrd | Scrobbles: 30
+Puesto: 404 | Disco: Automatic for the People | Artista: R.E.M. | Scrobbles: 30
+Puesto: 405 | Disco: Sehnsucht | Artista: Rammstein | Scrobbles: 30
+Puesto: 406 | Disco: Grease | Artista: Soundtrack | Scrobbles: 30
+Puesto: 407 | Disco: Mars Audiac Quintet | Artista: Stereolab | Scrobbles: 30
+Puesto: 408 | Disco: A Short Cut To Teenage Fanclub | Artista: Teenage Fanclub | Scrobbles: 30
+Puesto: 409 | Disco: Three Imaginary Boys | Artista: The Cure | Scrobbles: 30
+Puesto: 410 | Disco: Spirits Having Flown | Artista: Bee Gees | Scrobbles: 29
+Puesto: 411 | Disco: The Best Of Chet Baker | Artista: Chet Baker | Scrobbles: 29
+Puesto: 412 | Disco: Use Your Brain | Artista: Clawfinger | Scrobbles: 29
+Puesto: 413 | Disco: Face the Music | Artista: Electric Light Orchestra | Scrobbles: 29
+Puesto: 414 | Disco: Angel Dust | Artista: Faith No More | Scrobbles: 29
+Puesto: 415 | Disco: Screamadelica | Artista: Primal Scream | Scrobbles: 29
+Puesto: 416 | Disco: His 'n' Hers (Bonus Disc) | Artista: Pulp | Scrobbles: 29
+Puesto: 417 | Disco: Siamese Dream | Artista: The Smashing Pumpkins | Scrobbles: 29
+Puesto: 418 | Disco: Mutations | Artista: Beck | Scrobbles: 28
+Puesto: 419 | Disco: Paranoid | Artista: Black Sabbath | Scrobbles: 28
+Puesto: 420 | Disco: The Next Day | Artista: David Bowie | Scrobbles: 28
+Puesto: 421 | Disco: Alzheimer | Artista: Def con Dos | Scrobbles: 28
+Puesto: 422 | Disco: King for a Day... Fool for a Lifetime | Artista: Faith No More | Scrobbles: 28
+Puesto: 423 | Disco: Back To Front | Artista: Gilbert O'Sullivan | Scrobbles: 28
+Puesto: 424 | Disco: Our Love to Admire | Artista: Interpol | Scrobbles: 28
+Puesto: 425 | Disco: Stand Up | Artista: Jethro Tull | Scrobbles: 28
+Puesto: 426 | Disco: Sin Documentos | Artista: Los Rodríguez | Scrobbles: 28
+Puesto: 427 | Disco: Rust In Peace | Artista: Megadeth | Scrobbles: 28
+Puesto: 428 | Disco: ¿Donde jugarán las niñas? | Artista: Molotov | Scrobbles: 28
+Puesto: 429 | Disco: The Coral | Artista: The Coral | Scrobbles: 28
+Puesto: 430 | Disco: Neon Bible | Artista: Arcade Fire | Scrobbles: 27
+Puesto: 431 | Disco: Suck It and See | Artista: Arctic Monkeys | Scrobbles: 27
+Puesto: 432 | Disco: Another Music In A Different Kitchen | Artista: Buzzcocks | Scrobbles: 27
+Puesto: 433 | Disco: Station to Station | Artista: David Bowie | Scrobbles: 27
+Puesto: 434 | Disco: Communiqué | Artista: Dire Straits | Scrobbles: 27
+Puesto: 435 | Disco: On | Artista: Echobelly | Scrobbles: 27
+Puesto: 436 | Disco: Eldorado | Artista: Electric Light Orchestra | Scrobbles: 27
+Puesto: 437 | Disco: Once Upon a Time in the West | Artista: Hard-Fi | Scrobbles: 27
+Puesto: 438 | Disco: Employment | Artista: Kaiser Chiefs | Scrobbles: 27
+Puesto: 439 | Disco: Too Fast for Love | Artista: Mötley Crüe | Scrobbles: 27
+Puesto: 440 | Disco: A Kind of Magic | Artista: Queen | Scrobbles: 27
+Puesto: 441 | Disco: Fuera De Lugar | Artista: Rosendo | Scrobbles: 27
+Puesto: 442 | Disco: My Generation | Artista: The Who | Scrobbles: 27
+Puesto: 443 | Disco: Vagabonds of the Western World | Artista: Thin Lizzy | Scrobbles: 27
+Puesto: 444 | Disco: Main Course | Artista: Bee Gees | Scrobbles: 26
+Puesto: 445 | Disco: Debut | Artista: Björk | Scrobbles: 26
+Puesto: 446 | Disco: Crystal Castles III | Artista: Crystal Castles | Scrobbles: 26
+Puesto: 447 | Disco: Rio | Artista: Duran Duran | Scrobbles: 26
+Puesto: 448 | Disco: D-Sides CD1 | Artista: Gorillaz | Scrobbles: 26
+Puesto: 449 | Disco: Warning | Artista: Green Day | Scrobbles: 26
+Puesto: 450 | Disco: Regreso Al Sexo Químicamente Puro | Artista: Ilegales | Scrobbles: 26
+Puesto: 451 | Disco: Because of the Times | Artista: Kings of Leon | Scrobbles: 26
+Puesto: 452 | Disco: Dressed To Kill | Artista: Kiss | Scrobbles: 26
+Puesto: 453 | Disco: Kiss | Artista: Kiss | Scrobbles: 26
+Puesto: 454 | Disco: The Firstborn Is Dead | Artista: Nick Cave & the Bad Seeds | Scrobbles: 26
+Puesto: 455 | Disco: Chasing Yesterday | Artista: Noel Gallagher's High Flying Birds | Scrobbles: 26
+Puesto: 456 | Disco: Sheer Heart Attack | Artista: Queen | Scrobbles: 26
+Puesto: 457 | Disco: Rocket to Russia | Artista: Ramones | Scrobbles: 26
+Puesto: 458 | Disco: Righeira | Artista: Righeira | Scrobbles: 26
+Puesto: 459 | Disco: Rocket Juice & the Moon | Artista: Rocket Juice & The Moon | Scrobbles: 26
+Puesto: 460 | Disco: Ogden's Nut Gone Flake | Artista: Small Faces | Scrobbles: 26
+Puesto: 461 | Disco: Beatles for Sale | Artista: The Beatles | Scrobbles: 26
+Puesto: 462 | Disco: Songs The Lord Taught Us | Artista: The Cramps | Scrobbles: 26
+Puesto: 463 | Disco: Hot Fuss | Artista: The Killers | Scrobbles: 26
+Puesto: 464 | Disco: Smash | Artista: The Offspring | Scrobbles: 26
+Puesto: 465 | Disco: White Music | Artista: XTC | Scrobbles: 26
+Puesto: 466 | Disco: Pizza Pop | Artista: Australian Blonde | Scrobbles: 25
+Puesto: 467 | Disco: The River | Artista: Bruce Springsteen | Scrobbles: 25
+Puesto: 468 | Disco: 3 Feet High and Rising | Artista: De La Soul | Scrobbles: 25
+Puesto: 469 | Disco: Metropolis Pt. 2: Scenes From a Memory | Artista: Dream Theater | Scrobbles: 25
+Puesto: 470 | Disco: Estopa | Artista: Estopa | Scrobbles: 25
+Puesto: 471 | Disco: Strangers in the Night | Artista: Frank Sinatra | Scrobbles: 25
+Puesto: 472 | Disco: Sketches of Spain | Artista: Miles Davis | Scrobbles: 25
+Puesto: 473 | Disco: Low-Life | Artista: New Order | Scrobbles: 25
+Puesto: 474 | Disco: Noel Gallagher's High Flying Birds | Artista: Noel Gallagher | Scrobbles: 25
+Puesto: 475 | Disco: Grabaciones Completas 1981-1983 | Artista: Parálisis Permanente | Scrobbles: 25
+Puesto: 476 | Disco: Remain in Light | Artista: Talking Heads | Scrobbles: 25
+Puesto: 477 | Disco: Yoshimi Battles the Pink Robots | Artista: The Flaming Lips | Scrobbles: 25
+Puesto: 478 | Disco: Experience | Artista: The Prodigy | Scrobbles: 25
+Puesto: 479 | Disco: Enter the Wu-Tang (36 Chambers) | Artista: Wu-Tang Clan | Scrobbles: 25
+Puesto: 480 | Disco: Among the Living | Artista: Anthrax | Scrobbles: 24
+Puesto: 481 | Disco: Volumen Brutal | Artista: Barón Rojo | Scrobbles: 24
+Puesto: 482 | Disco: Saturday Night Fever: The Original Movie Sound Track | Artista: Bee Gees | Scrobbles: 24
+Puesto: 483 | Disco: Dire Straits | Artista: Dire Straits | Scrobbles: 24
+Puesto: 484 | Disco: Leaders of the Free World | Artista: Elbow | Scrobbles: 24
+Puesto: 485 | Disco: Tumbleweed Connection | Artista: Elton John | Scrobbles: 24
+Puesto: 486 | Disco: From Here to Eternity | Artista: Giorgio Moroder | Scrobbles: 24
+Puesto: 487 | Disco: Crow Sit on Blood Tree | Artista: Graham Coxon | Scrobbles: 24
+Puesto: 488 | Disco: Chicos Pálidos Para La Máquina | Artista: Ilegales | Scrobbles: 24
+Puesto: 489 | Disco: The Number of the Beast | Artista: Iron Maiden | Scrobbles: 24
+Puesto: 490 | Disco: Surfing the Void | Artista: Klaxons | Scrobbles: 24
+Puesto: 491 | Disco: El ritmo del garage | Artista: Loquillo y Trogloditas | Scrobbles: 24
+Puesto: 492 | Disco: Generation Terrorists | Artista: Manic Street Preachers | Scrobbles: 24
+Puesto: 493 | Disco: Countdown to Extinction | Artista: Megadeth | Scrobbles: 24
+Puesto: 494 | Disco: Moseley Shoals | Artista: Ocean Colour Scene | Scrobbles: 24
+Puesto: 495 | Disco: Stories From the City, Stories From the Sea | Artista: PJ Harvey | Scrobbles: 24
+Puesto: 496 | Disco: The Slider | Artista: T. Rex | Scrobbles: 24
+Puesto: 497 | Disco: Marquee Moon | Artista: Television | Scrobbles: 24
+Puesto: 498 | Disco: Volcano | Artista: Temples | Scrobbles: 24
+Puesto: 499 | Disco: All Mod Cons | Artista: The Jam | Scrobbles: 24
+Puesto: 500 | Disco: Pretenders | Artista: The Pretenders | Scrobbles: 24
+Puesto: 501 | Disco: Maxinquaye | Artista: Tricky | Scrobbles: 24
+Puesto: 502 | Disco: It's Blitz! | Artista: Yeah Yeah Yeahs | Scrobbles: 24
+Puesto: 503 | Disco: Por Instinto | Artista: Barricada | Scrobbles: 23
+Puesto: 504 | Disco: Billy Idol | Artista: Billy Idol | Scrobbles: 23
+Puesto: 505 | Disco: Buddy Holly 75 - CD2 | Artista: Buddy Holly | Scrobbles: 23
+Puesto: 506 | Disco: Crowded House | Artista: Crowded House | Scrobbles: 23
+Puesto: 507 | Disco: Right Thoughts, Right Words, Right Action | Artista: Franz Ferdinand | Scrobbles: 23
+Puesto: 508 | Disco: Earth A.D. & Wolfsblood | Artista: Misfits | Scrobbles: 23
+Puesto: 509 | Disco: Animal Rights | Artista: Moby | Scrobbles: 23
+Puesto: 510 | Disco: Yield | Artista: Pearl Jam | Scrobbles: 23
+Puesto: 511 | Disco: The Wall [CD1] | Artista: Pink Floyd | Scrobbles: 23
+Puesto: 512 | Disco: A Tientas y Barrancas | Artista: Rosendo | Scrobbles: 23
+Puesto: 513 | Disco: Good Humor | Artista: Saint Etienne | Scrobbles: 23
+Puesto: 514 | Disco: Magical Mystery Tour | Artista: The Beatles | Scrobbles: 23
+Puesto: 515 | Disco: Faith | Artista: The Cure | Scrobbles: 23
+Puesto: 516 | Disco: Hate | Artista: The Delgados | Scrobbles: 23
+Puesto: 517 | Disco: The Fat of the Land | Artista: The Prodigy | Scrobbles: 23
+Puesto: 518 | Disco: Tommy | Artista: The Who | Scrobbles: 23
+Puesto: 519 | Disco: Mask | Artista: Bauhaus | Scrobbles: 22
+Puesto: 520 | Disco: La Taberna del Buda | Artista: Café Quijano | Scrobbles: 22
+Puesto: 521 | Disco: Hours... | Artista: David Bowie | Scrobbles: 22
+Puesto: 522 | Disco: Caldo de Pollo | Artista: Decibelios | Scrobbles: 22
+Puesto: 523 | Disco: Fireball | Artista: Deep Purple | Scrobbles: 22
+Puesto: 524 | Disco: A Funk Odyssey | Artista: Jamiroquai | Scrobbles: 22
+Puesto: 525 | Disco: Myths of the Near Future | Artista: Klaxons | Scrobbles: 22
+Puesto: 526 | Disco: Esta Vida Me Va A Matar | Artista: Los Suaves | Scrobbles: 22
+Puesto: 527 | Disco: Origin of Symmetry | Artista: Muse | Scrobbles: 22
+Puesto: 528 | Disco: Loveless | Artista: my bloody valentine | Scrobbles: 22
+Puesto: 529 | Disco: New York Dolls | Artista: New York Dolls | Scrobbles: 22
+Puesto: 530 | Disco: Muy Deficiente | Artista: Platero Y Tu | Scrobbles: 22
+Puesto: 531 | Disco: Correos | Artista: Platero y tú | Scrobbles: 22
+Puesto: 532 | Disco: The Works | Artista: Queen | Scrobbles: 22
+Puesto: 533 | Disco: Amnesiac | Artista: Radiohead | Scrobbles: 22
+Puesto: 534 | Disco: Blood Sugar Sex Magik | Artista: Red Hot Chili Peppers | Scrobbles: 22
+Puesto: 535 | Disco: By the Way | Artista: Red Hot Chili Peppers | Scrobbles: 22
+Puesto: 536 | Disco: Nowhere | Artista: Ride | Scrobbles: 22
+Puesto: 537 | Disco: Goo | Artista: Sonic Youth | Scrobbles: 22
+Puesto: 538 | Disco: Night Thoughts | Artista: Suede | Scrobbles: 22
+Puesto: 539 | Disco: A Catholic Education | Artista: Teenage Fanclub | Scrobbles: 22
+Puesto: 540 | Disco: Ghost In The Machine | Artista: The Police | Scrobbles: 22
+Puesto: 541 | Disco: Reggatta de Blanc | Artista: The Police | Scrobbles: 22
+Puesto: 542 | Disco: Room on Fire | Artista: The Strokes | Scrobbles: 22
+Puesto: 543 | Disco: Fragile | Artista: Yes | Scrobbles: 22
+Puesto: 544 | Disco: Buddy Holly 75 - CD01 | Artista: Buddy Holly | Scrobbles: 21
+Puesto: 545 | Disco: I Got Dem Ol' Kozmic Blues Again, Mama | Artista: Janis Joplin | Scrobbles: 21
+Puesto: 546 | Disco: Encuentros con entidades | Artista: Los Planetas | Scrobbles: 21
+Puesto: 547 | Disco: Una semana en el motor de un autobús | Artista: Los Planetas | Scrobbles: 21
+Puesto: 548 | Disco: New Sensations | Artista: Lou Reed | Scrobbles: 21
+Puesto: 549 | Disco: Tubular Bells | Artista: Mike Oldfield | Scrobbles: 21
+Puesto: 550 | Disco: Brighten the Corners | Artista: Pavement | Scrobbles: 21
+Puesto: 551 | Disco: Reckoning | Artista: R.E.M. | Scrobbles: 21
+Puesto: 552 | Disco: Deuce | Artista: Rory Gallagher | Scrobbles: 21
+Puesto: 553 | Disco: Talking Book | Artista: Stevie Wonder | Scrobbles: 21
+Puesto: 554 | Disco: Crisis? What Crisis? | Artista: Supertramp | Scrobbles: 21
+Puesto: 555 | Disco: Absolutely Live | Artista: The Doors | Scrobbles: 21
+Puesto: 556 | Disco: Setting Sons | Artista: The Jam | Scrobbles: 21
+Puesto: 557 | Disco: Gish | Artista: The Smashing Pumpkins | Scrobbles: 21
+Puesto: 558 | Disco: A Northern Soul | Artista: The Verve | Scrobbles: 21
+Puesto: 559 | Disco: If You're Feeling Sinister | Artista: Belle and Sebastian | Scrobbles: 20
+Puesto: 560 | Disco: Midlife: A Beginner's Guide To Blur | Artista: Blur | Scrobbles: 20
+Puesto: 561 | Disco: Emergency On Planet Earth | Artista: Jamiroquai | Scrobbles: 20
+Puesto: 562 | Disco: Point of Entry | Artista: Judas Priest | Scrobbles: 20
+Puesto: 563 | Disco: Destroyer | Artista: Kiss | Scrobbles: 20
+Puesto: 564 | Disco: Super 8 | Artista: Los Planetas | Scrobbles: 20
+Puesto: 565 | Disco: (pronounced 'lĕh-'nérd 'skin-'nérd) | Artista: Lynyrd Skynyrd | Scrobbles: 20
+Puesto: 566 | Disco: MGMT | Artista: MGMT | Scrobbles: 20
+Puesto: 567 | Disco: Standing on the Shoulder of Giants | Artista: Oasis | Scrobbles: 20
+Puesto: 568 | Disco: Vitalogy | Artista: Pearl Jam | Scrobbles: 20
+Puesto: 569 | Disco: Life Thru a Lens | Artista: Robbie Williams | Scrobbles: 20
+Puesto: 570 | Disco: For Your Pleasure | Artista: Roxy Music | Scrobbles: 20
+Puesto: 571 | Disco: True | Artista: Spandau Ballet | Scrobbles: 20
+Puesto: 572 | Disco: The Best of Talking Heads | Artista: Talking Heads | Scrobbles: 20
+Puesto: 573 | Disco: Stage Fright | Artista: The Band | Scrobbles: 20
+Puesto: 574 | Disco: The Head on the Door | Artista: The Cure | Scrobbles: 20
+Puesto: 575 | Disco: Primary Colours | Artista: The Horrors | Scrobbles: 20
+Puesto: 576 | Disco: Skying | Artista: The Horrors | Scrobbles: 20
+Puesto: 577 | Disco: The Kink Kontroversy | Artista: The Kinks | Scrobbles: 20
+Puesto: 578 | Disco: The Queen Is Dead | Artista: The Smiths | Scrobbles: 20
+Puesto: 579 | Disco: The Who by Numbers | Artista: The Who | Scrobbles: 20
+Puesto: 580 | Disco: Undertow | Artista: Tool | Scrobbles: 20
+Puesto: 581 | Disco: Nine Lives | Artista: Aerosmith | Scrobbles: 19
+Puesto: 582 | Disco: Black Sabbath | Artista: Black Sabbath | Scrobbles: 19
+Puesto: 583 | Disco: Music for the Masses | Artista: Depeche Mode | Scrobbles: 19
+Puesto: 584 | Disco: Ocean Rain | Artista: Echo & the Bunnymen | Scrobbles: 19
+Puesto: 585 | Disco: Freak Out! | Artista: Frank Zappa | Scrobbles: 19
+Puesto: 586 | Disco: Salve | Artista: La Polla Records | Scrobbles: 19
+Puesto: 587 | Disco: Led Zeppelin I | Artista: Led Zeppelin | Scrobbles: 19
+Puesto: 588 | Disco: Songs of Leonard Cohen | Artista: Leonard Cohen | Scrobbles: 19
+Puesto: 589 | Disco: Colour Of The Trap | Artista: Miles Kane | Scrobbles: 19
+Puesto: 590 | Disco: Don't Forget Who You Are | Artista: Miles Kane | Scrobbles: 19
+Puesto: 591 | Disco: Bomber | Artista: Motörhead | Scrobbles: 19
+Puesto: 592 | Disco: Complete 'B' Sides | Artista: Pixies | Scrobbles: 19
+Puesto: 593 | Disco: Black Market Music | Artista: Placebo | Scrobbles: 19
+Puesto: 594 | Disco: Queen | Artista: Queen | Scrobbles: 19
+Puesto: 595 | Disco: With the Beatles | Artista: The Beatles | Scrobbles: 19
+Puesto: 596 | Disco: Yellow Submarine | Artista: The Beatles | Scrobbles: 19
+Puesto: 597 | Disco: Machina - The Machines of God | Artista: The Smashing Pumpkins | Scrobbles: 19
+Puesto: 598 | Disco: Funeral | Artista: Arcade Fire | Scrobbles: 18
+Puesto: 599 | Disco: 13 (Special Edition) | Artista: Blur | Scrobbles: 18
+Puesto: 600 | Disco: Think Tank (Special Edition) | Artista: Blur | Scrobbles: 18
+Puesto: 601 | Disco: Disraeli Gears | Artista: Cream | Scrobbles: 18
+Puesto: 602 | Disco: Armas Pal Pueblo | Artista: Def con Dos | Scrobbles: 18
+Puesto: 603 | Disco: Flamingos | Artista: Enrique Bunbury | Scrobbles: 18
+Puesto: 604 | Disco: Slowhand | Artista: Eric Clapton | Scrobbles: 18
+Puesto: 605 | Disco: Substance | Artista: Joy Division | Scrobbles: 18
+Puesto: 606 | Disco: In the Court of the Crimson King | Artista: King Crimson | Scrobbles: 18
+Puesto: 607 | Disco: Growing Up in Public | Artista: Lou Reed | Scrobbles: 18
+Puesto: 608 | Disco: Gold Against the Soul | Artista: Manic Street Preachers | Scrobbles: 18
+Puesto: 609 | Disco: Master of Puppets | Artista: Metallica | Scrobbles: 18
+Puesto: 610 | Disco: The Piper at the Gates of Dawn | Artista: Pink Floyd | Scrobbles: 18
+Puesto: 611 | Disco: Separations | Artista: Pulp | Scrobbles: 18
+Puesto: 612 | Disco: Robbie Dupree | Artista: Robbie Dupree | Scrobbles: 18
+Puesto: 613 | Disco: Jugar Al Gua | Artista: Rosendo | Scrobbles: 18
+Puesto: 614 | Disco: Bailaré Sobre Tu Tumba | Artista: Siniestro Total | Scrobbles: 18
+Puesto: 615 | Disco: Superunknown | Artista: Soundgarden | Scrobbles: 18
+Puesto: 616 | Disco: It's Only Rock 'n' Roll | Artista: The Rolling Stones | Scrobbles: 18
+Puesto: 617 | Disco: summerteeth | Artista: Wilco | Scrobbles: 18
+Puesto: 618 | Disco: The Suburbs | Artista: Arcade Fire | Scrobbles: 17
+Puesto: 619 | Disco: Eat to the Beat | Artista: Blondie | Scrobbles: 17
+Puesto: 620 | Disco: Rasgos | Artista: Camilo Sesto | Scrobbles: 17
+Puesto: 621 | Disco: Bug | Artista: Dinosaur Jr. | Scrobbles: 17
+Puesto: 622 | Disco: Agíla | Artista: Extremoduro | Scrobbles: 17
+Puesto: 623 | Disco: Iros Todos a Tomar Por Culo | Artista: Extremoduro | Scrobbles: 17
+Puesto: 624 | Disco: El Mar No Cesa | Artista: Héroes del Silencio | Scrobbles: 17
+Puesto: 625 | Disco: Crooked Rain, Crooked Rain | Artista: Pavement | Scrobbles: 17
+Puesto: 626 | Disco: Muy deficiente | Artista: Platero y tú | Scrobbles: 17
+Puesto: 627 | Disco: Songs for the Deaf | Artista: Queens of the Stone Age | Scrobbles: 17
+Puesto: 628 | Disco: Nunca es Tarde... si la Dicha es Buena | Artista: Reincidentes | Scrobbles: 17
+Puesto: 629 | Disco: Veo, Veo... Mamoneo | Artista: Rosendo | Scrobbles: 17
+Puesto: 630 | Disco: ¿Cuándo se come aqui? | Artista: Siniestro Total | Scrobbles: 17
+Puesto: 631 | Disco: Menos Mal Que Nos Queda Portugal | Artista: Siniestro Total | Scrobbles: 17
+Puesto: 632 | Disco: The It Girl | Artista: Sleeper | Scrobbles: 17
+Puesto: 633 | Disco: A New Morning | Artista: Suede | Scrobbles: 17
+Puesto: 634 | Disco: Crime of the Century | Artista: Supertramp | Scrobbles: 17
+Puesto: 635 | Disco: Between 10th and 11th | Artista: The Charlatans | Scrobbles: 17
+Puesto: 636 | Disco: Some Girls | Artista: The Rolling Stones | Scrobbles: 17
+Puesto: 637 | Disco: Meat Is Murder | Artista: The Smiths | Scrobbles: 17
+Puesto: 638 | Disco: NME Presents the 90s Disc 1 | Artista: Various Artists | Scrobbles: 17
+Puesto: 639 | Disco: NME Presents the 90s Disc 2 | Artista: Various Artists | Scrobbles: 17
+Puesto: 640 | Disco: NME Presents the 90s Disc 3 | Artista: Various Artists | Scrobbles: 17
+Puesto: 641 | Disco: Weezer (The Green Album) | Artista: Weezer | Scrobbles: 17
+Puesto: 642 | Disco: Reflektor | Artista: Arcade Fire | Scrobbles: 16
+Puesto: 643 | Disco: Odelay | Artista: Beck | Scrobbles: 16
+Puesto: 644 | Disco: Catch Bull At Four | Artista: Cat Stevens | Scrobbles: 16
+Puesto: 645 | Disco: You Could Have It So Much Better | Artista: Franz Ferdinand | Scrobbles: 16
+Puesto: 646 | Disco: Glasvegas | Artista: Glasvegas | Scrobbles: 16
+Puesto: 647 | Disco: 16 Biggest Hits | Artista: Johnny Cash | Scrobbles: 16
+Puesto: 648 | Disco: Kasabian | Artista: Kasabian | Scrobbles: 16
+Puesto: 649 | Disco: Life Is Peachy | Artista: Korn | Scrobbles: 16
+Puesto: 650 | Disco: Autobahn | Artista: Kraftwerk | Scrobbles: 16
+Puesto: 651 | Disco: Physical Graffiti (CD2) | Artista: Led Zeppelin | Scrobbles: 16
+Puesto: 652 | Disco: Chocolate Starfish and the Hot Dog Flavored Water | Artista: Limp Bizkit | Scrobbles: 16
+Puesto: 653 | Disco: Peace Sells... But Who's Buying? | Artista: Megadeth | Scrobbles: 16
+Puesto: 654 | Disco: ... And Justice for All | Artista: Metallica | Scrobbles: 16
+Puesto: 655 | Disco: Marchin' Already | Artista: Ocean Colour Scene | Scrobbles: 16
+Puesto: 656 | Disco: Rancid | Artista: Rancid | Scrobbles: 16
+Puesto: 657 | Disco: Sandinista! | Artista: The Clash | Scrobbles: 16
+Puesto: 658 | Disco: Darklands | Artista: The Jesus and Mary Chain | Scrobbles: 16
+Puesto: 659 | Disco: Black and Blue | Artista: The Rolling Stones | Scrobbles: 16
+Puesto: 660 | Disco: Live & Dangerous | Artista: Thin Lizzy | Scrobbles: 16
+Puesto: 661 | Disco: Good Feeling | Artista: Travis | Scrobbles: 16
+Puesto: 662 | Disco: Le origini volume 1 | Artista: Adriano Celentano | Scrobbles: 15
+Puesto: 663 | Disco: No Control | Artista: Bad Religion | Scrobbles: 15
+Puesto: 664 | Disco: Licensed to Ill | Artista: Beastie Boys | Scrobbles: 15
+Puesto: 665 | Disco: Never Say Die! | Artista: Black Sabbath | Scrobbles: 15
+Puesto: 666 | Disco: Under the Westway | Artista: Blur | Scrobbles: 15
+Puesto: 667 | Disco: Madrid | Artista: Burning | Scrobbles: 15
+Puesto: 668 | Disco: Inadaptados | Artista: Cicatriz | Scrobbles: 15
+Puesto: 669 | Disco: Grandes éxitos y fracasos (Episodio primero) | Artista: Extremoduro | Scrobbles: 15
+Puesto: 670 | Disco: You've Come a Long Way, Baby | Artista: Fatboy Slim | Scrobbles: 15
+Puesto: 671 | Disco: Privado | Artista: Gabinete Caligari | Scrobbles: 15
+Puesto: 672 | Disco: This Is Glenn Miller And His Orchestra | Artista: Glenn Miller | Scrobbles: 15
+Puesto: 673 | Disco: Canciones 84-96 CD1 | Artista: Héroes del Silencio | Scrobbles: 15
+Puesto: 674 | Disco: Some Time In New York City [CD1]] | Artista: John Lennon | Scrobbles: 15
+Puesto: 675 | Disco: Palabras más, Palabras Menos | Artista: Los Rodríguez | Scrobbles: 15
+Puesto: 676 | Disco: The Downward Spiral | Artista: Nine Inch Nails | Scrobbles: 15
+Puesto: 677 | Disco: 7 | Artista: Platero y tú | Scrobbles: 15
+Puesto: 678 | Disco: Hay Poco Rock & Roll | Artista: Platero y tú | Scrobbles: 15
+Puesto: 679 | Disco: This Is Hardcore (Bonus Disc) | Artista: Pulp | Scrobbles: 15
+Puesto: 680 | Disco: Greatest Hits I | Artista: Queen | Scrobbles: 15
+Puesto: 681 | Disco: Música moderna | Artista: Radio Futura | Scrobbles: 15
+Puesto: 682 | Disco: Live aus Berlin | Artista: Rammstein | Scrobbles: 15
+Puesto: 683 | Disco: La Tortuga | Artista: Rosendo | Scrobbles: 15
+Puesto: 684 | Disco: In Trance | Artista: Scorpions | Scrobbles: 15
+Puesto: 685 | Disco: Never Mind the Bollocks | Artista: Sex Pistols | Scrobbles: 15
+Puesto: 686 | Disco: Von | Artista: Sigur Rós | Scrobbles: 15
+Puesto: 687 | Disco: How to Make Friends and Influence People | Artista: Terrorvision | Scrobbles: 15
+Puesto: 688 | Disco: The Clash (U.S.) | Artista: The Clash | Scrobbles: 15
+Puesto: 689 | Disco: To the Faithful Departed | Artista: The Cranberries | Scrobbles: 15
+Puesto: 690 | Disco: Disintegration | Artista: The Cure | Scrobbles: 15
+Puesto: 691 | Disco: Band on the Run | Artista: Wings | Scrobbles: 15
+Puesto: 692 | Disco: In the Flat Field | Artista: Bauhaus | Scrobbles: 14
+Puesto: 693 | Disco: Sabotage | Artista: Black Sabbath | Scrobbles: 14
+Puesto: 694 | Disco: Cria Cuervos | Artista: Boikot | Scrobbles: 14
+Puesto: 695 | Disco: Born in the U.S.A. | Artista: Bruce Springsteen | Scrobbles: 14
+Puesto: 696 | Disco: Madrid, zona bruta | Artista: El Club de los Poetas Violentos | Scrobbles: 14
+Puesto: 697 | Disco: Deltoya | Artista: Extremoduro | Scrobbles: 14
+Puesto: 698 | Disco: Use Your Illusion II | Artista: Guns N' Roses | Scrobbles: 14
 Puesto: 699 | Disco: The Return Of The Space Cowboy | Artista: Jamiroquai | Scrobbles: 14
 Puesto: 700 | Disco: LHR | Artista: La Habitación Roja | Scrobbles: 14
 Puesto: 701 | Disco: Revolución | Artista: La Polla Records | Scrobbles: 14
@@ -708,10 +708,10 @@ Puesto: 707 | Disco: Come With Us | Artista: The Chemical Brothers | Scrobbles: 
 Puesto: 708 | Disco: Psychedelic Jungle | Artista: The Cramps | Scrobbles: 14
 Puesto: 709 | Disco: Sound Affects | Artista: The Jam | Scrobbles: 14
 Puesto: 710 | Disco: Ixnay on the Hombre | Artista: The Offspring | Scrobbles: 14
-Puesto: 711 | Disco: White Music | Artista: XTC | Scrobbles: 14
-Puesto: 712 | Disco: Get a Grip | Artista: Aerosmith | Scrobbles: 13
-Puesto: 713 | Disco: Favourite Worst Nightmare | Artista: Arctic Monkeys | Scrobbles: 13
-Puesto: 714 | Disco: Shotter´s Nation | Artista: Babyshambles | Scrobbles: 13
+Puesto: 711 | Disco: Get a Grip | Artista: Aerosmith | Scrobbles: 13
+Puesto: 712 | Disco: Favourite Worst Nightmare | Artista: Arctic Monkeys | Scrobbles: 13
+Puesto: 713 | Disco: Shotter´s Nation | Artista: Babyshambles | Scrobbles: 13
+Puesto: 714 | Disco: Balas Blancas | Artista: Barricada | Scrobbles: 13
 Puesto: 715 | Disco: Different Gear, Still Speeding | Artista: Beady Eye | Scrobbles: 13
 Puesto: 716 | Disco: Big Brother & Holding Company | Artista: Big Brother & The Holding Company | Scrobbles: 13
 Puesto: 717 | Disco: Plastic Letters | Artista: Blondie | Scrobbles: 13
@@ -723,439 +723,453 @@ Puesto: 722 | Disco: Pyromania | Artista: Def Leppard | Scrobbles: 13
 Puesto: 723 | Disco: Violator | Artista: Depeche Mode | Scrobbles: 13
 Puesto: 724 | Disco: ELO 2 | Artista: Electric Light Orchestra | Scrobbles: 13
 Puesto: 725 | Disco: Pequeño | Artista: Enrique Bunbury | Scrobbles: 13
-Puesto: 726 | Disco: Agíla | Artista: Extremoduro | Scrobbles: 13
+Puesto: 726 | Disco: Canciones Prohibidas | Artista: Extremoduro | Scrobbles: 13
 Puesto: 727 | Disco: Tonight: Franz Ferdinand | Artista: Franz Ferdinand | Scrobbles: 13
-Puesto: 728 | Disco: Juke Box Saturday Night | Artista: Glenn Miller | Scrobbles: 13
+Puesto: 728 | Disco: Use Your Illusion I | Artista: Guns N' Roses | Scrobbles: 13
 Puesto: 729 | Disco: Make Yourself | Artista: Incubus | Scrobbles: 13
 Puesto: 730 | Disco: Ray of Light | Artista: Madonna | Scrobbles: 13
 Puesto: 731 | Disco: Te quiero,Te quiero | Artista: Nino Bravo | Scrobbles: 13
 Puesto: 732 | Disco: Un Beso Y Una Flor | Artista: Nino Bravo | Scrobbles: 13
 Puesto: 733 | Disco: Mechanical Wonder | Artista: Ocean Colour Scene | Scrobbles: 13
-Puesto: 734 | Disco: Evil Heat | Artista: Primal Scream | Scrobbles: 13
-Puesto: 735 | Disco: Mother's Milk | Artista: Red Hot Chili Peppers | Scrobbles: 13
-Puesto: 736 | Disco: Sing When You're Winning | Artista: Robbie Williams | Scrobbles: 13
-Puesto: 737 | Disco: Emperor Tomato Ketchup | Artista: Stereolab | Scrobbles: 13
-Puesto: 738 | Disco: Bandwagonesque | Artista: Teenage Fanclub | Scrobbles: 13
-Puesto: 739 | Disco: Grand Prix | Artista: Teenage Fanclub | Scrobbles: 13
-Puesto: 740 | Disco: First Band on the Moon | Artista: The Cardigans | Scrobbles: 13
-Puesto: 741 | Disco: Tellin' Stories (US Edition) | Artista: The Charlatans | Scrobbles: 13
-Puesto: 742 | Disco: Dig Your Own Hole | Artista: The Chemical Brothers | Scrobbles: 13
-Puesto: 743 | Disco: No Need to Argue | Artista: The Cranberries | Scrobbles: 13
-Puesto: 744 | Disco: Live at the Hollywood Bowl | Artista: The Doors | Scrobbles: 13
-Puesto: 745 | Disco: Muswell Hillbillies | Artista: The Kinks | Scrobbles: 13
-Puesto: 746 | Disco: Bridges to Babylon | Artista: The Rolling Stones | Scrobbles: 13
-Puesto: 747 | Disco: Get Behind Me Satan | Artista: The White Stripes | Scrobbles: 13
-Puesto: 748 | Disco: A Quick One | Artista: The Who | Scrobbles: 13
-Puesto: 749 | Disco: The Eraser | Artista: Thom Yorke | Scrobbles: 13
-Puesto: 750 | Disco: Lateralus | Artista: Tool | Scrobbles: 13
-Puesto: 751 | Disco: Maladroit | Artista: Weezer | Scrobbles: 13
-Puesto: 752 | Disco: Permanent Vacation | Artista: Aerosmith | Scrobbles: 12
-Puesto: 753 | Disco: Humbug | Artista: Arctic Monkeys | Scrobbles: 12
-Puesto: 754 | Disco: Mask | Artista: Bauhaus | Scrobbles: 12
-Puesto: 755 | Disco: Sunday at the vanguard | Artista: Bill Evans | Scrobbles: 12
-Puesto: 756 | Disco: Parklive Disc 2 | Artista: Blur | Scrobbles: 12
-Puesto: 757 | Disco: Greetings From Asbury Park | Artista: Bruce Springsteen | Scrobbles: 12
-Puesto: 758 | Disco: La Taberna del Buda | Artista: Café Quijano | Scrobbles: 12
-Puesto: 759 | Disco: Mardi Gras | Artista: Creedence Clearwater Revival | Scrobbles: 12
-Puesto: 760 | Disco: Captain Fantastic and the Brown Dirt Cowboy | Artista: Elton John | Scrobbles: 12
-Puesto: 761 | Disco: Destrangis | Artista: Estopa | Scrobbles: 12
-Puesto: 762 | Disco: Canciones Prohibidas | Artista: Extremoduro | Scrobbles: 12
-Puesto: 763 | Disco: Garbage | Artista: Garbage | Scrobbles: 12
-Puesto: 764 | Disco: E=MC2 | Artista: Giorgio Moroder | Scrobbles: 12
-Puesto: 765 | Disco: American Beauty | Artista: Grateful Dead | Scrobbles: 12
-Puesto: 766 | Disco: New Values | Artista: Iggy Pop | Scrobbles: 12
-Puesto: 767 | Disco: S.C.I.E.N.C.E. | Artista: Incubus | Scrobbles: 12
-Puesto: 768 | Disco: Further Complications | Artista: Jarvis Cocker | Scrobbles: 12
-Puesto: 769 | Disco: Live in New York City | Artista: John Lennon | Scrobbles: 12
-Puesto: 770 | Disco: Fatal Portrait | Artista: King Diamond | Scrobbles: 12
-Puesto: 771 | Disco: Radio-Activity | Artista: Kraftwerk | Scrobbles: 12
-Puesto: 772 | Disco: The Man Machine | Artista: Kraftwerk | Scrobbles: 12
-Puesto: 773 | Disco: Legendary Hearts | Artista: Lou Reed | Scrobbles: 12
-Puesto: 774 | Disco: Lovelife | Artista: Lush | Scrobbles: 12
-Puesto: 775 | Disco: Things to Make and Do | Artista: Moloko | Scrobbles: 12
-Puesto: 776 | Disco: After the Gold Rush | Artista: Neil Young | Scrobbles: 12
-Puesto: 777 | Disco: Too Much Too Soon | Artista: New York Dolls | Scrobbles: 12
+Puesto: 734 | Disco: Beneath The Eyrie | Artista: Pixies | Scrobbles: 13
+Puesto: 735 | Disco: Evil Heat | Artista: Primal Scream | Scrobbles: 13
+Puesto: 736 | Disco: Mother's Milk | Artista: Red Hot Chili Peppers | Scrobbles: 13
+Puesto: 737 | Disco: Sing When You're Winning | Artista: Robbie Williams | Scrobbles: 13
+Puesto: 738 | Disco: Deja Que les Diga Que No! | Artista: Rosendo | Scrobbles: 13
+Puesto: 739 | Disco: Emperor Tomato Ketchup | Artista: Stereolab | Scrobbles: 13
+Puesto: 740 | Disco: Bandwagonesque | Artista: Teenage Fanclub | Scrobbles: 13
+Puesto: 741 | Disco: Grand Prix | Artista: Teenage Fanclub | Scrobbles: 13
+Puesto: 742 | Disco: The Hush | Artista: Texas | Scrobbles: 13
+Puesto: 743 | Disco: First Band on the Moon | Artista: The Cardigans | Scrobbles: 13
+Puesto: 744 | Disco: Tellin' Stories (US Edition) | Artista: The Charlatans | Scrobbles: 13
+Puesto: 745 | Disco: Dig Your Own Hole | Artista: The Chemical Brothers | Scrobbles: 13
+Puesto: 746 | Disco: No Need to Argue | Artista: The Cranberries | Scrobbles: 13
+Puesto: 747 | Disco: Live at the Hollywood Bowl | Artista: The Doors | Scrobbles: 13
+Puesto: 748 | Disco: Muswell Hillbillies | Artista: The Kinks | Scrobbles: 13
+Puesto: 749 | Disco: Bridges to Babylon | Artista: The Rolling Stones | Scrobbles: 13
+Puesto: 750 | Disco: Get Behind Me Satan | Artista: The White Stripes | Scrobbles: 13
+Puesto: 751 | Disco: A Quick One | Artista: The Who | Scrobbles: 13
+Puesto: 752 | Disco: The Eraser | Artista: Thom Yorke | Scrobbles: 13
+Puesto: 753 | Disco: Lateralus | Artista: Tool | Scrobbles: 13
+Puesto: 754 | Disco: Maladroit | Artista: Weezer | Scrobbles: 13
+Puesto: 755 | Disco: Permanent Vacation | Artista: Aerosmith | Scrobbles: 12
+Puesto: 756 | Disco: Humbug | Artista: Arctic Monkeys | Scrobbles: 12
+Puesto: 757 | Disco: Sunday at the vanguard | Artista: Bill Evans | Scrobbles: 12
+Puesto: 758 | Disco: Parklive Disc 2 | Artista: Blur | Scrobbles: 12
+Puesto: 759 | Disco: Greetings From Asbury Park | Artista: Bruce Springsteen | Scrobbles: 12
+Puesto: 760 | Disco: Mardi Gras | Artista: Creedence Clearwater Revival | Scrobbles: 12
+Puesto: 761 | Disco: Captain Fantastic and the Brown Dirt Cowboy | Artista: Elton John | Scrobbles: 12
+Puesto: 762 | Disco: Garbage | Artista: Garbage | Scrobbles: 12
+Puesto: 763 | Disco: E=MC2 | Artista: Giorgio Moroder | Scrobbles: 12
+Puesto: 764 | Disco: Juke Box Saturday Night | Artista: Glenn Miller | Scrobbles: 12
+Puesto: 765 | Disco: Milestones Of A Swing Legend CD6 | Artista: Glenn Miller | Scrobbles: 12
+Puesto: 766 | Disco: Sun Valley Serenade | Artista: Glenn Miller | Scrobbles: 12
+Puesto: 767 | Disco: American Beauty | Artista: Grateful Dead | Scrobbles: 12
+Puesto: 768 | Disco: New Values | Artista: Iggy Pop | Scrobbles: 12
+Puesto: 769 | Disco: S.C.I.E.N.C.E. | Artista: Incubus | Scrobbles: 12
+Puesto: 770 | Disco: Further Complications | Artista: Jarvis Cocker | Scrobbles: 12
+Puesto: 771 | Disco: Live in New York City | Artista: John Lennon | Scrobbles: 12
+Puesto: 772 | Disco: Radio-Activity | Artista: Kraftwerk | Scrobbles: 12
+Puesto: 773 | Disco: The Man Machine | Artista: Kraftwerk | Scrobbles: 12
+Puesto: 774 | Disco: Legendary Hearts | Artista: Lou Reed | Scrobbles: 12
+Puesto: 775 | Disco: Lovelife | Artista: Lush | Scrobbles: 12
+Puesto: 776 | Disco: Things to Make and Do | Artista: Moloko | Scrobbles: 12
+Puesto: 777 | Disco: After the Gold Rush | Artista: Neil Young | Scrobbles: 12
 Puesto: 778 | Disco: The Wall [CD2] | Artista: Pink Floyd | Scrobbles: 12
 Puesto: 779 | Disco: Head Carrier | Artista: Pixies | Scrobbles: 12
 Puesto: 780 | Disco: Indie Cindy | Artista: Pixies | Scrobbles: 12
 Puesto: 781 | Disco: Vamos Tirando | Artista: Platero y tú | Scrobbles: 12
 Puesto: 782 | Disco: Freaks | Artista: Pulp | Scrobbles: 12
 Puesto: 783 | Disco: Murmur | Artista: R.E.M. | Scrobbles: 12
-Puesto: 784 | Disco: Deja Que les Diga Que No! | Artista: Rosendo | Scrobbles: 12
+Puesto: 784 | Disco: Reise, Reise | Artista: Rammstein | Scrobbles: 12
 Puesto: 785 | Disco: El Incendio | Artista: Sidonie | Scrobbles: 12
 Puesto: 786 | Disco: Barrett | Artista: Syd Barrett | Scrobbles: 12
 Puesto: 787 | Disco: Spirit of Eden | Artista: Talk Talk | Scrobbles: 12
-Puesto: 788 | Disco: Veni Vidi Vicious | Artista: The Hives | Scrobbles: 12
-Puesto: 789 | Disco: Strange House | Artista: The Horrors | Scrobbles: 12
-Puesto: 790 | Disco: Americana | Artista: The Offspring | Scrobbles: 12
-Puesto: 791 | Disco: Zenyattà Mondatta | Artista: The Police | Scrobbles: 12
-Puesto: 792 | Disco: Pretenders II | Artista: The Pretenders | Scrobbles: 12
-Puesto: 793 | Disco: Blondie | Artista: Blondie | Scrobbles: 11
-Puesto: 794 | Disco: Best of | Artista: Blur | Scrobbles: 11
-Puesto: 795 | Disco: Bringing It All Back Home | Artista: Bob Dylan | Scrobbles: 11
-Puesto: 796 | Disco: Pendulum | Artista: Creedence Clearwater Revival | Scrobbles: 11
-Puesto: 797 | Disco: Adrenaline | Artista: Deftones | Scrobbles: 11
-Puesto: 798 | Disco: Black Celebration | Artista: Depeche Mode | Scrobbles: 11
-Puesto: 799 | Disco: Hellville de Luxe | Artista: Enrique Bunbury | Scrobbles: 11
-Puesto: 800 | Disco: Anti Todo | Artista: Eskorbuto | Scrobbles: 11
-Puesto: 801 | Disco: ¿Dónde Están Mis Amigos? | Artista: Extremoduro | Scrobbles: 11
-Puesto: 802 | Disco: All Things Must Pass (disc 2) | Artista: George Harrison | Scrobbles: 11
-Puesto: 803 | Disco: Orchestra Wives | Artista: Glenn Miller | Scrobbles: 11
-Puesto: 804 | Disco: Song Machine, Season One: Strange Timez (Deluxe Edition) | Artista: Gorillaz | Scrobbles: 11
-Puesto: 805 | Disco: Celebrity Skin | Artista: Hole | Scrobbles: 11
-Puesto: 806 | Disco: Si la muerte me mira de frente, me pongo de lao | Artista: Ilegales | Scrobbles: 11
-Puesto: 807 | Disco: Nothing's Shocking | Artista: Jane's Addiction | Scrobbles: 11
-Puesto: 808 | Disco: Aqualung | Artista: Jethro Tull | Scrobbles: 11
-Puesto: 809 | Disco: The Messenger | Artista: Johnny Marr | Scrobbles: 11
-Puesto: 810 | Disco: Peasants, Pigs & Astronauts | Artista: Kula Shaker | Scrobbles: 11
-Puesto: 811 | Disco: Pop | Artista: Los Planetas | Scrobbles: 11
-Puesto: 812 | Disco: Shout at the Devil | Artista: Mötley Crüe | Scrobbles: 11
-Puesto: 813 | Disco: Prepárate | Artista: Obus | Scrobbles: 11
-Puesto: 814 | Disco: Infest | Artista: Papa Roach | Scrobbles: 11
-Puesto: 815 | Disco: Vs. | Artista: Pearl Jam | Scrobbles: 11
-Puesto: 816 | Disco: Atom Heart Mother | Artista: Pink Floyd | Scrobbles: 11
-Puesto: 817 | Disco: Portishead | Artista: Portishead | Scrobbles: 11
-Puesto: 818 | Disco: Metal Box | Artista: Public Image Ltd. | Scrobbles: 11
-Puesto: 819 | Disco: The Game | Artista: Queen | Scrobbles: 11
-Puesto: 820 | Disco: Evil Empire | Artista: Rage Against the Machine | Scrobbles: 11
-Puesto: 821 | Disco: Mutter | Artista: Rammstein | Scrobbles: 11
-Puesto: 822 | Disco: Music Kills Me | Artista: Rinôçérôse | Scrobbles: 11
-Puesto: 823 | Disco: Show No Mercy | Artista: Slayer | Scrobbles: 11
-Puesto: 824 | Disco: Purple | Artista: Stone Temple Pilots | Scrobbles: 11
-Puesto: 825 | Disco: Long Gone Before Daylight | Artista: The Cardigans | Scrobbles: 11
-Puesto: 826 | Disco: Some Friendly | Artista: The Charlatans | Scrobbles: 11
-Puesto: 827 | Disco: Exit Planet Dust | Artista: The Chemical Brothers | Scrobbles: 11
-Puesto: 828 | Disco: Village Green Preservation Society [Special Deluxe Edition 2004] (CD2 Mono) | Artista: The Kinks | Scrobbles: 11
-Puesto: 829 | Disco: Synchronicity | Artista: The Police | Scrobbles: 11
-Puesto: 830 | Disco: Goats Head Soup | Artista: The Rolling Stones | Scrobbles: 11
-Puesto: 831 | Disco: Tattoo You | Artista: The Rolling Stones | Scrobbles: 11
-Puesto: 832 | Disco: Bringing Down The Horse | Artista: The Wallflowers | Scrobbles: 11
-Puesto: 833 | Disco: White Blood Cells | Artista: The White Stripes | Scrobbles: 11
-Puesto: 834 | Disco: Zooropa | Artista: U2 | Scrobbles: 11
-Puesto: 835 | Disco: Year Of The Cat | Artista: Al Stewart | Scrobbles: 10
-Puesto: 836 | Disco: Billion Dollar Babies | Artista: Alice Cooper | Scrobbles: 10
-Puesto: 837 | Disco: HONESTIDAD BRUTAL CD2 | Artista: Andrés Calamaro | Scrobbles: 10
-Puesto: 838 | Disco: The Man | Artista: Barry White | Scrobbles: 10
-Puesto: 839 | Disco: Darkness on the Edge of Town | Artista: Bruce Springsteen | Scrobbles: 10
-Puesto: 840 | Disco: La extraordinaria paradoja del sonido Quijano | Artista: Café Quijano | Scrobbles: 10
-Puesto: 841 | Disco: Sentimientos | Artista: Camilo Sesto | Scrobbles: 10
-Puesto: 842 | Disco: A Rush of Blood to the Head | Artista: Coldplay | Scrobbles: 10
-Puesto: 843 | Disco: Earthling | Artista: David Bowie | Scrobbles: 10
-Puesto: 844 | Disco: La ley innata | Artista: Extremoduro | Scrobbles: 10
-Puesto: 845 | Disco: Cien Mil Vueltas | Artista: Gabinete Caligari | Scrobbles: 10
-Puesto: 846 | Disco: The Kiss of Morning | Artista: Graham Coxon | Scrobbles: 10
-Puesto: 847 | Disco: Nimrod | Artista: Green Day | Scrobbles: 10
-Puesto: 848 | Disco: Pearl | Artista: Janis Joplin | Scrobbles: 10
-Puesto: 849 | Disco: La Flaca | Artista: Jarabe de Palo | Scrobbles: 10
-Puesto: 850 | Disco: Ram It Down | Artista: Judas Priest | Scrobbles: 10
-Puesto: 851 | Disco: Rock and Roll Over | Artista: Kiss | Scrobbles: 10
-Puesto: 852 | Disco: Physical Graffiti (CD1) | Artista: Led Zeppelin | Scrobbles: 10
-Puesto: 853 | Disco: Entre Amigos | Artista: Luis Eduardo Aute | Scrobbles: 10
-Puesto: 854 | Disco: Kill 'Em All | Artista: Metallica | Scrobbles: 10
-Puesto: 855 | Disco: Hergest Ridge | Artista: Mike Oldfield | Scrobbles: 10
-Puesto: 856 | Disco: Theatre of Pain | Artista: Mötley Crüe | Scrobbles: 10
-Puesto: 857 | Disco: Overkill | Artista: Motörhead | Scrobbles: 10
-Puesto: 858 | Disco: The Resistance | Artista: Muse | Scrobbles: 10
-Puesto: 859 | Disco: Harvest | Artista: Neil Young | Scrobbles: 10
-Puesto: 860 | Disco: Pretty Hate Machine | Artista: Nine Inch Nails | Scrobbles: 10
-Puesto: 861 | Disco: Songs For The Front Row - The Best Of Ocean Colour Scene | Artista: Ocean Colour Scene | Scrobbles: 10
-Puesto: 862 | Disco: Placebo | Artista: Placebo | Scrobbles: 10
-Puesto: 863 | Disco: De un país en llamas | Artista: Radio Futura | Scrobbles: 10
-Puesto: 864 | Disco: La canción de Juan Perro | Artista: Radio Futura | Scrobbles: 10
-Puesto: 865 | Disco: Roxy Music | Artista: Roxy Music | Scrobbles: 10
-Puesto: 866 | Disco: Reign in Blood | Artista: Slayer | Scrobbles: 10
-Puesto: 867 | Disco: The Top | Artista: The Cure | Scrobbles: 10
-Puesto: 868 | Disco: Other Voices | Artista: The Doors | Scrobbles: 10
-Puesto: 869 | Disco: Costello Music | Artista: The Fratellis | Scrobbles: 10
-Puesto: 870 | Disco: First Impressions of Earth | Artista: The Strokes | Scrobbles: 10
-Puesto: 871 | Disco: It's Hard | Artista: The Who | Scrobbles: 10
-Puesto: 872 | Disco: Afterburner | Artista: ZZ Top | Scrobbles: 10
-Puesto: 873 | Disco: El Loco | Artista: ZZ Top | Scrobbles: 10
-Puesto: 874 | Disco: Tres Hombres | Artista: ZZ Top | Scrobbles: 10
-Puesto: 875 | Disco: High Voltage | Artista: AC/DC | Scrobbles: 9
-Puesto: 876 | Disco: School's Out | Artista: Alice Cooper | Scrobbles: 9
-Puesto: 877 | Disco: Flowing Rivers | Artista: Andy Gibb | Scrobbles: 9
-Puesto: 878 | Disco: Imaginations From The Other Side | Artista: Blind Guardian | Scrobbles: 9
-Puesto: 879 | Disco: Blonde on Blond | Artista: Bob Dylan | Scrobbles: 9
-Puesto: 880 | Disco: Algo más | Artista: Camilo Sesto | Scrobbles: 9
-Puesto: 881 | Disco: Indicios | Artista: Carlos Berlanga | Scrobbles: 9
-Puesto: 882 | Disco: Saturday Night Fever: The Original Movie Sound Track | Artista: David Shire | Scrobbles: 9
-Puesto: 883 | Disco: Some Great Reward | Artista: Depeche Mode | Scrobbles: 9
-Puesto: 884 | Disco: Camino Soria | Artista: Gabinete Caligari | Scrobbles: 9
-Puesto: 885 | Disco: Selling England by the Pound | Artista: Genesis | Scrobbles: 9
-Puesto: 886 | Disco: Iron Maiden | Artista: Iron Maiden | Scrobbles: 9
-Puesto: 887 | Disco: Piece of Mind | Artista: Iron Maiden | Scrobbles: 9
-Puesto: 888 | Disco: Volunteers | Artista: Jefferson Airplane | Scrobbles: 9
-Puesto: 889 | Disco: Hotel, Dulce Hotel | Artista: Joaquín Sabina | Scrobbles: 9
-Puesto: 890 | Disco: Señales de Humo | Artista: Los Coronas | Scrobbles: 9
-Puesto: 891 | Disco: Mecano | Artista: Mecano | Scrobbles: 9
-Puesto: 892 | Disco: Porgy and Bess | Artista: Miles Davis | Scrobbles: 9
-Puesto: 893 | Disco: Brotherhood | Artista: New Order | Scrobbles: 9
-Puesto: 894 | Disco: The Good Son | Artista: Nick Cave & the Bad Seeds | Scrobbles: 9
-Puesto: 895 | Disco: Your Funeral... My Trial | Artista: Nick Cave & the Bad Seeds | Scrobbles: 9
-Puesto: 896 | Disco: McCartney | Artista: Paul McCartney | Scrobbles: 9
-Puesto: 897 | Disco: Para Mal O Para Bien | Artista: Rosendo | Scrobbles: 9
-Puesto: 898 | Disco: Virgin Killer | Artista: Scorpions | Scrobbles: 9
-Puesto: 899 | Disco: Juju | Artista: Siouxsie and the Banshees | Scrobbles: 9
-Puesto: 900 | Disco: Fresh Cream | Artista: Soundtrack | Scrobbles: 9
-Puesto: 901 | Disco: Pulp Fiction (Collector's Edition) | Artista: Soundtrack | Scrobbles: 9
-Puesto: 902 | Disco: Step II | Artista: Sylvester | Scrobbles: 9
-Puesto: 903 | Disco: Back Stabbers | Artista: The O'Jays | Scrobbles: 9
-Puesto: 904 | Disco: Along Came Jones | Artista: Tom Jones | Scrobbles: 9
-Puesto: 905 | Disco: Wild Life | Artista: Wings | Scrobbles: 9
-Puesto: 906 | Disco: Le Fabuleux Destin d'Amélie Poulain | Artista: Yann Tiersen | Scrobbles: 9
-Puesto: 907 | Disco: Diez | Artista: Alaska y Dinarama | Scrobbles: 8
-Puesto: 908 | Disco: Technical Ectasy | Artista: Black Sabbath | Scrobbles: 8
-Puesto: 909 | Disco: Chic | Artista: Chic | Scrobbles: 8
-Puesto: 910 | Disco: David Bowie | Artista: David Bowie | Scrobbles: 8
-Puesto: 911 | Disco: Segundo Asalto | Artista: Def con Dos | Scrobbles: 8
-Puesto: 912 | Disco: Porcupine | Artista: Echo & the Bunnymen | Scrobbles: 8
-Puesto: 913 | Disco: Glenn Miller (An Album Of Outstanding Arrangements) | Artista: Glenn Miller | Scrobbles: 8
-Puesto: 914 | Disco: Aoxomoxoa | Artista: Grateful Dead | Scrobbles: 8
-Puesto: 915 | Disco: American Idiot | Artista: Green Day | Scrobbles: 8
-Puesto: 916 | Disco: Powerslave | Artista: Iron Maiden | Scrobbles: 8
-Puesto: 917 | Disco: Coda | Artista: Led Zeppelin | Scrobbles: 8
-Puesto: 918 | Disco: Nuthin' Fancy | Artista: Lynyrd Skynyrd | Scrobbles: 8
-Puesto: 919 | Disco: The Holy Bible | Artista: Manic Street Preachers | Scrobbles: 8
-Puesto: 920 | Disco: Killing Is My Business...And Business Is Good! | Artista: Megadeth | Scrobbles: 8
-Puesto: 921 | Disco: Ride the Lightning | Artista: Metallica | Scrobbles: 8
-Puesto: 922 | Disco: Movement | Artista: New Order | Scrobbles: 8
-Puesto: 923 | Disco: Power, Corruption & Lies | Artista: New Order | Scrobbles: 8
-Puesto: 924 | Disco: Kicking Against the Pricks | Artista: Nick Cave & the Bad Seeds | Scrobbles: 8
-Puesto: 925 | Disco: Danger Zone | Artista: Player | Scrobbles: 8
-Puesto: 926 | Disco: 4ever | Artista: Prince | Scrobbles: 8
-Puesto: 927 | Disco: Green | Artista: R.E.M. | Scrobbles: 8
-Puesto: 928 | Disco: Leave Home | Artista: Ramones | Scrobbles: 8
-Puesto: 929 | Disco: ... A Las Lombrices | Artista: Rosendo | Scrobbles: 8
-Puesto: 930 | Disco: Canciones Para Normales y Mero Dementes | Artista: Rosendo | Scrobbles: 8
-Puesto: 931 | Disco: Lovedrive | Artista: Scorpions | Scrobbles: 8
-Puesto: 932 | Disco: Singles 93-03 | Artista: The Chemical Brothers | Scrobbles: 8
-Puesto: 933 | Disco: Pornography | Artista: The Cure | Scrobbles: 8
-Puesto: 934 | Disco: Singles | Artista: The Smiths | Scrobbles: 8
-Puesto: 935 | Disco: Raw Power | Artista: The Stooges | Scrobbles: 8
-Puesto: 936 | Disco: Older | Artista: Various Artists | Scrobbles: 8
-Puesto: 937 | Disco: Suffer | Artista: Bad Religion | Scrobbles: 7
-Puesto: 938 | Disco: Live At The Budokan | Artista: Blur | Scrobbles: 7
-Puesto: 939 | Disco: The Wild, the Innocent & the E Street Shuffle | Artista: Bruce Springsteen | Scrobbles: 7
-Puesto: 940 | Disco: Live Santa Monica '72 | Artista: David Bowie | Scrobbles: 7
-Puesto: 941 | Disco: Deep Purple In Rock | Artista: Deep Purple | Scrobbles: 7
-Puesto: 942 | Disco: Who Do We Think We Are | Artista: Deep Purple | Scrobbles: 7
-Puesto: 943 | Disco: Branquias Bajo el Agua | Artista: Derribos Arias | Scrobbles: 7
-Puesto: 944 | Disco: Nursery Cryme | Artista: Genesis | Scrobbles: 7
-Puesto: 945 | Disco: The Marvelous Miller Medleys | Artista: Glenn Miller | Scrobbles: 7
-Puesto: 946 | Disco: Golpes bajos | Artista: Golpes Bajos | Scrobbles: 7
-Puesto: 947 | Disco: El Espiritu Del Vino | Artista: Héroes del Silencio | Scrobbles: 7
-Puesto: 948 | Disco: Yours Truly, Angry Mob | Artista: Kaiser Chiefs | Scrobbles: 7
-Puesto: 949 | Disco: Empire | Artista: Kasabian | Scrobbles: 7
-Puesto: 950 | Disco: Trans-Europe Express | Artista: Kraftwerk | Scrobbles: 7
-Puesto: 951 | Disco: Presence | Artista: Led Zeppelin | Scrobbles: 7
-Puesto: 952 | Disco: A Día De Hoy | Artista: Luis Eduardo Aute | Scrobbles: 7
-Puesto: 953 | Disco: Auterretratos Vol.1 (CD1) | Artista: Luis Eduardo Aute | Scrobbles: 7
-Puesto: 954 | Disco: Tubular Bells II | Artista: Mike Oldfield | Scrobbles: 7
-Puesto: 955 | Disco: Unplugged in New York | Artista: Nirvana | Scrobbles: 7
-Puesto: 956 | Disco: Songs For The Front Row - The Best of Ocean Colour Scene - ARK21 | Artista: Ocean Colour Scene | Scrobbles: 7
-Puesto: 957 | Disco: Fly To The Rainbow | Artista: Scorpions | Scrobbles: 7
-Puesto: 958 | Disco: Mellon Collie and the Infinite Sadness (CD 1 Dawn to Dusk) | Artista: The Smashing Pumpkins | Scrobbles: 7
-Puesto: 959 | Disco: Vivir Para Contarlo | Artista: Violadores del Verso | Scrobbles: 7
-Puesto: 960 | Disco: Don't Stop | Artista: Billy Idol | Scrobbles: 6
-Puesto: 961 | Disco: Bustin' + Dronin' (Disc-1) | Artista: Blur | Scrobbles: 6
-Puesto: 962 | Disco: The Freewheelin' Bob Dylan | Artista: Bob Dylan | Scrobbles: 6
-Puesto: 963 | Disco: Mali Music | Artista: Damon Albarn | Scrobbles: 6
-Puesto: 964 | Disco: Material Defectuoso | Artista: Extremoduro | Scrobbles: 6
-Puesto: 965 | Disco: Foxtrot | Artista: Genesis | Scrobbles: 6
-Puesto: 966 | Disco: Double Fantasy | Artista: John Lennon/Yoko Ono | Scrobbles: 6
-Puesto: 967 | Disco: Korn | Artista: Korn | Scrobbles: 6
-Puesto: 968 | Disco: Life in Cartoon Motion | Artista: Mika | Scrobbles: 6
-Puesto: 969 | Disco: Big Calm | Artista: Morcheeba | Scrobbles: 6
-Puesto: 970 | Disco: Death Goes To The Disco | Artista: Pulp | Scrobbles: 6
-Puesto: 971 | Disco: Pleasant Dreams | Artista: Ramones | Scrobbles: 6
-Puesto: 972 | Disco: Grand Theft Auto: San Andreas Official Soundtrack Box Set | Artista: Soundtrack | Scrobbles: 6
-Puesto: 973 | Disco: Minute by Minute | Artista: The Doobie Brothers | Scrobbles: 6
-Puesto: 974 | Disco: Saturday Night Fever: The Original Movie Sound Track | Artista: The Trammps | Scrobbles: 6
-Puesto: 975 | Disco: White light, white heat | Artista: The Velvet Underground | Scrobbles: 6
-Puesto: 976 | Disco: The Invisible Band | Artista: Travis | Scrobbles: 6
-Puesto: 977 | Disco: Dirty Deeds Done Dirt Cheap | Artista: AC/DC | Scrobbles: 5
-Puesto: 978 | Disco: Parklive Disc 3 | Artista: Blur | Scrobbles: 5
-Puesto: 979 | Disco: Buddy Holly 75 - CD03 | Artista: Buddy Holly | Scrobbles: 5
-Puesto: 980 | Disco: 4 años, 2 meses y 1 dia | Artista: Cicatriz | Scrobbles: 5
-Puesto: 981 | Disco: Dr Dee | Artista: Damon Albarn | Scrobbles: 5
-Puesto: 982 | Disco: Pin Ups | Artista: David Bowie | Scrobbles: 5
-Puesto: 983 | Disco: Scary Monsters | Artista: David Bowie | Scrobbles: 5
-Puesto: 984 | Disco: Oi! | Artista: Decibelios | Scrobbles: 5
-Puesto: 985 | Disco: Pulp Fiction (Collector's Edition) | Artista: Dick Dale | Scrobbles: 5
-Puesto: 986 | Disco: El Apóstol De La Lujuria | Artista: Ilegales | Scrobbles: 5
-Puesto: 987 | Disco: El Muchacho Eléctrico | Artista: Jaime Urrutia | Scrobbles: 5
-Puesto: 988 | Disco: Best Of Bossa Nova - 75 Classic Hits (Disc 1) | Artista: João Gilberto | Scrobbles: 5
-Puesto: 989 | Disco: Kollected - The Best Of Kula Shaker | Artista: Kula Shaker | Scrobbles: 5
-Puesto: 990 | Disco: Kind of Blue | Artista: Miles Davis | Scrobbles: 5
-Puesto: 991 | Disco: Maybe You've Been Brainwashed Too | Artista: New Radicals | Scrobbles: 5
-Puesto: 992 | Disco: Animals | Artista: Pink Floyd | Scrobbles: 5
-Puesto: 993 | Disco: A Pelo | Artista: Platero y tú | Scrobbles: 5
-Puesto: 994 | Disco: Chronic Town | Artista: R.E.M. | Scrobbles: 5
-Puesto: 995 | Disco: Up | Artista: R.E.M. | Scrobbles: 5
-Puesto: 996 | Disco: The Great Rock'n'Roll Swindle | Artista: Sid Vicious | Scrobbles: 5
-Puesto: 997 | Disco: Best Of Bossa Nova - 75 Classic Hits (Disc 1) | Artista: Sylvia Telles | Scrobbles: 5
-Puesto: 998 | Disco: Sweetheart Of The Rodeo | Artista: The Byrds | Scrobbles: 5
-Puesto: 999 | Disco: In Concert CD2 | Artista: The Doors | Scrobbles: 5
-Puesto: 1000 | Disco: Sam's Town | Artista: The Killers | Scrobbles: 5
-Puesto: 1001 | Disco: Dirty Work | Artista: The Rolling Stones | Scrobbles: 5
-Puesto: 1002 | Disco: Pop | Artista: U2 | Scrobbles: 5
-Puesto: 1003 | Disco: Vampire Weekend | Artista: Vampire Weekend | Scrobbles: 5
-Puesto: 1004 | Disco: Van Halen II | Artista: Van Halen | Scrobbles: 5
-Puesto: 1005 | Disco: Al Green Is Love | Artista: Al Green | Scrobbles: 4
-Puesto: 1006 | Disco: En Vivo Mucho Mejor | Artista: Ariel Rot | Scrobbles: 4
-Puesto: 1007 | Disco: Licensed to Ill | Artista: Beastie Boys | Scrobbles: 4
-Puesto: 1008 | Disco: The Boy with the Arab Strap | Artista: Belle and Sebastian | Scrobbles: 4
-Puesto: 1009 | Disco: Amor Libre | Artista: Camilo Sesto | Scrobbles: 4
-Puesto: 1010 | Disco: Grandes Éxitos Pequeños Regalos 2 | Artista: Celtas Cortos | Scrobbles: 4
-Puesto: 1011 | Disco: The Marshall Mathers LP | Artista: Eminem | Scrobbles: 4
-Puesto: 1012 | Disco: Los singles | Artista: Gabinete Caligari | Scrobbles: 4
-Puesto: 1013 | Disco: Sombras Negras | Artista: Gabinete Caligari | Scrobbles: 4
-Puesto: 1014 | Disco: The New Glenn Miller Orchestra in Hi Fi | Artista: Glenn Miller | Scrobbles: 4
-Puesto: 1015 | Disco: Mentiras Piadosas | Artista: Joaquín Sabina | Scrobbles: 4
-Puesto: 1016 | Disco: Canciones de un Poeta | Artista: José Luis Perales | Scrobbles: 4
-Puesto: 1017 | Disco: Vaqueros del espacio | Artista: Loquillo y Trogloditas | Scrobbles: 4
-Puesto: 1018 | Disco: Incantations | Artista: Mike Oldfield | Scrobbles: 4
-Puesto: 1019 | Disco: Prepárate | Artista: Obús | Scrobbles: 4
-Puesto: 1020 | Disco: Different Class (bonus disc) | Artista: Pulp | Scrobbles: 4
-Puesto: 1021 | Disco: Greatest Hits II | Artista: Queen | Scrobbles: 4
-Puesto: 1022 | Disco: File Live Yardbirds | Artista: The Yardbirds | Scrobbles: 4
-Puesto: 1023 | Disco: Pulp Fiction (Collector's Edition) | Artista: Al Green | Scrobbles: 3
-Puesto: 1024 | Disco: Metalmorfosis | Artista: Barón Rojo | Scrobbles: 3
-Puesto: 1025 | Disco: Saturday Night Fever Soundtrack | Artista: Bee Gees | Scrobbles: 3
-Puesto: 1026 | Disco: Colours - Fan Club Single | Artista: Blur | Scrobbles: 3
-Puesto: 1027 | Disco: Midlife A Beginner's Guide To Blur | Artista: Blur | Scrobbles: 3
-Puesto: 1028 | Disco: The Times They Are A-Changin' | Artista: Bob Dylan | Scrobbles: 3
-Puesto: 1029 | Disco: A Different Kind of Tension | Artista: Buzzcocks | Scrobbles: 3
-Puesto: 1030 | Disco: Camilo | Artista: Camilo Sesto | Scrobbles: 3
-Puesto: 1031 | Disco: 9:30 El Remix | Artista: El Club de los Poetas Violentos | Scrobbles: 3
-Puesto: 1032 | Disco: The Good, the Bad and the Ugly | Artista: Ennio Morricone | Scrobbles: 3
-Puesto: 1033 | Disco: El Viaje A Ninguna Parte (disc 1) | Artista: Enrique Bunbury | Scrobbles: 3
-Puesto: 1034 | Disco: Grandes éxitos y fracasos (Episodio segundo) | Artista: Extremoduro | Scrobbles: 3
-Puesto: 1035 | Disco: Song Machine, Season One: Strange Timez (Japanese Edition) | Artista: Gorillaz | Scrobbles: 3
-Puesto: 1036 | Disco: Love Will Tear Us Apart | Artista: Joy Division | Scrobbles: 3
-Puesto: 1037 | Disco: Saturday Night Fever: The Original Movie Sound Track | Artista: KC and The Sunshine Band | Scrobbles: 3
-Puesto: 1038 | Disco: Saturday Night Fever: The Original Movie Sound Track | Artista: Kool & the Gang | Scrobbles: 3
-Puesto: 1039 | Disco: Proxima Estación: Esperanza | Artista: Manu Chao | Scrobbles: 3
-Puesto: 1040 | Disco: Absolution | Artista: Muse | Scrobbles: 3
-Puesto: 1041 | Disco: Mi Tierra | Artista: Nino Bravo | Scrobbles: 3
-Puesto: 1042 | Disco: Innuendo | Artista: Queen | Scrobbles: 3
-Puesto: 1043 | Disco: The Miracle | Artista: Queen | Scrobbles: 3
-Puesto: 1044 | Disco: La Ley Del Desierto, La Ley Del Mar | Artista: Radio Futura | Scrobbles: 3
-Puesto: 1045 | Disco: Saturday Night Fever: The Original Movie Sound Track | Artista: Ralph MacDonald | Scrobbles: 3
-Puesto: 1046 | Disco: Anthology Disc 2 | Artista: Ramones | Scrobbles: 3
-Puesto: 1047 | Disco: Paranoid | Artista: Soundtrack | Scrobbles: 3
-Puesto: 1048 | Disco: Saturday Night Fever: The Original Movie Sound Track | Artista: Tavares | Scrobbles: 3
-Puesto: 1049 | Disco: Hot Fuss (limited edition) | Artista: The Killers | Scrobbles: 3
-Puesto: 1050 | Disco: Hums Of The Lovin' Spoonful | Artista: The Lovin' Spoonful | Scrobbles: 3
-Puesto: 1051 | Disco: Saturday Night Fever: The Original Movie Sound Track | Artista: Various Artists | Scrobbles: 3
-Puesto: 1052 | Disco: Saturday Night Fever: The Original Movie Sound Track | Artista: Walter Murphy | Scrobbles: 3
-Puesto: 1053 | Disco: Close to the Edge | Artista: Yes | Scrobbles: 3
-Puesto: 1054 | Disco: Saturday Night Fever: The Original Movie Sound Track | Artista: Yvonne Elliman | Scrobbles: 3
-Puesto: 1055 | Disco: Le origini - Volume 2 | Artista: Adriano Celentano | Scrobbles: 2
-Puesto: 1056 | Disco: All the people... Blur: Live in Hyde Park 02/07/2009 - Disc 01 | Artista: Blur | Scrobbles: 2
-Puesto: 1057 | Disco: BBC Broadcasts, 1995.06.17 London, Mile End Stadium | Artista: Blur | Scrobbles: 2
-Puesto: 1058 | Disco: Blurb 1 | Artista: Blur | Scrobbles: 2
-Puesto: 1059 | Disco: Pulp Fiction (Collector's Edition) | Artista: Brothers Johnson | Scrobbles: 2
-Puesto: 1060 | Disco: Grandes Éxitos Pequeños Regalos 1 | Artista: Celtas Cortos | Scrobbles: 2
-Puesto: 1061 | Disco: Reality | Artista: David Bowie | Scrobbles: 2
-Puesto: 1062 | Disco: The Very Best of Elvis Costello Disc 2 | Artista: Elvis Costello | Scrobbles: 2
-Puesto: 1063 | Disco: The Very Best of Elvis Costello Disc 2 | Artista: Elvis Costello & The Attractions | Scrobbles: 2
-Puesto: 1064 | Disco: Cuatro rosas. Que Dios reparta suerte | Artista: Gabinete Caligari | Scrobbles: 2
-Puesto: 1065 | Disco: Canciones '84 - '96 (CD 2 von 2) | Artista: Héroes del Silencio | Scrobbles: 2
-Puesto: 1066 | Disco: Física y Química | Artista: Joaquín Sabina | Scrobbles: 2
-Puesto: 1067 | Disco: Pulp Fiction (Collector's Edition) | Artista: John Travolta | Scrobbles: 2
-Puesto: 1068 | Disco: Raindrops Keep Fallin' On My Head | Artista: Johnny Mathis | Scrobbles: 2
-Puesto: 1069 | Disco: Pulp Fiction (Collector's Edition) | Artista: Kool & the Gang | Scrobbles: 2
-Puesto: 1070 | Disco: 2002 - KOLLECTED - THE BEST OF | Artista: Kula Shaker | Scrobbles: 2
-Puesto: 1071 | Disco: Better Can't Make Your Life Better | Artista: Lilys | Scrobbles: 2
-Puesto: 1072 | Disco: ¿Dónde Estabas Tú En El 77? | Artista: Loquillo y Trogloditas | Scrobbles: 2
-Puesto: 1073 | Disco: Pacífico / Todos los chico en la playa | Artista: Loquillo y Trogloditas | Scrobbles: 2
-Puesto: 1074 | Disco: Disco Pirata | Artista: Los Rodríguez | Scrobbles: 2
-Puesto: 1075 | Disco: Metal Machine Music | Artista: Lou Reed | Scrobbles: 2
-Puesto: 1076 | Disco: So Far, So Good... So What! | Artista: Megadeth | Scrobbles: 2
-Puesto: 1077 | Disco: Crises | Artista: Mike Oldfield | Scrobbles: 2
-Puesto: 1078 | Disco: Ommadawn | Artista: Mike Oldfield | Scrobbles: 2
-Puesto: 1079 | Disco: Apocalypshit | Artista: Molotov | Scrobbles: 2
-Puesto: 1080 | Disco: The 2nd Law | Artista: Muse | Scrobbles: 2
-Puesto: 1081 | Disco: One From the Modern | Artista: Ocean Colour Scene | Scrobbles: 2
-Puesto: 1082 | Disco: It | Artista: Pulp | Scrobbles: 2
-Puesto: 1083 | Disco: Bookends | Artista: Simon & Garfunkel | Scrobbles: 2
-Puesto: 1084 | Disco: Performance and Cocktails | Artista: Stereophonics | Scrobbles: 2
-Puesto: 1085 | Disco: Best Of The Capitol Years 1995-2007 | Artista: The Dandy Warhols | Scrobbles: 2
-Puesto: 1086 | Disco: Absent Friends | Artista: The Divine Comedy | Scrobbles: 2
-Puesto: 1087 | Disco: Rotten Apples | Artista: The Smashing Pumpkins | Scrobbles: 2
-Puesto: 1088 | Disco: Is This It (US) | Artista: The Strokes | Scrobbles: 2
-Puesto: 1089 | Disco: Winning Days | Artista: The Vines | Scrobbles: 2
-Puesto: 1090 | Disco: Let's Stay Together | Artista: Al Green | Scrobbles: 1
-Puesto: 1091 | Disco: Alaska Y Los Pegamoides | Artista: Alaska y Los Pegamoides | Scrobbles: 1
-Puesto: 1092 | Disco: Raindrops Keep Fallin' on My Head | Artista: B.J. Thomas | Scrobbles: 1
-Puesto: 1093 | Disco: La Araña | Artista: Barricada | Scrobbles: 1
-Puesto: 1094 | Disco: Living Eyes | Artista: Bee Gees | Scrobbles: 1
-Puesto: 1095 | Disco: Greatest Hits | Artista: Billy Idol | Scrobbles: 1
-Puesto: 1096 | Disco: Rebel Yell | Artista: Billy Idol | Scrobbles: 1
-Puesto: 1097 | Disco: Grand Theft Auto: San Andreas Official Soundtrack Box Set | Artista: Black Harmony | Scrobbles: 1
-Puesto: 1098 | Disco: Enema of the State | Artista: blink-182 | Scrobbles: 1
-Puesto: 1099 | Disco: All the people... Blur: Live in Hyde Park 02/07/2009 - Disc 02 | Artista: Blur | Scrobbles: 1
-Puesto: 1100 | Disco: Atrapado en el Amor | Artista: Burning | Scrobbles: 1
-Puesto: 1101 | Disco: Best Of Bossa Nova - 75 Classic Hits (Disc 1) | Artista: Carlos Lyra | Scrobbles: 1
-Puesto: 1102 | Disco: 1. Outside - The Nathan Adler Diaries: A Hyper Cycle | Artista: David Bowie | Scrobbles: 1
-Puesto: 1103 | Disco: David Live CD1 | Artista: David Bowie | Scrobbles: 1
-Puesto: 1104 | Disco: Space Oddity (Bonus Disc) | Artista: David Bowie | Scrobbles: 1
-Puesto: 1105 | Disco: Stage (disc 2) | Artista: David Bowie | Scrobbles: 1
-Puesto: 1106 | Disco: Vacaciones en el Prat | Artista: Decibelios | Scrobbles: 1
-Puesto: 1107 | Disco: Ultramemia | Artista: Def con Dos | Scrobbles: 1
-Puesto: 1108 | Disco: Pulp Fiction (Collector's Edition) | Artista: Duane Whitaker | Scrobbles: 1
-Puesto: 1109 | Disco: Closeup | Artista: Frankie Valli | Scrobbles: 1
-Puesto: 1110 | Disco: PIAS 2005 Music First | Artista: Franz Ferdinand | Scrobbles: 1
-Puesto: 1111 | Disco: SUBID LA MUSICA | Artista: Gabinete Caligari | Scrobbles: 1
-Puesto: 1112 | Disco: Older | Artista: George Michael | Scrobbles: 1
-Puesto: 1113 | Disco: For The Very First Time Vol. 2 | Artista: Glenn Miller | Scrobbles: 1
-Puesto: 1114 | Disco: The Sound of Glenn Miller | Artista: Glenn Miller | Scrobbles: 1
-Puesto: 1115 | Disco: Kasabian | Artista: Ｇｏｒｉｌｌａｚ | Scrobbles: 1
-Puesto: 1116 | Disco: Better Than Raw | Artista: Helloween | Scrobbles: 1
-Puesto: 1117 | Disco: Bonito | Artista: Jarabe de Palo | Scrobbles: 1
-Puesto: 1118 | Disco: De Vuelta Y Vuelta | Artista: Jarabe de Palo | Scrobbles: 1
-Puesto: 1119 | Disco: Depende | Artista: Jarabe de Palo | Scrobbles: 1
-Puesto: 1120 | Disco: Pulp Fiction (Collector's Edition) | Artista: Link Wray & His Wraymen | Scrobbles: 1
-Puesto: 1121 | Disco: Bultacos Y Montesas | Artista: Los Sencillos | Scrobbles: 1
-Puesto: 1122 | Disco: Ese Día Piensa En Mí | Artista: Los Suaves | Scrobbles: 1
-Puesto: 1123 | Disco: PIAS 2005 Music First | Artista: Marc Parrot | Scrobbles: 1
-Puesto: 1124 | Disco: Pulp Fiction (Collector's Edition) | Artista: Maria McKee | Scrobbles: 1
-Puesto: 1125 | Disco: Antichrist Superstar | Artista: Marilyn Manson | Scrobbles: 1
-Puesto: 1126 | Disco: Metallica (Black Album) | Artista: Metallica | Scrobbles: 1
-Puesto: 1127 | Disco: PIAS 2005 Music First | Artista: Mowgai | Scrobbles: 1
-Puesto: 1128 | Disco: Tender Prey | Artista: Nick Cave & the Bad Seeds | Scrobbles: 1
-Puesto: 1129 | Disco: Best Of The Capitol Years 1995-2007 | Artista: Original TV Soundtrack | Scrobbles: 1
-Puesto: 1130 | Disco: Manners | Artista: Passion Pit | Scrobbles: 1
-Puesto: 1131 | Disco: Sounds of Silence | Artista: Paul Simon | Scrobbles: 1
-Puesto: 1132 | Disco: Best Of Bossa Nova - 75 Classic Hits (Disc 1) | Artista: Pery Ribeiro | Scrobbles: 1
-Puesto: 1133 | Disco: Anthology ( Disc 2 ) | Artista: Ramones | Scrobbles: 1
-Puesto: 1134 | Disco: Listos Para La Reconversión | Artista: Rosendo | Scrobbles: 1
-Puesto: 1135 | Disco: Pulp Fiction (Collector's Edition) | Artista: Samuel L. Jackson | Scrobbles: 1
-Puesto: 1136 | Disco: Blackout | Artista: Scorpions | Scrobbles: 1
-Puesto: 1137 | Disco: Never Mind The Bollocks [TOCP-53098 TOSHIBA-EMI JAPAN] | Artista: Sex Pistols | Scrobbles: 1
-Puesto: 1138 | Disco: The Great Rock'n'Roll Swindle | Artista: Sex Pistols | Scrobbles: 1
-Puesto: 1139 | Disco: Sounds of Silence | Artista: Simon & Garfunkel | Scrobbles: 1
-Puesto: 1140 | Disco: Siniestro Total II: El Regreso | Artista: Siniestro Total | Scrobbles: 1
-Puesto: 1141 | Disco: Easy Rider | Artista: Steppenwolf | Scrobbles: 1
-Puesto: 1142 | Disco: Adventure | Artista: Television | Scrobbles: 1
-Puesto: 1143 | Disco: Push the Button | Artista: The Chemical Brothers | Scrobbles: 1
-Puesto: 1144 | Disco: PIAS 2005 Music First | Artista: The Go! Team | Scrobbles: 1
-Puesto: 1145 | Disco: Get The Knack | Artista: The Knack | Scrobbles: 1
-Puesto: 1146 | Disco: Pulp Fiction (Collector's Edition) | Artista: The Lively Ones | Scrobbles: 1
-Puesto: 1147 | Disco: Someone to Drive You Home | Artista: The Long Blondes | Scrobbles: 1
-Puesto: 1148 | Disco: Pulp Fiction (Collector's Edition) | Artista: The Marketts | Scrobbles: 1
-Puesto: 1149 | Disco: Always Outnumbered Never Outgu | Artista: The Prodigy | Scrobbles: 1
-Puesto: 1150 | Disco: Pulp Fiction (Collector's Edition) | Artista: The Robins | Scrobbles: 1
-Puesto: 1151 | Disco: It's Only Rock ' N Roll | Artista: The Rolling Stones | Scrobbles: 1
-Puesto: 1152 | Disco: Their Satanic Majesties Request | Artista: The Rolling Stones | Scrobbles: 1
-Puesto: 1153 | Disco: Mellon Collie and the Infinite Sadness (CD 2 Twilight to Starlight) | Artista: The Smashing Pumpkins | Scrobbles: 1
-Puesto: 1154 | Disco: Hatful Of Hollow (Japan MiniLP WPCR-12439) | Artista: The Smiths | Scrobbles: 1
-Puesto: 1155 | Disco: Strangeways, Here We Come | Artista: The Smiths | Scrobbles: 1
-Puesto: 1156 | Disco: Pulp Fiction (Collector's Edition) | Artista: The Statler Brothers | Scrobbles: 1
-Puesto: 1157 | Disco: Van Halen | Artista: Van Halen | Scrobbles: 1
-Puesto: 1158 | Disco: The Bends | Artista: Varios intérpretes | Scrobbles: 1
-Puesto: 1159 | Disco: Let's Stay Together | Artista: Various Artists | Scrobbles: 1
-Puesto: 1160 | Disco: The Invisible Band | Artista: Various Artists | Scrobbles: 1
-Puesto: 1161 | Disco: Best Of Bossa Nova - 75 Classic Hits (Disc 1) | Artista: Vinícius de Moraes | Scrobbles: 1
+Puesto: 788 | Disco: Wake Up! | Artista: The Boo Radleys | Scrobbles: 12
+Puesto: 789 | Disco: Veni Vidi Vicious | Artista: The Hives | Scrobbles: 12
+Puesto: 790 | Disco: Strange House | Artista: The Horrors | Scrobbles: 12
+Puesto: 791 | Disco: Americana | Artista: The Offspring | Scrobbles: 12
+Puesto: 792 | Disco: Zenyattà Mondatta | Artista: The Police | Scrobbles: 12
+Puesto: 793 | Disco: Pretenders II | Artista: The Pretenders | Scrobbles: 12
+Puesto: 794 | Disco: Strangeways, Here We Come | Artista: The Smiths | Scrobbles: 12
+Puesto: 795 | Disco: Nu-Clear Sounds | Artista: Ash | Scrobbles: 11
+Puesto: 796 | Disco: Blondie | Artista: Blondie | Scrobbles: 11
+Puesto: 797 | Disco: Best of | Artista: Blur | Scrobbles: 11
+Puesto: 798 | Disco: Bringing It All Back Home | Artista: Bob Dylan | Scrobbles: 11
+Puesto: 799 | Disco: La extraordinaria paradoja del sonido Quijano | Artista: Café Quijano | Scrobbles: 11
+Puesto: 800 | Disco: Pendulum | Artista: Creedence Clearwater Revival | Scrobbles: 11
+Puesto: 801 | Disco: Adrenaline | Artista: Deftones | Scrobbles: 11
+Puesto: 802 | Disco: Black Celebration | Artista: Depeche Mode | Scrobbles: 11
+Puesto: 803 | Disco: Hellville de Luxe | Artista: Enrique Bunbury | Scrobbles: 11
+Puesto: 804 | Disco: Anti Todo | Artista: Eskorbuto | Scrobbles: 11
+Puesto: 805 | Disco: ¿Dónde Están Mis Amigos? | Artista: Extremoduro | Scrobbles: 11
+Puesto: 806 | Disco: La ley innata | Artista: Extremoduro | Scrobbles: 11
+Puesto: 807 | Disco: All Things Must Pass (disc 2) | Artista: George Harrison | Scrobbles: 11
+Puesto: 808 | Disco: Orchestra Wives | Artista: Glenn Miller | Scrobbles: 11
+Puesto: 809 | Disco: Celebrity Skin | Artista: Hole | Scrobbles: 11
+Puesto: 810 | Disco: Si la muerte me mira de frente, me pongo de lao | Artista: Ilegales | Scrobbles: 11
+Puesto: 811 | Disco: Nothing's Shocking | Artista: Jane's Addiction | Scrobbles: 11
+Puesto: 812 | Disco: Aqualung | Artista: Jethro Tull | Scrobbles: 11
+Puesto: 813 | Disco: The Messenger | Artista: Johnny Marr | Scrobbles: 11
+Puesto: 814 | Disco: Fatal Portrait | Artista: King Diamond | Scrobbles: 11
+Puesto: 815 | Disco: Peasants, Pigs & Astronauts | Artista: Kula Shaker | Scrobbles: 11
+Puesto: 816 | Disco: Pop | Artista: Los Planetas | Scrobbles: 11
+Puesto: 817 | Disco: Shout at the Devil | Artista: Mötley Crüe | Scrobbles: 11
+Puesto: 818 | Disco: Prepárate | Artista: Obus | Scrobbles: 11
+Puesto: 819 | Disco: Infest | Artista: Papa Roach | Scrobbles: 11
+Puesto: 820 | Disco: Vs. | Artista: Pearl Jam | Scrobbles: 11
+Puesto: 821 | Disco: Atom Heart Mother | Artista: Pink Floyd | Scrobbles: 11
+Puesto: 822 | Disco: Portishead | Artista: Portishead | Scrobbles: 11
+Puesto: 823 | Disco: Metal Box | Artista: Public Image Ltd. | Scrobbles: 11
+Puesto: 824 | Disco: The Game | Artista: Queen | Scrobbles: 11
+Puesto: 825 | Disco: Evil Empire | Artista: Rage Against the Machine | Scrobbles: 11
+Puesto: 826 | Disco: Mutter | Artista: Rammstein | Scrobbles: 11
+Puesto: 827 | Disco: Music Kills Me | Artista: Rinôçérôse | Scrobbles: 11
+Puesto: 828 | Disco: Show No Mercy | Artista: Slayer | Scrobbles: 11
+Puesto: 829 | Disco: Purple | Artista: Stone Temple Pilots | Scrobbles: 11
+Puesto: 830 | Disco: Long Gone Before Daylight | Artista: The Cardigans | Scrobbles: 11
+Puesto: 831 | Disco: Some Friendly | Artista: The Charlatans | Scrobbles: 11
+Puesto: 832 | Disco: Exit Planet Dust | Artista: The Chemical Brothers | Scrobbles: 11
+Puesto: 833 | Disco: Village Green Preservation Society [Special Deluxe Edition 2004] (CD2 Mono) | Artista: The Kinks | Scrobbles: 11
+Puesto: 834 | Disco: Synchronicity | Artista: The Police | Scrobbles: 11
+Puesto: 835 | Disco: Goats Head Soup | Artista: The Rolling Stones | Scrobbles: 11
+Puesto: 836 | Disco: Tattoo You | Artista: The Rolling Stones | Scrobbles: 11
+Puesto: 837 | Disco: White Blood Cells | Artista: The White Stripes | Scrobbles: 11
+Puesto: 838 | Disco: Zooropa | Artista: U2 | Scrobbles: 11
+Puesto: 839 | Disco: Year Of The Cat | Artista: Al Stewart | Scrobbles: 10
+Puesto: 840 | Disco: Billion Dollar Babies | Artista: Alice Cooper | Scrobbles: 10
+Puesto: 841 | Disco: HONESTIDAD BRUTAL CD2 | Artista: Andrés Calamaro | Scrobbles: 10
+Puesto: 842 | Disco: The Man | Artista: Barry White | Scrobbles: 10
+Puesto: 843 | Disco: Darkness on the Edge of Town | Artista: Bruce Springsteen | Scrobbles: 10
+Puesto: 844 | Disco: Sentimientos | Artista: Camilo Sesto | Scrobbles: 10
+Puesto: 845 | Disco: Indicios | Artista: Carlos Berlanga | Scrobbles: 10
+Puesto: 846 | Disco: A Rush of Blood to the Head | Artista: Coldplay | Scrobbles: 10
+Puesto: 847 | Disco: Earthling | Artista: David Bowie | Scrobbles: 10
+Puesto: 848 | Disco: Cien Mil Vueltas | Artista: Gabinete Caligari | Scrobbles: 10
+Puesto: 849 | Disco: Song Machine, Season One: Strange Timez (Deluxe Edition) | Artista: Gorillaz | Scrobbles: 10
+Puesto: 850 | Disco: The Kiss of Morning | Artista: Graham Coxon | Scrobbles: 10
+Puesto: 851 | Disco: Nimrod | Artista: Green Day | Scrobbles: 10
+Puesto: 852 | Disco: Pearl | Artista: Janis Joplin | Scrobbles: 10
+Puesto: 853 | Disco: La Flaca | Artista: Jarabe de Palo | Scrobbles: 10
+Puesto: 854 | Disco: Ram It Down | Artista: Judas Priest | Scrobbles: 10
+Puesto: 855 | Disco: Rock and Roll Over | Artista: Kiss | Scrobbles: 10
+Puesto: 856 | Disco: Physical Graffiti (CD1) | Artista: Led Zeppelin | Scrobbles: 10
+Puesto: 857 | Disco: Entre Amigos | Artista: Luis Eduardo Aute | Scrobbles: 10
+Puesto: 858 | Disco: So Far, So Good... So What! | Artista: Megadeth | Scrobbles: 10
+Puesto: 859 | Disco: Kill 'Em All | Artista: Metallica | Scrobbles: 10
+Puesto: 860 | Disco: Hergest Ridge | Artista: Mike Oldfield | Scrobbles: 10
+Puesto: 861 | Disco: Kind of Blue | Artista: Miles Davis | Scrobbles: 10
+Puesto: 862 | Disco: Theatre of Pain | Artista: Mötley Crüe | Scrobbles: 10
+Puesto: 863 | Disco: Overkill | Artista: Motörhead | Scrobbles: 10
+Puesto: 864 | Disco: The Resistance | Artista: Muse | Scrobbles: 10
+Puesto: 865 | Disco: Harvest | Artista: Neil Young | Scrobbles: 10
+Puesto: 866 | Disco: Too Much Too Soon | Artista: New York Dolls | Scrobbles: 10
+Puesto: 867 | Disco: Pretty Hate Machine | Artista: Nine Inch Nails | Scrobbles: 10
+Puesto: 868 | Disco: Songs For The Front Row - The Best Of Ocean Colour Scene | Artista: Ocean Colour Scene | Scrobbles: 10
+Puesto: 869 | Disco: Placebo | Artista: Placebo | Scrobbles: 10
+Puesto: 870 | Disco: De un país en llamas | Artista: Radio Futura | Scrobbles: 10
+Puesto: 871 | Disco: La canción de Juan Perro | Artista: Radio Futura | Scrobbles: 10
+Puesto: 872 | Disco: Para Mal O Para Bien | Artista: Rosendo | Scrobbles: 10
+Puesto: 873 | Disco: Roxy Music | Artista: Roxy Music | Scrobbles: 10
+Puesto: 874 | Disco: Reign in Blood | Artista: Slayer | Scrobbles: 10
+Puesto: 875 | Disco: EVOL | Artista: Sonic Youth | Scrobbles: 10
+Puesto: 876 | Disco: The Top | Artista: The Cure | Scrobbles: 10
+Puesto: 877 | Disco: Other Voices | Artista: The Doors | Scrobbles: 10
+Puesto: 878 | Disco: Costello Music | Artista: The Fratellis | Scrobbles: 10
+Puesto: 879 | Disco: First Impressions of Earth | Artista: The Strokes | Scrobbles: 10
+Puesto: 880 | Disco: Bringing Down The Horse | Artista: The Wallflowers | Scrobbles: 10
+Puesto: 881 | Disco: It's Hard | Artista: The Who | Scrobbles: 10
+Puesto: 882 | Disco: Afterburner | Artista: ZZ Top | Scrobbles: 10
+Puesto: 883 | Disco: El Loco | Artista: ZZ Top | Scrobbles: 10
+Puesto: 884 | Disco: Tres Hombres | Artista: ZZ Top | Scrobbles: 10
+Puesto: 885 | Disco: High Voltage | Artista: AC/DC | Scrobbles: 9
+Puesto: 886 | Disco: Diez | Artista: Alaska y Dinarama | Scrobbles: 9
+Puesto: 887 | Disco: School's Out | Artista: Alice Cooper | Scrobbles: 9
+Puesto: 888 | Disco: Flowing Rivers | Artista: Andy Gibb | Scrobbles: 9
+Puesto: 889 | Disco: Imaginations From The Other Side | Artista: Blind Guardian | Scrobbles: 9
+Puesto: 890 | Disco: Blonde on Blond | Artista: Bob Dylan | Scrobbles: 9
+Puesto: 891 | Disco: Algo más | Artista: Camilo Sesto | Scrobbles: 9
+Puesto: 892 | Disco: Saturday Night Fever: The Original Movie Sound Track | Artista: David Shire | Scrobbles: 9
+Puesto: 893 | Disco: Some Great Reward | Artista: Depeche Mode | Scrobbles: 9
+Puesto: 894 | Disco: Destrangis | Artista: Estopa | Scrobbles: 9
+Puesto: 895 | Disco: Camino Soria | Artista: Gabinete Caligari | Scrobbles: 9
+Puesto: 896 | Disco: Selling England by the Pound | Artista: Genesis | Scrobbles: 9
+Puesto: 897 | Disco: Golpes bajos | Artista: Golpes Bajos | Scrobbles: 9
+Puesto: 898 | Disco: Iron Maiden | Artista: Iron Maiden | Scrobbles: 9
+Puesto: 899 | Disco: Piece of Mind | Artista: Iron Maiden | Scrobbles: 9
+Puesto: 900 | Disco: Hotel, Dulce Hotel | Artista: Joaquín Sabina | Scrobbles: 9
+Puesto: 901 | Disco: Señales de Humo | Artista: Los Coronas | Scrobbles: 9
+Puesto: 902 | Disco: Mecano | Artista: Mecano | Scrobbles: 9
+Puesto: 903 | Disco: Porgy and Bess | Artista: Miles Davis | Scrobbles: 9
+Puesto: 904 | Disco: Brotherhood | Artista: New Order | Scrobbles: 9
+Puesto: 905 | Disco: The Good Son | Artista: Nick Cave & the Bad Seeds | Scrobbles: 9
+Puesto: 906 | Disco: Your Funeral... My Trial | Artista: Nick Cave & the Bad Seeds | Scrobbles: 9
+Puesto: 907 | Disco: McCartney | Artista: Paul McCartney | Scrobbles: 9
+Puesto: 908 | Disco: Canciones Para Normales y Mero Dementes | Artista: Rosendo | Scrobbles: 9
+Puesto: 909 | Disco: Virgin Killer | Artista: Scorpions | Scrobbles: 9
+Puesto: 910 | Disco: Juju | Artista: Siouxsie and the Banshees | Scrobbles: 9
+Puesto: 911 | Disco: Fresh Cream | Artista: Soundtrack | Scrobbles: 9
+Puesto: 912 | Disco: Pulp Fiction (Collector's Edition) | Artista: Soundtrack | Scrobbles: 9
+Puesto: 913 | Disco: Step II | Artista: Sylvester | Scrobbles: 9
+Puesto: 914 | Disco: Back Stabbers | Artista: The O'Jays | Scrobbles: 9
+Puesto: 915 | Disco: Along Came Jones | Artista: Tom Jones | Scrobbles: 9
+Puesto: 916 | Disco: Wild Life | Artista: Wings | Scrobbles: 9
+Puesto: 917 | Disco: Le Fabuleux Destin d'Amélie Poulain | Artista: Yann Tiersen | Scrobbles: 9
+Puesto: 918 | Disco: Technical Ectasy | Artista: Black Sabbath | Scrobbles: 8
+Puesto: 919 | Disco: Chic | Artista: Chic | Scrobbles: 8
+Puesto: 920 | Disco: David Bowie | Artista: David Bowie | Scrobbles: 8
+Puesto: 921 | Disco: Segundo Asalto | Artista: Def con Dos | Scrobbles: 8
+Puesto: 922 | Disco: Branquias Bajo el Agua | Artista: Derribos Arias | Scrobbles: 8
+Puesto: 923 | Disco: Porcupine | Artista: Echo & the Bunnymen | Scrobbles: 8
+Puesto: 924 | Disco: Glenn Miller (An Album Of Outstanding Arrangements) | Artista: Glenn Miller | Scrobbles: 8
+Puesto: 925 | Disco: Aoxomoxoa | Artista: Grateful Dead | Scrobbles: 8
+Puesto: 926 | Disco: American Idiot | Artista: Green Day | Scrobbles: 8
+Puesto: 927 | Disco: Powerslave | Artista: Iron Maiden | Scrobbles: 8
+Puesto: 928 | Disco: Volunteers | Artista: Jefferson Airplane | Scrobbles: 8
+Puesto: 929 | Disco: Coda | Artista: Led Zeppelin | Scrobbles: 8
+Puesto: 930 | Disco: Nuthin' Fancy | Artista: Lynyrd Skynyrd | Scrobbles: 8
+Puesto: 931 | Disco: The Holy Bible | Artista: Manic Street Preachers | Scrobbles: 8
+Puesto: 932 | Disco: Killing Is My Business...And Business Is Good! | Artista: Megadeth | Scrobbles: 8
+Puesto: 933 | Disco: Ride the Lightning | Artista: Metallica | Scrobbles: 8
+Puesto: 934 | Disco: Movement | Artista: New Order | Scrobbles: 8
+Puesto: 935 | Disco: Power, Corruption & Lies | Artista: New Order | Scrobbles: 8
+Puesto: 936 | Disco: Kicking Against the Pricks | Artista: Nick Cave & the Bad Seeds | Scrobbles: 8
+Puesto: 937 | Disco: Danger Zone | Artista: Player | Scrobbles: 8
+Puesto: 938 | Disco: 4ever | Artista: Prince | Scrobbles: 8
+Puesto: 939 | Disco: Green | Artista: R.E.M. | Scrobbles: 8
+Puesto: 940 | Disco: Leave Home | Artista: Ramones | Scrobbles: 8
+Puesto: 941 | Disco: ... A Las Lombrices | Artista: Rosendo | Scrobbles: 8
+Puesto: 942 | Disco: Lovedrive | Artista: Scorpions | Scrobbles: 8
+Puesto: 943 | Disco: Singles 93-03 | Artista: The Chemical Brothers | Scrobbles: 8
+Puesto: 944 | Disco: Pornography | Artista: The Cure | Scrobbles: 8
+Puesto: 945 | Disco: Singles | Artista: The Smiths | Scrobbles: 8
+Puesto: 946 | Disco: Raw Power | Artista: The Stooges | Scrobbles: 8
+Puesto: 947 | Disco: File Live Yardbirds | Artista: The Yardbirds | Scrobbles: 8
+Puesto: 948 | Disco: Older | Artista: Various Artists | Scrobbles: 8
+Puesto: 949 | Disco: Suffer | Artista: Bad Religion | Scrobbles: 7
+Puesto: 950 | Disco: Live At The Budokan | Artista: Blur | Scrobbles: 7
+Puesto: 951 | Disco: The Wild, the Innocent & the E Street Shuffle | Artista: Bruce Springsteen | Scrobbles: 7
+Puesto: 952 | Disco: Live Santa Monica '72 | Artista: David Bowie | Scrobbles: 7
+Puesto: 953 | Disco: Deep Purple In Rock | Artista: Deep Purple | Scrobbles: 7
+Puesto: 954 | Disco: Who Do We Think We Are | Artista: Deep Purple | Scrobbles: 7
+Puesto: 955 | Disco: Nursery Cryme | Artista: Genesis | Scrobbles: 7
+Puesto: 956 | Disco: The Marvelous Miller Medleys | Artista: Glenn Miller | Scrobbles: 7
+Puesto: 957 | Disco: El Espiritu Del Vino | Artista: Héroes del Silencio | Scrobbles: 7
+Puesto: 958 | Disco: Yours Truly, Angry Mob | Artista: Kaiser Chiefs | Scrobbles: 7
+Puesto: 959 | Disco: Empire | Artista: Kasabian | Scrobbles: 7
+Puesto: 960 | Disco: Trans-Europe Express | Artista: Kraftwerk | Scrobbles: 7
+Puesto: 961 | Disco: Presence | Artista: Led Zeppelin | Scrobbles: 7
+Puesto: 962 | Disco: A Día De Hoy | Artista: Luis Eduardo Aute | Scrobbles: 7
+Puesto: 963 | Disco: Auterretratos Vol.1 (CD1) | Artista: Luis Eduardo Aute | Scrobbles: 7
+Puesto: 964 | Disco: Tubular Bells II | Artista: Mike Oldfield | Scrobbles: 7
+Puesto: 965 | Disco: Unplugged in New York | Artista: Nirvana | Scrobbles: 7
+Puesto: 966 | Disco: Songs For The Front Row - The Best of Ocean Colour Scene - ARK21 | Artista: Ocean Colour Scene | Scrobbles: 7
+Puesto: 967 | Disco: Fly To The Rainbow | Artista: Scorpions | Scrobbles: 7
+Puesto: 968 | Disco: Mellon Collie and the Infinite Sadness (CD 1 Dawn to Dusk) | Artista: The Smashing Pumpkins | Scrobbles: 7
+Puesto: 969 | Disco: Vivir Para Contarlo | Artista: Violadores del Verso | Scrobbles: 7
+Puesto: 970 | Disco: Don't Stop | Artista: Billy Idol | Scrobbles: 6
+Puesto: 971 | Disco: Bustin' + Dronin' (Disc-1) | Artista: Blur | Scrobbles: 6
+Puesto: 972 | Disco: The Freewheelin' Bob Dylan | Artista: Bob Dylan | Scrobbles: 6
+Puesto: 973 | Disco: Mali Music | Artista: Damon Albarn | Scrobbles: 6
+Puesto: 974 | Disco: Material Defectuoso | Artista: Extremoduro | Scrobbles: 6
+Puesto: 975 | Disco: Foxtrot | Artista: Genesis | Scrobbles: 6
+Puesto: 976 | Disco: Double Fantasy | Artista: John Lennon/Yoko Ono | Scrobbles: 6
+Puesto: 977 | Disco: Korn | Artista: Korn | Scrobbles: 6
+Puesto: 978 | Disco: Big Calm | Artista: Morcheeba | Scrobbles: 6
+Puesto: 979 | Disco: Death Goes To The Disco | Artista: Pulp | Scrobbles: 6
+Puesto: 980 | Disco: Pleasant Dreams | Artista: Ramones | Scrobbles: 6
+Puesto: 981 | Disco: Grand Theft Auto: San Andreas Official Soundtrack Box Set | Artista: Soundtrack | Scrobbles: 6
+Puesto: 982 | Disco: Minute by Minute | Artista: The Doobie Brothers | Scrobbles: 6
+Puesto: 983 | Disco: Saturday Night Fever: The Original Movie Sound Track | Artista: The Trammps | Scrobbles: 6
+Puesto: 984 | Disco: White light, white heat | Artista: The Velvet Underground | Scrobbles: 6
+Puesto: 985 | Disco: The Invisible Band | Artista: Travis | Scrobbles: 6
+Puesto: 986 | Disco: Dirty Deeds Done Dirt Cheap | Artista: AC/DC | Scrobbles: 5
+Puesto: 987 | Disco: Parklive Disc 3 | Artista: Blur | Scrobbles: 5
+Puesto: 988 | Disco: Buddy Holly 75 - CD03 | Artista: Buddy Holly | Scrobbles: 5
+Puesto: 989 | Disco: 4 años, 2 meses y 1 dia | Artista: Cicatriz | Scrobbles: 5
+Puesto: 990 | Disco: Dr Dee | Artista: Damon Albarn | Scrobbles: 5
+Puesto: 991 | Disco: Pin Ups | Artista: David Bowie | Scrobbles: 5
+Puesto: 992 | Disco: Scary Monsters | Artista: David Bowie | Scrobbles: 5
+Puesto: 993 | Disco: Oi! | Artista: Decibelios | Scrobbles: 5
+Puesto: 994 | Disco: Pulp Fiction (Collector's Edition) | Artista: Dick Dale | Scrobbles: 5
+Puesto: 995 | Disco: El Apóstol De La Lujuria | Artista: Ilegales | Scrobbles: 5
+Puesto: 996 | Disco: El Muchacho Eléctrico | Artista: Jaime Urrutia | Scrobbles: 5
+Puesto: 997 | Disco: Best Of Bossa Nova - 75 Classic Hits (Disc 1) | Artista: João Gilberto | Scrobbles: 5
+Puesto: 998 | Disco: Kollected - The Best Of Kula Shaker | Artista: Kula Shaker | Scrobbles: 5
+Puesto: 999 | Disco: Life in Cartoon Motion | Artista: Mika | Scrobbles: 5
+Puesto: 1000 | Disco: Maybe You've Been Brainwashed Too | Artista: New Radicals | Scrobbles: 5
+Puesto: 1001 | Disco: Prepárate | Artista: Obús | Scrobbles: 5
+Puesto: 1002 | Disco: Animals | Artista: Pink Floyd | Scrobbles: 5
+Puesto: 1003 | Disco: A Pelo | Artista: Platero y tú | Scrobbles: 5
+Puesto: 1004 | Disco: Chronic Town | Artista: R.E.M. | Scrobbles: 5
+Puesto: 1005 | Disco: Up | Artista: R.E.M. | Scrobbles: 5
+Puesto: 1006 | Disco: The Great Rock'n'Roll Swindle | Artista: Sid Vicious | Scrobbles: 5
+Puesto: 1007 | Disco: Best Of Bossa Nova - 75 Classic Hits (Disc 1) | Artista: Sylvia Telles | Scrobbles: 5
+Puesto: 1008 | Disco: Sweetheart Of The Rodeo | Artista: The Byrds | Scrobbles: 5
+Puesto: 1009 | Disco: In Concert CD2 | Artista: The Doors | Scrobbles: 5
+Puesto: 1010 | Disco: Sam's Town | Artista: The Killers | Scrobbles: 5
+Puesto: 1011 | Disco: Dirty Work | Artista: The Rolling Stones | Scrobbles: 5
+Puesto: 1012 | Disco: Pop | Artista: U2 | Scrobbles: 5
+Puesto: 1013 | Disco: Vampire Weekend | Artista: Vampire Weekend | Scrobbles: 5
+Puesto: 1014 | Disco: Van Halen II | Artista: Van Halen | Scrobbles: 5
+Puesto: 1015 | Disco: Al Green Is Love | Artista: Al Green | Scrobbles: 4
+Puesto: 1016 | Disco: En Vivo Mucho Mejor | Artista: Ariel Rot | Scrobbles: 4
+Puesto: 1017 | Disco: The Boy with the Arab Strap | Artista: Belle and Sebastian | Scrobbles: 4
+Puesto: 1018 | Disco: Amor Libre | Artista: Camilo Sesto | Scrobbles: 4
+Puesto: 1019 | Disco: Grandes Éxitos Pequeños Regalos 2 | Artista: Celtas Cortos | Scrobbles: 4
+Puesto: 1020 | Disco: The Marshall Mathers LP | Artista: Eminem | Scrobbles: 4
+Puesto: 1021 | Disco: Los singles | Artista: Gabinete Caligari | Scrobbles: 4
+Puesto: 1022 | Disco: Sombras Negras | Artista: Gabinete Caligari | Scrobbles: 4
+Puesto: 1023 | Disco: The New Glenn Miller Orchestra in Hi Fi | Artista: Glenn Miller | Scrobbles: 4
+Puesto: 1024 | Disco: Mentiras Piadosas | Artista: Joaquín Sabina | Scrobbles: 4
+Puesto: 1025 | Disco: Canciones de un Poeta | Artista: José Luis Perales | Scrobbles: 4
+Puesto: 1026 | Disco: Vaqueros del espacio | Artista: Loquillo y Trogloditas | Scrobbles: 4
+Puesto: 1027 | Disco: Incantations | Artista: Mike Oldfield | Scrobbles: 4
+Puesto: 1028 | Disco: Different Class (bonus disc) | Artista: Pulp | Scrobbles: 4
+Puesto: 1029 | Disco: Greatest Hits II | Artista: Queen | Scrobbles: 4
+Puesto: 1030 | Disco: Pulp Fiction (Collector's Edition) | Artista: Al Green | Scrobbles: 3
+Puesto: 1031 | Disco: Saturday Night Fever Soundtrack | Artista: Bee Gees | Scrobbles: 3
+Puesto: 1032 | Disco: Colours - Fan Club Single | Artista: Blur | Scrobbles: 3
+Puesto: 1033 | Disco: Midlife A Beginner's Guide To Blur | Artista: Blur | Scrobbles: 3
+Puesto: 1034 | Disco: The Times They Are A-Changin' | Artista: Bob Dylan | Scrobbles: 3
+Puesto: 1035 | Disco: A Different Kind of Tension | Artista: Buzzcocks | Scrobbles: 3
+Puesto: 1036 | Disco: Camilo | Artista: Camilo Sesto | Scrobbles: 3
+Puesto: 1037 | Disco: 9:30 El Remix | Artista: El Club de los Poetas Violentos | Scrobbles: 3
+Puesto: 1038 | Disco: The Good, the Bad and the Ugly | Artista: Ennio Morricone | Scrobbles: 3
+Puesto: 1039 | Disco: El Viaje A Ninguna Parte (disc 1) | Artista: Enrique Bunbury | Scrobbles: 3
+Puesto: 1040 | Disco: Grandes éxitos y fracasos (Episodio segundo) | Artista: Extremoduro | Scrobbles: 3
+Puesto: 1041 | Disco: Song Machine, Season One: Strange Timez (Japanese Edition) | Artista: Gorillaz | Scrobbles: 3
+Puesto: 1042 | Disco: Love Will Tear Us Apart | Artista: Joy Division | Scrobbles: 3
+Puesto: 1043 | Disco: Saturday Night Fever: The Original Movie Sound Track | Artista: KC and The Sunshine Band | Scrobbles: 3
+Puesto: 1044 | Disco: Saturday Night Fever: The Original Movie Sound Track | Artista: Kool & the Gang | Scrobbles: 3
+Puesto: 1045 | Disco: Proxima Estación: Esperanza | Artista: Manu Chao | Scrobbles: 3
+Puesto: 1046 | Disco: Absolution | Artista: Muse | Scrobbles: 3
+Puesto: 1047 | Disco: Mi Tierra | Artista: Nino Bravo | Scrobbles: 3
+Puesto: 1048 | Disco: Passion | Artista: Peor Impossible | Scrobbles: 3
+Puesto: 1049 | Disco: Innuendo | Artista: Queen | Scrobbles: 3
+Puesto: 1050 | Disco: The Miracle | Artista: Queen | Scrobbles: 3
+Puesto: 1051 | Disco: La Ley Del Desierto, La Ley Del Mar | Artista: Radio Futura | Scrobbles: 3
+Puesto: 1052 | Disco: Saturday Night Fever: The Original Movie Sound Track | Artista: Ralph MacDonald | Scrobbles: 3
+Puesto: 1053 | Disco: Anthology Disc 2 | Artista: Ramones | Scrobbles: 3
+Puesto: 1054 | Disco: Paranoid | Artista: Soundtrack | Scrobbles: 3
+Puesto: 1055 | Disco: Saturday Night Fever: The Original Movie Sound Track | Artista: Tavares | Scrobbles: 3
+Puesto: 1056 | Disco: Hot Fuss (limited edition) | Artista: The Killers | Scrobbles: 3
+Puesto: 1057 | Disco: Hums Of The Lovin' Spoonful | Artista: The Lovin' Spoonful | Scrobbles: 3
+Puesto: 1058 | Disco: Saturday Night Fever: The Original Movie Sound Track | Artista: Various Artists | Scrobbles: 3
+Puesto: 1059 | Disco: Saturday Night Fever: The Original Movie Sound Track | Artista: Walter Murphy | Scrobbles: 3
+Puesto: 1060 | Disco: Close to the Edge | Artista: Yes | Scrobbles: 3
+Puesto: 1061 | Disco: Saturday Night Fever: The Original Movie Sound Track | Artista: Yvonne Elliman | Scrobbles: 3
+Puesto: 1062 | Disco: Le origini - Volume 2 | Artista: Adriano Celentano | Scrobbles: 2
+Puesto: 1063 | Disco: Metalmorfosis | Artista: Barón Rojo | Scrobbles: 2
+Puesto: 1064 | Disco: All the people... Blur: Live in Hyde Park 02/07/2009 - Disc 01 | Artista: Blur | Scrobbles: 2
+Puesto: 1065 | Disco: BBC Broadcasts, 1995.06.17 London, Mile End Stadium | Artista: Blur | Scrobbles: 2
+Puesto: 1066 | Disco: Blurb 1 | Artista: Blur | Scrobbles: 2
+Puesto: 1067 | Disco: Pulp Fiction (Collector's Edition) | Artista: Brothers Johnson | Scrobbles: 2
+Puesto: 1068 | Disco: Grandes Éxitos Pequeños Regalos 1 | Artista: Celtas Cortos | Scrobbles: 2
+Puesto: 1069 | Disco: Reality | Artista: David Bowie | Scrobbles: 2
+Puesto: 1070 | Disco: The Very Best of Elvis Costello Disc 2 | Artista: Elvis Costello | Scrobbles: 2
+Puesto: 1071 | Disco: The Very Best of Elvis Costello Disc 2 | Artista: Elvis Costello & The Attractions | Scrobbles: 2
+Puesto: 1072 | Disco: Cuatro rosas. Que Dios reparta suerte | Artista: Gabinete Caligari | Scrobbles: 2
+Puesto: 1073 | Disco: Canciones '84 - '96 (CD 2 von 2) | Artista: Héroes del Silencio | Scrobbles: 2
+Puesto: 1074 | Disco: Física y Química | Artista: Joaquín Sabina | Scrobbles: 2
+Puesto: 1075 | Disco: Pulp Fiction (Collector's Edition) | Artista: John Travolta | Scrobbles: 2
+Puesto: 1076 | Disco: Raindrops Keep Fallin' On My Head | Artista: Johnny Mathis | Scrobbles: 2
+Puesto: 1077 | Disco: Pulp Fiction (Collector's Edition) | Artista: Kool & the Gang | Scrobbles: 2
+Puesto: 1078 | Disco: 2002 - KOLLECTED - THE BEST OF | Artista: Kula Shaker | Scrobbles: 2
+Puesto: 1079 | Disco: Greatest Hits | Artista: Les Paul & Mary Ford | Scrobbles: 2
+Puesto: 1080 | Disco: Better Can't Make Your Life Better | Artista: Lilys | Scrobbles: 2
+Puesto: 1081 | Disco: ¿Dónde Estabas Tú En El 77? | Artista: Loquillo y Trogloditas | Scrobbles: 2
+Puesto: 1082 | Disco: Pacífico / Todos los chico en la playa | Artista: Loquillo y Trogloditas | Scrobbles: 2
+Puesto: 1083 | Disco: Disco Pirata | Artista: Los Rodríguez | Scrobbles: 2
+Puesto: 1084 | Disco: Bultacos Y Montesas | Artista: Los Sencillos | Scrobbles: 2
+Puesto: 1085 | Disco: Metal Machine Music | Artista: Lou Reed | Scrobbles: 2
+Puesto: 1086 | Disco: Crises | Artista: Mike Oldfield | Scrobbles: 2
+Puesto: 1087 | Disco: Ommadawn | Artista: Mike Oldfield | Scrobbles: 2
+Puesto: 1088 | Disco: Apocalypshit | Artista: Molotov | Scrobbles: 2
+Puesto: 1089 | Disco: The 2nd Law | Artista: Muse | Scrobbles: 2
+Puesto: 1090 | Disco: One From the Modern | Artista: Ocean Colour Scene | Scrobbles: 2
+Puesto: 1091 | Disco: It | Artista: Pulp | Scrobbles: 2
+Puesto: 1092 | Disco: Bookends | Artista: Simon & Garfunkel | Scrobbles: 2
+Puesto: 1093 | Disco: Performance and Cocktails | Artista: Stereophonics | Scrobbles: 2
+Puesto: 1094 | Disco: Best Of The Capitol Years 1995-2007 | Artista: The Dandy Warhols | Scrobbles: 2
+Puesto: 1095 | Disco: Absent Friends | Artista: The Divine Comedy | Scrobbles: 2
+Puesto: 1096 | Disco: Come on Feel the Lemonheads | Artista: The Lemonheads | Scrobbles: 2
+Puesto: 1097 | Disco: Rotten Apples | Artista: The Smashing Pumpkins | Scrobbles: 2
+Puesto: 1098 | Disco: Is This It (US) | Artista: The Strokes | Scrobbles: 2
+Puesto: 1099 | Disco: Winning Days | Artista: The Vines | Scrobbles: 2
+Puesto: 1100 | Disco: Let's Stay Together | Artista: Al Green | Scrobbles: 1
+Puesto: 1101 | Disco: Alaska Y Los Pegamoides | Artista: Alaska y Los Pegamoides | Scrobbles: 1
+Puesto: 1102 | Disco: Come to Daddy | Artista: Aphex Twin | Scrobbles: 1
+Puesto: 1103 | Disco: Raindrops Keep Fallin' on My Head | Artista: B.J. Thomas | Scrobbles: 1
+Puesto: 1104 | Disco: La Araña | Artista: Barricada | Scrobbles: 1
+Puesto: 1105 | Disco: Living Eyes | Artista: Bee Gees | Scrobbles: 1
+Puesto: 1106 | Disco: Greatest Hits | Artista: Billy Idol | Scrobbles: 1
+Puesto: 1107 | Disco: Rebel Yell | Artista: Billy Idol | Scrobbles: 1
+Puesto: 1108 | Disco: Grand Theft Auto: San Andreas Official Soundtrack Box Set | Artista: Black Harmony | Scrobbles: 1
+Puesto: 1109 | Disco: Enema of the State | Artista: blink-182 | Scrobbles: 1
+Puesto: 1110 | Disco: All the people... Blur: Live in Hyde Park 02/07/2009 - Disc 02 | Artista: Blur | Scrobbles: 1
+Puesto: 1111 | Disco: Atrapado en el Amor | Artista: Burning | Scrobbles: 1
+Puesto: 1112 | Disco: Best Of Bossa Nova - 75 Classic Hits (Disc 1) | Artista: Carlos Lyra | Scrobbles: 1
+Puesto: 1113 | Disco: 1. Outside - The Nathan Adler Diaries: A Hyper Cycle | Artista: David Bowie | Scrobbles: 1
+Puesto: 1114 | Disco: David Live CD1 | Artista: David Bowie | Scrobbles: 1
+Puesto: 1115 | Disco: Space Oddity (Bonus Disc) | Artista: David Bowie | Scrobbles: 1
+Puesto: 1116 | Disco: Stage (disc 2) | Artista: David Bowie | Scrobbles: 1
+Puesto: 1117 | Disco: Vacaciones en el Prat | Artista: Decibelios | Scrobbles: 1
+Puesto: 1118 | Disco: Ultramemia | Artista: Def con Dos | Scrobbles: 1
+Puesto: 1119 | Disco: Pulp Fiction (Collector's Edition) | Artista: Duane Whitaker | Scrobbles: 1
+Puesto: 1120 | Disco: Alas Sobre El Mundo | Artista: El Aviador Dro | Scrobbles: 1
+Puesto: 1121 | Disco: Closeup | Artista: Frankie Valli | Scrobbles: 1
+Puesto: 1122 | Disco: PIAS 2005 Music First | Artista: Franz Ferdinand | Scrobbles: 1
+Puesto: 1123 | Disco: SUBID LA MUSICA | Artista: Gabinete Caligari | Scrobbles: 1
+Puesto: 1124 | Disco: Older | Artista: George Michael | Scrobbles: 1
+Puesto: 1125 | Disco: For The Very First Time Vol. 2 | Artista: Glenn Miller | Scrobbles: 1
+Puesto: 1126 | Disco: The Sound of Glenn Miller | Artista: Glenn Miller | Scrobbles: 1
+Puesto: 1127 | Disco: Kasabian | Artista: Ｇｏｒｉｌｌａｚ | Scrobbles: 1
+Puesto: 1128 | Disco: Better Than Raw | Artista: Helloween | Scrobbles: 1
+Puesto: 1129 | Disco: Bonito | Artista: Jarabe de Palo | Scrobbles: 1
+Puesto: 1130 | Disco: De Vuelta Y Vuelta | Artista: Jarabe de Palo | Scrobbles: 1
+Puesto: 1131 | Disco: Depende | Artista: Jarabe de Palo | Scrobbles: 1
+Puesto: 1132 | Disco: Cross | Artista: Justice | Scrobbles: 1
+Puesto: 1133 | Disco: Pulp Fiction (Collector's Edition) | Artista: Link Wray & His Wraymen | Scrobbles: 1
+Puesto: 1134 | Disco: Ese Día Piensa En Mí | Artista: Los Suaves | Scrobbles: 1
+Puesto: 1135 | Disco: PIAS 2005 Music First | Artista: Marc Parrot | Scrobbles: 1
+Puesto: 1136 | Disco: Pulp Fiction (Collector's Edition) | Artista: Maria McKee | Scrobbles: 1
+Puesto: 1137 | Disco: Antichrist Superstar | Artista: Marilyn Manson | Scrobbles: 1
+Puesto: 1138 | Disco: Metallica (Black Album) | Artista: Metallica | Scrobbles: 1
+Puesto: 1139 | Disco: PIAS 2005 Music First | Artista: Mowgai | Scrobbles: 1
+Puesto: 1140 | Disco: Tender Prey | Artista: Nick Cave & the Bad Seeds | Scrobbles: 1
+Puesto: 1141 | Disco: Best Of The Capitol Years 1995-2007 | Artista: Original TV Soundtrack | Scrobbles: 1
+Puesto: 1142 | Disco: Manners | Artista: Passion Pit | Scrobbles: 1
+Puesto: 1143 | Disco: Sounds of Silence | Artista: Paul Simon | Scrobbles: 1
+Puesto: 1144 | Disco: Best Of Bossa Nova - 75 Classic Hits (Disc 1) | Artista: Pery Ribeiro | Scrobbles: 1
+Puesto: 1145 | Disco: Anthology ( Disc 2 ) | Artista: Ramones | Scrobbles: 1
+Puesto: 1146 | Disco: Listos Para La Reconversión | Artista: Rosendo | Scrobbles: 1
+Puesto: 1147 | Disco: Pulp Fiction (Collector's Edition) | Artista: Samuel L. Jackson | Scrobbles: 1
+Puesto: 1148 | Disco: Blackout | Artista: Scorpions | Scrobbles: 1
+Puesto: 1149 | Disco: Never Mind The Bollocks [TOCP-53098 TOSHIBA-EMI JAPAN] | Artista: Sex Pistols | Scrobbles: 1
+Puesto: 1150 | Disco: The Great Rock'n'Roll Swindle | Artista: Sex Pistols | Scrobbles: 1
+Puesto: 1151 | Disco: Sounds of Silence | Artista: Simon & Garfunkel | Scrobbles: 1
+Puesto: 1152 | Disco: Siniestro Total II: El Regreso | Artista: Siniestro Total | Scrobbles: 1
+Puesto: 1153 | Disco: Eton Alive | Artista: Sleaford Mods | Scrobbles: 1
+Puesto: 1154 | Disco: Spare Ribs | Artista: Sleaford Mods | Scrobbles: 1
+Puesto: 1155 | Disco: Easy Rider | Artista: Steppenwolf | Scrobbles: 1
+Puesto: 1156 | Disco: Adventure | Artista: Television | Scrobbles: 1
+Puesto: 1157 | Disco: Push the Button | Artista: The Chemical Brothers | Scrobbles: 1
+Puesto: 1158 | Disco: PIAS 2005 Music First | Artista: The Go! Team | Scrobbles: 1
+Puesto: 1159 | Disco: Get The Knack | Artista: The Knack | Scrobbles: 1
+Puesto: 1160 | Disco: Pulp Fiction (Collector's Edition) | Artista: The Lively Ones | Scrobbles: 1
+Puesto: 1161 | Disco: Someone to Drive You Home | Artista: The Long Blondes | Scrobbles: 1
+Puesto: 1162 | Disco: Pulp Fiction (Collector's Edition) | Artista: The Marketts | Scrobbles: 1
+Puesto: 1163 | Disco: Always Outnumbered Never Outgu | Artista: The Prodigy | Scrobbles: 1
+Puesto: 1164 | Disco: Pulp Fiction (Collector's Edition) | Artista: The Robins | Scrobbles: 1
+Puesto: 1165 | Disco: It's Only Rock ' N Roll | Artista: The Rolling Stones | Scrobbles: 1
+Puesto: 1166 | Disco: Their Satanic Majesties Request | Artista: The Rolling Stones | Scrobbles: 1
+Puesto: 1167 | Disco: Mellon Collie and the Infinite Sadness (CD 2 Twilight to Starlight) | Artista: The Smashing Pumpkins | Scrobbles: 1
+Puesto: 1168 | Disco: Hatful Of Hollow (Japan MiniLP WPCR-12439) | Artista: The Smiths | Scrobbles: 1
+Puesto: 1169 | Disco: Pulp Fiction (Collector's Edition) | Artista: The Statler Brothers | Scrobbles: 1
+Puesto: 1170 | Disco: Kilimanjaro | Artista: The Teardrop Explodes | Scrobbles: 1
+Puesto: 1171 | Disco: Van Halen | Artista: Van Halen | Scrobbles: 1
+Puesto: 1172 | Disco: The Bends | Artista: Varios intérpretes | Scrobbles: 1
+Puesto: 1173 | Disco: Let's Stay Together | Artista: Various Artists | Scrobbles: 1
+Puesto: 1174 | Disco: The Invisible Band | Artista: Various Artists | Scrobbles: 1
+Puesto: 1175 | Disco: Best Of Bossa Nova - 75 Classic Hits (Disc 1) | Artista: Vinícius de Moraes | Scrobbles: 1
