@@ -74,12 +74,13 @@ Una vez finalice la creación de infraestructura, estará habilitado el acceso r
 ssh -i ~/.ssh/id_rsa azureuser@$IP_SERVIDOR
 ```
 
-``` ✓ Infraestructura desplegada correctamente
-• Resource Group: rg-measured-starfish
-• IP del servidor: 52.232.22.109
-Agregando 52.232.22.109 a known_hosts...
+``` 
+✓ Infraestructura desplegada correctamente
+• Resource Group: rg-thankful-marten
+• IP del servidor: 23.97.200.242
+Agregando 23.97.200.242 a known_hosts...
 Pseudo-terminal will not be allocated because stdin is not a terminal.
-Linux vm-tf 6.1.0-38-cloud-amd64 #1 SMP PREEMPT_DYNAMIC Debian 6.1.147-1 (2025-08-02) x86_64
+Linux vm-tf 6.1.0-40-cloud-amd64 #1 SMP PREEMPT_DYNAMIC Debian 6.1.153-1 (2025-09-20) x86_64
 
 The programs included with the Debian GNU/Linux system are free software;
 the exact distribution terms for each program are described in the
@@ -92,11 +93,11 @@ vm-tf
 Filesystem      Size  Used Avail Use% Mounted on
 udev            444M     0  444M   0% /dev
 tmpfs            91M  628K   91M   1% /run
-/dev/sdb1        30G  698M   28G   3% /
+/dev/sda1        30G  700M   28G   3% /
 tmpfs           455M     0  455M   0% /dev/shm
 tmpfs           5.0M     0  5.0M   0% /run/lock
-/dev/sdb15      124M   12M  113M  10% /boot/efi
-/dev/sda1       3.9G   24K  3.7G   1% /mnt
+/dev/sda15      124M   12M  113M  10% /boot/efi
+/dev/sdb1       3.9G   24K  3.7G   1% /mnt
 tmpfs            91M     0   91M   0% /run/user/1000
 Conexión remota correcta.
 ```
@@ -114,55 +115,55 @@ Conexión remota correcta.
 
 ```
 === ANSIBLE  ===
-52.232.22.109 | SUCCESS => {
+23.97.200.242 | SUCCESS => {
     "changed": false,
     "ping": "pong"
 }
 0
 
-PLAY [debian12] *****************************************************************************************************************************************************************************
+PLAY [debian12] ************************************************************************************************************************************************************
 
-TASK [Gathering Facts] **********************************************************************************************************************************************************************
-ok: [52.232.22.109]
+TASK [Gathering Facts] *****************************************************************************************************************************************************
+ok: [23.97.200.242]
 
-TASK [Instala dependencias y Docker] ********************************************************************************************************************************************************
-changed: [52.232.22.109]
+TASK [Instala dependencias y Docker] ***************************************************************************************************************************************
+changed: [23.97.200.242]
 
-TASK [Añade clave GPG oficial de Docker] ****************************************************************************************************************************************************
-changed: [52.232.22.109]
+TASK [Añade clave GPG oficial de Docker] ***********************************************************************************************************************************
+changed: [23.97.200.242]
 
-TASK [Añade el repositorio de Docker] *******************************************************************************************************************************************************
-changed: [52.232.22.109]
+TASK [Añade el repositorio de Docker] **************************************************************************************************************************************
+changed: [23.97.200.242]
 
-TASK [Instala docker-ce] ********************************************************************************************************************************************************************
-changed: [52.232.22.109]
+TASK [Instala docker-ce] ***************************************************************************************************************************************************
+changed: [23.97.200.242]
 
-TASK [Asegura que Docker está activo] *******************************************************************************************************************************************************
-ok: [52.232.22.109]
+TASK [Asegura que Docker está activo] **************************************************************************************************************************************
+ok: [23.97.200.242]
 
-TASK [Lanza nginx con Docker] ***************************************************************************************************************************************************************
-changed: [52.232.22.109]
+TASK [Lanza nginx con Docker] **********************************************************************************************************************************************
+changed: [23.97.200.242]
 
-TASK [Lanza MySQL con Docker] ***************************************************************************************************************************************************************
-changed: [52.232.22.109]
+TASK [Lanza MySQL con Docker] **********************************************************************************************************************************************
+changed: [23.97.200.242]
 
-TASK [Esperar hasta que MySQL esté listo para conexiones (máx 60s)] *************************************************************************************************************************
-changed: [52.232.22.109]
+TASK [Esperar hasta que MySQL esté listo para conexiones (máx 60s)] ********************************************************************************************************
+changed: [23.97.200.242]
 
-TASK [Crea usuario en MySQL usando shell] ***************************************************************************************************************************************************
-changed: [52.232.22.109]
+TASK [Crea usuario en MySQL usando shell] **********************************************************************************************************************************
+changed: [23.97.200.242]
 
-TASK [Lanza PostgreSQL con Docker] **********************************************************************************************************************************************************
-changed: [52.232.22.109]
+TASK [Lanza PostgreSQL con Docker] *****************************************************************************************************************************************
+changed: [23.97.200.242]
 
-TASK [Esperar hasta que PostgreSQL esté listo para conexiones (máx 60s)] ********************************************************************************************************************
-changed: [52.232.22.109]
+TASK [Esperar hasta que PostgreSQL esté listo para conexiones (máx 60s)] ***************************************************************************************************
+changed: [23.97.200.242]
 
-TASK [Crea usuario en PostgreSQL usando shell] **********************************************************************************************************************************************
-changed: [52.232.22.109]
+TASK [Crea usuario en PostgreSQL usando shell] *****************************************************************************************************************************
+changed: [23.97.200.242]
 
-PLAY RECAP **********************************************************************************************************************************************************************************
-52.232.22.109              : ok=13   changed=11   unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+PLAY RECAP *****************************************************************************************************************************************************************
+23.97.200.242              : ok=13   changed=11   unreachable=0    failed=0    skipped=0    rescued=0    ignored=0
 ```
 
 ### FASE 3 - APLICACIÓN (Python)
@@ -179,8 +180,6 @@ PLAY RECAP *********************************************************************
 El script solicitará la clave API, usuario de lastfm y motor de base de datos para proceder a descargar y guardar los registros. david es el usuario de la bbdd.
 
 ```
-Introduce la clave API de LastFM: *********************************
-✅ Clave API actualizada correctamente en la línea 12 de lastfm_db.py.
 Introduce usuario de LastFM: hayman3030
 Introduce motor BBDD (mysql o postgresql): postgresql
 ✅ Motor seleccionado: postgresql con puerto 5432
@@ -191,7 +190,11 @@ Comenzando descarga de registros LastFM...
 ============================================================
 Last.FM Collector BBDD Script
 ============================================================
-[Inicio] 2025-08-23 15:47:56
+[Inicio] 2025-09-28 16:31:44
+
+Introduce tu API key de Last.fm (intento 1/3):
+API key: 
+✓ API key válida y verificada
 
 Verificando usuario 'hayman3030' en Last.fm...
 ✔ Usuario encontrado
@@ -208,39 +211,39 @@ INICIANDO EXTRACCIÓN DE DATOS
 
 --- Procesando ARTISTAS ---
 ✔ Tabla 'artistas' creada/verificada
-Total de artistas: 443 en 3 páginas
-Procesando: 100.0% (3/3) - Insertados: 443
-✔ Completado: 443 registros insertados en la tabla 'artistas'
+Total de artistas: 450 en 3 páginas
+Procesando: 100.0% (3/3) - Insertados: 450
+✔ Completado: 450 registros insertados en la tabla 'artistas'
 
 --- Procesando DISCOS ---
 ✔ Tabla 'discos' creada/verificada
-Total de discos: 1.161 en 6 páginas
-Procesando: 100.0% (6/6) - Insertados: 1.161
-✔ Completado: 1.161 registros insertados en la tabla 'discos'
+Total de discos: 1.175 en 6 páginas
+Procesando: 100.0% (6/6) - Insertados: 1.175
+✔ Completado: 1.175 registros insertados en la tabla 'discos'
 
 --- Procesando CANCIONES ---
 ✔ Tabla 'canciones' creada/verificada
-Total de canciones: 10.473 en 53 páginas
-Procesando: 100.0% (53/53) - Insertados: 10.473
-✔ Completado: 10.473 registros insertados en la tabla 'canciones'
+Total de canciones: 10.580 en 53 páginas
+Procesando: 100.0% (53/53) - Insertados: 10.580
+✔ Completado: 10.580 registros insertados en la tabla 'canciones'
 
 --- Procesando SCROBBLES ---
 ✔ Tabla 'scrobbles' creada/verificada
-Total de scrobbles: 39.117 en 196 páginas
-Procesando: 100.0% (196/196) - Insertados: 39.117
-✔ Completado: 39.117 registros insertados en la tabla 'scrobbles'
+Total de scrobbles: 39.698 en 199 páginas
+Procesando: 100.0% (199/199) - Insertados: 39.698
+✔ Completado: 39.698 registros insertados en la tabla 'scrobbles'
 
 ============================================================
 RESUMEN FINAL
 ============================================================
 Usuario: hayman3030
-Total registros insertados: 51.194
-Duración: 0:05:55
-[Fin] 2025-08-23 15:53:52
+Total registros insertados: 51.903
+Duración: 0:04:58
+[Fin] 2025-09-28 16:36:42
 ============================================================
  Artistas | Discos | Canciones | Scrobbles 
 ----------+--------+-----------+-----------
-      443 |   1161 |     10473 |     39117
+      450 |   1175 |     10580 |     39698
 (1 row)
 ```
 
@@ -255,38 +258,38 @@ Duración: 0:05:55
 **Instrucción principal**: ```ansible-playbook -i inventario.ini frontend.yml```
 
 ```
-PLAY [debian12] *****************************************************************************************************************************************************************************
+PLAY [debian12] ************************************************************************************************************************************************************
 
-TASK [Gathering Facts] **********************************************************************************************************************************************************************
-ok: [52.232.22.109]
+TASK [Gathering Facts] *****************************************************************************************************************************************************
+ok: [23.97.200.242]
 
-TASK [Crear directorio de la app en el host] ************************************************************************************************************************************************
-changed: [52.232.22.109]
+TASK [Crear directorio de la app en el host] *******************************************************************************************************************************
+changed: [23.97.200.242]
 
-TASK [Copiar aplicación Flask] **************************************************************************************************************************************************************
-changed: [52.232.22.109]
+TASK [Copiar aplicación Flask] *********************************************************************************************************************************************
+changed: [23.97.200.242]
 
-TASK [Crear red docker para lastfm] *********************************************************************************************************************************************************
-changed: [52.232.22.109]
+TASK [Crear red docker para lastfm] ****************************************************************************************************************************************
+changed: [23.97.200.242]
 
-TASK [Crear contenedor frontend (Flask)] ****************************************************************************************************************************************
-changed: [52.232.22.109]
+TASK [Crear contenedor frontend (Flask)] ***********************************************************************************************************************************
+changed: [23.97.200.242]
 
-TASK [Crear directorio de configuración nginx en el host] ***********************************************************************************************************************************
-changed: [52.232.22.109]
+TASK [Crear directorio de configuración nginx en el host] ******************************************************************************************************************
+changed: [23.97.200.242]
 
-TASK [Copiar configuración nginx para /lastfm] ***********************************************************************************************************************************
-changed: [52.232.22.109]
+TASK [Copiar configuración nginx para /lastfm] *****************************************************************************************************************************
+changed: [23.97.200.242]
 
-TASK [Recrear contenedor nginx con config custom] *******************************************************************************************************************************************
-changed: [52.232.22.109]
+TASK [Recrear contenedor nginx con config custom] **************************************************************************************************************************
+changed: [23.97.200.242]
 
-PLAY RECAP **********************************************************************************************************************************************************************************
-52.232.22.109              : ok=8    changed=7    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+PLAY RECAP *****************************************************************************************************************************************************************
+23.97.200.242              : ok=8    changed=7    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
 
-⏳  Verificando despliegue del frontend...
+⏳ Verificando despliegue del frontend...
 Pseudo-terminal will not be allocated because stdin is not a terminal.
-Linux vm-tf 6.1.0-38-cloud-amd64 #1 SMP PREEMPT_DYNAMIC Debian 6.1.147-1 (2025-08-02) x86_64
+Linux vm-tf 6.1.0-40-cloud-amd64 #1 SMP PREEMPT_DYNAMIC Debian 6.1.153-1 (2025-09-20) x86_64
 
 The programs included with the Debian GNU/Linux system are free software;
 the exact distribution terms for each program are described in the
@@ -294,11 +297,11 @@ individual files in /usr/share/doc/*/copyright.
 
 Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
 permitted by applicable law.
-👉  Contenedores activos:
+👉 Contenedores activos:
 NAMES             STATUS          PORTS
-nginx             Up 4 seconds    0.0.0.0:80->80/tcp
+nginx             Up 3 seconds    0.0.0.0:80->80/tcp
 lastfm-frontend   Up 13 seconds   0.0.0.0:5000->5000/tcp
-postgres          Up 9 minutes    0.0.0.0:5432->5432/tcp
+postgres          Up 8 minutes    0.0.0.0:5432->5432/tcp
 mysql             Up 10 minutes   0.0.0.0:3306->3306/tcp, 33060/tcp
 ```
 
