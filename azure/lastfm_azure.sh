@@ -146,48 +146,11 @@ cd ../python
 echo "Instalando dependencias Python..."
 pip install --user requests sqlalchemy pymysql psycopg2
 
-# Función para validar entrada no vacía
-validar_entrada() {
-    local prompt="$1"
-    local intentos=0
-    local max_intentos=5
-    local valor=""
-
-    while [ $intentos -lt $max_intentos ]; do
-        read -p "$prompt" valor
-        if [ -n "$valor" ]; then
-            echo "$valor"
-            return 0
-        fi
-        echo "❌ Error: Este campo no puede estar vacío."
-        ((intentos++))
-    done
-
-    echo "❌ Demasiados intentos fallidos. Abortando."
-    exit 1
-}
-# Solicitar clave API con validación
-api_key=$(validar_entrada "Introduce la clave API de LastFM: ")
-
-# Actualizar archivo de configuración
-file="lastfm_db.py"
-if [ ! -f "$file" ]; then
-    echo "❌ El archivo $file no existe."
-    exit 1
-fi
-
-# Reemplazar la línea 12 de lastfm_db.py
-awk -v key="$api_key" 'NR==12 {$0="API_KEY = \"" key "\""} {print}' "$file" > temp_file && mv temp_file "$file"
-echo "✅ Clave API actualizada correctamente en la línea 12 de $file."
-
-# Solicitar usuario de LastFM con validación
-usuario=$(validar_entrada "Introduce usuario de LastFM: ")
-
-# Reiniciar contador de intentos
+#Contador de intentos para motor y puerto BBDD
 intentos=0
 max_intentos=5
-puerto=""
 motor=""
+puerto=""
 
 # Solicitar motor de BBDD con validación
 while [ $intentos -lt $max_intentos ]; do
