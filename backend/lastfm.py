@@ -311,10 +311,10 @@ def mostrar_resumen_final(usuario, ruta, resultados, inicio):
     
     for tipo, contador in resultados.items():
         print(f"-> {tipo.capitalize()} registrados: {formato_numero(contador)}")
-        archivo_txt = f'listados/{usuario}/lastfm_{usuario}_{tipo}.txt'
+        archivo_json = f'listados/{usuario}/lastfm_{usuario}_{tipo}.json'
         archivo_csv = f'listados/{usuario}/lastfm_{usuario}_{tipo}.csv'
-        print(f"   TXT: {ruta}/{archivo_txt}")
-        print(f"   CSV: {ruta}/{archivo_csv}")
+        print(f"   JSON: {ruta}/{archivo_json}")
+        print(f"   CSV:  {ruta}/{archivo_csv}")
         print()
     
     # Finalización
@@ -430,12 +430,13 @@ def procesar_artistas(usuario):
     contador = 0
     delay = 0.25
     
-    archivo_salida = f'listados/{usuario}/lastfm_{usuario}_artistas.txt'
+    archivo_json = f'listados/{usuario}/lastfm_{usuario}_artistas.json'
     archivo_csv = f'listados/{usuario}/lastfm_{usuario}_artistas.csv'
     
-    with open(archivo_salida, 'w', encoding='utf-8') as txt_file, \
-         open(archivo_csv, 'w', encoding='utf-8', newline='') as csv_file:
-        
+    # Lista para almacenar todos los artistas
+    artistas_list = []
+    
+    with open(archivo_csv, 'w', encoding='utf-8', newline='') as csv_file:
         csv_writer = csv.writer(csv_file, delimiter=';')
         csv_writer.writerow(['Puesto', 'Artista', 'Scrobbles'])
         
@@ -464,13 +465,29 @@ def procesar_artistas(usuario):
                 name = artista['name']
                 playcount = artista['playcount']
                 
-                txt_file.write(f"Puesto: {rank} | Artista: {name} | Scrobbles: {playcount}\n")
+                # Agregar al JSON
+                artistas_list.append({
+                    'puesto': int(rank),
+                    'artista': name,
+                    'scrobbles': int(playcount)
+                })
+                
+                # Escribir en CSV
                 csv_writer.writerow([rank, name, playcount])
                 contador += 1
             
             pagina += 1
             if pagina <= total_paginas:
                 time.sleep(delay)
+    
+    # Guardar JSON
+    with open(archivo_json, 'w', encoding='utf-8') as json_file:
+        json.dump({
+            'usuario': usuario,
+            'total': contador,
+            'fecha_generacion': datetime.datetime.now().isoformat(),
+            'artistas': artistas_list
+        }, json_file, ensure_ascii=False, indent=2)
     
     return contador
 
@@ -483,12 +500,13 @@ def procesar_canciones(usuario):
     contador = 0
     delay = 0.25
     
-    archivo_salida = f'listados/{usuario}/lastfm_{usuario}_canciones.txt'
+    archivo_json = f'listados/{usuario}/lastfm_{usuario}_canciones.json'
     archivo_csv = f'listados/{usuario}/lastfm_{usuario}_canciones.csv'
     
-    with open(archivo_salida, 'w', encoding='utf-8') as txt_file, \
-         open(archivo_csv, 'w', encoding='utf-8', newline='') as csv_file:
-        
+    # Lista para almacenar todas las canciones
+    canciones_list = []
+    
+    with open(archivo_csv, 'w', encoding='utf-8', newline='') as csv_file:
         csv_writer = csv.writer(csv_file, delimiter=';')
         csv_writer.writerow(['Puesto', 'Canción', 'Artista', 'Scrobbles'])
         
@@ -518,13 +536,30 @@ def procesar_canciones(usuario):
                 artist = cancion['artist']['name']
                 playcount = cancion['playcount']
                 
-                txt_file.write(f"Puesto: {rank} | Canción: {name} | Artista: {artist} | Scrobbles: {playcount}\n")
+                # Agregar al JSON
+                canciones_list.append({
+                    'puesto': int(rank),
+                    'cancion': name,
+                    'artista': artist,
+                    'scrobbles': int(playcount)
+                })
+                
+                # Escribir en CSV
                 csv_writer.writerow([rank, name, artist, playcount])
                 contador += 1
             
             pagina += 1
             if pagina <= total_paginas:
                 time.sleep(delay)
+    
+    # Guardar JSON
+    with open(archivo_json, 'w', encoding='utf-8') as json_file:
+        json.dump({
+            'usuario': usuario,
+            'total': contador,
+            'fecha_generacion': datetime.datetime.now().isoformat(),
+            'canciones': canciones_list
+        }, json_file, ensure_ascii=False, indent=2)
     
     return contador
 
@@ -537,12 +572,13 @@ def procesar_discos(usuario):
     contador = 0
     delay = 0.25
     
-    archivo_salida = f'listados/{usuario}/lastfm_{usuario}_discos.txt'
+    archivo_json = f'listados/{usuario}/lastfm_{usuario}_discos.json'
     archivo_csv = f'listados/{usuario}/lastfm_{usuario}_discos.csv'
     
-    with open(archivo_salida, 'w', encoding='utf-8') as txt_file, \
-         open(archivo_csv, 'w', encoding='utf-8', newline='') as csv_file:
-        
+    # Lista para almacenar todos los discos
+    discos_list = []
+    
+    with open(archivo_csv, 'w', encoding='utf-8', newline='') as csv_file:
         csv_writer = csv.writer(csv_file, delimiter=';')
         csv_writer.writerow(['Puesto', 'Disco', 'Artista', 'Scrobbles'])
         
@@ -572,13 +608,30 @@ def procesar_discos(usuario):
                 artist = disco['artist']['name']
                 playcount = disco['playcount']
                 
-                txt_file.write(f"Puesto: {rank} | Disco: {name} | Artista: {artist} | Scrobbles: {playcount}\n")
+                # Agregar al JSON
+                discos_list.append({
+                    'puesto': int(rank),
+                    'disco': name,
+                    'artista': artist,
+                    'scrobbles': int(playcount)
+                })
+                
+                # Escribir en CSV
                 csv_writer.writerow([rank, name, artist, playcount])
                 contador += 1
             
             pagina += 1
             if pagina <= total_paginas:
                 time.sleep(delay)
+    
+    # Guardar JSON
+    with open(archivo_json, 'w', encoding='utf-8') as json_file:
+        json.dump({
+            'usuario': usuario,
+            'total': contador,
+            'fecha_generacion': datetime.datetime.now().isoformat(),
+            'discos': discos_list
+        }, json_file, ensure_ascii=False, indent=2)
     
     return contador
 
@@ -591,12 +644,13 @@ def procesar_scrobbles(usuario):
     contador = 0
     delay = 0.25
     
-    archivo_salida = f'listados/{usuario}/lastfm_{usuario}_scrobbles.txt'
+    archivo_json = f'listados/{usuario}/lastfm_{usuario}_scrobbles.json'
     archivo_csv = f'listados/{usuario}/lastfm_{usuario}_scrobbles.csv'
     
-    with open(archivo_salida, 'w', encoding='utf-8') as txt_file, \
-         open(archivo_csv, 'w', encoding='utf-8', newline='') as csv_file:
-        
+    # Lista para almacenar todos los scrobbles
+    scrobbles_list = []
+    
+    with open(archivo_csv, 'w', encoding='utf-8', newline='') as csv_file:
         csv_writer = csv.writer(csv_file, delimiter=';')
         csv_writer.writerow(['Fecha', 'Canción', 'Disco', 'Artista', 'ID'])
         
@@ -627,15 +681,27 @@ def procesar_scrobbles(usuario):
                 if '@attr' in reproduccion and reproduccion['@attr'].get('nowplaying') == 'true':
                     fecha = 'Reproduciendo ahora'
                     id_scrobble = 'N/A'
+                    now_playing = True
                 else:
                     fecha = reproduccion.get('date', {}).get('#text', 'Fecha desconocida')
                     id_scrobble = total_scrobbles_reales - contador
+                    now_playing = False
                 
                 name = reproduccion['name']
                 album = reproduccion['album']['#text']
                 artist = reproduccion['artist']['#text']
                 
-                txt_file.write(f"Fecha: {fecha} | Canción: {name} | Disco: {album} | Artista: {artist} | ID: {id_scrobble}\n")
+                # Agregar al JSON
+                scrobbles_list.append({
+                    'fecha': fecha,
+                    'cancion': name,
+                    'disco': album,
+                    'artista': artist,
+                    'id': id_scrobble if not now_playing else 'N/A',
+                    'reproduciendo_ahora': now_playing
+                })
+                
+                # Escribir en CSV
                 csv_writer.writerow([fecha, name, album, artist, id_scrobble])
                 
                 if fecha != 'Reproduciendo ahora':
@@ -644,6 +710,15 @@ def procesar_scrobbles(usuario):
             pagina += 1
             if pagina <= total_paginas:
                 time.sleep(delay)
+    
+    # Guardar JSON
+    with open(archivo_json, 'w', encoding='utf-8') as json_file:
+        json.dump({
+            'usuario': usuario,
+            'total': contador,
+            'fecha_generacion': datetime.datetime.now().isoformat(),
+            'scrobbles': scrobbles_list
+        }, json_file, ensure_ascii=False, indent=2)
     
     return contador
 

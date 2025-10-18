@@ -37,20 +37,20 @@ mkdir -p python terraform ansible/app
 BASE_URL="https://raw.githubusercontent.com/beetlebum97/LastFMCollector/main"
 
 echo "Descargando scripts LastFMCollector..."
-curl -sL "${BASE_URL}/lastfm.py" -o "python/lastfm.py"
-curl -sL "${BASE_URL}/lastfm_db.py" -o "python/lastfm_db.py"
+curl -sL "${BASE_URL}/backend/lastfm.py" -o "python/lastfm.py"
+curl -sL "${BASE_URL}/backend/lastfm_db.py" -o "python/lastfm_db.py"
 chmod 755 python/lastfm*
 
 echo "Descargando archivos de Terraform (Infraestructura)..."
-curl -L "${BASE_URL}/azure/terraform/main.tf" -o "terraform/main.tf"
-curl -L "${BASE_URL}/azure/terraform/outputs.tf" -o "terraform/outputs.tf"
-curl -L "${BASE_URL}/azure/terraform/providers.tf" -o "terraform/providers.tf"
-curl -L "${BASE_URL}/azure/terraform/variables.tf" -o "terraform/variables.tf"
+curl -L "${BASE_URL}/cloud/azure/terraform/main.tf" -o "terraform/main.tf"
+curl -L "${BASE_URL}/cloud/azure/terraform/outputs.tf" -o "terraform/outputs.tf"
+curl -L "${BASE_URL}/cloud/azure/terraform/providers.tf" -o "terraform/providers.tf"
+curl -L "${BASE_URL}/cloud/azure/terraform/variables.tf" -o "terraform/variables.tf"
 
 echo "Descargando archivos de Ansible (Configuración)..."
-curl -L "${BASE_URL}/azure/ansible/site.yml" -o "ansible/site.yml"
-curl -L "${BASE_URL}/azure/ansible/frontend.yml" -o "ansible/frontend.yml"
-curl -L "${BASE_URL}/azure/ansible/app/app.py" -o "ansible/app/app.py"
+curl -L "${BASE_URL}/cloud/azure/ansible/site.yml" -o "ansible/site.yml"
+curl -L "${BASE_URL}/cloud/azure/ansible/frontend.yml" -o "ansible/frontend.yml"
+curl -L "${BASE_URL}/cloud/azure/ansible/app/app.py" -o "ansible/app/app.py"
 
 # ====================================================== #
 # CREAR CLAVE SSH PARA AZURE - CONSIDERANDO CLOUD SHELL  #
