@@ -307,22 +307,22 @@ mysql             Up 10 minutes   0.0.0.0:3306->3306/tcp, 33060/tcp
 
 Si todo es correcto, podremos ver los resultados en la URL **http://$IP_SERVIDOR/lastfm/**
 
-![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/last_fm/main/capturas/frontend_portada.png)
+![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/LastFMCollector/refs/heads/main/screenshoots/cloud_portada.png)
 
-![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/last_fm/main/capturas/frontend_artistas.png)
+![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/LastFMCollector/refs/heads/main/screenshoots/cloud_artistas.png)
 
-![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/last_fm/main/capturas/frontend_artistas2.png)
+![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/LastFMCollector/refs/heads/main/screenshoots/cloud_artistas2.png)
 
-![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/last_fm/main/capturas/frontend_discos.png)
+![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/LastFMCollector/refs/heads/main/screenshoots/cloud_discos.png)
 
-![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/last_fm/main/capturas/frontend_canciones.png)
+![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/LastFMCollector/refs/heads/main/screenshoots/cloud_canciones.png)
 
-![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/last_fm/main/capturas/frontend_scrobbles.png)
+![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/LastFMCollector/refs/heads/main/screenshoots/cloud_scrobbles.png)
 
 ## 3. GESTIÓN
 
 ### Acceso a la aplicación
-- URL de la aplicación: http://<IP_SERVIDOR_AZURE>/lastfm/
+- URL de la aplicación: http://IP_SERVIDOR_AZURE/lastfm/
 - Puertos abiertos: 22 (SSH), 80 (HTTP), 3306 (MySQL), 5432 (PostgreSQL)
 
 ### Limpieza de recursos
@@ -333,3 +333,4 @@ Si todo es correcto, podremos ver los resultados en la URL **http://$IP_SERVIDOR
 - Los recursos tienen un coste. Apagar máquina virtual mientras no se usen o eliminar infraestructura para evitar gastos innecesarios. 
 
 Nota: Esta implementación está diseñada para entornos de desarrollo y testing. Para entornos productivos, implementar medidas adicionales de seguridad y alta disponibilidad.
+
