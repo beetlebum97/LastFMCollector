@@ -1,0 +1,334 @@
+david@debian-12:~/LastFMCollector/backend$ tree
+.
+├── lastfm_db.py
+├── lastfm.py
+└── listados
+
+2 directories, 2 files
+david@debian-12:~/LastFMCollector/backend$ python3 lastfm.py --help
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+                |||| LAST.FM COLLECTOR ||||
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[Inicio]   2025-10-19 20:20:41
+usage: lastfm.py [-h] [--resumen] [--artistas] [--canciones] [--discos] [--scrobbles] usuario
+
+Extrae datos de Last.fm para un usuario específico
+
+positional arguments:
+  usuario      Nombre de usuario de Last.fm
+
+options:
+  -h, --help   show this help message and exit
+  --resumen    Mostrar solo un resumen de estadísticas
+  --artistas   Extraer artistas más escuchados
+  --canciones  Extraer canciones más escuchadas
+  --discos     Extraer discos más escuchados
+  --scrobbles  Extraer historial de scrobbles
+
+Ejemplos de uso:
+  python lastfm.py <usuario>                         # Extrae todos los datos
+  python lastfm.py <usuario> --resumen               # Solo estadísticas resumidas
+  python lastfm.py <usuario> --artistas              # Solo artistas
+  python lastfm.py <usuario> --discos                # Solo discos
+  python lastfm.py <usuario> --canciones             # Solo canciones
+  python lastfm.py <usuario> --scrobbles             # Solo scrobbles
+  python lastfm.py <usuario> --artistas --discos     # Artistas y discos
+
+david@debian-12:~/LastFMCollector/backend$ python3 lastfm.py hayman3030 --resumen
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+                |||| LAST.FM COLLECTOR ||||
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[Inicio]   2025-10-19 20:21:49
+
+Introduce tu API key de Last.fm (intento 1/3):
+API key:
+✓ API key válida y verificada
+Obteniendo información del usuario 'hayman3030' ...
+
+RESUMEN DE ESTADÍSTICAS:
+------------------------------
+→ ARTISTAS  : 450
+→ DISCOS    : 1.179
+→ CANCIONES : 10.634
+→ FAVORITAS : 172
+→ SCROBBLES : 40.087
+
+Consulta completada en 0.40 segundos.
+david@debian-12:~/LastFMCollector/backend$
+david@debian-12:~/LastFMCollector/backend$ python3 lastfm.py hayman3030
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+                |||| LAST.FM COLLECTOR ||||
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[Inicio]   2025-10-19 20:22:04
+
+Introduce tu API key de Last.fm (intento 1/3):
+API key:
+✓ API key válida y verificada
+No se especificaron opciones. Extrayendo todos los datos...
+
+Comprobando existencia del usuario hayman3030...
+Usuario verificado ✓
+
+==================== ARTISTAS ====================
+Obteniendo artistas escuchados por hayman3030...
+Total de artistas a procesar: 450 en 3 páginas
+████████████████████ 100% (3/3)
+
+==================== DISCOS ====================
+Obteniendo discos escuchados por hayman3030...
+Total de discos a procesar: 1.179 en 6 páginas
+████████████████████ 100% (6/6)
+
+==================== CANCIONES ====================
+Obteniendo canciones escuchadas por hayman3030...
+Total de canciones a procesar: 10.634 en 54 páginas
+████████████████████ 100% (54/54)
+
+==================== SCROBBLES ====================
+Obteniendo historial de scrobbles de hayman3030...
+Total de scrobbles a procesar: 40.087 en 201 páginas
+████████████████████ 100% (201/201)
+
+============================================================
+RESUMEN FINAL
+============================================================
+✓ Artistas registrados: 450
+   JSON: /home/david/LastFMCollector/backend/listados/hayman3030/lastfm_hayman3030_artistas.json
+   CSV:  /home/david/LastFMCollector/backend/listados/hayman3030/lastfm_hayman3030_artistas.csv
+
+✓ Discos registrados: 1.179
+   JSON: /home/david/LastFMCollector/backend/listados/hayman3030/lastfm_hayman3030_discos.json
+   CSV:  /home/david/LastFMCollector/backend/listados/hayman3030/lastfm_hayman3030_discos.csv
+
+✓ Canciones registrados: 10.634
+   JSON: /home/david/LastFMCollector/backend/listados/hayman3030/lastfm_hayman3030_canciones.json
+   CSV:  /home/david/LastFMCollector/backend/listados/hayman3030/lastfm_hayman3030_canciones.csv
+
+✓ Scrobbles registrados: 40.087
+   JSON: /home/david/LastFMCollector/backend/listados/hayman3030/lastfm_hayman3030_scrobbles.json
+   CSV:  /home/david/LastFMCollector/backend/listados/hayman3030/lastfm_hayman3030_scrobbles.csv
+
+[Fin] 2025-10-19 20:27:56
+Tiempo total de ejecución: 5 minutos y 51 segundos
+david@debian-12:~/LastFMCollector/backend$ tree
+.
+├── lastfm_db.py
+├── lastfm.py
+└── listados
+    └── hayman3030
+        ├── lastfm_hayman3030_artistas.csv
+        ├── lastfm_hayman3030_artistas.json
+        ├── lastfm_hayman3030_canciones.csv
+        ├── lastfm_hayman3030_canciones.json
+        ├── lastfm_hayman3030_discos.csv
+        ├── lastfm_hayman3030_discos.json
+        ├── lastfm_hayman3030_scrobbles.csv
+        └── lastfm_hayman3030_scrobbles.json
+
+3 directories, 10 files
+david@debian-12:~/LastFMCollector/backend$ cat listados/hayman3030/lastfm_hayman3030_artistas.csv | head -11
+Puesto;Artista;Scrobbles
+1;Blur;2271
+2;Lou Reed;1228
+3;David Bowie;1191
+4;The Beatles;1129
+5;The Doors;1034
+6;Judas Priest;914
+7;The Kinks;862
+8;Pixies;812
+9;Diana Ross;634
+10;John Lennon;586
+david@debian-12:~/LastFMCollector/backend$ cat listados/hayman3030/lastfm_hayman3030_discos.json | head -51
+{
+  "usuario": "hayman3030",
+  "total": 1179,
+  "fecha_generacion": "2025-10-19T20:22:15.701190",
+  "discos": [
+    {
+      "puesto": 1,
+      "disco": "Parklife",
+      "artista": "Blur",
+      "scrobbles": 421
+    },
+    {
+      "puesto": 2,
+      "disco": "My Way the Best of Frank Sinatra",
+      "artista": "Frank Sinatra",
+      "scrobbles": 358
+    },
+    {
+      "puesto": 3,
+      "disco": "The Doors",
+      "artista": "The Doors",
+      "scrobbles": 345
+    },
+    {
+      "puesto": 4,
+      "disco": "The Boss",
+      "artista": "Diana Ross",
+      "scrobbles": 333
+    },
+    {
+      "puesto": 5,
+      "disco": "Breakfast in America",
+      "artista": "Supertramp",
+      "scrobbles": 305
+    },
+    {
+      "puesto": 6,
+      "disco": "Out of the Blue",
+      "artista": "Electric Light Orchestra",
+      "scrobbles": 268
+    },
+    {
+      "puesto": 7,
+      "disco": "Morrison Hotel",
+      "artista": "The Doors",
+      "scrobbles": 263
+    },
+    {
+      "puesto": 8,
+      "disco": "Modern Life Is Rubbish",
+      "artista": "Blur",
+david@debian-12:~/LastFMCollector/backend$ cat listados/hayman3030/lastfm_hayman3030_canciones.json | head -51
+{
+  "usuario": "hayman3030",
+  "total": 10634,
+  "fecha_generacion": "2025-10-19T20:23:35.343617",
+  "canciones": [
+    {
+      "puesto": 1,
+      "cancion": "Coney Island Baby",
+      "artista": "Lou Reed",
+      "scrobbles": 78
+    },
+    {
+      "puesto": 2,
+      "cancion": "Beetlebum",
+      "artista": "Blur",
+      "scrobbles": 70
+    },
+    {
+      "puesto": 3,
+      "cancion": "City Lights",
+      "artista": "Lou Reed",
+      "scrobbles": 69
+    },
+    {
+      "puesto": 4,
+      "cancion": "Oh Darling",
+      "artista": "Supertramp",
+      "scrobbles": 68
+    },
+    {
+      "puesto": 5,
+      "cancion": "That's Life",
+      "artista": "Frank Sinatra",
+      "scrobbles": 66
+    },
+    {
+      "puesto": 6,
+      "cancion": "Proud Mary",
+      "artista": "Creedence Clearwater Revival",
+      "scrobbles": 64
+    },
+    {
+      "puesto": 7,
+      "cancion": "Life on Mars?",
+      "artista": "David Bowie",
+      "scrobbles": 59
+    },
+    {
+      "puesto": 8,
+      "cancion": "Metal Gods",
+      "artista": "Judas Priest",
+david@debian-12:~/LastFMCollector/backend$ cat listados/hayman3030/lastfm_hayman3030_scrobbles.csv | head -11
+Fecha;Canción;Disco;Artista;ID
+18 Oct 2025, 17:43;Sick Again;Physical Graffiti;Led Zeppelin;40087
+18 Oct 2025, 17:39;Black Country Woman;Physical Graffiti;Led Zeppelin;40086
+18 Oct 2025, 17:34;Boogie With Stu;Physical Graffiti;Led Zeppelin;40085
+18 Oct 2025, 17:29;The Wanton Song;Physical Graffiti;Led Zeppelin;40084
+18 Oct 2025, 17:25;Night Flight;Physical Graffiti;Led Zeppelin;40083
+18 Oct 2025, 17:19;Ten Years Gone;Physical Graffiti;Led Zeppelin;40082
+18 Oct 2025, 17:12;Down by the Seaside;Physical Graffiti;Led Zeppelin;40081
+18 Oct 2025, 17:10;Bron-Yr-Aur;Physical Graffiti;Led Zeppelin;40080
+18 Oct 2025, 16:52;In the Light;Physical Graffiti;Led Zeppelin;40079
+18 Oct 2025, 16:41;Kashmir;Physical Graffiti;Led Zeppelin;40078
+david@debian-12:~/LastFMCollector/backend$
+david@debian-12:~/LastFMCollector/backend$ rm -rf listados/hayman3030/
+david@debian-12:~/LastFMCollector/backend$ tree
+.
+├── lastfm_db.py
+├── lastfm.py
+└── listados
+
+2 directories, 2 files
+david@debian-12:~/LastFMCollector/backend$ python3 lastfm.py hayman3030 --artistas --discos
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+                |||| LAST.FM COLLECTOR ||||
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[Inicio]   2025-10-19 20:29:39
+
+Introduce tu API key de Last.fm (intento 1/3):
+API key:
+✓ API key válida y verificada
+
+Comprobando existencia del usuario hayman3030...
+Usuario verificado ✓
+
+==================== ARTISTAS ====================
+Obteniendo artistas escuchados por hayman3030...
+Total de artistas a procesar: 450 en 3 páginas
+████████████████████ 100% (3/3)
+
+==================== DISCOS ====================
+Obteniendo discos escuchados por hayman3030...
+Total de discos a procesar: 1.179 en 6 páginas
+████████████████████ 100% (6/6)
+
+============================================================
+RESUMEN FINAL
+============================================================
+✓ Artistas registrados: 450
+   JSON: /home/david/LastFMCollector/backend/listados/hayman3030/lastfm_hayman3030_artistas.json
+   CSV:  /home/david/LastFMCollector/backend/listados/hayman3030/lastfm_hayman3030_artistas.csv
+
+✓ Discos registrados: 1.179
+   JSON: /home/david/LastFMCollector/backend/listados/hayman3030/lastfm_hayman3030_discos.json
+   CSV:  /home/david/LastFMCollector/backend/listados/hayman3030/lastfm_hayman3030_discos.csv
+
+[Fin] 2025-10-19 20:29:49
+Tiempo total de ejecución: 9 segundos
+david@debian-12:~/LastFMCollector/backend$
+david@debian-12:~/LastFMCollector/backend$ tree
+.
+├── lastfm_db.py
+├── lastfm.py
+└── listados
+    └── hayman3030
+        ├── lastfm_hayman3030_artistas.csv
+        ├── lastfm_hayman3030_artistas.json
+        ├── lastfm_hayman3030_discos.csv
+        └── lastfm_hayman3030_discos.json
+
+3 directories, 6 files
+david@debian-12:~/LastFMCollector/backend$ python3 lastfm.py hayman3030 --resumen
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+                |||| LAST.FM COLLECTOR ||||
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[Inicio]   2025-10-19 20:30:08
+
+Introduce tu API key de Last.fm (intento 1/3):
+API key:
+✗ La API key no puede estar vacía.
+
+Introduce tu API key de Last.fm (intento 2/3):
+API key:
+✗ API key no válida o sin permisos
+
+Introduce tu API key de Last.fm (intento 3/3):
+API key:
+✗ La API key no puede estar vacía.
+
+✗ Demasiados intentos fallidos. Saliendo...
+david@debian-12:~/LastFMCollector/backend$

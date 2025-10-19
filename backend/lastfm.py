@@ -9,6 +9,10 @@ import argparse
 import concurrent.futures
 import getpass
 
+from colorama import init, Fore, Style
+init()
+
+
 # API_KEY se definirá interactivamente
 API_KEY = None
 API_URL = "http://ws.audioscrobbler.com/2.0/"
@@ -16,10 +20,10 @@ API_URL = "http://ws.audioscrobbler.com/2.0/"
 def mostrar_encabezado():
     """Muestra el encabezado con la hora actual"""
     inicio = datetime.datetime.now()
-    print("=" * 60)
-    print("Last.FM Collector Full Script")
-    print("=" * 60)
-    print("[Inicio]", inicio.strftime("%Y-%m-%d %H:%M:%S"))
+    print(Fore.CYAN + ">" * 60)
+    print("|||| LAST.FM COLLECTOR ||||".center(60))
+    print("<" * 60 + Style.RESET_ALL)
+    print(Fore.YELLOW + "[Inicio]".ljust(10), inicio.strftime("%Y-%m-%d %H:%M:%S") + Style.RESET_ALL)
     return inicio
 
 def solicitar_api_key():
@@ -33,29 +37,29 @@ def solicitar_api_key():
             api_key = getpass.getpass("API key: ").strip()
             
             if not api_key:
-                print("Error: La API key no puede estar vacía.")
+                print(Fore.LIGHTRED_EX + "✗ La API key no puede estar vacía." + Style.RESET_ALL)
                 continue
             
             # Validar formato básico (debería ser alfanumérico)
             if not api_key.replace('-', '').replace('_', '').isalnum():
-                print("Error: La API key tiene un formato inválido.")
+                print(Fore.LIGHTRED_EX + "✗ Formato inválido de API key." + Style.RESET_ALL)
                 continue
             
             # Validar que la API key funciona haciendo una prueba simple
             if validar_api_key_en_servidor(api_key):
                 API_KEY = api_key
-                print("✓ API key válida y verificada")
+                print(Fore.GREEN + "✓ API key válida y verificada" + Style.RESET_ALL)
                 return True
             else:
-                print("Error: La API key no es válida o no tiene permisos.")
+                print(Fore.LIGHTRED_EX + "✗ API key no válida o sin permisos" + Style.RESET_ALL)
                 
         except KeyboardInterrupt:
             print("\nOperación cancelada por el usuario.")
             sys.exit(1)
         except Exception as e:
-            print(f"Error validando API key: {e}")
+            print(Fore.LIGHTRED_EX + f"✗ Error validando API key: {e}" + Style.RESET_ALL)
     
-    print(f"\nError: Demasiados intentos fallidos. Saliendo...")
+    print(Fore.LIGHTRED_EX + "\n✗ Demasiados intentos fallidos. Saliendo..." + Style.RESET_ALL)
     return False
 
 def validar_api_key_en_servidor(api_key):
@@ -99,13 +103,13 @@ def configurar_argumentos():
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 Ejemplos de uso:
-  python lastfm.py usuario123                         # Extrae todos los datos
-  python lastfm.py usuario123 --resumen               # Solo estadísticas resumidas
-  python lastfm.py usuario123 --artistas              # Solo artistas
-  python lastfm.py usuario123 --canciones             # Solo canciones
-  python lastfm.py usuario123 --discos                # Solo discos
-  python lastfm.py usuario123 --scrobbles             # Solo scrobbles
-  python lastfm.py usuario123 --artistas --discos     # Artistas y discos
+  python lastfm.py <usuario>                         # Extrae todos los datos
+  python lastfm.py <usuario> --resumen               # Solo estadísticas resumidas
+  python lastfm.py <usuario> --artistas              # Solo artistas
+  python lastfm.py <usuario> --discos                # Solo discos
+  python lastfm.py <usuario> --canciones             # Solo canciones
+  python lastfm.py <usuario> --scrobbles             # Solo scrobbles
+  python lastfm.py <usuario> --artistas --discos     # Artistas y discos
         """
     )
     
@@ -210,10 +214,10 @@ def procesar_resumen(usuario):
         resultados = obtener_estadisticas_usuario(usuario)
         
         if resultados:
-            print("RESUMEN DE ESTADÍSTICAS:")
-            print("-" * 30)
+            print(Fore.CYAN + "RESUMEN DE ESTADÍSTICAS:" + Style.RESET_ALL)
+            print(Fore.CYAN + "-" * 30 + Style.RESET_ALL)
             for nombre, valor in resultados.items():
-                print(f" + {nombre:<9} =======> {formato_numero(valor)}")
+                print(Fore.CYAN + f"→ {nombre:<10}: {formato_numero(valor)}" + Style.RESET_ALL)
             
             tiempo_total = time.time() - tiempo_inicio
             print(f"\nConsulta completada en {tiempo_total:.2f} segundos.")
@@ -227,6 +231,24 @@ def procesar_resumen(usuario):
     except Exception as e:
         print(f"Error obteniendo resumen: {e}")
         return 0
+        
+
+def mostrar_progreso(pagina, total_paginas):
+    porcentaje = (pagina / total_paginas) * 100
+    ancho_barra = 20
+    llenado = int((porcentaje / 100) * ancho_barra)
+    barra = '█' * llenado + '░' * (ancho_barra - llenado)
+
+    if porcentaje == 100:
+        porcentaje_str = "100%"  # sin decimales
+    else:
+        porcentaje_str = f"{porcentaje:5.1f}%"
+
+    #Limpiar toda la línea antes de escribir
+    linea = f"{barra} {porcentaje_str} ({pagina}/{total_paginas})"
+    # Asegurar que la línea ocupe al menos 50 caracteres con espacios
+    sys.stdout.write(f"\r{linea:<50}")
+    sys.stdout.flush()
 
 def main():
     inicio = mostrar_encabezado()
@@ -257,7 +279,7 @@ def main():
     
     # Verificar si el usuario existe antes de proceder
     if not usuario_existe(usuario):
-        print(f"Error: El usuario '{usuario}' no existe en Last.fm")
+        print(Fore.LIGHTRED_EX + f"✗ El usuario '{usuario}' no existe en Last.fm" + Style.RESET_ALL)
         sys.exit(1)
     
     print(f"Usuario verificado ✓")
@@ -270,28 +292,28 @@ def main():
     try:
         # Extraer artistas
         if extraer_todo or args.artistas:
-            print(f"\n{'='*20} ARTISTAS {'='*20}")
+            print(Fore.MAGENTA + f"\n{'='*20} ARTISTAS {'='*20}" + Style.RESET_ALL)
             print(f"Obteniendo artistas escuchados por {usuario}...")
             contador = procesar_artistas(usuario)
             resultados['artistas'] = contador
-        
-        # Extraer canciones
-        if extraer_todo or args.canciones:
-            print(f"\n{'='*20} CANCIONES {'='*19}")
-            print(f"Obteniendo canciones escuchadas por {usuario}...")
-            contador = procesar_canciones(usuario)
-            resultados['canciones'] = contador
-        
+            
         # Extraer discos
         if extraer_todo or args.discos:
-            print(f"\n{'='*21} DISCOS {'='*21}")
+            print(Fore.MAGENTA + f"\n{'='*20} DISCOS {'='*20}" + Style.RESET_ALL)
             print(f"Obteniendo discos escuchados por {usuario}...")
             contador = procesar_discos(usuario)
             resultados['discos'] = contador
         
+        # Extraer canciones
+        if extraer_todo or args.canciones:
+            print(Fore.MAGENTA + f"\n{'='*20} CANCIONES {'='*20}" + Style.RESET_ALL)
+            print(f"Obteniendo canciones escuchadas por {usuario}...")
+            contador = procesar_canciones(usuario)
+            resultados['canciones'] = contador
+        
         # Extraer scrobbles
         if extraer_todo or args.scrobbles:
-            print(f"\n{'='*20} SCROBBLES {'='*20}")
+            print(Fore.MAGENTA + f"\n{'='*20} SCROBBLES {'='*20}" + Style.RESET_ALL)
             print(f"Obteniendo historial de scrobbles de {usuario}...")
             contador = procesar_scrobbles(usuario)
             resultados['scrobbles'] = contador
@@ -305,21 +327,22 @@ def main():
 
 def mostrar_resumen_final(usuario, ruta, resultados, inicio):
     """Muestra el resumen final de la ejecución"""
-    print(f"\n{'='*60}")
+    print(Fore.CYAN + f"\n{'='*60}")
     print("RESUMEN FINAL")
-    print(f"{'='*60}")
+    print(f"{'='*60}" + Style.RESET_ALL)
+
     
     for tipo, contador in resultados.items():
-        print(f"-> {tipo.capitalize()} registrados: {formato_numero(contador)}")
+        print(Fore.GREEN + f"✓ {tipo.capitalize()} registrados: {formato_numero(contador)}" + Style.RESET_ALL)
         archivo_json = f'listados/{usuario}/lastfm_{usuario}_{tipo}.json'
         archivo_csv = f'listados/{usuario}/lastfm_{usuario}_{tipo}.csv'
-        print(f"   JSON: {ruta}/{archivo_json}")
-        print(f"   CSV:  {ruta}/{archivo_csv}")
+        print(Fore.MAGENTA + f"   JSON: {ruta}/{archivo_json}" + Style.RESET_ALL)
+        print(Fore.MAGENTA + f"   CSV:  {ruta}/{archivo_csv}" + Style.RESET_ALL)
         print()
     
     # Finalización
     fin = datetime.datetime.now()
-    print("[Fin]", fin.strftime("%Y-%m-%d %H:%M:%S"))
+    print(Fore.YELLOW + "[Fin]", fin.strftime("%Y-%m-%d %H:%M:%S") + Style.RESET_ALL)
     
     # Calcular duración
     duracion = fin - inicio
@@ -379,10 +402,10 @@ def usuario_existe(usuario):
             print(f"Error HTTP {e.response.status_code}: {e}")
             return False
     except requests.exceptions.RequestException as e:
-        print(f"Error de conexión: {e}")
+        print(Fore.LIGHTRED_EX + f"✗ Error de conexión: {e}" + Style.RESET_ALL)
         return False
     except Exception as e:
-        print(f"Error inesperado: {e}")
+        print(Fore.LIGHTRED_EX + f"✗ Error inesperado: {e}" + Style.RESET_ALL)
         return False
 
 def hacer_solicitud_con_reintentos(url, params, max_intentos=3, retraso_base=2):
@@ -408,14 +431,21 @@ def hacer_solicitud_con_reintentos(url, params, max_intentos=3, retraso_base=2):
             return data
             
         except (requests.exceptions.RequestException, json.JSONDecodeError) as e:
+            if isinstance(e, requests.exceptions.HTTPError) and e.response is not None:
+                codigo = e.response.status_code
+                mensaje = f"{codigo} Server Error"
+            else:
+                mensaje = type(e).__name__
+
             if intento < max_intentos - 1:
                 tiempo_espera = retraso_base ** intento
-                print(f"Error en solicitud (reintento {intento+1}/{max_intentos}): {str(e)}")
-                print(f"Esperando {tiempo_espera} segundos antes de reintentar...")
+                print(Fore.LIGHTRED_EX + f"✗ Error en solicitud (reintento {intento+1}/{max_intentos}): {mensaje}" + Style.RESET_ALL)
+                print(Fore.LIGHTRED_EX + f"✗ Esperando {tiempo_espera} segundos antes de reintentar..." + Style.RESET_ALL)
                 time.sleep(tiempo_espera)
             else:
-                print(f"Error después de {max_intentos} intentos: {str(e)}")
+                print(Fore.LIGHTRED_EX + f"✗ Error después de {max_intentos} intentos: {mensaje}") 
                 raise
+
         except ValueError:
             raise
     
@@ -458,7 +488,7 @@ def procesar_artistas(usuario):
                 print(f"Total de artistas a procesar: {formato_numero(total_artistas)} en {formato_numero(total_paginas)} páginas")
             
             if pagina % 10 == 0 or pagina == 1:
-                print(f"Procesando página {pagina}/{total_paginas} ({(pagina/total_paginas*100):.1f}%)")
+                mostrar_progreso(pagina, total_paginas)
             
             for artista in response['topartists']['artist']:
                 rank = artista['@attr']['rank']
@@ -488,6 +518,9 @@ def procesar_artistas(usuario):
             'fecha_generacion': datetime.datetime.now().isoformat(),
             'artistas': artistas_list
         }, json_file, ensure_ascii=False, indent=2)
+    
+    mostrar_progreso(total_paginas, total_paginas)
+    print() 
     
     return contador
 
@@ -528,7 +561,8 @@ def procesar_canciones(usuario):
                 print(f"Total de canciones a procesar: {formato_numero(total_canciones)} en {formato_numero(total_paginas)} páginas")
             
             if pagina % 10 == 0 or pagina == 1:
-                print(f"Procesando página {formato_numero(pagina)}/{formato_numero(total_paginas)} ({(pagina/total_paginas*100):.1f}%)")
+                mostrar_progreso(pagina, total_paginas)
+
             
             for cancion in response['toptracks']['track']:
                 rank = cancion['@attr']['rank']
@@ -560,6 +594,9 @@ def procesar_canciones(usuario):
             'fecha_generacion': datetime.datetime.now().isoformat(),
             'canciones': canciones_list
         }, json_file, ensure_ascii=False, indent=2)
+    
+    mostrar_progreso(total_paginas, total_paginas)
+    print() 
     
     return contador
 
@@ -600,7 +637,7 @@ def procesar_discos(usuario):
                 print(f"Total de discos a procesar: {formato_numero(total_discos)} en {formato_numero(total_paginas)} páginas")
             
             if pagina % 10 == 0 or pagina == 1:
-                print(f"Procesando página {formato_numero(pagina)}/{formato_numero(total_paginas)} ({(pagina/total_paginas*100):.1f}%)")
+                mostrar_progreso(pagina, total_paginas)
             
             for disco in response['topalbums']['album']:
                 rank = disco['@attr']['rank']
@@ -632,6 +669,9 @@ def procesar_discos(usuario):
             'fecha_generacion': datetime.datetime.now().isoformat(),
             'discos': discos_list
         }, json_file, ensure_ascii=False, indent=2)
+    
+    mostrar_progreso(total_paginas, total_paginas)
+    print() 
     
     return contador
 
@@ -675,7 +715,7 @@ def procesar_scrobbles(usuario):
                 print(f"Total de scrobbles a procesar: {formato_numero(total_scrobbles)} en {formato_numero(total_paginas)} páginas")
             
             if pagina % 10 == 0 or pagina == 1:
-                print(f"Procesando página {formato_numero(pagina)}/{formato_numero(total_paginas)} ({(pagina/total_paginas*100):.1f}%)")
+                mostrar_progreso(pagina, total_paginas)
             
             for reproduccion in response['recenttracks']['track']:
                 if '@attr' in reproduccion and reproduccion['@attr'].get('nowplaying') == 'true':
@@ -719,6 +759,9 @@ def procesar_scrobbles(usuario):
             'fecha_generacion': datetime.datetime.now().isoformat(),
             'scrobbles': scrobbles_list
         }, json_file, ensure_ascii=False, indent=2)
+    
+    mostrar_progreso(total_paginas, total_paginas)
+    print() 
     
     return contador
 

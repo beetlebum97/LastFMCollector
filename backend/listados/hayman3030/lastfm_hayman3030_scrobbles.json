@@ -1,8 +1,128 @@
 {
   "usuario": "hayman3030",
-  "total": 40072,
-  "fecha_generacion": "2025-10-18T15:31:19.576557",
+  "total": 40087,
+  "fecha_generacion": "2025-10-19T22:58:10.724141",
   "scrobbles": [
+    {
+      "fecha": "18 Oct 2025, 17:43",
+      "cancion": "Sick Again",
+      "disco": "Physical Graffiti",
+      "artista": "Led Zeppelin",
+      "id": 40087,
+      "reproduciendo_ahora": false
+    },
+    {
+      "fecha": "18 Oct 2025, 17:39",
+      "cancion": "Black Country Woman",
+      "disco": "Physical Graffiti",
+      "artista": "Led Zeppelin",
+      "id": 40086,
+      "reproduciendo_ahora": false
+    },
+    {
+      "fecha": "18 Oct 2025, 17:34",
+      "cancion": "Boogie With Stu",
+      "disco": "Physical Graffiti",
+      "artista": "Led Zeppelin",
+      "id": 40085,
+      "reproduciendo_ahora": false
+    },
+    {
+      "fecha": "18 Oct 2025, 17:29",
+      "cancion": "The Wanton Song",
+      "disco": "Physical Graffiti",
+      "artista": "Led Zeppelin",
+      "id": 40084,
+      "reproduciendo_ahora": false
+    },
+    {
+      "fecha": "18 Oct 2025, 17:25",
+      "cancion": "Night Flight",
+      "disco": "Physical Graffiti",
+      "artista": "Led Zeppelin",
+      "id": 40083,
+      "reproduciendo_ahora": false
+    },
+    {
+      "fecha": "18 Oct 2025, 17:19",
+      "cancion": "Ten Years Gone",
+      "disco": "Physical Graffiti",
+      "artista": "Led Zeppelin",
+      "id": 40082,
+      "reproduciendo_ahora": false
+    },
+    {
+      "fecha": "18 Oct 2025, 17:12",
+      "cancion": "Down by the Seaside",
+      "disco": "Physical Graffiti",
+      "artista": "Led Zeppelin",
+      "id": 40081,
+      "reproduciendo_ahora": false
+    },
+    {
+      "fecha": "18 Oct 2025, 17:10",
+      "cancion": "Bron-Yr-Aur",
+      "disco": "Physical Graffiti",
+      "artista": "Led Zeppelin",
+      "id": 40080,
+      "reproduciendo_ahora": false
+    },
+    {
+      "fecha": "18 Oct 2025, 16:52",
+      "cancion": "In the Light",
+      "disco": "Physical Graffiti",
+      "artista": "Led Zeppelin",
+      "id": 40079,
+      "reproduciendo_ahora": false
+    },
+    {
+      "fecha": "18 Oct 2025, 16:41",
+      "cancion": "Kashmir",
+      "disco": "Physical Graffiti",
+      "artista": "Led Zeppelin",
+      "id": 40078,
+      "reproduciendo_ahora": false
+    },
+    {
+      "fecha": "18 Oct 2025, 16:35",
+      "cancion": "Trampled Under Foot",
+      "disco": "Physical Graffiti",
+      "artista": "Led Zeppelin",
+      "id": 40077,
+      "reproduciendo_ahora": false
+    },
+    {
+      "fecha": "18 Oct 2025, 16:31",
+      "cancion": "Houses of the Holy",
+      "disco": "Physical Graffiti",
+      "artista": "Led Zeppelin",
+      "id": 40076,
+      "reproduciendo_ahora": false
+    },
+    {
+      "fecha": "18 Oct 2025, 16:20",
+      "cancion": "In My Time of Dying",
+      "disco": "Physical Graffiti",
+      "artista": "Led Zeppelin",
+      "id": 40075,
+      "reproduciendo_ahora": false
+    },
+    {
+      "fecha": "18 Oct 2025, 16:14",
+      "cancion": "The Rover",
+      "disco": "Physical Graffiti",
+      "artista": "Led Zeppelin",
+      "id": 40074,
+      "reproduciendo_ahora": false
+    },
+    {
+      "fecha": "18 Oct 2025, 16:10",
+      "cancion": "Custard Pie",
+      "disco": "Physical Graffiti",
+      "artista": "Led Zeppelin",
+      "id": 40073,
+      "reproduciendo_ahora": false
+    },
     {
       "fecha": "18 Oct 2025, 12:53",
       "cancion": "The Day After the Revolution",

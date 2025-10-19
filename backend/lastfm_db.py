@@ -9,53 +9,47 @@ import concurrent.futures
 import getpass
 from sqlalchemy import create_engine, Table, Column, Integer, String, MetaData, text
 from sqlalchemy.exc import SQLAlchemyError
+from colorama import init, Fore, Style
+init()
 
-# API_KEY se definirá interactivamente
 API_KEY = None
 API_URL = "http://ws.audioscrobbler.com/2.0/"
 
 def mostrar_encabezado():
+    """Muestra el encabezado con la hora actual"""
     inicio = datetime.datetime.now()
-    print("=" * 60)
-    print("Last.FM Collector BBDD Script")
-    print("=" * 60)
-    print("[Inicio]", inicio.strftime("%Y-%m-%d %H:%M:%S"))
+    print(Fore.CYAN + ">" * 60)
+    print("|||| LAST.FM COLLECTOR — BBDD BACKEND ||||".center(60))
+    print("<" * 60 + Style.RESET_ALL)
+    print(Fore.YELLOW + "[Inicio]".ljust(10), inicio.strftime("%Y-%m-%d %H:%M:%S") + Style.RESET_ALL)
     return inicio
 
 def solicitar_api_key():
     """Solicita la API key interactivamente con 3 intentos"""
     global API_KEY
-    
     intentos = 3
     for intento in range(intentos):
         try:
             print(f"\nIntroduce tu API key de Last.fm (intento {intento + 1}/{intentos}):")
             api_key = getpass.getpass("API key: ").strip()
-            
             if not api_key:
-                print("Error: La API key no puede estar vacía.")
+                print(Fore.LIGHTRED_EX + "✗ La API key no puede estar vacía." + Style.RESET_ALL)
                 continue
-            
-            # Validar formato básico (debería ser alfanumérico)
             if not api_key.replace('-', '').replace('_', '').isalnum():
-                print("Error: La API key tiene un formato inválido.")
+                print(Fore.LIGHTRED_EX + "✗ Formato inválido de API key." + Style.RESET_ALL)
                 continue
-            
-            # Validar que la API key funciona haciendo una prueba simple
             if validar_api_key_en_servidor(api_key):
                 API_KEY = api_key
-                print("✓ API key válida y verificada")
+                print(Fore.GREEN + "✓ API key válida y verificada" + Style.RESET_ALL)
                 return True
             else:
-                print("Error: La API key no es válida o no tiene permisos.")
-                
+                print(Fore.LIGHTRED_EX + "✗ API key no válida o sin permisos" + Style.RESET_ALL)
         except KeyboardInterrupt:
             print("\nOperación cancelada por el usuario.")
             sys.exit(1)
         except Exception as e:
-            print(f"Error validando API key: {e}")
-    
-    print(f"\nError: Demasiados intentos fallidos. Saliendo...")
+            print(Fore.LIGHTRED_EX + f"✗ Error validando API key: {e}" + Style.RESET_ALL)
+    print(Fore.LIGHTRED_EX + "\n✗ Demasiados intentos fallidos. Saliendo..." + Style.RESET_ALL)
     return False
 
 def validar_api_key_en_servidor(api_key):
@@ -66,24 +60,14 @@ def validar_api_key_en_servidor(api_key):
         "format": "json",
         "limit": 1
     }
-    
     try:
         response = requests.get(API_URL, params=params, timeout=10)
-        
         if response.status_code == 403:
             return False
-        
         response.raise_for_status()
         data = response.json()
-        
-        if "error" in data:
-            return False
-        
-        return True
-        
-    except requests.exceptions.RequestException:
-        return False
-    except (json.JSONDecodeError, KeyError):
+        return "error" not in data
+    except:
         return False
 
 def validar_api_key_configurada():
@@ -93,21 +77,21 @@ def validar_api_key_configurada():
             sys.exit(1)
 
 def configurar_argumentos():
+    """Configura y parsea los argumentos de línea de comandos"""
     parser = argparse.ArgumentParser(description='Extrae todos los datos de Last.fm e inserta en una base de datos SQL')
-
-    parser.add_argument('usuario', help='Nombre de usuario de Last.fm')
-    parser.add_argument('motor', help='Motor de BBDD: mysql o postgresql')
-    parser.add_argument('ip', help='IP o hostname del servidor BBDD')
-    parser.add_argument('puerto', help='Puerto del servidor BBDD (ej: 3306 para MySQL, 5432 para PostgreSQL)')
-    parser.add_argument('usuario_bd', help='Usuario para la BBDD')
-    parser.add_argument('password', help='Password para la BBDD')
-
+    parser.add_argument('usuario')
+    parser.add_argument('motor')
+    parser.add_argument('ip')
+    parser.add_argument('puerto')
+    parser.add_argument('usuario_bd')
+    parser.add_argument('password')
     return parser.parse_args()
-
+    
 def formato_numero(numero):
     return f"{numero:,}".replace(",", ".")
 
 def usuario_existe(usuario):
+    """Verifica si el usuario existe en Last.fm"""
     params = {
         "method": "user.getInfo",
         "user": usuario,
@@ -119,10 +103,11 @@ def usuario_existe(usuario):
         data = json.loads(response.text)
         return "user" in data and "name" in data["user"]
     except Exception as e:
-        print(f"Error verificando usuario: {e}")
+        print(Fore.LIGHTRED_EX + f"✗ Error verificando usuario: {e}" + Style.RESET_ALL)
         return False
 
 def hacer_solicitud_con_reintentos(url, params, max_intentos=3, retraso_base=2):
+    """Realiza una solicitud HTTP con reintentos en caso de error, ocultando URL y API key"""
     for intento in range(max_intentos):
         try:
             response = requests.get(url, params=params, timeout=10)
@@ -131,22 +116,38 @@ def hacer_solicitud_con_reintentos(url, params, max_intentos=3, retraso_base=2):
             if "error" in data:
                 raise ValueError(f"Error de Last.fm: {data.get('message', 'Error desconocido')}")
             return data
+
         except (requests.exceptions.RequestException, json.JSONDecodeError) as e:
-            print(f"Intento {intento + 1} fallido: {e}")
-            if intento < max_intentos - 1:
-                time.sleep(retraso_base ** intento)
+            if isinstance(e, requests.exceptions.HTTPError) and e.response is not None:
+                codigo = e.response.status_code
+                mensaje = f"{codigo} Server Error"
             else:
+                mensaje = type(e).__name__
+
+            if intento < max_intentos - 1:
+                tiempo_espera = retraso_base ** intento
+                print(Fore.LIGHTRED_EX + f"✗ Error en solicitud (reintento {intento+1}/{max_intentos}): {mensaje}" + Style.RESET_ALL)
+                print(Fore.LIGHTRED_EX + f"✗ Esperando {tiempo_espera} segundos antes de reintentar..." + Style.RESET_ALL)
+                time.sleep(tiempo_espera)
+            else:
+                print(Fore.LIGHTRED_EX + f"✗ Error después de {max_intentos} intentos: {mensaje}" + Style.RESET_ALL)
                 raise
 
+        except ValueError:
+            raise
+
+    raise ValueError("Error inesperado en solicitudes HTTP")
+
 def crear_base_datos_si_no_existe(motor, ip, puerto, usuario_bd, password):
+    """Verifica o crea la base de datos 'lastfm' según el motor especificado"""
     nombre_bd = "lastfm"
     try:
         if motor == 'mysql':
             engine = create_engine(f"mysql+pymysql://{usuario_bd}:{password}@{ip}:{puerto}")
             with engine.connect() as conn:
                 conn.execute(text(f"CREATE DATABASE IF NOT EXISTS {nombre_bd}"))
-                conn.commit()  # Commit explícito
-                print(f"✔ Base de datos '{nombre_bd}' verificada/creada en MySQL")
+                conn.commit()
+                print(Fore.GREEN + f"✓ Base de datos '{nombre_bd}' verificada/creada en MySQL" + Style.RESET_ALL)
         elif motor == 'postgresql':
             raw_url = f"postgresql://{usuario_bd}:{password}@{ip}:{puerto}/postgres"
             tmp_engine = create_engine(raw_url, isolation_level="AUTOCOMMIT")
@@ -155,15 +156,14 @@ def crear_base_datos_si_no_existe(motor, ip, puerto, usuario_bd, password):
                 exists = result.scalar()
                 if not exists:
                     tmp_conn.execute(text("CREATE DATABASE lastfm"))
-                    print(f"✔ Base de datos '{nombre_bd}' creada en PostgreSQL")
+                    print(Fore.GREEN + f"✓ Base de datos '{nombre_bd}' creada en PostgreSQL" + Style.RESET_ALL)
                 else:
-                    print(f"✔ Base de datos '{nombre_bd}' ya existe en PostgreSQL")
+                    print(Fore.GREEN + f"✓ Base de datos '{nombre_bd}' ya existe en PostgreSQL" + Style.RESET_ALL)
         else:
-            raise ValueError("Motor de base de datos no soportado. Usa 'mysql' o 'postgresql'.")
+            raise ValueError("Motor no soportado. Usa 'mysql' o 'postgresql'.")
     except Exception as e:
-        print(f"Error creando base de datos: {e}")
+        print(Fore.LIGHTRED_EX + f"✗ Error creando base de datos: {e}" + Style.RESET_ALL)
         sys.exit(1)
-
     return nombre_bd
 
 def procesar_entidad_sql(usuario, method, entidad, columnas, parser_func, engine, metadata):
@@ -176,10 +176,10 @@ def procesar_entidad_sql(usuario, method, entidad, columnas, parser_func, engine
 
     tabla = Table(entidad, metadata, *columnas)
     metadata.create_all(engine)
-    print(f"✔ Tabla '{entidad}' creada/verificada")
+    print(Fore.GREEN + f"✓ Tabla '{entidad}' creada/verificada" + Style.RESET_ALL)
 
     try:
-        with engine.begin() as conn:  # Usar begin() para auto-commit
+        with engine.begin() as conn:
             while pagina <= total_paginas:
                 try:
                     params = {
@@ -199,47 +199,59 @@ def procesar_entidad_sql(usuario, method, entidad, columnas, parser_func, engine
                         total_items = int(attr.get('total', 0))
                         print(f"Total de {entidad}: {formato_numero(total_items)} en {total_paginas} páginas")
 
-                    registros = parser_func(response, usuario, contador)
+                    # SOLUCIÓN: Solo usar offset para scrobbles
+                    if entidad == "scrobbles":
+                        registros = parser_func(response, usuario, contador)
+                    else:
+                        registros = parser_func(response, usuario, 0)
                     
-                    if registros:  # Solo insertar si hay registros
+                    if registros:
                         result = conn.execute(tabla.insert(), registros)
                         contador += len(registros)
                     
                     # Calcular porcentaje y mostrar progreso
                     porcentaje = (pagina / total_paginas) * 100
-                    registros_insertados = len(registros) if registros else 0
                     
-                    # Mostrar progreso en la misma línea
-                    print(f"\rProcesando: {porcentaje:.1f}% ({pagina}/{total_paginas}) - Insertados: {formato_numero(contador)}", end="", flush=True)
+                    if porcentaje == 100:
+                        porcentaje_str = "100%"
+                    else:
+                        porcentaje_str = f"{porcentaje:.1f}%"
+                    
+                    # Limpiar línea completamente
+                    linea = f"Procesando: {porcentaje_str} ({pagina}/{total_paginas}) - Insertados: {formato_numero(contador)}"
+                    sys.stdout.write(f"\r{linea:<70}")
+                    sys.stdout.flush()
                     
                     pagina += 1
                     if pagina <= total_paginas:
                         time.sleep(delay)
                         
                 except Exception as e:
-                    print(f"\n✗ Error en página {pagina}: {e}")
+                    print(Fore.LIGHTRED_EX + f"\n✗ Error en página {pagina}: {e}" + Style.RESET_ALL)
                     break
                     
     except Exception as e:
-        print(f"\n✗ Error procesando {entidad}: {e}")
+        print(Fore.LIGHTRED_EX + f"\n✗ Error procesando {entidad}: {e}" + Style.RESET_ALL)
         return 0
 
-    print(f"\n✔ Completado: {formato_numero(contador)} registros insertados en la tabla '{entidad}'")
+    print(Fore.GREEN + f"\n✓ Completado: {formato_numero(contador)} registros insertados en la tabla '{entidad}'" + Style.RESET_ALL)
     return contador
 
 def parse_artistas(response, usuario, _):
+    """Parsea artistas desde la respuesta JSON"""
     try:
         return [{
             'puesto': int(item['@attr']['rank']),
-            'artista': item['name'][:255],  # Truncar para evitar errores
+            'artista': item['name'][:255],
             'scrobbles': int(item['playcount']),
             'usuario': usuario[:100]
         } for item in response['topartists']['artist']]
     except KeyError as e:
-        print(f"Error parseando artistas: {e}")
+        print(Fore.LIGHTRED_EX + f"✗ Error parseando artistas: {e}" + Style.RESET_ALL)
         return []
 
 def parse_discos(response, usuario, _):
+    """Parsea discos desde la respuesta JSON"""
     try:
         return [{
             'puesto': int(item['@attr']['rank']),
@@ -249,10 +261,11 @@ def parse_discos(response, usuario, _):
             'usuario': usuario[:100]
         } for item in response['topalbums']['album']]
     except KeyError as e:
-        print(f"Error parseando discos: {e}")
+        print(Fore.LIGHTRED_EX + f"✗ Error parseando discos: {e}" + Style.RESET_ALL)
         return []
 
 def parse_canciones(response, usuario, _):
+    """Parsea canciones desde la respuesta JSON"""
     try:
         return [{
             'puesto': int(item['@attr']['rank']),
@@ -262,22 +275,20 @@ def parse_canciones(response, usuario, _):
             'usuario': usuario[:100]
         } for item in response['toptracks']['track']]
     except KeyError as e:
-        print(f"Error parseando canciones: {e}")
+        print(Fore.LIGHTRED_EX + f"✗ Error parseando canciones: {e}" + Style.RESET_ALL)
         return []
 
 def parse_scrobbles(response, usuario, offset):
+    """Parsea scrobbles desde la respuesta JSON"""
     registros = []
     try:
         for i, item in enumerate(response['recenttracks']['track']):
-            # Saltar tracks que se están reproduciendo ahora
             if '@attr' in item and item['@attr'].get('nowplaying') == 'true':
                 continue
-                
             fecha = item.get('date', {}).get('#text', 'Desconocido')
             cancion = item['name'][:255]
             disco = item['album']['#text'][:255] if item['album']['#text'] else 'Desconocido'
             artista = item['artist']['#text'][:255]
-            
             registros.append({
                 'fecha': fecha,
                 'cancion': cancion,
@@ -287,22 +298,20 @@ def parse_scrobbles(response, usuario, offset):
                 'id_scrobble': offset + i + 1
             })
     except KeyError as e:
-        print(f"Error parseando scrobbles: {e}")
-    
+        print(Fore.LIGHTRED_EX + f"✗ Error parseando scrobbles: {e}" + Style.RESET_ALL)
     return registros
 
 def main():
     inicio = mostrar_encabezado()
     args = configurar_argumentos()
     
-    # Solicitar API key interactivamente
     validar_api_key_configurada()
 
     print(f"\nVerificando usuario '{args.usuario}' en Last.fm...")
     if not usuario_existe(args.usuario):
-        print(f"Error: El usuario '{args.usuario}' no existe en Last.fm")
+        print(Fore.LIGHTRED_EX + f"✗ El usuario '{args.usuario}' no existe en Last.fm" + Style.RESET_ALL)
         sys.exit(1)
-    print("✔ Usuario encontrado")
+    print(Fore.GREEN + "✓ Usuario encontrado" + Style.RESET_ALL)
 
     print(f"\nVerificando y creando base de datos si es necesario...")
     nombre_bd = crear_base_datos_si_no_existe(args.motor, args.ip, args.puerto, args.usuario_bd, args.password)
@@ -314,25 +323,21 @@ def main():
         elif args.motor == 'postgresql':
             engine = create_engine(f"postgresql://{args.usuario_bd}:{args.password}@{args.ip}:{args.puerto}/{nombre_bd}")
         else:
-            raise ValueError("Motor de base de datos no soportado. Usa 'mysql' o 'postgresql'.")
-        
-        # Probar la conexión
+            raise ValueError("Motor no soportado. Usa 'mysql' o 'postgresql'.")
         with engine.connect() as test_conn:
             test_conn.execute(text("SELECT 1"))
-        print("✔ Conexión a la base de datos exitosa")
-        
+        print(Fore.GREEN + "✓ Conexión a la base de datos exitosa" + Style.RESET_ALL)
     except SQLAlchemyError as e:
-        print(f"✗ Error de conexión a la base de datos: {str(e)}")
+        print(Fore.LIGHTRED_EX + f"✗ Error de conexión a la base de datos: {str(e)}" + Style.RESET_ALL)
         sys.exit(1)
 
     metadata = MetaData()
     total_registros = 0
 
-    print(f"\n{'='*60}")
+    print(Fore.CYAN + "\n" + "=" * 60)
     print("INICIANDO EXTRACCIÓN DE DATOS")
-    print(f"{'='*60}")
+    print("=" * 60 + Style.RESET_ALL)
 
-    # Procesar cada entidad
     entidades = [
         (args.usuario, "user.getTopArtists", "artistas", [
             Column('puesto', Integer), 
@@ -368,24 +373,22 @@ def main():
     ]
 
     for usuario, method, tabla, columnas, parser in entidades:
-        print(f"\n--- Procesando {tabla.upper()} ---")
+        print(Fore.MAGENTA + f"\n--- Procesando {tabla.upper()} ---" + Style.RESET_ALL)
         registros = procesar_entidad_sql(usuario, method, tabla, columnas, parser, engine, metadata)
         total_registros += registros
 
     fin = datetime.datetime.now()
     duracion = fin - inicio
-    
-    # Formatear duración sin microsegundos
     duracion_redondeada = str(duracion).split('.')[0]
-    
-    print(f"\n{'='*60}")
+
+    print(Fore.CYAN + "\n" + "=" * 60)
     print("RESUMEN FINAL")
-    print(f"{'='*60}")
+    print("=" * 60 + Style.RESET_ALL)
     print(f"Usuario: {args.usuario}")
     print(f"Total registros insertados: {formato_numero(total_registros)}")
     print(f"Duración: {duracion_redondeada}")
-    print(f"[Fin] {fin.strftime('%Y-%m-%d %H:%M:%S')}")
-    print(f"{'='*60}")
+    print(Fore.YELLOW + "[Fin]", fin.strftime("%Y-%m-%d %H:%M:%S") + Style.RESET_ALL)
+    print(Fore.CYAN + "=" * 60 + Style.RESET_ALL)
 
 if __name__ == "__main__":
     main()
