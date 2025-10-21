@@ -59,7 +59,7 @@ Genera la estructura de archivos que implant de la aplicación:
 ## 2. PROCESO AUTOMATIZADO
 ### FASE 1 - INFRAESTRUCTURA (Terraform)
 **Tareas:**
-- Creación de Resource Group  
+- Creación de Resource Group
 - Configuración de red y seguridad
 - Implementación de VM Debian 12
 - Asignación de IP pública

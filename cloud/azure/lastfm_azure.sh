@@ -144,7 +144,7 @@ echo "=== PYTHON - LASTFMCOLLECTOR  ==="
 # Instalar módulos
 cd ../python
 echo "Instalando dependencias Python..."
-pip install --user requests sqlalchemy pymysql psycopg2
+pip install --user requests sqlalchemy pymysql psycopg2 colorama
 
 # Función para validar entrada no vacía
 validar_entrada() {
@@ -268,4 +268,4 @@ ssh -i ~/.ssh/id_rsa azureuser@$IP_SERVIDOR <<'EOF'
   sudo docker logs --since 20s nginx || echo "⚠️ No hay logs aún."
 EOF
 
-echo "✅ Si todo está correcto, abre en tu navegador: http://$IP_SERVIDOR/lastfm/"
+echo "Si todo está correcto, abre en tu navegador: http://$IP_SERVIDOR/lastfm/"
