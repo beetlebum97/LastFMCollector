@@ -20,10 +20,10 @@ API_URL = "http://ws.audioscrobbler.com/2.0/"
 def mostrar_encabezado():
     """Muestra el encabezado con la hora actual"""
     inicio = datetime.datetime.now()
-    print(Fore.CYAN + ">" * 60)
+    print(Fore.LIGHTCYAN_EX + ">" * 60)
     print("|||| LAST.FM COLLECTOR ||||".center(60))
     print("<" * 60 + Style.RESET_ALL)
-    print(Fore.YELLOW + "[Inicio]".ljust(10), inicio.strftime("%Y-%m-%d %H:%M:%S") + Style.RESET_ALL)
+    print(Fore.LIGHTYELLOW_EX + "[Inicio]".ljust(10), inicio.strftime("%Y-%m-%d %H:%M:%S") + Style.RESET_ALL)
     return inicio
 
 def solicitar_api_key():
@@ -48,7 +48,7 @@ def solicitar_api_key():
             # Validar que la API key funciona haciendo una prueba simple
             if validar_api_key_en_servidor(api_key):
                 API_KEY = api_key
-                print(Fore.GREEN + "✓ API key válida y verificada" + Style.RESET_ALL)
+                print(Fore.LIGHTGREEN_EX + "✓ API key válida y verificada" + Style.RESET_ALL)
                 return True
             else:
                 print(Fore.LIGHTRED_EX + "✗ API key no válida o sin permisos" + Style.RESET_ALL)
@@ -214,10 +214,10 @@ def procesar_resumen(usuario):
         resultados = obtener_estadisticas_usuario(usuario)
         
         if resultados:
-            print(Fore.CYAN + "RESUMEN DE ESTADÍSTICAS:" + Style.RESET_ALL)
-            print(Fore.CYAN + "-" * 30 + Style.RESET_ALL)
+            print(Fore.LIGHTCYAN_EX + "RESUMEN DE ESTADÍSTICAS:" + Style.RESET_ALL)
+            print(Fore.LIGHTCYAN_EX + "-" * 30 + Style.RESET_ALL)
             for nombre, valor in resultados.items():
-                print(Fore.CYAN + f"→ {nombre:<10}: {formato_numero(valor)}" + Style.RESET_ALL)
+                print(Fore.LIGHTCYAN_EX + f"→ {nombre:<10}: {formato_numero(valor)}" + Style.RESET_ALL)
             
             tiempo_total = time.time() - tiempo_inicio
             print(f"\nConsulta completada en {tiempo_total:.2f} segundos.")
@@ -292,28 +292,28 @@ def main():
     try:
         # Extraer artistas
         if extraer_todo or args.artistas:
-            print(Fore.MAGENTA + f"\n{'='*20} ARTISTAS {'='*20}" + Style.RESET_ALL)
+            print(Fore.LIGHTMAGENTA_EX + f"\n{'='*20} ARTISTAS {'='*20}" + Style.RESET_ALL)
             print(f"Obteniendo artistas escuchados por {usuario}...")
             contador = procesar_artistas(usuario)
             resultados['artistas'] = contador
             
         # Extraer discos
         if extraer_todo or args.discos:
-            print(Fore.MAGENTA + f"\n{'='*20} DISCOS {'='*20}" + Style.RESET_ALL)
+            print(Fore.LIGHTMAGENTA_EX + f"\n{'='*20} DISCOS {'='*20}" + Style.RESET_ALL)
             print(f"Obteniendo discos escuchados por {usuario}...")
             contador = procesar_discos(usuario)
             resultados['discos'] = contador
         
         # Extraer canciones
         if extraer_todo or args.canciones:
-            print(Fore.MAGENTA + f"\n{'='*20} CANCIONES {'='*20}" + Style.RESET_ALL)
+            print(Fore.LIGHTMAGENTA_EX + f"\n{'='*20} CANCIONES {'='*20}" + Style.RESET_ALL)
             print(f"Obteniendo canciones escuchadas por {usuario}...")
             contador = procesar_canciones(usuario)
             resultados['canciones'] = contador
         
         # Extraer scrobbles
         if extraer_todo or args.scrobbles:
-            print(Fore.MAGENTA + f"\n{'='*20} SCROBBLES {'='*20}" + Style.RESET_ALL)
+            print(Fore.LIGHTMAGENTA_EX + f"\n{'='*20} SCROBBLES {'='*20}" + Style.RESET_ALL)
             print(f"Obteniendo historial de scrobbles de {usuario}...")
             contador = procesar_scrobbles(usuario)
             resultados['scrobbles'] = contador
@@ -327,22 +327,22 @@ def main():
 
 def mostrar_resumen_final(usuario, ruta, resultados, inicio):
     """Muestra el resumen final de la ejecución"""
-    print(Fore.CYAN + f"\n{'='*60}")
+    print(Fore.LIGHTCYAN_EX + f"\n{'='*60}")
     print("RESUMEN FINAL")
     print(f"{'='*60}" + Style.RESET_ALL)
 
     
     for tipo, contador in resultados.items():
-        print(Fore.GREEN + f"✓ {tipo.capitalize()} registrados: {formato_numero(contador)}" + Style.RESET_ALL)
+        print(Fore.LIGHTGREEN_EX + f"✓ {tipo.capitalize()} registrados: {formato_numero(contador)}" + Style.RESET_ALL)
         archivo_json = f'listados/{usuario}/lastfm_{usuario}_{tipo}.json'
         archivo_csv = f'listados/{usuario}/lastfm_{usuario}_{tipo}.csv'
-        print(Fore.MAGENTA + f"   JSON: {ruta}/{archivo_json}" + Style.RESET_ALL)
-        print(Fore.MAGENTA + f"   CSV:  {ruta}/{archivo_csv}" + Style.RESET_ALL)
+        print(Fore.LIGHTMAGENTA_EX + f"   JSON: {ruta}/{archivo_json}" + Style.RESET_ALL)
+        print(Fore.LIGHTMAGENTA_EX + f"   CSV:  {ruta}/{archivo_csv}" + Style.RESET_ALL)
         print()
     
     # Finalización
     fin = datetime.datetime.now()
-    print(Fore.YELLOW + "[Fin]", fin.strftime("%Y-%m-%d %H:%M:%S") + Style.RESET_ALL)
+    print(Fore.LIGHTYELLOW_EX + "[Fin]", fin.strftime("%Y-%m-%d %H:%M:%S") + Style.RESET_ALL)
     
     # Calcular duración
     duracion = fin - inicio
@@ -439,13 +439,19 @@ def hacer_solicitud_con_reintentos(url, params, max_intentos=5, retraso_base=3):
 
             if intento < max_intentos - 1:
                 tiempo_espera = retraso_base ** intento
-                print(Fore.LIGHTRED_EX + f"✗ Error en solicitud (reintento {intento+1}/{max_intentos}): {mensaje}" + Style.RESET_ALL)
-                print(Fore.LIGHTRED_EX + f"✗ Esperando {tiempo_espera} segundos antes de reintentar..." + Style.RESET_ALL)
+                # Silenciar reintentos intermedios para evitar ruido visual
                 time.sleep(tiempo_espera)
             else:
-                print(Fore.LIGHTRED_EX + f"✗ Error después de {max_intentos} intentos: {mensaje}") 
+                # Solo mostrar si se agotaron los intentos
+                if "for url:" in mensaje:
+                    mensaje = mensaje.split("for url:")[0].strip()
+                if "500 Server Error" in mensaje:
+                    mensaje = "500 Server Error: Conexión perdida con la API"
+                elif "ReadTimeout" in mensaje:
+                    mensaje = "Timeout: el servidor no respondió a tiempo"
+                print(Fore.LIGHTRED_EX + f"\n✗ Error después de {max_intentos} intentos: {mensaje}" + Style.RESET_ALL)
                 raise
-
+                
         except ValueError:
             raise
     

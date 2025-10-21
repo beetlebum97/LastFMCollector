@@ -9,7 +9,7 @@ david@debian-12:~/LastFMCollector/backend$ python3 lastfm.py --help
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
                 |||| LAST.FM COLLECTOR ||||
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-[Inicio]   2025-10-19 20:20:41
+[Inicio]   2025-10-21 20:58:16
 usage: lastfm.py [-h] [--resumen] [--artistas] [--canciones] [--discos] [--scrobbles] usuario
 
 Extrae datos de Last.fm para un usuario específico
@@ -34,11 +34,12 @@ Ejemplos de uso:
   python lastfm.py <usuario> --scrobbles             # Solo scrobbles
   python lastfm.py <usuario> --artistas --discos     # Artistas y discos
 
+david@debian-12:~/LastFMCollector/backend$
 david@debian-12:~/LastFMCollector/backend$ python3 lastfm.py hayman3030 --resumen
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
                 |||| LAST.FM COLLECTOR ||||
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-[Inicio]   2025-10-19 20:21:49
+[Inicio]   2025-10-21 20:58:31
 
 Introduce tu API key de Last.fm (intento 1/3):
 API key:
@@ -53,13 +54,13 @@ RESUMEN DE ESTADÍSTICAS:
 → FAVORITAS : 172
 → SCROBBLES : 40.087
 
-Consulta completada en 0.40 segundos.
+Consulta completada en 0.60 segundos.
 david@debian-12:~/LastFMCollector/backend$
 david@debian-12:~/LastFMCollector/backend$ python3 lastfm.py hayman3030
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
                 |||| LAST.FM COLLECTOR ||||
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-[Inicio]   2025-10-19 20:22:04
+[Inicio]   2025-10-21 20:58:49
 
 Introduce tu API key de Last.fm (intento 1/3):
 API key:
@@ -108,8 +109,8 @@ RESUMEN FINAL
    JSON: /home/david/LastFMCollector/backend/listados/hayman3030/lastfm_hayman3030_scrobbles.json
    CSV:  /home/david/LastFMCollector/backend/listados/hayman3030/lastfm_hayman3030_scrobbles.csv
 
-[Fin] 2025-10-19 20:27:56
-Tiempo total de ejecución: 5 minutos y 51 segundos
+[Fin] 2025-10-21 21:06:37
+Tiempo total de ejecución: 7 minutos y 47 segundos
 david@debian-12:~/LastFMCollector/backend$ tree
 .
 ├── lastfm_db.py
@@ -138,11 +139,63 @@ Puesto;Artista;Scrobbles
 8;Pixies;812
 9;Diana Ross;634
 10;John Lennon;586
+david@debian-12:~/LastFMCollector/backend$ cat listados/hayman3030/lastfm_hayman3030_artistas.json | head -51
+{
+  "usuario": "hayman3030",
+  "total": 450,
+  "fecha_generacion": "2025-10-21T20:58:58.559418",
+  "artistas": [
+    {
+      "puesto": 1,
+      "artista": "Blur",
+      "scrobbles": 2271
+    },
+    {
+      "puesto": 2,
+      "artista": "Lou Reed",
+      "scrobbles": 1228
+    },
+    {
+      "puesto": 3,
+      "artista": "David Bowie",
+      "scrobbles": 1191
+    },
+    {
+      "puesto": 4,
+      "artista": "The Beatles",
+      "scrobbles": 1129
+    },
+    {
+      "puesto": 5,
+      "artista": "The Doors",
+      "scrobbles": 1034
+    },
+    {
+      "puesto": 6,
+      "artista": "Judas Priest",
+      "scrobbles": 914
+    },
+    {
+      "puesto": 7,
+      "artista": "The Kinks",
+      "scrobbles": 862
+    },
+    {
+      "puesto": 8,
+      "artista": "Pixies",
+      "scrobbles": 812
+    },
+    {
+      "puesto": 9,
+      "artista": "Diana Ross",
+      "scrobbles": 634
+    },
+    {
 david@debian-12:~/LastFMCollector/backend$ cat listados/hayman3030/lastfm_hayman3030_discos.json | head -51
 {
   "usuario": "hayman3030",
   "total": 1179,
-  "fecha_generacion": "2025-10-19T20:22:15.701190",
+  "fecha_generacion": "2025-10-21T20:59:05.197812",
   "discos": [
     {
       "puesto": 1,
@@ -190,84 +243,40 @@ david@debian-12:~/LastFMCollector/backend$ cat listados/hayman3030/lastfm_hayman
       "puesto": 8,
       "disco": "Modern Life Is Rubbish",
       "artista": "Blur",
-david@debian-12:~/LastFMCollector/backend$ cat listados/hayman3030/lastfm_hayman3030_canciones.json | head -51
+david@debian-12:~/LastFMCollector/backend$ cat listados/hayman3030/lastfm_hayman3030_canciones.csv | head -11
+Puesto;Canción;Artista;Scrobbles
+1;Coney Island Baby;Lou Reed;78
+2;Beetlebum;Blur;70
+3;City Lights;Lou Reed;69
+4;Oh Darling;Supertramp;68
+5;That's Life;Frank Sinatra;66
+6;Proud Mary;Creedence Clearwater Revival;64
+7;Life on Mars?;David Bowie;59
+8;Metal Gods;Judas Priest;55
+9;This Is a Low;Blur;54
+10;Once In The Morning;Diana Ross;54
+david@debian-12:~/LastFMCollector/backend$ cat listados/hayman3030/lastfm_hayman3030_scrobbles.json | head -11
 {
   "usuario": "hayman3030",
-  "total": 10634,
-  "fecha_generacion": "2025-10-19T20:23:35.343617",
-  "canciones": [
+  "total": 40087,
+  "fecha_generacion": "2025-10-21T21:06:37.195021",
+  "scrobbles": [
     {
-      "puesto": 1,
-      "cancion": "Coney Island Baby",
-      "artista": "Lou Reed",
-      "scrobbles": 78
-    },
-    {
-      "puesto": 2,
-      "cancion": "Beetlebum",
-      "artista": "Blur",
-      "scrobbles": 70
-    },
-    {
-      "puesto": 3,
-      "cancion": "City Lights",
-      "artista": "Lou Reed",
-      "scrobbles": 69
-    },
-    {
-      "puesto": 4,
-      "cancion": "Oh Darling",
-      "artista": "Supertramp",
-      "scrobbles": 68
-    },
-    {
-      "puesto": 5,
-      "cancion": "That's Life",
-      "artista": "Frank Sinatra",
-      "scrobbles": 66
-    },
-    {
-      "puesto": 6,
-      "cancion": "Proud Mary",
-      "artista": "Creedence Clearwater Revival",
-      "scrobbles": 64
-    },
-    {
-      "puesto": 7,
-      "cancion": "Life on Mars?",
-      "artista": "David Bowie",
-      "scrobbles": 59
-    },
-    {
-      "puesto": 8,
-      "cancion": "Metal Gods",
-      "artista": "Judas Priest",
-david@debian-12:~/LastFMCollector/backend$ cat listados/hayman3030/lastfm_hayman3030_scrobbles.csv | head -11
-Fecha;Canción;Disco;Artista;ID
-18 Oct 2025, 17:43;Sick Again;Physical Graffiti;Led Zeppelin;40087
-18 Oct 2025, 17:39;Black Country Woman;Physical Graffiti;Led Zeppelin;40086
-18 Oct 2025, 17:34;Boogie With Stu;Physical Graffiti;Led Zeppelin;40085
-18 Oct 2025, 17:29;The Wanton Song;Physical Graffiti;Led Zeppelin;40084
-18 Oct 2025, 17:25;Night Flight;Physical Graffiti;Led Zeppelin;40083
-18 Oct 2025, 17:19;Ten Years Gone;Physical Graffiti;Led Zeppelin;40082
-18 Oct 2025, 17:12;Down by the Seaside;Physical Graffiti;Led Zeppelin;40081
-18 Oct 2025, 17:10;Bron-Yr-Aur;Physical Graffiti;Led Zeppelin;40080
-18 Oct 2025, 16:52;In the Light;Physical Graffiti;Led Zeppelin;40079
-18 Oct 2025, 16:41;Kashmir;Physical Graffiti;Led Zeppelin;40078
-david@debian-12:~/LastFMCollector/backend$
+      "fecha": "18 Oct 2025, 17:43",
+      "cancion": "Sick Again",
+      "disco": "Physical Graffiti",
+      "artista": "Led Zeppelin",
+      "id": 40087,
+david@debian-12:~/LastFMCollector/backend$ rm -ef listados/hayman3030/
+rm: opción inválida -- 'e'
+Pruebe 'rm --help' para más información.
 david@debian-12:~/LastFMCollector/backend$ rm -rf listados/hayman3030/
-david@debian-12:~/LastFMCollector/backend$ tree
-.
-├── lastfm_db.py
-├── lastfm.py
-└── listados
-
-2 directories, 2 files
+david@debian-12:~/LastFMCollector/backend$
 david@debian-12:~/LastFMCollector/backend$ python3 lastfm.py hayman3030 --artistas --discos
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
                 |||| LAST.FM COLLECTOR ||||
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-[Inicio]   2025-10-19 20:29:39
+[Inicio]   2025-10-21 21:08:39
 
 Introduce tu API key de Last.fm (intento 1/3):
 API key:
@@ -297,9 +306,8 @@ RESUMEN FINAL
    JSON: /home/david/LastFMCollector/backend/listados/hayman3030/lastfm_hayman3030_discos.json
    CSV:  /home/david/LastFMCollector/backend/listados/hayman3030/lastfm_hayman3030_discos.csv
 
-[Fin] 2025-10-19 20:29:49
-Tiempo total de ejecución: 9 segundos
-david@debian-12:~/LastFMCollector/backend$
+[Fin] 2025-10-21 21:09:15
+Tiempo total de ejecución: 35 segundos
 david@debian-12:~/LastFMCollector/backend$ tree
 .
 ├── lastfm_db.py
@@ -316,7 +324,27 @@ david@debian-12:~/LastFMCollector/backend$ python3 lastfm.py hayman3030 --resume
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
                 |||| LAST.FM COLLECTOR ||||
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-[Inicio]   2025-10-19 20:30:08
+[Inicio]   2025-10-21 21:09:40
+
+Introduce tu API key de Last.fm (intento 1/3):
+API key:
+✓ API key válida y verificada
+Obteniendo información del usuario 'hayman3030' ...
+
+RESUMEN DE ESTADÍSTICAS:
+------------------------------
+→ ARTISTAS  : 450
+→ DISCOS    : 1.179
+→ CANCIONES : 10.634
+→ FAVORITAS : 172
+→ SCROBBLES : 40.087
+
+Consulta completada en 0.81 segundos.
+david@debian-12:~/LastFMCollector/backend$ python3 lastfm.py hayman3030 --resumen
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+                |||| LAST.FM COLLECTOR ||||
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[Inicio]   2025-10-21 21:09:56
 
 Introduce tu API key de Last.fm (intento 1/3):
 API key:
@@ -324,11 +352,11 @@ API key:
 
 Introduce tu API key de Last.fm (intento 2/3):
 API key:
-✗ API key no válida o sin permisos
+✗ La API key no puede estar vacía.
 
 Introduce tu API key de Last.fm (intento 3/3):
 API key:
 ✗ La API key no puede estar vacía.
 
 ✗ Demasiados intentos fallidos. Saliendo...
-david@debian-12:~/LastFMCollector/backend$
+david@debian-12:~/LastFMCollector/backend$ FIN

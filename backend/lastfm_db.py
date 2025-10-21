@@ -18,7 +18,7 @@ API_URL = "http://ws.audioscrobbler.com/2.0/"
 def mostrar_encabezado():
     """Muestra el encabezado con la hora actual"""
     inicio = datetime.datetime.now()
-    print(Fore.CYAN + ">" * 60)
+    print(Fore.LIGHTCYAN_EX + ">" * 60)
     print("|||| LAST.FM COLLECTOR — BBDD BACKEND ||||".center(60))
     print("<" * 60 + Style.RESET_ALL)
     print(Fore.YELLOW + "[Inicio]".ljust(10), inicio.strftime("%Y-%m-%d %H:%M:%S") + Style.RESET_ALL)
@@ -40,7 +40,7 @@ def solicitar_api_key():
                 continue
             if validar_api_key_en_servidor(api_key):
                 API_KEY = api_key
-                print(Fore.GREEN + "✓ API key válida y verificada" + Style.RESET_ALL)
+                print(Fore.LIGHTGREEN_EX + "✓ API key válida y verificada" + Style.RESET_ALL)
                 return True
             else:
                 print(Fore.LIGHTRED_EX + "✗ API key no válida o sin permisos" + Style.RESET_ALL)
@@ -122,15 +122,24 @@ def hacer_solicitud_con_reintentos(url, params, max_intentos=5, retraso_base=3):
                 codigo = e.response.status_code
                 mensaje = f"{codigo} Server Error"
             else:
-                mensaje = type(e).__name__
+                mensaje = str(e) or type(e).__name__
 
             if intento < max_intentos - 1:
                 tiempo_espera = retraso_base ** intento
-                print(Fore.LIGHTRED_EX + f"✗ Error en solicitud (reintento {intento+1}/{max_intentos}): {mensaje}" + Style.RESET_ALL)
-                print(Fore.LIGHTRED_EX + f"✗ Esperando {tiempo_espera} segundos antes de reintentar..." + Style.RESET_ALL)
+                # Silenciar reintentos intermedios para evitar ruido visual
                 time.sleep(tiempo_espera)
             else:
-                print(Fore.LIGHTRED_EX + f"✗ Error después de {max_intentos} intentos: {mensaje}" + Style.RESET_ALL)
+                # Solo mostrar si se agotaron los intentos
+                if "for url:" in mensaje:
+                    mensaje = mensaje.split("for url:")[0].strip()
+                if "500 Server Error" in mensaje:
+                    mensaje = "500 Server Error: Conexión perdida con la API"
+                elif "ReadTimeout" in mensaje:
+                    mensaje = "Timeout: el servidor no respondió a tiempo"
+                elif "ConnectionError" in mensaje:
+                    mensaje = "Error de conexión: no se pudo contactar con el servidor"
+
+                print(Fore.LIGHTRED_EX + f"\n✗ Error después de {max_intentos} intentos: {mensaje}" + Style.RESET_ALL)
                 raise
 
         except ValueError:
@@ -147,7 +156,7 @@ def crear_base_datos_si_no_existe(motor, ip, puerto, usuario_bd, password):
             with engine.connect() as conn:
                 conn.execute(text(f"CREATE DATABASE IF NOT EXISTS {nombre_bd}"))
                 conn.commit()
-                print(Fore.GREEN + f"✓ Base de datos '{nombre_bd}' verificada/creada en MySQL" + Style.RESET_ALL)
+                print(Fore.LIGHTGREEN_EX + f"✓ Base de datos '{nombre_bd}' verificada/creada en MySQL" + Style.RESET_ALL)
         elif motor == 'postgresql':
             raw_url = f"postgresql://{usuario_bd}:{password}@{ip}:{puerto}/postgres"
             tmp_engine = create_engine(raw_url, isolation_level="AUTOCOMMIT")
@@ -156,9 +165,9 @@ def crear_base_datos_si_no_existe(motor, ip, puerto, usuario_bd, password):
                 exists = result.scalar()
                 if not exists:
                     tmp_conn.execute(text("CREATE DATABASE lastfm"))
-                    print(Fore.GREEN + f"✓ Base de datos '{nombre_bd}' creada en PostgreSQL" + Style.RESET_ALL)
+                    print(Fore.LIGHTGREEN_EX + f"✓ Base de datos '{nombre_bd}' creada en PostgreSQL" + Style.RESET_ALL)
                 else:
-                    print(Fore.GREEN + f"✓ Base de datos '{nombre_bd}' ya existe en PostgreSQL" + Style.RESET_ALL)
+                    print(Fore.LIGHTGREEN_EX + f"✓ Base de datos '{nombre_bd}' ya existe en PostgreSQL" + Style.RESET_ALL)
         else:
             raise ValueError("Motor no soportado. Usa 'mysql' o 'postgresql'.")
     except Exception as e:
@@ -176,7 +185,7 @@ def procesar_entidad_sql(usuario, method, entidad, columnas, parser_func, engine
 
     tabla = Table(entidad, metadata, *columnas)
     metadata.create_all(engine)
-    print(Fore.GREEN + f"✓ Tabla '{entidad}' creada/verificada" + Style.RESET_ALL)
+    print(Fore.LIGHTGREEN_EX + f"✓ Tabla '{entidad}' creada/verificada" + Style.RESET_ALL)
 
     try:
         with engine.begin() as conn:
@@ -247,7 +256,7 @@ def procesar_entidad_sql(usuario, method, entidad, columnas, parser_func, engine
         print(Fore.LIGHTRED_EX + f"\n✗ Error procesando {entidad}: {e}" + Style.RESET_ALL)
         return 0
 
-    print(Fore.GREEN + f"\n✓ Completado: {formato_numero(contador)} registros insertados en la tabla '{entidad}'" + Style.RESET_ALL)
+    print(Fore.LIGHTGREEN_EX + f"\n✓ Completado: {formato_numero(contador)} registros insertados en la tabla '{entidad}'" + Style.RESET_ALL)
     return contador
 
 def parse_artistas(response, usuario, _):
@@ -324,7 +333,7 @@ def main():
     if not usuario_existe(args.usuario):
         print(Fore.LIGHTRED_EX + f"✗ El usuario '{args.usuario}' no existe en Last.fm" + Style.RESET_ALL)
         sys.exit(1)
-    print(Fore.GREEN + "✓ Usuario encontrado" + Style.RESET_ALL)
+    print(Fore.LIGHTGREEN_EX + "✓ Usuario encontrado" + Style.RESET_ALL)
 
     print(f"\nVerificando y creando base de datos si es necesario...")
     nombre_bd = crear_base_datos_si_no_existe(args.motor, args.ip, args.puerto, args.usuario_bd, args.password)
@@ -339,7 +348,7 @@ def main():
             raise ValueError("Motor no soportado. Usa 'mysql' o 'postgresql'.")
         with engine.connect() as test_conn:
             test_conn.execute(text("SELECT 1"))
-        print(Fore.GREEN + "✓ Conexión a la base de datos exitosa" + Style.RESET_ALL)
+        print(Fore.LIGHTGREEN_EX + "✓ Conexión a la base de datos exitosa" + Style.RESET_ALL)
     except SQLAlchemyError as e:
         print(Fore.LIGHTRED_EX + f"✗ Error de conexión a la base de datos: {str(e)}" + Style.RESET_ALL)
         sys.exit(1)
@@ -347,7 +356,7 @@ def main():
     metadata = MetaData()
     total_registros = 0
 
-    print(Fore.CYAN + "\n" + "=" * 60)
+    print(Fore.LIGHTCYAN_EX + "\n" + "=" * 60)
     print("INICIANDO EXTRACCIÓN DE DATOS")
     print("=" * 60 + Style.RESET_ALL)
 
@@ -386,7 +395,7 @@ def main():
     ]
 
     for usuario, method, tabla, columnas, parser in entidades:
-        print(Fore.MAGENTA + f"\n--- Procesando {tabla.upper()} ---" + Style.RESET_ALL)
+        print(Fore.LIGHTMAGENTA_EX + f"\n--- Procesando {tabla.upper()} ---" + Style.RESET_ALL)
         registros = procesar_entidad_sql(usuario, method, tabla, columnas, parser, engine, metadata)
         total_registros += registros
 
@@ -394,7 +403,7 @@ def main():
     duracion = fin - inicio
     duracion_redondeada = str(duracion).split('.')[0]
 
-    print(Fore.CYAN + "\n" + "=" * 60)
+    print(Fore.LIGHTCYAN_EX + "\n" + "=" * 60)
     print("RESUMEN FINAL")
     print("=" * 60 + Style.RESET_ALL)
     print(f"Usuario: {args.usuario}")

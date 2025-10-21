@@ -1,8 +1,15 @@
+david@debian-12:~/LastFMCollector/backend$ tree
+.
+├── lastfm_db.py
+├── lastfm.py
+└── listados
+
+2 directories, 2 files
 david@debian-12:~/LastFMCollector/backend$ python3 lastfm_db.py --help
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
          |||| LAST.FM COLLECTOR — BBDD BACKEND ||||
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-[Inicio]   2025-10-19 22:37:12
+[Inicio]   2025-10-22 00:00:59
 usage: lastfm_db.py [-h] usuario motor ip puerto usuario_bd password
 
 Extrae todos los datos de Last.fm e inserta en una base de datos SQL
@@ -17,11 +24,11 @@ positional arguments:
 
 options:
   -h, --help  show this help message and exit
-david@debian-12:~/LastFMCollector/backend$ python3 lastfm_db.py hayman3030 postgresql 192.168.1.42 5432 david manager
+david@debian-12:~/LastFMCollector/backend$ python3 lastfm_db.py hayman3030 postgresql 192.168.1.47 5432 david manager
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
          |||| LAST.FM COLLECTOR — BBDD BACKEND ||||
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-[Inicio]   2025-10-19 22:37:31
+[Inicio]   2025-10-22 00:02:03
 
 Introduce tu API key de Last.fm (intento 1/3):
 API key:
@@ -61,12 +68,6 @@ Procesando: 100% (54/54) - Insertados: 10.634
 --- Procesando SCROBBLES ---
 ✓ Tabla 'scrobbles' creada/verificada
 Total de scrobbles: 40.087 en 201 páginas
-Procesando: 7.5% (15/201) - Insertados: 3.000                         ✗ Error en solicitud (reintento 1/3): 500 Server Error
-✗ Esperando 1 segundos antes de reintentar...
-Procesando: 8.0% (16/201) - Insertados: 3.200                         ✗ Error en solicitud (reintento 1/3): 500 Server Error
-✗ Esperando 1 segundos antes de reintentar...
-Procesando: 28.9% (58/201) - Insertados: 11.600                       ✗ Error en solicitud (reintento 1/3): 500 Server Error
-✗ Esperando 1 segundos antes de reintentar...
 Procesando: 100% (201/201) - Insertados: 40.087
 ✓ Completado: 40.087 registros insertados en la tabla 'scrobbles'
 
@@ -75,13 +76,13 @@ RESUMEN FINAL
 ============================================================
 Usuario: hayman3030
 Total registros insertados: 52.350
-Duración: 0:06:28
-[Fin] 2025-10-19 22:43:59
+Duración: 0:06:52
+[Fin] 2025-10-22 00:08:55
 ============================================================
 david@debian-12:~/LastFMCollector/backend$
 
 
-root@48997af470d0:/# psql -h 192.168.1.42 -U david -d lastfm
+root@7545b06477c1:/# psql -h 192.168.1.47 -U david -d lastfm
 Password for user david:
 psql (18.0 (Debian 18.0-1.pgdg13+3))
 Type "help" for help.
@@ -111,21 +112,6 @@ lastfm=# select * from artistas limit 10;
      10 | John Lennon  |       586 | hayman3030
 (10 rows)
 
-lastfm=# select * from canciones limit 10;
- puesto |       cancion       |           artista            | scrobbles |  usuario
---------+---------------------+------------------------------+-----------+------------
-      1 | Coney Island Baby   | Lou Reed                     |        78 | hayman3030
-      2 | Beetlebum           | Blur                         |        70 | hayman3030
-      3 | City Lights         | Lou Reed                     |        69 | hayman3030
-      4 | Oh Darling          | Supertramp                   |        68 | hayman3030
-      5 | That's Life         | Frank Sinatra                |        66 | hayman3030
-      6 | Proud Mary          | Creedence Clearwater Revival |        64 | hayman3030
-      7 | Life on Mars?       | David Bowie                  |        59 | hayman3030
-      8 | Metal Gods          | Judas Priest                 |        55 | hayman3030
-      9 | This Is a Low       | Blur                         |        54 | hayman3030
-     10 | Once In The Morning | Diana Ross                   |        54 | hayman3030
-(10 rows)
-
 lastfm=# select * from discos limit 10;
  puesto |              disco               |         artista          | scrobbles |  usuario
 --------+----------------------------------+--------------------------+-----------+------------
@@ -139,6 +125,21 @@ lastfm=# select * from discos limit 10;
       8 | Modern Life Is Rubbish           | Blur                     |       262 | hayman3030
       9 | Blur                             | Blur                     |       259 | hayman3030
      10 | British Steel                    | Judas Priest             |       254 | hayman3030
+(10 rows)
+
+lastfm=# select * from canciones limit 10;
+ puesto |       cancion       |           artista            | scrobbles |  usuario
+--------+---------------------+------------------------------+-----------+------------
+      1 | Coney Island Baby   | Lou Reed                     |        78 | hayman3030
+      2 | Beetlebum           | Blur                         |        70 | hayman3030
+      3 | City Lights         | Lou Reed                     |        69 | hayman3030
+      4 | Oh Darling          | Supertramp                   |        68 | hayman3030
+      5 | That's Life         | Frank Sinatra                |        66 | hayman3030
+      6 | Proud Mary          | Creedence Clearwater Revival |        64 | hayman3030
+      7 | Life on Mars?       | David Bowie                  |        59 | hayman3030
+      8 | Metal Gods          | Judas Priest                 |        55 | hayman3030
+      9 | This Is a Low       | Blur                         |        54 | hayman3030
+     10 | Once In The Morning | Diana Ross                   |        54 | hayman3030
 (10 rows)
 
 lastfm=# select count(*) from scrobbles;
