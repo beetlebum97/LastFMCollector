@@ -31,7 +31,7 @@ Azure Cloud Shell → Terraform → VM Debian → Ansible → Docker (MySQL / Po
 
 **lastfm_azure.sh** ejecuta todas las acciones. Para lanzarlo ejecutar:
 ```
-curl -L https://raw.githubusercontent.com/beetlebum97/LastFMCollector/main/azure/lastfm_azure.sh -o lastfm_azure.sh
+curl -L https://raw.githubusercontent.com/beetlebum97/LastFMCollector/main/cloud/azure/lastfm_azure.sh -o lastfm_azure.sh
 chmod 755 lastfm_azure.sh
 ./lastfm_azure.sh
 ```
@@ -333,4 +333,5 @@ Si todo es correcto, podremos ver los resultados en la URL **http://$IP_SERVIDOR
 - Los recursos tienen un coste. Apagar máquina virtual mientras no se usen o eliminar infraestructura para evitar gastos innecesarios. 
 
 Nota: Esta implementación está diseñada para entornos de desarrollo y testing. Para entornos productivos, implementar medidas adicionales de seguridad y alta disponibilidad.
+
 
