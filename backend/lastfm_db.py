@@ -106,7 +106,7 @@ def usuario_existe(usuario):
         print(Fore.LIGHTRED_EX + f"✗ Error verificando usuario: {e}" + Style.RESET_ALL)
         return False
 
-def hacer_solicitud_con_reintentos(url, params, max_intentos=3, retraso_base=2):
+def hacer_solicitud_con_reintentos(url, params, max_intentos=5, retraso_base=3):
     """Realiza una solicitud HTTP con reintentos en caso de error, ocultando URL y API key"""
     for intento in range(max_intentos):
         try:
@@ -227,7 +227,20 @@ def procesar_entidad_sql(usuario, method, entidad, columnas, parser_func, engine
                         time.sleep(delay)
                         
                 except Exception as e:
-                    print(Fore.LIGHTRED_EX + f"\n✗ Error en página {pagina}: {e}" + Style.RESET_ALL)
+                    mensaje = str(e)
+                    if "for url:" in mensaje:
+                        mensaje = mensaje.split("for url:")[0].strip()
+
+                    # Traducción narrativa para errores comunes
+                    if "500 Server Error" in mensaje:
+                        mensaje = "500 Server Error: Conexión perdida con la API"
+                    elif "ConnectionError" in mensaje:
+                        mensaje = "Error de conexión: no se pudo contactar con el servidor"
+                    elif "Timeout" in mensaje:
+                        mensaje = "Timeout: el servidor no respondió a tiempo"
+
+                    print(Fore.LIGHTRED_EX + f"\n✗ Error en página {pagina}: {mensaje}" + Style.RESET_ALL)
+                    print(Fore.LIGHTRED_EX + f"✗ Reintento fallido. Se agotaron los intentos para esta página." + Style.RESET_ALL)
                     break
                     
     except Exception as e:

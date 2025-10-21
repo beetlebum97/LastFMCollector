@@ -408,7 +408,7 @@ def usuario_existe(usuario):
         print(Fore.LIGHTRED_EX + f"✗ Error inesperado: {e}" + Style.RESET_ALL)
         return False
 
-def hacer_solicitud_con_reintentos(url, params, max_intentos=3, retraso_base=2):
+def hacer_solicitud_con_reintentos(url, params, max_intentos=5, retraso_base=3):
     """Realiza una solicitud HTTP con reintentos en caso de error"""
     for intento in range(max_intentos):
         try:
