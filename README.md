@@ -3,12 +3,6 @@
 
 ---
 
-## 🌐 Demo
-- **GitHub Pages:** [beetlebum97.github.io/LastFMCollector](https://beetlebum97.github.io/LastFMCollector/)  
-- **YouTube (demo próximamente):** *en preparación*
-
----
-
 ## 📖 Descripción
 
 **LastFMCollector** es un proyecto personal orientado a *Data Engineering / Cloud Automation*, que combina desarrollo en **Python**, gestión de **bases de datos relacionales**, e **infraestructura como código** en **Azure**.
@@ -43,6 +37,64 @@ Last.fm API → Python ETL (lastfm.py / lastfm_db.py) → BBDD (MySQL/PostgreSQL
 | Web | Flask, Nginx |
 | Otros | API REST, Pandas, JSON, CSV, HTML5, CSS3 |
 
+---
+
+## 🎥 Video Demos
+
+### 🔧 Backend ETL Pipeline
+<a href="https://youtu.be/C0AgQBKnWRM" target="_blank">
+  <img src="https://raw.githubusercontent.com/beetlebum97/LastFMCollector/refs/heads/main/screenshoots/03.backend-descargas.png" 
+       alt="LastFMCollector - Pipeline ETL Backend" 
+       width="500" style="border-radius: 8px; border: 1px solid #ddd;">
+</a>
+
+- **00:00** - [Presentación y estadísticas rápidas](https://youtu.be/C0AgQBKnWRM?t=0)
+- **00:40** - [Ejecución completa ETL (40,000+ registros)](https://youtu.be/C0AgQBKnWRM?t=40)
+- **08:45** - [Inspección archivos JSON/CSV](https://youtu.be/C0AgQBKnWRM?t=525)
+- **10:20** - [Extracción selectiva de datos](https://youtu.be/C0AgQBKnWRM?t=620)
+- **11:50** - [Manejo de errores y validación](https://youtu.be/C0AgQBKnWRM?t=710)
+
+### 🗄️ MySQL Backend  
+<a href="https://youtu.be/0Whv_vm9HJI" target="_blank">
+  <img src="https://raw.githubusercontent.com/beetlebum97/LastFMCollector/refs/heads/main/screenshoots/09.backend-mysql-conexion.png" 
+       alt="LastFMCollector - Backend MySQL" 
+       width="500" style="border-radius: 8px; border: 1px solid #ddd;">
+</a>
+
+- **00:00** - [Presentación y ejecución completa](https://youtu.be/0Whv_vm9HJI?t=0)
+- **08:35** - [Verificación de tablas y estructura](https://youtu.be/0Whv_vm9HJI?t=515)
+- **09:40** - [Consultas SQL de validación](https://youtu.be/0Whv_vm9HJI?t=580)
+
+### 🗄️ PostgreSQL Backend
+<a href="https://youtu.be/WV4gOHo5gAE" target="_blank">
+  <img src="https://raw.githubusercontent.com/beetlebum97/LastFMCollector/refs/heads/main/screenshoots/14.backend-postgresql-tablas.png" 
+       alt="LastFMCollector - Backend PostgreSQL" 
+       width="500" style="border-radius: 8px; border: 1px solid #ddd;">
+</a>
+
+- **00:00** - [Presentación y ejecución completa](https://youtu.be/WV4gOHo5gAE?t=0)
+- **07:45** - [Verificación de tablas y estructura](https://youtu.be/WV4gOHo5gAE?t=465)
+- **08:42** - [Consultas SQL de validación](https://youtu.be/WV4gOHo5gAE?t=522)
+
+### ☁️ Azure Cloud Deployment
+<a href="https://youtu.be/_op3gsFmq9Y" target="_blank">
+  <img src="https://raw.githubusercontent.com/beetlebum97/LastFMCollector/refs/heads/main/screenshoots/cloud_portada.png" 
+       alt="LastFMCollector - Despliegue Cloud Azure" 
+       width="500" style="border-radius: 8px; border: 1px solid #ddd;">
+</a>
+
+- **00:00** - [Script de despliegue automatizado](https://youtu.be/_op3gsFmq9Y?t=0)
+- **00:30** - [Infraestructura Terraform](https://youtu.be/_op3gsFmq9Y?t=30)
+- **02:30** - [Configuración Ansible](https://youtu.be/_op3gsFmq9Y?t=150)
+- **06:33** - [Instalación dependencias Python](https://youtu.be/_op3gsFmq9Y?t=393)
+- **06:50** - [Extracción datos LastFM](https://youtu.be/_op3gsFmq9Y?t=410)
+- **12:10** - [Despliegue Frontend Flask](https://youtu.be/_op3gsFmq9Y?t=730)
+- **15:50** - [Verificación final](https://youtu.be/_op3gsFmq9Y?t=950)
+---
+
+## 🌐 Muestra de datos
+- **GitHub Pages:** [Visualización de registros](https://beetlebum97.github.io/LastFMCollector/)  
+  *→ Ejemplo de los datos extraídos y procesados por el pipeline*
 ---
 
 ## 🚀 Despliegue Cloud (Azure)
@@ -102,6 +154,14 @@ Imágenes del dashboard y despliegue en Azure:
 ---
 
 > © 2025 - Proyecto personal orientado a aprendizaje y portfolio profesional.
+
+
+
+
+
+
+
+
 
 
 
