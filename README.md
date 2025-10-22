@@ -89,7 +89,7 @@ Last.fm API → Python ETL (lastfm.py / lastfm_db.py) → BBDD (MySQL/PostgreSQL
 - **06:33** - [Instalación dependencias Python](https://youtu.be/_op3gsFmq9Y?t=393)
 - **06:50** - [Extracción datos LastFM](https://youtu.be/_op3gsFmq9Y?t=410)
 - **12:10** - [Despliegue Frontend Flask](https://youtu.be/_op3gsFmq9Y?t=730)
-- **15:50** - [Verificación final](https://youtu.be/_op3gsFmq9Y?t=950)
+- **12:50** - [Verificación final](https://youtu.be/_op3gsFmq9Y?t=770)
 ---
 
 ## 🌐 Muestra de datos
