@@ -11,35 +11,22 @@ El sistema permite **recopilar y analizar la actividad musical de usuarios de La
 
 ---
 
-## 🧩 Arquitectura General
+## 🎥 Video Demostración
 
-Last.fm API → Python ETL (lastfm.py / lastfm_db.py) → BBDD (MySQL/PostgreSQL)
-- Flask App + Nginx → Azure VM (Terraform + Ansible)
-- Visualización en GitHub Pages
----
+### ☁️ Azure Cloud Deployment
+<a href="https://youtu.be/_op3gsFmq9Y" target="_blank">
+  <img src="https://raw.githubusercontent.com/beetlebum97/LastFMCollector/refs/heads/main/screenshoots/cloud_portada.png" 
+       alt="LastFMCollector - Despliegue Cloud Azure" 
+       width="500" style="border-radius: 8px; border: 1px solid #ddd;">
+</a>
 
-**Componentes principales:**
-- **Backend:** scripts Python para extracción y almacenamiento de datos desde la API de Last.fm.  
-- **Cloud:** despliegue automático en Azure mediante *Terraform* y *Ansible*.  
-- **Frontend:** aplicación Flask servida por *Nginx* con contenedores Docker.  
-- **Visualización:** datos expuestos en tablas interactivas a través de *GitHub Pages*.  
-
----
-
-## ⚙️ Stack Tecnológico
-
-| Categoría | Tecnologías |
-|------------|-------------|
-| Lenguaje | Python, Bash |
-| Infraestructura | Azure Cloud, Terraform, Ansible |
-| Contenedores | Docker |
-| Bases de datos | MySQL, PostgreSQL |
-| Web | Flask, Nginx |
-| Otros | API REST, Pandas, JSON, CSV, HTML5, CSS3 |
-
----
-
-## 🎥 Video Demos
+- **00:00** - [Script de despliegue automatizado](https://youtu.be/_op3gsFmq9Y?t=0)
+- **00:30** - [Infraestructura Terraform](https://youtu.be/_op3gsFmq9Y?t=30)
+- **02:30** - [Configuración Ansible](https://youtu.be/_op3gsFmq9Y?t=150)
+- **06:33** - [Instalación dependencias Python](https://youtu.be/_op3gsFmq9Y?t=393)
+- **06:50** - [Extracción datos LastFM](https://youtu.be/_op3gsFmq9Y?t=410)
+- **12:10** - [Despliegue Frontend Flask](https://youtu.be/_op3gsFmq9Y?t=730)
+- **12:50** - [Verificación final](https://youtu.be/_op3gsFmq9Y?t=770)
 
 ### 🔧 Backend ETL Pipeline
 <a href="https://youtu.be/C0AgQBKnWRM" target="_blank">
@@ -76,25 +63,40 @@ Last.fm API → Python ETL (lastfm.py / lastfm_db.py) → BBDD (MySQL/PostgreSQL
 - **07:45** - [Verificación de tablas y estructura](https://youtu.be/WV4gOHo5gAE?t=465)
 - **08:42** - [Consultas SQL de validación](https://youtu.be/WV4gOHo5gAE?t=522)
 
-### ☁️ Azure Cloud Deployment
-<a href="https://youtu.be/_op3gsFmq9Y" target="_blank">
-  <img src="https://raw.githubusercontent.com/beetlebum97/LastFMCollector/refs/heads/main/screenshoots/cloud_portada.png" 
-       alt="LastFMCollector - Despliegue Cloud Azure" 
-       width="500" style="border-radius: 8px; border: 1px solid #ddd;">
-</a>
-
-- **00:00** - [Script de despliegue automatizado](https://youtu.be/_op3gsFmq9Y?t=0)
-- **00:30** - [Infraestructura Terraform](https://youtu.be/_op3gsFmq9Y?t=30)
-- **02:30** - [Configuración Ansible](https://youtu.be/_op3gsFmq9Y?t=150)
-- **06:33** - [Instalación dependencias Python](https://youtu.be/_op3gsFmq9Y?t=393)
-- **06:50** - [Extracción datos LastFM](https://youtu.be/_op3gsFmq9Y?t=410)
-- **12:10** - [Despliegue Frontend Flask](https://youtu.be/_op3gsFmq9Y?t=730)
-- **12:50** - [Verificación final](https://youtu.be/_op3gsFmq9Y?t=770)
 ---
 
 ## 🌐 Muestra de datos
 - **GitHub Pages:** [Visualización de registros](https://beetlebum97.github.io/LastFMCollector/)  
   *→ Ejemplo de los datos extraídos y procesados por el pipeline*
+
+---
+
+## 🧩 Arquitectura General
+
+Last.fm API → Python ETL (lastfm.py / lastfm_db.py) → BBDD (MySQL/PostgreSQL)
+- Flask App + Nginx → Azure VM (Terraform + Ansible)
+- Visualización en GitHub Pages
+---
+
+**Componentes principales:**
+- **Backend:** scripts Python para extracción y almacenamiento de datos desde la API de Last.fm.  
+- **Cloud:** despliegue automático en Azure mediante *Terraform* y *Ansible*.  
+- **Frontend:** aplicación Flask servida por *Nginx* con contenedores Docker.  
+- **Visualización:** datos expuestos en tablas interactivas a través de *GitHub Pages*.  
+
+---
+
+## ⚙️ Stack Tecnológico
+
+| Categoría | Tecnologías |
+|------------|-------------|
+| Lenguaje | Python, Bash |
+| Infraestructura | Azure Cloud, Terraform, Ansible |
+| Contenedores | Docker |
+| Bases de datos | MySQL, PostgreSQL |
+| Web | Flask, Nginx |
+| Otros | API REST, Pandas, JSON, CSV, HTML5, CSS3 |
+
 ---
 
 ## 🚀 Despliegue Cloud (Azure)
