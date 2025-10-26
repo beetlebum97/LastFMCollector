@@ -15,7 +15,7 @@ El sistema permite **recopilar y analizar la actividad musical de usuarios de La
 
 ### ☁️ Azure Cloud Deployment
 <a href="https://youtu.be/_op3gsFmq9Y" target="_blank">
-  <img src="https://raw.githubusercontent.com/beetlebum97/LastFMCollector/refs/heads/main/screenshoots/cloud_portada.png" 
+  <img src="https://raw.githubusercontent.com/beetlebum97/LastFMCollector/refs/heads/main/screenshots/cloud_portada.png" 
        alt="LastFMCollector - Despliegue Cloud Azure" 
        width="500" style="border-radius: 8px; border: 1px solid #ddd;">
 </a>
@@ -30,7 +30,7 @@ El sistema permite **recopilar y analizar la actividad musical de usuarios de La
 
 ### 🔧 Backend ETL Pipeline
 <a href="https://youtu.be/C0AgQBKnWRM" target="_blank">
-  <img src="https://raw.githubusercontent.com/beetlebum97/LastFMCollector/refs/heads/main/screenshoots/03.backend-descargas.png" 
+  <img src="https://raw.githubusercontent.com/beetlebum97/LastFMCollector/refs/heads/main/screenshots/03.backend-descargas.png" 
        alt="LastFMCollector - Pipeline ETL Backend" 
        width="500" style="border-radius: 8px; border: 1px solid #ddd;">
 </a>
@@ -43,7 +43,7 @@ El sistema permite **recopilar y analizar la actividad musical de usuarios de La
 
 ### 🗄️ MySQL Backend  
 <a href="https://youtu.be/0Whv_vm9HJI" target="_blank">
-  <img src="https://raw.githubusercontent.com/beetlebum97/LastFMCollector/refs/heads/main/screenshoots/09.backend-mysql-conexion.png" 
+  <img src="https://raw.githubusercontent.com/beetlebum97/LastFMCollector/refs/heads/main/screenshots/09.backend-mysql-conexion.png" 
        alt="LastFMCollector - Backend MySQL" 
        width="500" style="border-radius: 8px; border: 1px solid #ddd;">
 </a>
@@ -54,7 +54,7 @@ El sistema permite **recopilar y analizar la actividad musical de usuarios de La
 
 ### 🗄️ PostgreSQL Backend
 <a href="https://youtu.be/WV4gOHo5gAE" target="_blank">
-  <img src="https://raw.githubusercontent.com/beetlebum97/LastFMCollector/refs/heads/main/screenshoots/14.backend-postgresql-tablas.png" 
+  <img src="https://raw.githubusercontent.com/beetlebum97/LastFMCollector/refs/heads/main/screenshots/14.backend-postgresql-tablas.png" 
        alt="LastFMCollector - Backend PostgreSQL" 
        width="500" style="border-radius: 8px; border: 1px solid #ddd;">
 </a>
@@ -127,11 +127,11 @@ El proyecto incluye automatización completa de infraestructura en **Azure**:
 
 Imágenes del dashboard y despliegue en Azure:
 
-| ![Portada](https://raw.githubusercontent.com/beetlebum97/LastFMCollector/refs/heads/main/screenshoots/cloud_portada.png) | ![Artistas](https://raw.githubusercontent.com/beetlebum97/LastFMCollector/refs/heads/main/screenshoots/cloud_artistas.png) |
+| ![Portada](https://raw.githubusercontent.com/beetlebum97/LastFMCollector/refs/heads/main/screenshots/cloud_portada.png) | ![Artistas](https://raw.githubusercontent.com/beetlebum97/LastFMCollector/refs/heads/main/screenshots/cloud_artistas.png) |
 |:--:|:--:|
 | *Frontend - portada Flask* | *Visualización de artistas* |
 
-| ![Canciones](https://raw.githubusercontent.com/beetlebum97/LastFMCollector/refs/heads/main/screenshoots/cloud_canciones.png) | ![Scrobbles](https://raw.githubusercontent.com/beetlebum97/LastFMCollector/refs/heads/main/screenshoots/cloud_scrobbles.png) |
+| ![Canciones](https://raw.githubusercontent.com/beetlebum97/LastFMCollector/refs/heads/main/screenshots/cloud_canciones.png) | ![Scrobbles](https://raw.githubusercontent.com/beetlebum97/LastFMCollector/refs/heads/main/screenshots/cloud_scrobbles.png) |
 |:--:|:--:|
 | *Canciones registradas* | *Historial de reproducciones* |
 
