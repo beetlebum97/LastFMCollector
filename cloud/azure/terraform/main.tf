@@ -28,7 +28,9 @@ resource "azurerm_public_ip" "main" {
   name                = "public-ip-tf"
   location            = var.location
   resource_group_name = azurerm_resource_group.main.name
-  allocation_method   = "Dynamic"
+  allocation_method   = "Static"
+  sku = "Standard"
+
 }
 
 resource "azurerm_network_security_group" "main" {
@@ -128,7 +130,7 @@ resource "azurerm_linux_virtual_machine" "main" {
   os_disk {
     name              = "osdisk-tf"
     caching           = "ReadWrite"
-    storage_account_type = "Premium_LRS"
+    storage_account_type = "Standard_LRS"
   }
 
   source_image_reference {
