@@ -7,13 +7,13 @@ resource "random_pet" "resource_group" {
 
 resource "azurerm_resource_group" "main" {
   name     = random_pet.resource_group.id
-  location = var.location
+  location = azurerm_resource_group.main.location
 }
 
 resource "azurerm_virtual_network" "main" {
   name                = "vnet-tf"
   address_space       = ["10.0.0.0/16"]
-  location            = var.location
+  location            = azurerm_resource_group.main.location
   resource_group_name = azurerm_resource_group.main.name
 }
 
@@ -26,7 +26,7 @@ resource "azurerm_subnet" "main" {
 
 resource "azurerm_public_ip" "main" {
   name                = "public-ip-tf"
-  location            = var.location
+  location            = azurerm_resource_group.main.location
   resource_group_name = azurerm_resource_group.main.name
   allocation_method   = "Static"
   sku = "Standard"
@@ -35,7 +35,7 @@ resource "azurerm_public_ip" "main" {
 
 resource "azurerm_network_security_group" "main" {
   name                = "nsg-tf"
-  location            = var.location
+  location            = azurerm_resource_group.main.location
   resource_group_name = azurerm_resource_group.main.name
 
   security_rule {
@@ -97,7 +97,7 @@ resource "azurerm_network_security_group" "main" {
 
 resource "azurerm_network_interface" "main" {
   name                = "nic-tf"
-  location            = var.location
+  location            = azurerm_resource_group.main.location
   resource_group_name = azurerm_resource_group.main.name
 
   ip_configuration {
@@ -116,7 +116,7 @@ resource "azurerm_network_interface_security_group_association" "main" {
 resource "azurerm_linux_virtual_machine" "main" {
   name                  = "vm-tf"
   resource_group_name   = azurerm_resource_group.main.name
-  location              = var.location
+  location              = azurerm_resource_group.main.location
   size                  = "Standard_B1s" # Recursos mínimos válidos para Docker.
   admin_username = var.username
   disable_password_authentication = true      

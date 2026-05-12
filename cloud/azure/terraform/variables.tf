@@ -1,9 +1,9 @@
 // Variables opcionales.
 
-variable "location" {
-  type    = string
-  default = "westeurope"
-}
+#variable "location" {
+#  type    = string
+#  default = "westeurope"
+#}
 variable "username" {
   type    = string
   default = "azureuser"
