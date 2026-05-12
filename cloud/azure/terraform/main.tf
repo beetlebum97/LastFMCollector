@@ -117,7 +117,7 @@ resource "azurerm_linux_virtual_machine" "main" {
   name                  = "vm-tf"
   resource_group_name   = azurerm_resource_group.main.name
   location              = azurerm_resource_group.main.location
-  size                  = "Standard_B1s" # Recursos mínimos válidos para Docker.
+  size                  = "Standard_B1ms" # Mejor compatibilidad/capacidad que B1s en Azure.
   admin_username = var.username
   disable_password_authentication = true      
   network_interface_ids = [azurerm_network_interface.main.id]
