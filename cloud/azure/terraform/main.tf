@@ -117,7 +117,7 @@ resource "azurerm_linux_virtual_machine" "main" {
   name                  = "vm-tf"
   resource_group_name   = azurerm_resource_group.main.name
   location              = var.location
-  size                  = "Standard_B1ms" # Mejor compatibilidad/capacidad que B1s en Azure.
+  size                  = "Standard_F1as_v7"
   admin_username = var.username
   disable_password_authentication = true      
   network_interface_ids = [azurerm_network_interface.main.id]
@@ -136,7 +136,7 @@ resource "azurerm_linux_virtual_machine" "main" {
   source_image_reference {
     publisher = "Debian"
     offer     = "debian-12"
-    sku       = "12"
+    sku       = "12-gen2"
     version   = "latest"
   }
 
