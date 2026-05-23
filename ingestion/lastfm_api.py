@@ -17,6 +17,9 @@ init()
 API_KEY = None
 API_URL = "http://ws.audioscrobbler.com/2.0/"
 
+# Carpeta listados datos
+ruta_listados = "../storage/curated"
+
 def mostrar_encabezado():
     """Muestra el encabezado con la hora actual"""
     inicio = datetime.datetime.now()
@@ -285,7 +288,7 @@ def main():
     print(f"Usuario verificado ✓")
     
     # Crear la carpeta de salida
-    os.makedirs(f'listados/{usuario}', exist_ok=True)
+    os.makedirs(f'{ruta_listados}/{usuario}', exist_ok=True)
     
     resultados = {}
     
@@ -334,8 +337,8 @@ def mostrar_resumen_final(usuario, ruta, resultados, inicio):
     
     for tipo, contador in resultados.items():
         print(Fore.LIGHTGREEN_EX + f"✓ {tipo.capitalize()} registrados: {formato_numero(contador)}" + Style.RESET_ALL)
-        archivo_json = f'listados/{usuario}/lastfm_{usuario}_{tipo}.json'
-        archivo_csv = f'listados/{usuario}/lastfm_{usuario}_{tipo}.csv'
+        archivo_json = f'{ruta_listados}/{usuario}/lastfm_{usuario}_{tipo}.json'
+        archivo_csv = f'{ruta_listados}/{usuario}/lastfm_{usuario}_{tipo}.csv'
         print(Fore.LIGHTMAGENTA_EX + f"   JSON: {ruta}/{archivo_json}" + Style.RESET_ALL)
         print(Fore.LIGHTMAGENTA_EX + f"   CSV:  {ruta}/{archivo_csv}" + Style.RESET_ALL)
         print()
@@ -466,8 +469,8 @@ def procesar_artistas(usuario):
     contador = 0
     delay = 0.25
     
-    archivo_json = f'listados/{usuario}/lastfm_{usuario}_artistas.json'
-    archivo_csv = f'listados/{usuario}/lastfm_{usuario}_artistas.csv'
+    archivo_json = f'{ruta_listados}/{usuario}/lastfm_{usuario}_artistas.json'
+    archivo_csv = f'{ruta_listados}/{usuario}/lastfm_{usuario}_artistas.csv'
     
     # Lista para almacenar todos los artistas
     artistas_list = []
@@ -539,8 +542,8 @@ def procesar_canciones(usuario):
     contador = 0
     delay = 0.25
     
-    archivo_json = f'listados/{usuario}/lastfm_{usuario}_canciones.json'
-    archivo_csv = f'listados/{usuario}/lastfm_{usuario}_canciones.csv'
+    archivo_json = f'{ruta_listados}/{usuario}/lastfm_{usuario}_canciones.json'
+    archivo_csv = f'{ruta_listados}/{usuario}/lastfm_{usuario}_canciones.csv'
     
     # Lista para almacenar todas las canciones
     canciones_list = []
@@ -615,8 +618,8 @@ def procesar_discos(usuario):
     contador = 0
     delay = 0.25
     
-    archivo_json = f'listados/{usuario}/lastfm_{usuario}_discos.json'
-    archivo_csv = f'listados/{usuario}/lastfm_{usuario}_discos.csv'
+    archivo_json = f'{ruta_listados}/{usuario}/lastfm_{usuario}_discos.json'
+    archivo_csv = f'{ruta_listados}/{usuario}/lastfm_{usuario}_discos.csv'
     
     # Lista para almacenar todos los discos
     discos_list = []
@@ -690,8 +693,8 @@ def procesar_scrobbles(usuario):
     contador = 0
     delay = 0.25
     
-    archivo_json = f'listados/{usuario}/lastfm_{usuario}_scrobbles.json'
-    archivo_csv = f'listados/{usuario}/lastfm_{usuario}_scrobbles.csv'
+    archivo_json = f'{ruta_listados}/{usuario}/lastfm_{usuario}_scrobbles.json'
+    archivo_csv = f'{ruta_listados}/{usuario}/lastfm_{usuario}_scrobbles.csv'
     
     # Lista para almacenar todos los scrobbles
     scrobbles_list = []
