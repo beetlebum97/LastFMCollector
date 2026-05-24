@@ -162,6 +162,48 @@ def obtener_estadistica(usuario, metodo, root):
         raise ValueError(f"Error de conexión: {e}")
 
 
+def obtener_info_usuario(usuario):
+
+    params = {
+        "method": "user.getInfo",
+        "user": usuario,
+        "api_key": API_KEY,
+        "format": "json"
+    }
+
+    try:
+
+        response = requests.get(API_URL, params=params, timeout=10)
+
+        if response.status_code == 403:
+            raise ValueError("API key inválida o sin permisos")
+
+        if response.status_code == 404:
+            raise ValueError(f"Usuario '{usuario}' no encontrado")
+
+        response.raise_for_status()
+
+        data = response.json()
+
+        if "error" in data:
+            raise ValueError(data["message"])
+
+        usuario_data = data["user"]
+
+        fecha_registro = datetime.datetime.fromtimestamp(
+            int(usuario_data["registered"]["unixtime"])
+        )
+
+        return {
+            "pais": usuario_data.get("country", "Desconocido"),
+            "registrado": fecha_registro.strftime("%Y-%m-%d")
+        }
+
+    except requests.exceptions.RequestException as e:
+        raise ValueError(f"Error de conexión: {e}")
+
+
+
 def obtener_top_artistas(usuario, limite=5):
     params = {
         "method": "user.getTopArtists",
@@ -273,7 +315,11 @@ def resumen_usuario(usuario):
         ("user.getRecentTracks", "recenttracks", "SCROBBLES")
     ]
 
+
+    
     resultados = {}
+    
+    info_usuario = obtener_info_usuario(usuario)
 
     with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
 
@@ -298,6 +344,20 @@ def resumen_usuario(usuario):
     "FAVORITAS",
     "SCROBBLES"
     ]
+    
+    print()    
+    
+    print(
+    Fore.LIGHTCYAN_EX
+    + f"{'PAÍS':<12}: {info_usuario['pais']}"
+    + Style.RESET_ALL
+    )
+
+    print(
+    Fore.LIGHTCYAN_EX
+    + f"{'MIEMBRO':<12}: {info_usuario['registrado']}"
+    + Style.RESET_ALL
+    ) 
 
     for nombre in orden_estadisticas:
     
@@ -311,7 +371,7 @@ def resumen_usuario(usuario):
 
     print()
 
-    print(Fore.LIGHTMAGENTA_EX + "TOP ARTISTS" + Style.RESET_ALL)
+    print(Fore.LIGHTMAGENTA_EX + "TOP ARTISTAS" + Style.RESET_ALL)
 
     for idx, artista in enumerate(obtener_top_artistas(usuario), start=1):
         print(f"{idx}. {artista['nombre']} ({artista['scrobbles']})")
@@ -328,7 +388,7 @@ def resumen_usuario(usuario):
 
     print()
 
-    print(Fore.LIGHTMAGENTA_EX + "TOP TRACKS" + Style.RESET_ALL)
+    print(Fore.LIGHTMAGENTA_EX + "TOP CANCIONES" + Style.RESET_ALL)
 
     for idx, track in enumerate(obtener_top_tracks(usuario), start=1):
         print(
@@ -338,7 +398,7 @@ def resumen_usuario(usuario):
 
     print()
 
-    print(Fore.LIGHTMAGENTA_EX + "RECENT SCROBBLES" + Style.RESET_ALL)
+    print(Fore.LIGHTMAGENTA_EX + "ÚLTIMOS SCROBBLES" + Style.RESET_ALL)
 
     for track in obtener_ultimos_scrobbles(usuario):
         print(
@@ -346,6 +406,7 @@ def resumen_usuario(usuario):
             f"{track['artista']} | "
             f"{track['fecha']}"
         )
+    
 
 def main():
 
@@ -360,7 +421,21 @@ def main():
 
     tiempo_inicio = time.time()
 
-    resumen_usuario(args.usuario)
+    try:
+
+        resumen_usuario(args.usuario)
+
+    except ValueError as error:
+
+        print()
+
+        print(
+            Fore.RED
+            + f"✗ {error}"
+            + Style.RESET_ALL
+        )
+
+        sys.exit(1)
 
     tiempo_total = time.time() - tiempo_inicio
 
