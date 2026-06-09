@@ -3,19 +3,19 @@
     "rank": 1,
     "artist_name": "Blur",
     "playcount": 2343,
-    "playcount_pct": 5.56
+    "playcount_pct": 5.54
   },
   {
     "rank": 2,
     "artist_name": "Lou Reed",
-    "playcount": 1278,
-    "playcount_pct": 3.03
+    "playcount": 1286,
+    "playcount_pct": 3.04
   },
   {
     "rank": 3,
     "artist_name": "David Bowie",
     "playcount": 1226,
-    "playcount_pct": 2.91
+    "playcount_pct": 2.9
   },
   {
     "rank": 4,
@@ -27,31 +27,31 @@
     "rank": 5,
     "artist_name": "The Doors",
     "playcount": 1065,
-    "playcount_pct": 2.53
+    "playcount_pct": 2.52
   },
   {
     "rank": 6,
     "artist_name": "Judas Priest",
     "playcount": 960,
-    "playcount_pct": 2.28
+    "playcount_pct": 2.27
   },
   {
     "rank": 7,
     "artist_name": "The Kinks",
     "playcount": 881,
-    "playcount_pct": 2.09
+    "playcount_pct": 2.08
   },
   {
     "rank": 8,
     "artist_name": "Pixies",
-    "playcount": 870,
-    "playcount_pct": 2.06
+    "playcount": 874,
+    "playcount_pct": 2.07
   },
   {
     "rank": 9,
     "artist_name": "Diana Ross",
     "playcount": 653,
-    "playcount_pct": 1.55
+    "playcount_pct": 1.54
   },
   {
     "rank": 10,
@@ -69,7 +69,7 @@
     "rank": 12,
     "artist_name": "Gorillaz",
     "playcount": 572,
-    "playcount_pct": 1.36
+    "playcount_pct": 1.35
   },
   {
     "rank": 13,
@@ -129,7 +129,7 @@
     "rank": 22,
     "artist_name": "Frank Sinatra",
     "playcount": 408,
-    "playcount_pct": 0.97
+    "playcount_pct": 0.96
   },
   {
     "rank": 23,
@@ -177,7 +177,7 @@
     "rank": 30,
     "artist_name": "Crystal Castles",
     "playcount": 310,
-    "playcount_pct": 0.74
+    "playcount_pct": 0.73
   },
   {
     "rank": 31,
@@ -207,7 +207,7 @@
     "rank": 35,
     "artist_name": "Tame Impala",
     "playcount": 260,
-    "playcount_pct": 0.62
+    "playcount_pct": 0.61
   },
   {
     "rank": 36,
@@ -231,13 +231,13 @@
     "rank": 39,
     "artist_name": "The Cure",
     "playcount": 226,
-    "playcount_pct": 0.54
+    "playcount_pct": 0.53
   },
   {
     "rank": 40,
     "artist_name": "The Who",
     "playcount": 226,
-    "playcount_pct": 0.54
+    "playcount_pct": 0.53
   },
   {
     "rank": 41,
@@ -277,45 +277,45 @@
   },
   {
     "rank": 47,
+    "artist_name": "Buzzcocks",
+    "playcount": 197,
+    "playcount_pct": 0.47
+  },
+  {
+    "rank": 48,
     "artist_name": "Manic Street Preachers",
     "playcount": 193,
     "playcount_pct": 0.46
   },
   {
-    "rank": 48,
+    "rank": 49,
     "artist_name": "Héroes del Silencio",
     "playcount": 189,
     "playcount_pct": 0.45
   },
   {
-    "rank": 49,
+    "rank": 50,
     "artist_name": "Joaquín Sabina",
     "playcount": 189,
     "playcount_pct": 0.45
   },
   {
-    "rank": 50,
+    "rank": 51,
     "artist_name": "Jamiroquai",
     "playcount": 186,
     "playcount_pct": 0.44
   },
   {
-    "rank": 51,
+    "rank": 52,
     "artist_name": "Michael Jackson",
     "playcount": 186,
     "playcount_pct": 0.44
   },
   {
-    "rank": 52,
+    "rank": 53,
     "artist_name": "Motörhead",
     "playcount": 181,
     "playcount_pct": 0.43
-  },
-  {
-    "rank": 53,
-    "artist_name": "Buzzcocks",
-    "playcount": 177,
-    "playcount_pct": 0.42
   },
   {
     "rank": 54,
@@ -345,7 +345,7 @@
     "rank": 58,
     "artist_name": "Extremoduro",
     "playcount": 171,
-    "playcount_pct": 0.41
+    "playcount_pct": 0.4
   },
   {
     "rank": 59,
@@ -399,13 +399,13 @@
     "rank": 67,
     "artist_name": "Gabinete Caligari",
     "playcount": 154,
-    "playcount_pct": 0.37
+    "playcount_pct": 0.36
   },
   {
     "rank": 68,
     "artist_name": "Phoenix",
     "playcount": 154,
-    "playcount_pct": 0.37
+    "playcount_pct": 0.36
   },
   {
     "rank": 69,
@@ -477,7 +477,7 @@
     "rank": 80,
     "artist_name": "Catatonia",
     "playcount": 133,
-    "playcount_pct": 0.32
+    "playcount_pct": 0.31
   },
   {
     "rank": 81,
@@ -487,69 +487,69 @@
   },
   {
     "rank": 82,
-    "artist_name": "R.E.M.",
+    "artist_name": "Madness",
     "playcount": 131,
     "playcount_pct": 0.31
   },
   {
     "rank": 83,
+    "artist_name": "R.E.M.",
+    "playcount": 131,
+    "playcount_pct": 0.31
+  },
+  {
+    "rank": 84,
     "artist_name": "The Cardigans",
     "playcount": 129,
     "playcount_pct": 0.31
   },
   {
-    "rank": 84,
+    "rank": 85,
     "artist_name": "Gladys Knight & The Pips",
     "playcount": 126,
     "playcount_pct": 0.3
   },
   {
-    "rank": 85,
+    "rank": 86,
     "artist_name": "The Verve",
     "playcount": 124,
     "playcount_pct": 0.29
   },
   {
-    "rank": 86,
+    "rank": 87,
     "artist_name": "Sonic Youth",
     "playcount": 122,
     "playcount_pct": 0.29
   },
   {
-    "rank": 87,
+    "rank": 88,
     "artist_name": "Pavement",
     "playcount": 121,
     "playcount_pct": 0.29
   },
   {
-    "rank": 88,
+    "rank": 89,
     "artist_name": "Kula Shaker",
     "playcount": 120,
     "playcount_pct": 0.28
   },
   {
-    "rank": 89,
+    "rank": 90,
     "artist_name": "Muse",
     "playcount": 119,
     "playcount_pct": 0.28
   },
   {
-    "rank": 90,
+    "rank": 91,
     "artist_name": "Sex Pistols",
     "playcount": 119,
-    "playcount_pct": 0.28
-  },
-  {
-    "rank": 91,
-    "artist_name": "Madness",
-    "playcount": 116,
     "playcount_pct": 0.28
   },
   {
     "rank": 92,
     "artist_name": "Radio Futura",
     "playcount": 116,
-    "playcount_pct": 0.28
+    "playcount_pct": 0.27
   },
   {
     "rank": 93,
@@ -627,7 +627,7 @@
     "rank": 105,
     "artist_name": "Placebo",
     "playcount": 95,
-    "playcount_pct": 0.23
+    "playcount_pct": 0.22
   },
   {
     "rank": 106,
@@ -661,105 +661,105 @@
   },
   {
     "rank": 111,
+    "artist_name": "Teenage Fanclub",
+    "playcount": 91,
+    "playcount_pct": 0.22
+  },
+  {
+    "rank": 112,
     "artist_name": "Smash Mouth",
     "playcount": 90,
     "playcount_pct": 0.21
   },
   {
-    "rank": 112,
+    "rank": 113,
     "artist_name": "Arcade Fire",
     "playcount": 88,
     "playcount_pct": 0.21
   },
   {
-    "rank": 113,
+    "rank": 114,
     "artist_name": "The Strokes",
     "playcount": 88,
     "playcount_pct": 0.21
   },
   {
-    "rank": 114,
+    "rank": 115,
     "artist_name": "U2",
     "playcount": 88,
     "playcount_pct": 0.21
   },
   {
-    "rank": 115,
+    "rank": 116,
+    "artist_name": "Los Suaves",
+    "playcount": 87,
+    "playcount_pct": 0.21
+  },
+  {
+    "rank": 117,
     "artist_name": "Green Day",
     "playcount": 86,
     "playcount_pct": 0.2
   },
   {
-    "rank": 116,
+    "rank": 118,
     "artist_name": "Megadeth",
     "playcount": 86,
     "playcount_pct": 0.2
   },
   {
-    "rank": 117,
+    "rank": 119,
     "artist_name": "Steppenwolf",
     "playcount": 86,
     "playcount_pct": 0.2
   },
   {
-    "rank": 118,
+    "rank": 120,
     "artist_name": "Arctic Monkeys",
     "playcount": 85,
     "playcount_pct": 0.2
   },
   {
-    "rank": 119,
+    "rank": 121,
     "artist_name": "Freddie Mercury",
     "playcount": 85,
     "playcount_pct": 0.2
   },
   {
-    "rank": 120,
+    "rank": 122,
     "artist_name": "Ocean Colour Scene",
     "playcount": 85,
     "playcount_pct": 0.2
   },
   {
-    "rank": 121,
+    "rank": 123,
     "artist_name": "Celtas Cortos",
     "playcount": 84,
     "playcount_pct": 0.2
   },
   {
-    "rank": 122,
+    "rank": 124,
     "artist_name": "Duran Duran",
     "playcount": 84,
     "playcount_pct": 0.2
   },
   {
-    "rank": 123,
+    "rank": 125,
     "artist_name": "The WAEVE",
     "playcount": 80,
     "playcount_pct": 0.19
   },
   {
-    "rank": 124,
+    "rank": 126,
     "artist_name": "Deep Purple",
     "playcount": 79,
     "playcount_pct": 0.19
   },
   {
-    "rank": 125,
+    "rank": 127,
     "artist_name": "Jerry Lee Lewis",
     "playcount": 79,
     "playcount_pct": 0.19
-  },
-  {
-    "rank": 126,
-    "artist_name": "Teenage Fanclub",
-    "playcount": 79,
-    "playcount_pct": 0.19
-  },
-  {
-    "rank": 127,
-    "artist_name": "Los Suaves",
-    "playcount": 78,
-    "playcount_pct": 0.18
   },
   {
     "rank": 128,
@@ -973,283 +973,283 @@
   },
   {
     "rank": 163,
-    "artist_name": "Garbage",
+    "artist_name": "Eskorbuto",
     "playcount": 57,
-    "playcount_pct": 0.14
+    "playcount_pct": 0.13
   },
   {
     "rank": 164,
-    "artist_name": "Klaxons",
+    "artist_name": "Garbage",
     "playcount": 57,
-    "playcount_pct": 0.14
+    "playcount_pct": 0.13
   },
   {
     "rank": 165,
-    "artist_name": "Superstate",
+    "artist_name": "Klaxons",
     "playcount": 57,
-    "playcount_pct": 0.14
+    "playcount_pct": 0.13
   },
   {
     "rank": 166,
-    "artist_name": "The White Stripes",
+    "artist_name": "Superstate",
     "playcount": 57,
-    "playcount_pct": 0.14
+    "playcount_pct": 0.13
   },
   {
     "rank": 167,
+    "artist_name": "The White Stripes",
+    "playcount": 57,
+    "playcount_pct": 0.13
+  },
+  {
+    "rank": 168,
     "artist_name": "Def con Dos",
     "playcount": 55,
     "playcount_pct": 0.13
   },
   {
-    "rank": 168,
+    "rank": 169,
     "artist_name": "Echo & the Bunnymen",
     "playcount": 55,
     "playcount_pct": 0.13
   },
   {
-    "rank": 169,
+    "rank": 170,
     "artist_name": "Manu Chao",
     "playcount": 55,
     "playcount_pct": 0.13
   },
   {
-    "rank": 170,
+    "rank": 171,
     "artist_name": "The Specials",
     "playcount": 55,
     "playcount_pct": 0.13
   },
   {
-    "rank": 171,
+    "rank": 172,
+    "artist_name": "No Doubt",
+    "playcount": 54,
+    "playcount_pct": 0.13
+  },
+  {
+    "rank": 173,
+    "artist_name": "Public Image Ltd.",
+    "playcount": 54,
+    "playcount_pct": 0.13
+  },
+  {
+    "rank": 174,
+    "artist_name": "Siouxsie and the Banshees",
+    "playcount": 54,
+    "playcount_pct": 0.13
+  },
+  {
+    "rank": 175,
     "artist_name": "Siniestro Total",
     "playcount": 53,
     "playcount_pct": 0.13
   },
   {
-    "rank": 172,
-    "artist_name": "Siouxsie and the Banshees",
-    "playcount": 53,
-    "playcount_pct": 0.13
-  },
-  {
-    "rank": 173,
+    "rank": 176,
     "artist_name": "Depeche Mode",
     "playcount": 52,
     "playcount_pct": 0.12
   },
   {
-    "rank": 174,
+    "rank": 177,
     "artist_name": "Jefferson Airplane",
     "playcount": 52,
     "playcount_pct": 0.12
   },
   {
-    "rank": 175,
+    "rank": 178,
     "artist_name": "The Horrors",
     "playcount": 52,
     "playcount_pct": 0.12
   },
   {
-    "rank": 176,
+    "rank": 179,
     "artist_name": "The Offspring",
     "playcount": 52,
     "playcount_pct": 0.12
   },
   {
-    "rank": 177,
+    "rank": 180,
     "artist_name": "Dire Straits",
     "playcount": 51,
     "playcount_pct": 0.12
   },
   {
-    "rank": 178,
+    "rank": 181,
     "artist_name": "Noel Gallagher",
     "playcount": 51,
     "playcount_pct": 0.12
   },
   {
-    "rank": 179,
+    "rank": 182,
     "artist_name": "Tahiti 80",
     "playcount": 51,
     "playcount_pct": 0.12
   },
   {
-    "rank": 180,
+    "rank": 183,
     "artist_name": "The Hives",
     "playcount": 51,
     "playcount_pct": 0.12
   },
   {
-    "rank": 181,
-    "artist_name": "Public Image Ltd.",
-    "playcount": 50,
-    "playcount_pct": 0.12
-  },
-  {
-    "rank": 182,
+    "rank": 184,
     "artist_name": "Buddy Holly",
     "playcount": 49,
     "playcount_pct": 0.12
   },
   {
-    "rank": 183,
+    "rank": 185,
     "artist_name": "Queens of the Stone Age",
     "playcount": 49,
     "playcount_pct": 0.12
   },
   {
-    "rank": 184,
+    "rank": 186,
     "artist_name": "Jaime Urrutia",
     "playcount": 48,
     "playcount_pct": 0.11
   },
   {
-    "rank": 185,
+    "rank": 187,
     "artist_name": "Mötley Crüe",
     "playcount": 48,
     "playcount_pct": 0.11
   },
   {
-    "rank": 186,
+    "rank": 188,
     "artist_name": "Burning",
     "playcount": 47,
     "playcount_pct": 0.11
   },
   {
-    "rank": 187,
-    "artist_name": "Eskorbuto",
-    "playcount": 47,
-    "playcount_pct": 0.11
-  },
-  {
-    "rank": 188,
+    "rank": 189,
     "artist_name": "Janis Joplin",
     "playcount": 47,
     "playcount_pct": 0.11
   },
   {
-    "rank": 189,
+    "rank": 190,
     "artist_name": "Elbow",
     "playcount": 46,
     "playcount_pct": 0.11
   },
   {
-    "rank": 190,
+    "rank": 191,
     "artist_name": "Mike Oldfield",
     "playcount": 46,
     "playcount_pct": 0.11
   },
   {
-    "rank": 191,
+    "rank": 192,
     "artist_name": "Enrique Bunbury",
     "playcount": 45,
     "playcount_pct": 0.11
   },
   {
-    "rank": 192,
+    "rank": 193,
     "artist_name": "Marvin Gaye",
     "playcount": 45,
     "playcount_pct": 0.11
   },
   {
-    "rank": 193,
+    "rank": 194,
     "artist_name": "Rage Against the Machine",
     "playcount": 45,
     "playcount_pct": 0.11
   },
   {
-    "rank": 194,
+    "rank": 195,
     "artist_name": "Beck",
     "playcount": 44,
     "playcount_pct": 0.1
   },
   {
-    "rank": 195,
+    "rank": 196,
     "artist_name": "Miles Davis",
     "playcount": 44,
     "playcount_pct": 0.1
   },
   {
-    "rank": 196,
+    "rank": 197,
     "artist_name": "Otis Redding",
     "playcount": 44,
     "playcount_pct": 0.1
   },
   {
-    "rank": 197,
+    "rank": 198,
     "artist_name": "Portishead",
     "playcount": 44,
     "playcount_pct": 0.1
   },
   {
-    "rank": 198,
+    "rank": 199,
     "artist_name": "Camilo Sesto",
     "playcount": 43,
     "playcount_pct": 0.1
   },
   {
-    "rank": 199,
+    "rank": 200,
     "artist_name": "Primal Scream",
     "playcount": 43,
     "playcount_pct": 0.1
   },
   {
-    "rank": 200,
+    "rank": 201,
     "artist_name": "Giorgio Moroder",
     "playcount": 42,
     "playcount_pct": 0.1
   },
   {
-    "rank": 201,
+    "rank": 202,
     "artist_name": "Loquillo y Trogloditas",
     "playcount": 42,
     "playcount_pct": 0.1
   },
   {
-    "rank": 202,
+    "rank": 203,
     "artist_name": "Mansun",
     "playcount": 42,
     "playcount_pct": 0.1
   },
   {
-    "rank": 203,
+    "rank": 204,
     "artist_name": "The Charlatans",
     "playcount": 42,
     "playcount_pct": 0.1
   },
   {
-    "rank": 204,
+    "rank": 205,
     "artist_name": "Player",
     "playcount": 41,
     "playcount_pct": 0.1
   },
   {
-    "rank": 205,
+    "rank": 206,
     "artist_name": "Fleetwood Mac",
     "playcount": 40,
     "playcount_pct": 0.09
   },
   {
-    "rank": 206,
+    "rank": 207,
     "artist_name": "George Michael",
     "playcount": 40,
     "playcount_pct": 0.09
   },
   {
-    "rank": 207,
+    "rank": 208,
     "artist_name": "Gilbert O'Sullivan",
     "playcount": 40,
     "playcount_pct": 0.09
   },
   {
-    "rank": 208,
-    "artist_name": "Jimi Hendrix",
-    "playcount": 40,
-    "playcount_pct": 0.09
-  },
-  {
     "rank": 209,
-    "artist_name": "No Doubt",
+    "artist_name": "Jimi Hendrix",
     "playcount": 40,
     "playcount_pct": 0.09
   },
@@ -1773,13 +1773,13 @@
     "rank": 296,
     "artist_name": "Frank Zappa",
     "playcount": 19,
-    "playcount_pct": 0.05
+    "playcount_pct": 0.04
   },
   {
     "rank": 297,
     "artist_name": "Leonard Cohen",
     "playcount": 19,
-    "playcount_pct": 0.05
+    "playcount_pct": 0.04
   },
   {
     "rank": 298,
@@ -1885,822 +1885,828 @@
   },
   {
     "rank": 315,
-    "artist_name": "La Habitación Roja",
+    "artist_name": "Dead Kennedys",
     "playcount": 14,
     "playcount_pct": 0.03
   },
   {
     "rank": 316,
-    "artist_name": "Morcheeba",
+    "artist_name": "La Habitación Roja",
     "playcount": 14,
     "playcount_pct": 0.03
   },
   {
     "rank": 317,
+    "artist_name": "Morcheeba",
+    "playcount": 14,
+    "playcount_pct": 0.03
+  },
+  {
+    "rank": 318,
     "artist_name": "Babyshambles",
     "playcount": 13,
     "playcount_pct": 0.03
   },
   {
-    "rank": 318,
+    "rank": 319,
     "artist_name": "Beady Eye",
     "playcount": 13,
     "playcount_pct": 0.03
   },
   {
-    "rank": 319,
+    "rank": 320,
     "artist_name": "Death Cab for Cutie",
     "playcount": 13,
     "playcount_pct": 0.03
   },
   {
-    "rank": 320,
+    "rank": 321,
     "artist_name": "Def Leppard",
     "playcount": 13,
     "playcount_pct": 0.03
   },
   {
-    "rank": 321,
+    "rank": 322,
     "artist_name": "Jarabe de Palo",
     "playcount": 13,
     "playcount_pct": 0.03
   },
   {
-    "rank": 322,
+    "rank": 323,
     "artist_name": "Lush",
     "playcount": 13,
     "playcount_pct": 0.03
   },
   {
-    "rank": 323,
+    "rank": 324,
     "artist_name": "Madonna",
     "playcount": 13,
     "playcount_pct": 0.03
   },
   {
-    "rank": 324,
+    "rank": 325,
     "artist_name": "Texas",
     "playcount": 13,
     "playcount_pct": 0.03
   },
   {
-    "rank": 325,
+    "rank": 326,
     "artist_name": "Thom Yorke",
     "playcount": 13,
     "playcount_pct": 0.03
   },
   {
-    "rank": 326,
+    "rank": 327,
     "artist_name": "Bill Evans",
     "playcount": 12,
     "playcount_pct": 0.03
   },
   {
-    "rank": 327,
+    "rank": 328,
     "artist_name": "Moloko",
     "playcount": 12,
     "playcount_pct": 0.03
   },
   {
-    "rank": 328,
+    "rank": 329,
     "artist_name": "Talk Talk",
     "playcount": 12,
     "playcount_pct": 0.03
   },
   {
-    "rank": 329,
+    "rank": 330,
     "artist_name": "Al Green",
     "playcount": 11,
     "playcount_pct": 0.03
   },
   {
-    "rank": 330,
+    "rank": 331,
     "artist_name": "Barry White",
     "playcount": 11,
     "playcount_pct": 0.03
   },
   {
-    "rank": 331,
+    "rank": 332,
     "artist_name": "Carlos Berlanga",
     "playcount": 11,
     "playcount_pct": 0.03
   },
   {
-    "rank": 332,
+    "rank": 333,
     "artist_name": "Deftones",
     "playcount": 11,
     "playcount_pct": 0.03
   },
   {
-    "rank": 333,
+    "rank": 334,
     "artist_name": "Hole",
     "playcount": 11,
     "playcount_pct": 0.03
   },
   {
-    "rank": 334,
+    "rank": 335,
     "artist_name": "Johnny Marr",
     "playcount": 11,
     "playcount_pct": 0.03
   },
   {
-    "rank": 335,
+    "rank": 336,
     "artist_name": "King Diamond",
     "playcount": 11,
     "playcount_pct": 0.03
   },
   {
-    "rank": 336,
+    "rank": 337,
     "artist_name": "Obus",
     "playcount": 11,
     "playcount_pct": 0.03
   },
   {
-    "rank": 337,
+    "rank": 338,
     "artist_name": "Papa Roach",
     "playcount": 11,
     "playcount_pct": 0.03
   },
   {
-    "rank": 338,
+    "rank": 339,
     "artist_name": "Rinôçérôse",
     "playcount": 11,
     "playcount_pct": 0.03
   },
   {
-    "rank": 339,
+    "rank": 340,
     "artist_name": "Stone Temple Pilots",
     "playcount": 11,
     "playcount_pct": 0.03
   },
   {
-    "rank": 340,
+    "rank": 341,
     "artist_name": "Al Stewart",
     "playcount": 10,
     "playcount_pct": 0.02
   },
   {
-    "rank": 341,
+    "rank": 342,
     "artist_name": "Alaska y Dinarama",
     "playcount": 10,
     "playcount_pct": 0.02
   },
   {
-    "rank": 342,
+    "rank": 343,
     "artist_name": "Andy Gibb",
     "playcount": 10,
     "playcount_pct": 0.02
   },
   {
-    "rank": 343,
+    "rank": 344,
     "artist_name": "The Fratellis",
     "playcount": 10,
     "playcount_pct": 0.02
   },
   {
-    "rank": 344,
+    "rank": 345,
     "artist_name": "The Wallflowers",
     "playcount": 10,
     "playcount_pct": 0.02
   },
   {
-    "rank": 345,
+    "rank": 346,
     "artist_name": "Blind Guardian",
     "playcount": 9,
     "playcount_pct": 0.02
   },
   {
-    "rank": 346,
+    "rank": 347,
     "artist_name": "Chic",
     "playcount": 9,
     "playcount_pct": 0.02
   },
   {
-    "rank": 347,
+    "rank": 348,
     "artist_name": "David Shire",
     "playcount": 9,
     "playcount_pct": 0.02
   },
   {
-    "rank": 348,
+    "rank": 349,
     "artist_name": "Derribos Arias",
     "playcount": 9,
     "playcount_pct": 0.02
   },
   {
-    "rank": 349,
+    "rank": 350,
     "artist_name": "Frankie Valli",
     "playcount": 9,
     "playcount_pct": 0.02
   },
   {
-    "rank": 350,
+    "rank": 351,
     "artist_name": "Golpes Bajos",
     "playcount": 9,
     "playcount_pct": 0.02
   },
   {
-    "rank": 351,
+    "rank": 352,
     "artist_name": "Los Coronas",
     "playcount": 9,
     "playcount_pct": 0.02
   },
   {
-    "rank": 352,
+    "rank": 353,
     "artist_name": "Mecano",
     "playcount": 9,
     "playcount_pct": 0.02
   },
   {
-    "rank": 353,
+    "rank": 354,
     "artist_name": "Sylvester",
     "playcount": 9,
     "playcount_pct": 0.02
   },
   {
-    "rank": 354,
+    "rank": 355,
     "artist_name": "The O'Jays",
     "playcount": 9,
     "playcount_pct": 0.02
   },
   {
-    "rank": 355,
+    "rank": 356,
     "artist_name": "Tom Jones",
     "playcount": 9,
     "playcount_pct": 0.02
   },
   {
-    "rank": 356,
+    "rank": 357,
     "artist_name": "Yann Tiersen",
     "playcount": 9,
     "playcount_pct": 0.02
   },
   {
-    "rank": 357,
+    "rank": 358,
     "artist_name": "Black Harmony",
     "playcount": 8,
     "playcount_pct": 0.02
   },
   {
-    "rank": 358,
+    "rank": 359,
     "artist_name": "The Yardbirds",
     "playcount": 8,
     "playcount_pct": 0.02
   },
   {
-    "rank": 359,
+    "rank": 360,
     "artist_name": "John Travolta",
     "playcount": 7,
     "playcount_pct": 0.02
   },
   {
-    "rank": 360,
+    "rank": 361,
     "artist_name": "The Doobie Brothers",
     "playcount": 7,
     "playcount_pct": 0.02
   },
   {
-    "rank": 361,
+    "rank": 362,
     "artist_name": "Violadores del Verso",
     "playcount": 7,
     "playcount_pct": 0.02
   },
   {
-    "rank": 362,
+    "rank": 363,
     "artist_name": "Sha Na Na",
     "playcount": 6,
     "playcount_pct": 0.01
   },
   {
-    "rank": 363,
+    "rank": 364,
     "artist_name": "Sid Vicious",
     "playcount": 6,
     "playcount_pct": 0.01
   },
   {
-    "rank": 364,
+    "rank": 365,
     "artist_name": "The Trammps",
     "playcount": 6,
     "playcount_pct": 0.01
   },
   {
-    "rank": 365,
+    "rank": 366,
     "artist_name": "Dick Dale",
     "playcount": 5,
     "playcount_pct": 0.01
   },
   {
-    "rank": 366,
+    "rank": 367,
     "artist_name": "João Gilberto",
     "playcount": 5,
     "playcount_pct": 0.01
   },
   {
-    "rank": 367,
+    "rank": 368,
     "artist_name": "Kool & the Gang",
     "playcount": 5,
     "playcount_pct": 0.01
   },
   {
-    "rank": 368,
+    "rank": 369,
     "artist_name": "Mika",
     "playcount": 5,
     "playcount_pct": 0.01
   },
   {
-    "rank": 369,
+    "rank": 370,
     "artist_name": "New Radicals",
     "playcount": 5,
     "playcount_pct": 0.01
   },
   {
-    "rank": 370,
+    "rank": 371,
     "artist_name": "Obús",
     "playcount": 5,
     "playcount_pct": 0.01
   },
   {
-    "rank": 371,
+    "rank": 372,
     "artist_name": "Sylvia Telles",
     "playcount": 5,
     "playcount_pct": 0.01
   },
   {
-    "rank": 372,
+    "rank": 373,
     "artist_name": "The Byrds",
     "playcount": 5,
     "playcount_pct": 0.01
   },
   {
-    "rank": 373,
+    "rank": 374,
     "artist_name": "Ariel Rot",
     "playcount": 4,
     "playcount_pct": 0.01
   },
   {
-    "rank": 374,
+    "rank": 375,
     "artist_name": "B.J. Thomas",
     "playcount": 4,
     "playcount_pct": 0.01
   },
   {
-    "rank": 375,
+    "rank": 376,
     "artist_name": "Eminem",
     "playcount": 4,
     "playcount_pct": 0.01
   },
   {
-    "rank": 376,
+    "rank": 377,
     "artist_name": "José Luis Perales",
     "playcount": 4,
     "playcount_pct": 0.01
   },
   {
-    "rank": 377,
+    "rank": 378,
     "artist_name": "Les Paul & Mary Ford",
     "playcount": 4,
     "playcount_pct": 0.01
   },
   {
-    "rank": 378,
+    "rank": 379,
     "artist_name": "Peor Impossible",
     "playcount": 4,
     "playcount_pct": 0.01
   },
   {
-    "rank": 379,
+    "rank": 380,
     "artist_name": "Simon & Garfunkel",
     "playcount": 4,
     "playcount_pct": 0.01
   },
   {
-    "rank": 380,
+    "rank": 381,
     "artist_name": "Sleaford Mods",
     "playcount": 4,
     "playcount_pct": 0.01
   },
   {
-    "rank": 381,
+    "rank": 382,
     "artist_name": "Cindy Bullens",
     "playcount": 3,
     "playcount_pct": 0.01
   },
   {
-    "rank": 382,
+    "rank": 383,
     "artist_name": "Ennio Morricone",
     "playcount": 3,
     "playcount_pct": 0.01
   },
   {
-    "rank": 383,
+    "rank": 384,
     "artist_name": "KC and The Sunshine Band",
     "playcount": 3,
     "playcount_pct": 0.01
   },
   {
-    "rank": 384,
+    "rank": 385,
     "artist_name": "MFSB",
     "playcount": 3,
     "playcount_pct": 0.01
   },
   {
-    "rank": 385,
+    "rank": 386,
     "artist_name": "Ralph MacDonald",
     "playcount": 3,
     "playcount_pct": 0.01
   },
   {
-    "rank": 386,
+    "rank": 387,
     "artist_name": "Tavares",
     "playcount": 3,
     "playcount_pct": 0.01
   },
   {
-    "rank": 387,
+    "rank": 388,
     "artist_name": "The Dandy Warhols",
     "playcount": 3,
     "playcount_pct": 0.01
   },
   {
-    "rank": 388,
+    "rank": 389,
     "artist_name": "The Lemonheads",
     "playcount": 3,
     "playcount_pct": 0.01
   },
   {
-    "rank": 389,
+    "rank": 390,
     "artist_name": "The Lovin' Spoonful",
     "playcount": 3,
     "playcount_pct": 0.01
   },
   {
-    "rank": 390,
+    "rank": 391,
     "artist_name": "Walter Murphy",
     "playcount": 3,
     "playcount_pct": 0.01
   },
   {
-    "rank": 391,
+    "rank": 392,
     "artist_name": "Yvonne Elliman",
     "playcount": 3,
     "playcount_pct": 0.01
   },
   {
-    "rank": 392,
+    "rank": 393,
     "artist_name": "Brothers Johnson",
     "playcount": 2,
     "playcount_pct": 0.0
   },
   {
-    "rank": 393,
+    "rank": 394,
     "artist_name": "Chuck Berry",
     "playcount": 2,
     "playcount_pct": 0.0
   },
   {
-    "rank": 394,
+    "rank": 395,
     "artist_name": "JAY-Z",
     "playcount": 2,
     "playcount_pct": 0.0
   },
   {
-    "rank": 395,
+    "rank": 396,
     "artist_name": "Jim Jacobs",
     "playcount": 2,
     "playcount_pct": 0.0
   },
   {
-    "rank": 396,
+    "rank": 397,
     "artist_name": "Lilys",
     "playcount": 2,
     "playcount_pct": 0.0
   },
   {
-    "rank": 397,
+    "rank": 398,
     "artist_name": "Los Sencillos",
     "playcount": 2,
     "playcount_pct": 0.0
   },
   {
-    "rank": 398,
+    "rank": 399,
     "artist_name": "Olivia Newton-John",
     "playcount": 2,
     "playcount_pct": 0.0
   },
   {
-    "rank": 399,
+    "rank": 400,
     "artist_name": "Rick Nelson",
     "playcount": 2,
     "playcount_pct": 0.0
   },
   {
-    "rank": 400,
+    "rank": 401,
     "artist_name": "Rosa Anschütz",
     "playcount": 2,
     "playcount_pct": 0.0
   },
   {
-    "rank": 401,
+    "rank": 402,
     "artist_name": "Stereophonics",
     "playcount": 2,
     "playcount_pct": 0.0
   },
   {
-    "rank": 402,
+    "rank": 403,
     "artist_name": "The Tornadoes",
     "playcount": 2,
     "playcount_pct": 0.0
   },
   {
-    "rank": 403,
+    "rank": 404,
     "artist_name": "A Tribe Called Quest",
     "playcount": 1,
     "playcount_pct": 0.0
   },
   {
-    "rank": 404,
+    "rank": 405,
     "artist_name": "Alaska y Los Pegamoides",
     "playcount": 1,
     "playcount_pct": 0.0
   },
   {
-    "rank": 405,
+    "rank": 406,
     "artist_name": "Alizzz",
     "playcount": 1,
     "playcount_pct": 0.0
   },
   {
-    "rank": 406,
+    "rank": 407,
     "artist_name": "Aphex Twin",
     "playcount": 1,
     "playcount_pct": 0.0
   },
   {
-    "rank": 407,
+    "rank": 408,
     "artist_name": "Black Grape",
     "playcount": 1,
     "playcount_pct": 0.0
   },
   {
-    "rank": 408,
+    "rank": 409,
     "artist_name": "blink-182",
     "playcount": 1,
     "playcount_pct": 0.0
   },
   {
-    "rank": 409,
+    "rank": 410,
     "artist_name": "Bruce Willis",
     "playcount": 1,
     "playcount_pct": 0.0
   },
   {
-    "rank": 410,
+    "rank": 411,
     "artist_name": "Carlos Lyra",
     "playcount": 1,
     "playcount_pct": 0.0
   },
   {
-    "rank": 411,
+    "rank": 412,
     "artist_name": "Cornershop",
     "playcount": 1,
     "playcount_pct": 0.0
   },
   {
-    "rank": 412,
+    "rank": 413,
     "artist_name": "Cypress Hill",
     "playcount": 1,
     "playcount_pct": 0.0
   },
   {
-    "rank": 413,
+    "rank": 414,
     "artist_name": "Duane Whitaker",
     "playcount": 1,
     "playcount_pct": 0.0
   },
   {
-    "rank": 414,
+    "rank": 415,
     "artist_name": "Dusty Springfield",
     "playcount": 1,
     "playcount_pct": 0.0
   },
   {
-    "rank": 415,
+    "rank": 416,
     "artist_name": "El Aviador Dro",
     "playcount": 1,
     "playcount_pct": 0.0
   },
   {
-    "rank": 416,
+    "rank": 417,
     "artist_name": "Frankie Avalon",
     "playcount": 1,
     "playcount_pct": 0.0
   },
   {
-    "rank": 417,
+    "rank": 418,
     "artist_name": "Groove Armada",
     "playcount": 1,
     "playcount_pct": 0.0
   },
   {
-    "rank": 418,
+    "rank": 419,
     "artist_name": "Happy Mondays",
     "playcount": 1,
     "playcount_pct": 0.0
   },
   {
-    "rank": 419,
+    "rank": 420,
     "artist_name": "Helloween",
     "playcount": 1,
     "playcount_pct": 0.0
   },
   {
-    "rank": 420,
+    "rank": 421,
     "artist_name": "Ian Brown",
     "playcount": 1,
     "playcount_pct": 0.0
   },
   {
-    "rank": 421,
+    "rank": 422,
     "artist_name": "Justice",
     "playcount": 1,
     "playcount_pct": 0.0
   },
   {
-    "rank": 422,
+    "rank": 423,
     "artist_name": "Kenickie",
     "playcount": 1,
     "playcount_pct": 0.0
   },
   {
-    "rank": 423,
+    "rank": 424,
     "artist_name": "Leftfield",
     "playcount": 1,
     "playcount_pct": 0.0
   },
   {
-    "rank": 424,
+    "rank": 425,
     "artist_name": "Link Wray & His Wraymen",
     "playcount": 1,
     "playcount_pct": 0.0
   },
   {
-    "rank": 425,
+    "rank": 426,
     "artist_name": "Longpigs",
     "playcount": 1,
     "playcount_pct": 0.0
   },
   {
-    "rank": 426,
+    "rank": 427,
     "artist_name": "Louis St. Louis",
     "playcount": 1,
     "playcount_pct": 0.0
   },
   {
-    "rank": 427,
+    "rank": 428,
     "artist_name": "Marc Parrot",
     "playcount": 1,
     "playcount_pct": 0.0
   },
   {
-    "rank": 428,
+    "rank": 429,
     "artist_name": "Maria McKee",
     "playcount": 1,
     "playcount_pct": 0.0
   },
   {
-    "rank": 429,
+    "rank": 430,
     "artist_name": "Marilyn Manson",
     "playcount": 1,
     "playcount_pct": 0.0
   },
   {
-    "rank": 430,
+    "rank": 431,
     "artist_name": "Museum",
     "playcount": 1,
     "playcount_pct": 0.0
   },
   {
-    "rank": 431,
+    "rank": 432,
     "artist_name": "Passion Pit",
     "playcount": 1,
     "playcount_pct": 0.0
   },
   {
-    "rank": 432,
+    "rank": 433,
     "artist_name": "Paul Francis Webster",
     "playcount": 1,
     "playcount_pct": 0.0
   },
   {
-    "rank": 433,
+    "rank": 434,
     "artist_name": "Paul Weller",
     "playcount": 1,
     "playcount_pct": 0.0
   },
   {
-    "rank": 434,
+    "rank": 435,
     "artist_name": "Pery Ribeiro",
     "playcount": 1,
     "playcount_pct": 0.0
   },
   {
-    "rank": 435,
+    "rank": 436,
     "artist_name": "Samuel L. Jackson",
     "playcount": 1,
     "playcount_pct": 0.0
   },
   {
-    "rank": 436,
+    "rank": 437,
     "artist_name": "Spiritualized",
     "playcount": 1,
     "playcount_pct": 0.0
   },
   {
-    "rank": 437,
+    "rank": 438,
     "artist_name": "Stockard Channing",
     "playcount": 1,
     "playcount_pct": 0.0
   },
   {
-    "rank": 438,
+    "rank": 439,
     "artist_name": "The Bluetones",
     "playcount": 1,
     "playcount_pct": 0.0
   },
   {
-    "rank": 439,
+    "rank": 440,
     "artist_name": "The Go! Team",
     "playcount": 1,
     "playcount_pct": 0.0
   },
   {
-    "rank": 440,
+    "rank": 441,
     "artist_name": "The Knack",
     "playcount": 1,
     "playcount_pct": 0.0
   },
   {
-    "rank": 441,
+    "rank": 442,
     "artist_name": "The Lively Ones",
     "playcount": 1,
     "playcount_pct": 0.0
   },
   {
-    "rank": 442,
+    "rank": 443,
     "artist_name": "The Long Blondes",
     "playcount": 1,
     "playcount_pct": 0.0
   },
   {
-    "rank": 443,
+    "rank": 444,
     "artist_name": "The Marketts",
     "playcount": 1,
     "playcount_pct": 0.0
   },
   {
-    "rank": 444,
+    "rank": 445,
     "artist_name": "The Notorious B.I.G.",
     "playcount": 1,
     "playcount_pct": 0.0
   },
   {
-    "rank": 445,
+    "rank": 446,
     "artist_name": "The Robins",
     "playcount": 1,
     "playcount_pct": 0.0
   },
   {
-    "rank": 446,
+    "rank": 447,
     "artist_name": "The Statler Brothers",
     "playcount": 1,
     "playcount_pct": 0.0
   },
   {
-    "rank": 447,
+    "rank": 448,
     "artist_name": "The Teardrop Explodes",
     "playcount": 1,
     "playcount_pct": 0.0
   },
   {
-    "rank": 448,
+    "rank": 449,
     "artist_name": "The Wonder Stuff",
     "playcount": 1,
     "playcount_pct": 0.0
   },
   {
-    "rank": 449,
+    "rank": 450,
     "artist_name": "Underworld",
     "playcount": 1,
     "playcount_pct": 0.0
   },
   {
-    "rank": 450,
+    "rank": 451,
     "artist_name": "Urge Overkill",
     "playcount": 1,
     "playcount_pct": 0.0
   },
   {
-    "rank": 451,
+    "rank": 452,
     "artist_name": "Vinícius de Moraes",
     "playcount": 1,
     "playcount_pct": 0.0
