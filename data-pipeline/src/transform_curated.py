@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import json
 import csv
 import os
@@ -74,7 +75,8 @@ def procesar_scrobbles_curated(usuario):
             if timestamp_iso:
                 try:
                     fecha_utc = datetime.datetime.fromisoformat(timestamp_iso)
-                    fecha_local = (fecha_utc + datetime.timedelta(hours=2)).isoformat()
+                    # Sumamos las 2 horas y aplicamos el formato clásico YYYY-MM-DD HH:MM:SS
+                    fecha_local = (fecha_utc + datetime.timedelta(hours=2)).strftime('%Y-%m-%d %H:%M:%S')
                 except Exception:
                     fecha_local = None
 
@@ -83,13 +85,14 @@ def procesar_scrobbles_curated(usuario):
                 "track_name": scrobble.get("track_name"),
                 "album_name": scrobble.get("album_name"),
                 "loved": scrobble.get("loved"),
-                "timestamp_iso": fecha_local
+                "date_time": fecha_local  # Cambiamos la clave aquí
             })
 
         ruta_usuario_curated = f"{ruta_curated}/{usuario}"
         archivo_json = f"{ruta_usuario_curated}/scrobbles_curated.json"
         archivo_csv = f"{ruta_usuario_curated}/scrobbles_curated.csv"
-        columnas = ["artist_name", "track_name", "album_name", "loved", "timestamp_iso"]
+        # Actualizamos las columnas para el CSV
+        columnas = ["artist_name", "track_name", "album_name", "loved", "date_time"]
 
         guardar_json(scrobbles_curated, archivo_json)
         guardar_csv(scrobbles_curated, columnas, archivo_csv)
