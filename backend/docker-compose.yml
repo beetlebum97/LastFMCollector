@@ -1,0 +1,19 @@
+version: '3.8'
+
+services:
+  lastfm_db:
+    image: postgres:15-alpine
+    container_name: lastfm_postgres
+    restart: always
+    environment:
+      POSTGRES_USER: lastfm_user
+      POSTGRES_PASSWORD: lastfm_password123
+      POSTGRES_DB: lastfm_data
+    ports:
+      - "5432:5432"
+    volumes:
+      - lastfm_pgdata:/var/lib/postgresql/data
+
+volumes:
+  lastfm_pgdata:
+    name: lastfm_pgdata
