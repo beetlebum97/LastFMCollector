@@ -23,7 +23,7 @@ command -v ansible >/dev/null 2>&1 || { echo "❌ Ansible no instalado"; exit 1;
 # ==================================================== #
 echo "=== 1. DESCARGA DEL CÓDIGO ==="
 rm -rf /tmp/LastFMCollector
-git clone -b develop https://github.com/TU_USUARIO/LastFMCollector.git /tmp/LastFMCollector
+git clone -b develop https://github.com/beetlebum97/LastFMCollector.git /tmp/LastFMCollector
 cd /tmp/LastFMCollector/cloud/azure
 
 # ====================================================== #
