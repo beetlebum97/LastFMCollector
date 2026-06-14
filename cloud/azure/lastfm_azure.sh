@@ -23,7 +23,7 @@ command -v ansible >/dev/null 2>&1 || { echo "❌ Ansible no instalado"; exit 1;
 # ==================================================== #
 echo "=== 1. DESCARGA DEL CÓDIGO ==="
 rm -rf /tmp/LastFMCollector
-git clone -b develop https://github.com/beetlebum97/LastFMCollector.git /tmp/LastFMCollector
+git clone -b develop https://github.com/TU_USUARIO/LastFMCollector.git /tmp/LastFMCollector
 cd /tmp/LastFMCollector/cloud/azure
 
 # ====================================================== #
@@ -69,26 +69,33 @@ EOF
 echo "⏳ Esperando a que el servidor SSH responda..."
 sleep 30
 
-# Ansible instalará Docker, clonará el repo y arrancará docker-compose (BD + FastAPI)
 ansible-playbook -i ansible/inventario.ini ansible/deploy.yml
+
 
 # =================================== #
 # PYTHON: PIPELINE INTERACTIVO        #
 # =================================== #
 echo "=== 5. PIPELINE LAST.FM (INTERACTIVO) ==="
-echo "Conectando al contenedor para iniciar la descarga de datos..."
+echo "⚙️ El contenedor está instalando en segundo plano las dependencias (psycopg2, requests...)"
+
+# Bucle de cuenta atrás visual (Cronómetro)
+for i in {60..1}; do
+    echo -ne "⏳ Por favor, espera $i segundos... \r"
+    sleep 1
+done
+
+# El echo -e "\n" sirve para saltar a la siguiente línea una vez termina el cronómetro
+echo -e "\n✅ Dependencias instaladas con éxito."
+echo "Conectando al contenedor..."
 echo "--------------------------------------------------------"
 
-# Nos conectamos por SSH en modo TTY (-t) y ejecutamos el script de Python dentro del Docker.
-# Esto hará que los input() de Python aparezcan en la pantalla actual.
-ssh -t -o StrictHostKeyChecking=no -i ~/.ssh/id_rsa azureuser@$IP_SERVIDOR << 'EOF'
-  # Ejecutamos el pipeline (Preguntará API Key y Usuario)
-  sudo docker exec -it -w /app/data-pipeline lastfm_fastapi_prod bash -c "python run-pipeline.py"
-  
-  echo "--------------------------------------------------------"
-  echo "📥 Inyectando los datos descargados en PostgreSQL..."
-  sudo docker exec -w /app/backend lastfm_fastapi_prod bash -c "DB_HOST=lastfm_postgres_prod python load_database.py"
-EOF
+# Forzamos la TTY (-tt) y redirigimos el teclado físico del usuario (< /dev/tty)
+ssh -tt -o StrictHostKeyChecking=no -i ~/.ssh/id_rsa azureuser@$IP_SERVIDOR "sudo docker exec -it -w /app/data-pipeline lastfm_fastapi_prod python run-pipeline.py" < /dev/tty
+
+echo "--------------------------------------------------------"
+echo "📥 Inyectando los datos descargados en PostgreSQL..."
+ssh -o StrictHostKeyChecking=no -i ~/.ssh/id_rsa azureuser@$IP_SERVIDOR "sudo docker exec -w /app/backend lastfm_fastapi_prod bash -c 'DB_HOST=lastfm_postgres_prod python load_database.py'"
+
 
 # ================= #
 # RESUMEN FINAL     #
