@@ -1,0 +1,32 @@
+services:
+  lastfm_db:
+    image: postgres:15-alpine
+    container_name: lastfm_postgres_prod
+    restart: always
+    environment:
+      POSTGRES_USER: lastfm_user
+      POSTGRES_PASSWORD: lastfm_password123
+      POSTGRES_DB: lastfm_data
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata_prod:/var/lib/postgresql/data
+
+  lastfm_api:
+    image: python:3.11-slim
+    container_name: lastfm_fastapi_prod
+    restart: always
+    working_dir: /app
+    # Instala librerías y lanza tu api.py
+    command: bash -c "pip install fastapi uvicorn psycopg2-binary && uvicorn backend.api:app --host 0.0.0.0 --port 8000"
+    environment:
+      - DB_HOST=lastfm_postgres_prod  # Se conecta a la BD de arriba
+    ports:
+      - "8000:8000"
+    volumes:
+      - ../../:/app   # Monta el repositorio completo dentro del contenedor
+    depends_on:
+      - lastfm_db
+
+volumes:
+  pgdata_prod:
