@@ -83,7 +83,7 @@ resource "azurerm_linux_virtual_machine" "main" {
   name                            = "vm-tf"
   resource_group_name             = azurerm_resource_group.main.name
   location                        = var.location
-  size                            = "Standard_F1as_v7" # Máquina económica ideal para este proyecto
+  size                            = "Standard_B2s"
   admin_username                  = var.username
   disable_password_authentication = true      
   network_interface_ids           = [azurerm_network_interface.main.id]
