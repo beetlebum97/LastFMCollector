@@ -3,17 +3,22 @@ import json
 import psycopg2
 from psycopg2 import sql
 import os
+import sys
 
 # Configuración de la base de datos (La que definimos en el docker-compose.yml)
 DB_CONFIG = {
     "dbname": "lastfm_data",
     "user": "lastfm_user",
     "password": "lastfm_password123",
-    "host": "127.0.0.1",
+    "host": os.getenv("DB_HOST", "127.0.0.1"),
     "port": "5432"
 }
 
-USUARIO = "hayman3030"
+if len(sys.argv) < 2:
+    print("Error: Uso: python load_database.py <usuario>")
+    sys.exit(1)
+
+USUARIO = sys.argv[1]
 RUTA_CURATED = f"../storage/curated/{USUARIO}"
 
 def conectar_db():

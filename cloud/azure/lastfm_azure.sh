@@ -71,30 +71,39 @@ sleep 30
 
 ansible-playbook -i ansible/inventario.ini ansible/deploy.yml
 
-
 # =================================== #
 # PYTHON: PIPELINE INTERACTIVO        #
 # =================================== #
 echo "=== 5. PIPELINE LAST.FM (INTERACTIVO) ==="
-echo "⚙️ El contenedor está instalando en segundo plano las dependencias (psycopg2, requests...)"
+echo "⚙️ El contenedor está instalando en segundo plano las dependencias..."
 
-# Bucle de cuenta atrás visual (Cronómetro)
+# El cronómetro SOLO se ejecuta la primera vez
 for i in {60..1}; do
     echo -ne "⏳ Por favor, espera $i segundos... \r"
     sleep 1
 done
-
-# El echo -e "\n" sirve para saltar a la siguiente línea una vez termina el cronómetro
 echo -e "\n✅ Dependencias instaladas con éxito."
-echo "Conectando al contenedor..."
-echo "--------------------------------------------------------"
 
-# Forzamos la TTY (-tt) y redirigimos el teclado físico del usuario (< /dev/tty)
-ssh -tt -o StrictHostKeyChecking=no -i ~/.ssh/id_rsa azureuser@$IP_SERVIDOR "sudo docker exec -it -w /app/data-pipeline lastfm_fastapi_prod python run-pipeline.py" < /dev/tty
-
-echo "--------------------------------------------------------"
-echo "📥 Inyectando los datos descargados en PostgreSQL..."
-ssh -o StrictHostKeyChecking=no -i ~/.ssh/id_rsa azureuser@$IP_SERVIDOR "sudo docker exec -w /app/backend lastfm_fastapi_prod bash -c 'DB_HOST=lastfm_postgres_prod python load_database.py'"
+# INICIO DEL BUCLE
+while true; do
+    echo "--------------------------------------------------------"
+    read -p "👤 Introduce el usuario de Last.fm a procesar (ej. hayman3030): " LASTFM_USER
+    
+    echo "Conectando al contenedor y ejecutando el código..."
+    ssh -tt -o StrictHostKeyChecking=no -i ~/.ssh/id_rsa azureuser@$IP_SERVIDOR "sudo docker exec -it -w /app/data-pipeline lastfm_fastapi_prod python run-pipeline.py $LASTFM_USER" < /dev/tty
+    
+    echo "--------------------------------------------------------"
+    echo "📥 Inyectando los datos de $LASTFM_USER en PostgreSQL..."
+    ssh -o StrictHostKeyChecking=no -i ~/.ssh/id_rsa azureuser@$IP_SERVIDOR "sudo docker exec -w /app/backend lastfm_fastapi_prod bash -c 'DB_HOST=lastfm_postgres_prod python load_database.py $LASTFM_USER'"
+    
+    echo "--------------------------------------------------------"
+    # Preguntamos si quiere seguir o salir
+    read -p "🔄 ¿Quieres descargar y procesar otro usuario? (s/n): " RESPUESTA
+    if [[ "$RESPUESTA" != "s" && "$RESPUESTA" != "S" ]]; then
+        echo "Saliendo del procesador de usuarios..."
+        break # Rompe el bucle y pasa al resumen final
+    fi
+done
 
 
 # ================= #

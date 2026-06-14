@@ -18,7 +18,7 @@ services:
     restart: always
     working_dir: /app
     # Instala librerías y lanza tu api.py
-    command: bash -c "pip install fastapi uvicorn psycopg2-binary && uvicorn backend.api:app --host 0.0.0.0 --port 8000"
+    command: bash -c "pip install fastapi uvicorn psycopg2-binary requests colorama && uvicorn backend.api:app --host 0.0.0.0 --port 8000"
     environment:
       - DB_HOST=lastfm_postgres_prod  # Se conecta a la BD de arriba
     ports:
