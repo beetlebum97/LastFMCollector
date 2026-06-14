@@ -96,7 +96,7 @@ while true; do
     
     echo "--------------------------------------------------------"
     echo "📥 Inyectando los datos de $LASTFM_USER en PostgreSQL..."
-    ssh -o StrictHostKeyChecking=no -i ~/.ssh/id_rsa azureuser@$IP_SERVIDOR "sudo docker exec -w /app/backend lastfm_fastapi_prod bash -c 'DB_HOST=lastfm_postgres_prod python load_database.py $LASTFM_USER'"
+    ssh -n -o StrictHostKeyChecking=no -i ~/.ssh/id_rsa azureuser@$IP_SERVIDOR "sudo docker exec -w /app/backend lastfm_fastapi_prod bash -c 'DB_HOST=lastfm_postgres_prod python load_database.py $LASTFM_USER'"
     
     echo "--------------------------------------------------------"
     read -p "🔄 ¿Quieres descargar y procesar otro usuario? (s/n): " RESPUESTA < /dev/tty
