@@ -153,11 +153,27 @@ def obtener_ultimos_scrobbles(usuario, limite=5):
     response = requests.get(API_URL, params=params, timeout=10)
     data = response.json()
     tracks = []
+
     for track in data["recenttracks"]["track"]:
         fecha = "Ahora"
         if "date" in track:
-            fecha = track["date"]["#text"]
+            fecha_str = track["date"]["#text"]  # Ej: "17 Jun 2026, 11:18"
+
+            try:
+                # 1. Convertimos el texto plano a un objeto de tiempo real de Python
+                fecha_obj = datetime.datetime.strptime(fecha_str, "%d %b %Y, %H:%M")
+
+                # 2. Le sumamos las 2 horas de diferencia (calcula días y meses automáticamente)
+                fecha_obj += datetime.timedelta(hours=2)
+
+                # 3. Lo volvemos a convertir a texto con el mismo formato
+                fecha = fecha_obj.strftime("%d %b %Y, %H:%M")
+            except ValueError:
+                # Si Last.fm cambia su formato algún día, fallará de forma segura devolviendo la hora original
+                fecha = fecha_str
+
         tracks.append({"track": track["name"], "artista": track["artist"]["#text"], "fecha": fecha})
+
     return tracks
 
 def resumen_usuario(usuario):
