@@ -9,6 +9,8 @@ import datetime
 import time
 import shutil
 
+from zoneinfo import ZoneInfo
+
 from colorama import init, Fore, Style
 init()
 
@@ -30,7 +32,7 @@ def mostrar_encabezado():
         + Style.RESET_ALL
     )
     return inicio
-    
+
 def validar_api_key_en_servidor(api_key):
     params = {
         "method": "chart.getTopArtists",
@@ -57,15 +59,15 @@ def solicitar_api_key():
         try:
             print(f"\nIntroduce tu API key de Last.fm (intento {intento + 1}/{intentos}):")
             api_key = getpass.getpass("API key: ").strip()
-            
+
             if not api_key:
                 print(Fore.LIGHTRED_EX + "✗ La API key no puede estar vacía." + Style.RESET_ALL)
                 continue
-                
+
             if not validar_api_key_en_servidor(api_key):
                 print(Fore.LIGHTRED_EX + "✗ API key no válida o sin permisos" + Style.RESET_ALL)
                 continue
-                
+
             API_KEY = api_key
             print(Fore.LIGHTGREEN_EX + "✓ API key válida y verificada" + Style.RESET_ALL)
             return
@@ -122,7 +124,7 @@ def obtener_info_usuario(usuario):
             raise ValueError(data["message"])
         usuario_data = data["user"]
         fecha_registro = datetime.datetime.fromtimestamp(int(usuario_data["registered"]["unixtime"]))
-        
+
         return {
             "pais": usuario_data.get("country", "Desconocido"),
             "registrado": fecha_registro.strftime("%Y-%m-%d")
@@ -148,29 +150,29 @@ def obtener_top_tracks(usuario, limite=5):
     data = response.json()
     return [{"track": t["name"], "artista": t["artist"]["name"], "scrobbles": t["playcount"]} for t in data["toptracks"]["track"]]
 
+
 def obtener_ultimos_scrobbles(usuario, limite=5):
     params = {"method": "user.getRecentTracks", "user": usuario, "api_key": API_KEY, "format": "json", "limit": limite}
     response = requests.get(API_URL, params=params, timeout=10)
     data = response.json()
     tracks = []
 
+    # Definimos la zona horaria real
+    zona_espana = ZoneInfo("Europe/Madrid")
+
     for track in data["recenttracks"]["track"]:
         fecha = "Ahora"
         if "date" in track:
-            fecha_str = track["date"]["#text"]  # Ej: "17 Jun 2026, 11:18"
-
             try:
-                # 1. Convertimos el texto plano a un objeto de tiempo real de Python
-                fecha_obj = datetime.datetime.strptime(fecha_str, "%d %b %Y, %H:%M")
+                # Capturamos el sello de tiempo numérico puro (Unix Time Stamp)
+                uts = int(track["date"]["uts"])
 
-                # 2. Le sumamos las 2 horas de diferencia (calcula días y meses automáticamente)
-                fecha_obj += datetime.timedelta(hours=2)
+                # Lo convertimos a la hora exacta de España (con cambios de verano/invierno automáticos)
+                fecha_obj = datetime.datetime.fromtimestamp(uts, tz=datetime.timezone.utc).astimezone(zona_espana)
 
-                # 3. Lo volvemos a convertir a texto con el mismo formato
                 fecha = fecha_obj.strftime("%d %b %Y, %H:%M")
-            except ValueError:
-                # Si Last.fm cambia su formato algún día, fallará de forma segura devolviendo la hora original
-                fecha = fecha_str
+            except (KeyError, ValueError):
+                fecha = track["date"].get("#text", "Desconocida")
 
         tracks.append({"track": track["name"], "artista": track["artist"]["#text"], "fecha": fecha})
 
@@ -184,7 +186,7 @@ def resumen_usuario(usuario):
         ("user.getLovedTracks", "lovedtracks", "FAVORITAS"),
         ("user.getRecentTracks", "recenttracks", "SCROBBLES")
     ]
-    
+
     resultados = {}
     info_usuario = obtener_info_usuario(usuario)
 
@@ -200,22 +202,22 @@ def resumen_usuario(usuario):
 
     print()
     reporte_limpio.append("")
-    
+
     banner_borde = "=" * ANCHO_UI
     banner_texto = f"USUARIO: {usuario}".center(ANCHO_UI)
-    
+
     print(Fore.LIGHTCYAN_EX + banner_borde)
     print(banner_texto)
     print(banner_borde + Style.RESET_ALL)
-    
+
     reporte_limpio.extend([banner_borde, banner_texto, banner_borde, ""])
     print()
-    
+
     orden_estadisticas = ["ARTISTAS", "ALBUMS", "CANCIONES", "FAVORITAS", "SCROBBLES"]
-    
+
     linea_pais = f"{'PAÍS':<12}: {info_usuario['pais']}"
     linea_miembro = f"{'MIEMBRO':<12}: {info_usuario['registrado']}"
-    
+
     print(Fore.LIGHTCYAN_EX + linea_pais + Style.RESET_ALL)
     print(Fore.LIGHTCYAN_EX + linea_miembro + Style.RESET_ALL)
     reporte_limpio.extend([linea_pais, linea_miembro])
@@ -265,19 +267,19 @@ def resumen_usuario(usuario):
         linea = f"- {track['track']} | {track['artista']} | {track['fecha']}"
         print(linea)
         reporte_limpio.append(linea)
-    
+
     print()
-    
+
     # --- GUARDAR EL INFORME EN UN ARCHIVO .TXT ---
     ruta_reports = "reports"
     os.makedirs(ruta_reports, exist_ok=True)
-    
+
     timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
     archivo_txt = f"{ruta_reports}/{usuario}_stats_{timestamp}.txt"
-    
+
     with open(archivo_txt, "w", encoding="utf-8") as f:
         f.write("\n".join(reporte_limpio))
-        
+
     print(Fore.LIGHTGREEN_EX + f"✓ Reporte guardado con éxito en: {archivo_txt}" + Style.RESET_ALL)
 
 def main():
