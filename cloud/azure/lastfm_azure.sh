@@ -22,8 +22,8 @@ command -v ansible >/dev/null 2>&1 || { echo "❌ Ansible no instalado"; exit 1;
 # DESCARGAR REPOSITORIO (RAMA DEVELOP)                 #
 # ==================================================== #
 echo "=== 1. DESCARGA DEL CÓDIGO ==="
-#rm -rf /tmp/LastFMCollector
-#git clone -b develop https://github.com/beetlebum97/LastFMCollector.git /tmp/LastFMCollector
+rm -rf /tmp/LastFMCollector
+git clone -b develop https://github.com/beetlebum97/LastFMCollector.git /tmp/LastFMCollector
 cd /tmp/LastFMCollector/cloud/azure
 
 # ====================================================== #
