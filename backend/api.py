@@ -31,7 +31,7 @@ DB_CONFIG = {
     "dbname": "lastfm_data",
     "user": "lastfm_user",
     "password": "lastfm_password123",
-    "host": "127.0.0.1",
+    "host": os.getenv("DB_HOST", "127.0.0.1"),
     "port": "5432"
 }
 
@@ -46,34 +46,33 @@ def obtener_datos(usuario: str, entidad: str, page: int = 1, limit: int = 10, q:
     try:
         conn = psycopg2.connect(**DB_CONFIG)
         cursor = conn.cursor(cursor_factory=RealDictCursor)
-        
-        base_query = f"SELECT * FROM {entidad}"
-        count_query = f"SELECT COUNT(*) FROM {entidad}"
-        params = []
+
+        base_query = f"SELECT * FROM {entidad} WHERE username = %s"
+        count_query = f"SELECT COUNT(*) FROM {entidad} WHERE username = %s"
+        params = [usuario]
 
         if q:
-            where_clause = " WHERE artist_name ILIKE %s"
-            base_query += where_clause
-            count_query += where_clause
+            base_query += " AND artist_name ILIKE %s"
+            count_query += " AND artist_name ILIKE %s"
             params.append(f"%{q}%")
-        
+
         cursor.execute(count_query, params)
         total = cursor.fetchone()['count']
-        
+
         if entidad == "scrobbles":
             base_query += " ORDER BY date_time DESC"
         else:
             base_query += " ORDER BY rank ASC"
-            
+
         base_query += " OFFSET %s LIMIT %s"
         params.extend([(page - 1) * limit, limit])
-        
+
         cursor.execute(base_query, params)
         data = cursor.fetchall()
-        
+
         cursor.close()
         conn.close()
-        
+
         return {
             "data": data,
             "total": total,
@@ -84,11 +83,11 @@ def obtener_datos(usuario: str, entidad: str, page: int = 1, limit: int = 10, q:
 
     except psycopg2.OperationalError:
         print(f"⚠️ Aviso: Base de datos no disponible. Usando fallback JSON para {entidad}...")
-        
+
         data = leer_json(usuario, entidad)
         if q:
             data = [item for item in data if q.lower() in item.get("artist_name", "").lower()]
-        
+
         start = (page - 1) * limit
         return {
             "data": data[start:start + limit],
@@ -112,18 +111,18 @@ def get_user_stats(usuario: str):
     try:
         conn = psycopg2.connect(**DB_CONFIG)
         cursor = conn.cursor(cursor_factory=RealDictCursor)
-        
+
         query = """
         SELECT 
-            (SELECT COUNT(*) FROM scrobbles) as s_count,
-            (SELECT COUNT(*) FROM top_artists) as art_count,
-            (SELECT COUNT(*) FROM top_albums) as alb_count,
-            (SELECT COUNT(*) FROM top_tracks) as trk_count;
+            (SELECT COUNT(*) FROM scrobbles   WHERE username = %s) as s_count,
+            (SELECT COUNT(*) FROM top_artists WHERE username = %s) as art_count,
+            (SELECT COUNT(*) FROM top_albums  WHERE username = %s) as alb_count,
+            (SELECT COUNT(*) FROM top_tracks  WHERE username = %s) as trk_count;
         """
-        cursor.execute(query)
+        cursor.execute(query, (usuario, usuario, usuario, usuario))
         totales = cursor.fetchone()
         conn.close()
-        
+
         return {
             "usuario": usuario,
             "total_scrobbles": totales['s_count'],
