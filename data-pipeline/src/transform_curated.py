@@ -69,6 +69,10 @@ def procesar_scrobbles_curated(usuario):
 
         scrobbles_curated = []
         for scrobble in scrobbles_staging:
+            # Saltamos la canción en reproducción actual (no tiene timestamp real)
+            if scrobble.get("nowplaying"):
+                continue
+
             timestamp_iso = scrobble.get("timestamp_iso")
             fecha_local = None
 
