@@ -3,17 +3,21 @@ import subprocess
 import argparse
 import time
 import datetime
+from pathlib import Path
 from colorama import init, Fore, Style
 
 init()
 
-# Definimos dónde están los scripts ahora que los has movido
-CARPETA_JOBS = "src"
+# Calculamos la raíz dinámicamente (sube 1 nivel: data-pipeline -> raíz)
+BASE_DIR = Path(__file__).resolve().parent.parent
+
+# Definimos las rutas ABSOLUTAS a los scripts
 SCRIPTS = [
-    f"{CARPETA_JOBS}/download_raw.py",
-    f"{CARPETA_JOBS}/process_staging.py",
-    f"{CARPETA_JOBS}/transform_curated.py"
+    str(BASE_DIR / "data-pipeline" / "src" / "download_raw.py"),
+    str(BASE_DIR / "data-pipeline" / "src" / "process_staging.py"),
+    str(BASE_DIR / "data-pipeline" / "src" / "transform_curated.py")
 ]
+
 
 def formatear_tiempo(segundos_totales):
     minutos = int(segundos_totales // 60)
