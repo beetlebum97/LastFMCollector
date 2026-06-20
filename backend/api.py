@@ -6,6 +6,7 @@ import json
 import os
 import psycopg2
 from psycopg2.extras import RealDictCursor
+from pathlib import Path
 
 app = FastAPI(
     title="Last.fm Data API",
@@ -21,11 +22,10 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# AJUSTE DE RUTAS: Al estar api.py en la raíz de backend junto al docker-compose, 
-# calculamos las rutas subiendo un solo nivel de forma segura.
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-RUTA_CURATED = os.path.abspath(os.path.join(BASE_DIR, "../storage/curated"))
-RUTA_FRONTEND = os.path.abspath(os.path.join(BASE_DIR, "../frontend"))
+# AJUSTE DE RUTAS: Al estar api.py en la carpeta backend, subimos un nivel para llegar a la raíz.
+BASE_DIR = Path(__file__).resolve().parents[1]
+RUTA_CURATED = str(BASE_DIR / "storage" / "curated")
+RUTA_FRONTEND = str(BASE_DIR / "frontend")
 
 DB_CONFIG = {
     "dbname": "lastfm_data",
