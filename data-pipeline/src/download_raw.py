@@ -8,6 +8,8 @@ import argparse
 import getpass
 import shutil
 
+from pathlib import Path
+
 from colorama import init, Fore, Style
 
 init()
@@ -16,8 +18,13 @@ API_KEY = None
 API_URL = "http://ws.audioscrobbler.com/2.0/"
 ruta_raw = "../storage/raw"
 
+# RUTAS DINÁMICAS (Sube 2 niveles: src -> data-pipeline -> raíz)
+BASE_DIR = Path(__file__).resolve().parents[2]
+ruta_raw = str(BASE_DIR / "storage" / "raw")
+
+
 # Mantenemos esto para limpiar la barra de progreso
-ANCHO_TERMINAL = shutil.get_terminal_size().columns 
+ANCHO_TERMINAL = shutil.get_terminal_size().columns
 # Usamos esto para unificar el diseño de todas las cabeceras
 ANCHO_UI = 60
 
