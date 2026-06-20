@@ -4,6 +4,7 @@ import psycopg2
 from psycopg2 import sql
 import os
 import sys
+from pathlib import Path
 
 # Configuración de la base de datos (La que definimos en el docker-compose.yml)
 DB_CONFIG = {
@@ -19,7 +20,10 @@ if len(sys.argv) < 2:
     sys.exit(1)
 
 USUARIO = sys.argv[1]
-RUTA_CURATED = f"../storage/curated/{USUARIO}"
+
+# RUTAS DINÁMICAS (Sube 1 nivel: backend -> raíz)
+BASE_DIR = Path(__file__).resolve().parents[1]
+RUTA_CURATED = str(BASE_DIR / "storage" / "curated" / USUARIO)
 
 def conectar_db():
     print("🔌 Conectando a PostgreSQL...")
