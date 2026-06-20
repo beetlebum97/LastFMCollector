@@ -6,12 +6,16 @@ import argparse
 import datetime
 import shutil
 
+from pathlib import Path
+
 from colorama import init, Fore, Style
 
 init()
 
-ruta_staging = "../storage/staging"
-ruta_curated = "../storage/curated"
+# RUTAS DINÁMICAS (Sube 2 niveles: src -> data-pipeline -> raíz)
+BASE_DIR = Path(__file__).resolve().parents[2]
+ruta_staging = str(BASE_DIR / "storage" / "staging")
+ruta_curated = str(BASE_DIR / "storage" / "curated")
 
 # Mantenemos esto para limpiar la barra de progreso
 ANCHO_TERMINAL = shutil.get_terminal_size().columns 
