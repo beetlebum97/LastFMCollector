@@ -18,13 +18,36 @@ echo "=========================================="
 command -v terraform >/dev/null 2>&1 || { echo "❌ Terraform no instalado"; exit 1; }
 command -v ansible >/dev/null 2>&1 || { echo "❌ Ansible no instalado"; exit 1; }
 
+
 # ==================================================== #
 # DESCARGAR REPOSITORIO (RAMA DEVELOP)                 #
 # ==================================================== #
-echo "=== 1. DESCARGA DEL CÓDIGO ==="
-rm -rf /tmp/LastFMCollector
-git clone -b develop https://github.com/beetlebum97/LastFMCollector.git /tmp/LastFMCollector
-cd /tmp/LastFMCollector/cloud/azure
+echo -e "\n=== 1. DIRECTORIO DE INSTALACIÓN E INFRAESTRUCTURA ==="
+# Usamos $PWD para que por defecto se instale en la carpeta actual de la terminal
+read -p "📂 Introduce la ruta base o destino (por defecto: $PWD/LastFMCollector): " INPUT_DIR < /dev/tty || true
+INPUT_DIR=${INPUT_DIR:-$PWD/LastFMCollector}
+
+# Resolver la tilde (~) en caso de que el usuario la escriba manualmente (ej: ~/Descargas)
+INPUT_DIR="${INPUT_DIR/#\~/$HOME}"
+
+# Auto-completar la carpeta: nos aseguramos de que termine siempre en /LastFMCollector
+if [[ "$(basename "$INPUT_DIR")" != "LastFMCollector" ]]; then
+    # Quitamos la posible barra final del input y añadimos la carpeta
+    INSTALL_DIR="${INPUT_DIR%/}/LastFMCollector"
+else
+    INSTALL_DIR="$INPUT_DIR"
+fi
+
+# Borramos la carpeta específica del proyecto (si no existe, no da error gracias a -f)
+echo "🧹 Limpiando instalación previa en '$INSTALL_DIR' (si existe)..."
+rm -rf "$INSTALL_DIR"
+
+echo "📥 Clonando el repositorio desde la rama 'develop' en '$INSTALL_DIR'..."
+git clone -b develop https://github.com/beetlebum97/LastFMCollector.git "$INSTALL_DIR"
+
+# ATENCIÓN: A diferencia de local, para Azure necesitamos saltar al directorio cloud
+cd "$INSTALL_DIR/cloud/azure"
+
 
 # ====================================================== #
 # CREAR CLAVE SSH PARA AZURE                             #
