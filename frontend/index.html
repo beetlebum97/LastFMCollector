@@ -234,8 +234,8 @@
             localStorage.setItem('lfm-theme', dark ? 'dark' : 'light');
         }
         function toggleTheme() { applyTheme(!document.documentElement.classList.contains('dark')); }
-        // Init from saved preference — dark is the default
-        applyTheme(localStorage.getItem('lfm-theme') !== 'light');
+        // Init from saved preference — light (red) is the default
+        applyTheme(localStorage.getItem('lfm-theme') === 'dark');
 
         // ── STATE ────────────────────────────────────────────
         const API_BASE_URL = `http://${window.location.hostname}:8000/api/v1`;
