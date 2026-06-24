@@ -55,7 +55,7 @@ echo "🧹 Limpiando instalación previa en '$INSTALL_DIR' (si existe)..."
 rm -rf "$INSTALL_DIR"
 
 echo "📥 Clonando el repositorio desde la rama 'develop' en '$INSTALL_DIR'..."
-git clone -b develop https://github.com/beetlebum97/LastFMCollector.git "$INSTALL_DIR"
+git clone -b main https://github.com/beetlebum97/LastFMCollector.git "$INSTALL_DIR"
 cd "$INSTALL_DIR"
 
 # =================================== #
