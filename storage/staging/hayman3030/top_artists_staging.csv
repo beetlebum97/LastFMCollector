@@ -1,51 +1,51 @@
 rank,artist_name,playcount,artist_url,artist_mbid
-1,Blur,2343,https://www.last.fm/music/Blur,ba853904-ae25-4ebb-89d6-c44cfbd71bd2
+1,Blur,2344,https://www.last.fm/music/Blur,ba853904-ae25-4ebb-89d6-c44cfbd71bd2
 2,Lou Reed,1286,https://www.last.fm/music/Lou+Reed,9d1ebcfe-4c15-4d18-95d3-d919898638a1
-3,David Bowie,1226,https://www.last.fm/music/David+Bowie,5441c29d-3602-4898-b1a1-b77fa23b8e50
+3,David Bowie,1228,https://www.last.fm/music/David+Bowie,5441c29d-3602-4898-b1a1-b77fa23b8e50
 4,The Beatles,1153,https://www.last.fm/music/The+Beatles,b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d
-5,The Doors,1065,https://www.last.fm/music/The+Doors,9efff43b-3b29-4082-824e-bc82f646f93d
-6,Judas Priest,960,https://www.last.fm/music/Judas+Priest,6b335658-22c8-485d-93de-0bc29a1d0349
-7,The Kinks,881,https://www.last.fm/music/The+Kinks,
-8,Pixies,874,https://www.last.fm/music/Pixies,b6b2bb8d-54a9-491f-9607-7b546023b433
+5,The Doors,1076,https://www.last.fm/music/The+Doors,9efff43b-3b29-4082-824e-bc82f646f93d
+6,Judas Priest,971,https://www.last.fm/music/Judas+Priest,6b335658-22c8-485d-93de-0bc29a1d0349
+7,The Kinks,901,https://www.last.fm/music/The+Kinks,17b53d9f-5c63-4a09-a593-dde4608e0db9
+8,Pixies,877,https://www.last.fm/music/Pixies,b6b2bb8d-54a9-491f-9607-7b546023b433
 9,Diana Ross,653,https://www.last.fm/music/Diana+Ross,60d41417-feda-4734-bbbf-7dcc30e08a83
 10,John Lennon,611,https://www.last.fm/music/John+Lennon,4d5447d7-c61c-4120-ba1b-d7f471d385b9
 11,Electric Light Orchestra,600,https://www.last.fm/music/Electric+Light+Orchestra,0c502791-4ee9-4c5f-9696-0602b721ff3b
 12,Gorillaz,572,https://www.last.fm/music/Gorillaz,e21857d5-3256-4547-afb3-4b6ded592596
-13,Suede,548,https://www.last.fm/music/Suede,
-14,Pulp,546,https://www.last.fm/music/Pulp,76b2e842-5e85-4c97-ab62-d5bc315595b5
+13,Pulp,558,https://www.last.fm/music/Pulp,76b2e842-5e85-4c97-ab62-d5bc315595b5
+14,Suede,549,https://www.last.fm/music/Suede,
 15,Thin Lizzy,545,https://www.last.fm/music/Thin+Lizzy,6a726ac6-019e-455c-8bbb-571a77bed52e
 16,Radiohead,523,https://www.last.fm/music/Radiohead,a74b1b7f-71a5-4011-9441-d0b5e4122711
 17,Oasis,518,https://www.last.fm/music/Oasis,
 18,Queen,512,https://www.last.fm/music/Queen,0383dadf-2a4e-4d10-a46a-e9e041da8eb3
-19,Led Zeppelin,460,https://www.last.fm/music/Led+Zeppelin,678d88b2-87b0-403b-b63d-5da7465aecc3
-20,Pink Floyd,460,https://www.last.fm/music/Pink+Floyd,83d91898-7763-47d7-b03b-b92132375c47
+19,Led Zeppelin,469,https://www.last.fm/music/Led+Zeppelin,678d88b2-87b0-403b-b63d-5da7465aecc3
+20,Pink Floyd,461,https://www.last.fm/music/Pink+Floyd,83d91898-7763-47d7-b03b-b92132375c47
 21,Stevie Wonder,451,https://www.last.fm/music/Stevie+Wonder,1ee18fb3-18a6-4c7f-8ba0-bc41cdd0462e
-22,Frank Sinatra,408,https://www.last.fm/music/Frank+Sinatra,197450cd-0124-4164-b723-3c22dd16494d
-23,Creedence Clearwater Revival,402,https://www.last.fm/music/Creedence+Clearwater+Revival,109958eb-a335-4c5e-907e-597ff4c6af46
-24,Graham Coxon,392,https://www.last.fm/music/Graham+Coxon,fb56cc34-2ab1-4621-ac18-9bf2895e5f4f
-25,Supertramp,392,https://www.last.fm/music/Supertramp,d2ff6b6b-fc30-48dc-8952-06f9d8fc64f8
-26,Talking Heads,350,https://www.last.fm/music/Talking+Heads,a94a7155-c79d-4409-9fcf-220cb0e4dc3a
-27,XTC,349,https://www.last.fm/music/XTC,
+22,Frank Sinatra,410,https://www.last.fm/music/Frank+Sinatra,197450cd-0124-4164-b723-3c22dd16494d
+23,Supertramp,410,https://www.last.fm/music/Supertramp,d2ff6b6b-fc30-48dc-8952-06f9d8fc64f8
+24,Graham Coxon,404,https://www.last.fm/music/Graham+Coxon,fb56cc34-2ab1-4621-ac18-9bf2895e5f4f
+25,Creedence Clearwater Revival,403,https://www.last.fm/music/Creedence+Clearwater+Revival,109958eb-a335-4c5e-907e-597ff4c6af46
+26,Talking Heads,351,https://www.last.fm/music/Talking+Heads,a94a7155-c79d-4409-9fcf-220cb0e4dc3a
+27,XTC,350,https://www.last.fm/music/XTC,
 28,The Rolling Stones,334,https://www.last.fm/music/The+Rolling+Stones,b071f9fa-14b0-4217-8e97-eb41da73f598
 29,The Clash,315,https://www.last.fm/music/The+Clash,8f92558c-2baa-4758-8c38-615519e9deda
-30,Crystal Castles,310,https://www.last.fm/music/Crystal+Castles,b1570544-93ab-4b2b-8398-131735394202
-31,Mercury Rev,305,https://www.last.fm/music/Mercury+Rev,7b1cf87e-c54f-4abc-893d-90245a31900d
-32,Ramones,291,https://www.last.fm/music/Ramones,d6ed7887-a401-47a8-893c-34b967444d26
+30,Mercury Rev,314,https://www.last.fm/music/Mercury+Rev,7b1cf87e-c54f-4abc-893d-90245a31900d
+31,Crystal Castles,310,https://www.last.fm/music/Crystal+Castles,b1570544-93ab-4b2b-8398-131735394202
+32,Ramones,302,https://www.last.fm/music/Ramones,d6ed7887-a401-47a8-893c-34b967444d26
 33,Black Sabbath,265,https://www.last.fm/music/Black+Sabbath,5182c1d9-c7d2-4dad-afa0-ccfeada921a8
 34,Bee Gees,262,https://www.last.fm/music/Bee+Gees,bf0f7e29-dfe1-416c-b5c6-f9ebc19ea810
-35,Tame Impala,260,https://www.last.fm/music/Tame+Impala,63aa26c3-d59b-4da4-84ac-716b54f1ef4d
+35,Tame Impala,262,https://www.last.fm/music/Tame+Impala,63aa26c3-d59b-4da4-84ac-716b54f1ef4d
 36,The Smashing Pumpkins,256,https://www.last.fm/music/The+Smashing+Pumpkins,ba0d6274-db14-4ef5-b28d-657ebde1a396
 37,Elvis Presley,248,https://www.last.fm/music/Elvis+Presley,01809552-4f87-45b0-afff-2c6f0730a3be
-38,Ilegales,236,https://www.last.fm/music/Ilegales,42b39a3b-e829-4cd4-a775-7070c74f0b3e
-39,The Cure,226,https://www.last.fm/music/The+Cure,69ee3720-a7cb-4402-b48d-a02c366f2bcf
-40,The Who,226,https://www.last.fm/music/The+Who,9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa
-41,Supergrass,225,https://www.last.fm/music/Supergrass,6386ddff-0d13-4685-9f0a-a82bf022fb1c
-42,Nirvana,218,https://www.last.fm/music/Nirvana,
-43,The Libertines,216,https://www.last.fm/music/The+Libertines,
-44,The Band,204,https://www.last.fm/music/The+Band,0eecc0d9-0197-4819-93dc-83f25c8c7a14
+38,The Cure,242,https://www.last.fm/music/The+Cure,69ee3720-a7cb-4402-b48d-a02c366f2bcf
+39,The Who,238,https://www.last.fm/music/The+Who,9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa
+40,Ilegales,236,https://www.last.fm/music/Ilegales,42b39a3b-e829-4cd4-a775-7070c74f0b3e
+41,Nirvana,235,https://www.last.fm/music/Nirvana,
+42,Supergrass,225,https://www.last.fm/music/Supergrass,6386ddff-0d13-4685-9f0a-a82bf022fb1c
+43,The Libertines,218,https://www.last.fm/music/The+Libertines,
+44,The Band,205,https://www.last.fm/music/The+Band,0eecc0d9-0197-4819-93dc-83f25c8c7a14
 45,Elton John,201,https://www.last.fm/music/Elton+John,b83bc61f-8451-4a5d-8b8e-7e9ed295e822
 46,Rosendo,201,https://www.last.fm/music/Rosendo,4c7e8420-1ed6-4878-8b86-70bdd3ee5803
-47,Buzzcocks,197,https://www.last.fm/music/Buzzcocks,31e9c35b-2675-4632-8596-f9bd9286f6c8
+47,Buzzcocks,198,https://www.last.fm/music/Buzzcocks,31e9c35b-2675-4632-8596-f9bd9286f6c8
 48,Manic Street Preachers,193,https://www.last.fm/music/Manic+Street+Preachers,32efea44-6cb5-4b4f-bdaa-c8b8f6cef981
 49,Héroes del Silencio,189,https://www.last.fm/music/H%C3%A9roes+del+Silencio,4bb712d6-8be9-4c09-810a-eb3bed2be345
 50,Joaquín Sabina,189,https://www.last.fm/music/Joaqu%C3%ADn+Sabina,a992aada-7108-455d-9747-0b7b6a089e8d
@@ -58,45 +58,45 @@ rank,artist_name,playcount,artist_url,artist_mbid
 57,AC/DC,172,https://www.last.fm/music/AC%2FDC,66c662b6-6e2f-4930-8610-912e24c63ed1
 58,Extremoduro,171,https://www.last.fm/music/Extremoduro,f59163ba-1a7a-4349-b0fd-fb9582ebe333
 59,The Beach Boys,162,https://www.last.fm/music/The+Beach+Boys,ebfc1398-8d96-47e3-82c3-f782abcdb13d
-60,Glenn Miller,160,https://www.last.fm/music/Glenn+Miller,ba26a1e4-ff39-456c-a8e3-1352ed991a1f
+60,Glenn Miller,161,https://www.last.fm/music/Glenn+Miller,ba26a1e4-ff39-456c-a8e3-1352ed991a1f
 61,Platero y tú,160,https://www.last.fm/music/Platero+y+t%C3%BA,2b4b6e6b-3e93-4902-8047-fbe76225f794
-62,Aerosmith,158,https://www.last.fm/music/Aerosmith,3d2b98e5-556f-4451-a3ff-c50ea18d57cb
-63,MGMT,158,https://www.last.fm/music/MGMT,c485632c-b784-4ee9-8ea1-c5fb365681fc
+62,MGMT,159,https://www.last.fm/music/MGMT,c485632c-b784-4ee9-8ea1-c5fb365681fc
+63,Aerosmith,158,https://www.last.fm/music/Aerosmith,3d2b98e5-556f-4451-a3ff-c50ea18d57cb
 64,Vangelis,157,https://www.last.fm/music/Vangelis,57fca0e2-f9ad-4ae6-af9d-6a6f50cbcd5f
 65,NOFX,156,https://www.last.fm/music/NOFX,dcaa4f81-bfb7-44eb-8594-4e74f004b6e4
 66,Bob Marley,155,https://www.last.fm/music/Bob+Marley,c33627c6-ef0d-49de-9ef0-c4804190040f
-67,Gabinete Caligari,154,https://www.last.fm/music/Gabinete+Caligari,aa179aa4-5bfc-4814-b113-a6476fe26cbc
-68,Phoenix,154,https://www.last.fm/music/Phoenix,
+67,Phoenix,155,https://www.last.fm/music/Phoenix,
+68,Gabinete Caligari,154,https://www.last.fm/music/Gabinete+Caligari,aa179aa4-5bfc-4814-b113-a6476fe26cbc
 69,The Smiths,151,https://www.last.fm/music/The+Smiths,40f5d9e4-2de7-4f2d-ad41-e31a9a9fea27
 70,Coldplay,149,https://www.last.fm/music/Coldplay,cc197bad-dc9c-440d-a5b5-d52ba2e14234
 71,Iron Maiden,148,https://www.last.fm/music/Iron+Maiden,
 72,The Jam,147,https://www.last.fm/music/The+Jam,5493b1c7-53f8-4156-a4ee-1eec07bc977b
-73,Bruce Springsteen,144,https://www.last.fm/music/Bruce+Springsteen,70248960-cb53-4ea4-943a-edb18f7d336f
-74,Red Hot Chili Peppers,140,https://www.last.fm/music/Red+Hot+Chili+Peppers,8bfac288-ccc5-448d-9573-c33ea2aa5c30
-75,Prince,139,https://www.last.fm/music/Prince,070d193a-845c-479f-980e-bef15710653e
-76,Los Planetas,138,https://www.last.fm/music/Los+Planetas,6f28b158-4d1a-4f31-9339-7f381e3c4ee1
-77,Sidonie,138,https://www.last.fm/music/Sidonie,99849c03-4d4a-46cc-8e20-3852d0ca0746
-78,Weezer,136,https://www.last.fm/music/Weezer,6fe07aa5-fec0-4eca-a456-f29bff451b04
-79,The Prodigy,134,https://www.last.fm/music/The+Prodigy,4a4ee089-93b1-4470-af9a-6ff575d32704
-80,Catatonia,133,https://www.last.fm/music/Catatonia,095b2041-4975-4ba3-a92e-53fa3459107f
-81,Faith No More,132,https://www.last.fm/music/Faith+No+More,b15ebd71-a252-417d-9e1c-3e6863da68f8
-82,Madness,131,https://www.last.fm/music/Madness,
+73,The Prodigy,147,https://www.last.fm/music/The+Prodigy,4a4ee089-93b1-4470-af9a-6ff575d32704
+74,Bruce Springsteen,144,https://www.last.fm/music/Bruce+Springsteen,70248960-cb53-4ea4-943a-edb18f7d336f
+75,Madness,144,https://www.last.fm/music/Madness,
+76,Red Hot Chili Peppers,140,https://www.last.fm/music/Red+Hot+Chili+Peppers,8bfac288-ccc5-448d-9573-c33ea2aa5c30
+77,Prince,139,https://www.last.fm/music/Prince,070d193a-845c-479f-980e-bef15710653e
+78,Los Planetas,138,https://www.last.fm/music/Los+Planetas,6f28b158-4d1a-4f31-9339-7f381e3c4ee1
+79,Sidonie,138,https://www.last.fm/music/Sidonie,99849c03-4d4a-46cc-8e20-3852d0ca0746
+80,Weezer,136,https://www.last.fm/music/Weezer,6fe07aa5-fec0-4eca-a456-f29bff451b04
+81,Catatonia,134,https://www.last.fm/music/Catatonia,095b2041-4975-4ba3-a92e-53fa3459107f
+82,Faith No More,133,https://www.last.fm/music/Faith+No+More,b15ebd71-a252-417d-9e1c-3e6863da68f8
 83,R.E.M.,131,https://www.last.fm/music/R.E.M.,ea4dfa26-f633-4da6-a52a-f49ea4897b58
 84,The Cardigans,129,https://www.last.fm/music/The+Cardigans,3e55d51d-687f-4a9d-af96-2fabccf802e5
 85,Gladys Knight & The Pips,126,https://www.last.fm/music/Gladys+Knight+&+The+Pips,ca825016-f7fd-4ccf-a523-6ee36ea88828
-86,The Verve,124,https://www.last.fm/music/The+Verve,d4d17620-fd97-4574-92a8-a2cb7e72ce42
+86,The Verve,126,https://www.last.fm/music/The+Verve,d4d17620-fd97-4574-92a8-a2cb7e72ce42
 87,Sonic Youth,122,https://www.last.fm/music/Sonic+Youth,5cbef01b-cc35-4f52-af7b-d0df0c4f61b9
-88,Pavement,121,https://www.last.fm/music/Pavement,
-89,Kula Shaker,120,https://www.last.fm/music/Kula+Shaker,9403a688-503e-464e-bb37-84626c57bb42
+88,Kula Shaker,121,https://www.last.fm/music/Kula+Shaker,9403a688-503e-464e-bb37-84626c57bb42
+89,Pavement,121,https://www.last.fm/music/Pavement,
 90,Muse,119,https://www.last.fm/music/Muse,9c9f1380-2516-4fc9-a3e6-f9f61941d090
 91,Sex Pistols,119,https://www.last.fm/music/Sex+Pistols,e5db18cb-4b1f-496d-a308-548b611090d3
 92,Radio Futura,116,https://www.last.fm/music/Radio+Futura,f7616ee5-bad8-45c9-986f-0cf47d4407df
 93,Paul McCartney,115,https://www.last.fm/music/Paul+McCartney,ba550d0e-adac-4864-b88b-407cab5e76af
 94,Cream,114,https://www.last.fm/music/Cream,bd0e8d27-f217-45ee-935a-7e8087a1a0cd
 95,Rammstein,114,https://www.last.fm/music/Rammstein,b2d122f9-eadb-4930-a196-8f221eeb0c66
-96,Daft Punk,113,https://www.last.fm/music/Daft+Punk,
-97,The Police,113,https://www.last.fm/music/The+Police,9e0e2b01-41db-4008-bd8b-988977d6019a
-98,The Boo Radleys,110,https://www.last.fm/music/The+Boo+Radleys,1b5189d8-28fd-4c97-a04a-37c49b1ccfa6
+96,The Police,114,https://www.last.fm/music/The+Police,9e0e2b01-41db-4008-bd8b-988977d6019a
+97,Daft Punk,113,https://www.last.fm/music/Daft+Punk,056e4f3e-d505-4dad-8ec1-d04f521cbb56
+98,The Boo Radleys,111,https://www.last.fm/music/The+Boo+Radleys,1b5189d8-28fd-4c97-a04a-37c49b1ccfa6
 99,T. Rex,108,https://www.last.fm/music/T.+Rex,c842d29f-a297-48cd-bb71-4f77fd672b16
 100,"The Good, the Bad & the Queen",108,"https://www.last.fm/music/The+Good,+the+Bad+&+the+Queen",0f211bfc-8c69-4cb7-9165-acbe4353cb0a
 101,Damon Albarn,101,https://www.last.fm/music/Damon+Albarn,7d7a5fdd-0d04-4c36-8bee-906feeae239c
@@ -107,8 +107,8 @@ rank,artist_name,playcount,artist_url,artist_mbid
 106,Moby,94,https://www.last.fm/music/Moby,8970d868-0723-483b-a75b-51088913d3d4
 107,The Chemical Brothers,94,https://www.last.fm/music/The+Chemical+Brothers,1946a82a-f927-40c2-8235-38d64f50d043
 108,Bauhaus,92,https://www.last.fm/music/Bauhaus,
-109,Kiss,92,https://www.last.fm/music/Kiss,e1f1e33e-2e4c-4d43-b91b-7064068d3283
-110,Blondie,91,https://www.last.fm/music/Blondie,4d2956d1-a3f7-44bb-9a41-67563e1a0c94
+109,Blondie,92,https://www.last.fm/music/Blondie,4d2956d1-a3f7-44bb-9a41-67563e1a0c94
+110,Kiss,92,https://www.last.fm/music/Kiss,e1f1e33e-2e4c-4d43-b91b-7064068d3283
 111,Teenage Fanclub,91,https://www.last.fm/music/Teenage+Fanclub,e6f8912b-7df9-4aae-b551-2cd03dc29588
 112,Smash Mouth,90,https://www.last.fm/music/Smash+Mouth,944e1036-8a03-4611-8aa0-31515a05c848
 113,Arcade Fire,88,https://www.last.fm/music/Arcade+Fire,52074ba6-e495-4ef3-9bb4-0703888a9f68
@@ -123,8 +123,8 @@ rank,artist_name,playcount,artist_url,artist_mbid
 122,Ocean Colour Scene,85,https://www.last.fm/music/Ocean+Colour+Scene,601d793d-7e96-4bb6-b4a6-712d5c926259
 123,Celtas Cortos,84,https://www.last.fm/music/Celtas+Cortos,e41b4871-a98d-494a-8cea-b9ba1a3ade1b
 124,Duran Duran,84,https://www.last.fm/music/Duran+Duran,1a1cd7f3-e5df-4eca-bae2-2757c9e656b5
-125,The WAEVE,80,https://www.last.fm/music/The+WAEVE,e6e16ae8-4867-49f4-a877-30ade1ba58cd
-126,Deep Purple,79,https://www.last.fm/music/Deep+Purple,79491354-3d83-40e3-9d8e-7592d58d790a
+125,Deep Purple,80,https://www.last.fm/music/Deep+Purple,79491354-3d83-40e3-9d8e-7592d58d790a
+126,The WAEVE,80,https://www.last.fm/music/The+WAEVE,e6e16ae8-4867-49f4-a877-30ade1ba58cd
 127,Jerry Lee Lewis,79,https://www.last.fm/music/Jerry+Lee+Lewis,b59ac58d-036e-4bba-8112-c32a34c4575b
 128,Massive Attack,78,https://www.last.fm/music/Massive+Attack,10adbe5e-a2c0-4bf3-8249-2b4cbf6e6ca8
 129,Luis Eduardo Aute,77,https://www.last.fm/music/Luis+Eduardo+Aute,35542d25-c761-49fa-a402-f752c5789517
@@ -132,47 +132,47 @@ rank,artist_name,playcount,artist_url,artist_mbid
 131,Soulwax,76,https://www.last.fm/music/Soulwax,68ec1b08-3c2e-40b3-b0af-8f323743fdff
 132,The Jesus and Mary Chain,76,https://www.last.fm/music/The+Jesus+and+Mary+Chain,e938a15c-b17e-4e7a-9f68-ff0d536cab44
 133,Echobelly,75,https://www.last.fm/music/Echobelly,9a1e8414-d32a-4058-bab0-c1b36934d39e
-134,Ash,72,https://www.last.fm/music/Ash,
+134,Ash,74,https://www.last.fm/music/Ash,
 135,Jarvis Cocker,71,https://www.last.fm/music/Jarvis+Cocker,38550441-d437-4aff-867e-e79bf0c04142
 136,The Mamas & the Papas,71,https://www.last.fm/music/The+Mamas+&+the+Papas,ff294730-0315-440d-a543-54005779c15b
 137,Dinosaur Jr.,70,https://www.last.fm/music/Dinosaur+Jr.,77c167d2-4965-4421-830a-9815e4956475
-138,Elastica,69,https://www.last.fm/music/Elastica,6a443e55-9dfa-4ab7-a042-8f8fde7727a0
+138,Elastica,70,https://www.last.fm/music/Elastica,6a443e55-9dfa-4ab7-a042-8f8fde7727a0
 139,Leño,68,https://www.last.fm/music/Le%C3%B1o,42941f4b-d3ea-4d78-a5af-2be59bc2acd6
-140,Pearl Jam,68,https://www.last.fm/music/Pearl+Jam,83b9cbe7-9857-49e2-ab8e-b57b01038103
-141,Joy Division,67,https://www.last.fm/music/Joy+Division,9a58fda3-f4ed-4080-a3a5-f457aac9fcdd
-142,Metallica,67,https://www.last.fm/music/Metallica,65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab
-143,The Killers,67,https://www.last.fm/music/The+Killers,95e1ead9-4d31-4808-a7ac-32c3614c116b
-144,Lynyrd Skynyrd,66,https://www.last.fm/music/Lynyrd+Skynyrd,c544ed4d-2390-4442-a83e-1ea2883b09c8
-145,The Divine Comedy,65,https://www.last.fm/music/The+Divine+Comedy,49c4378b-3c36-4c5a-8999-8d936e74f39b
-146,Misfits,64,https://www.last.fm/music/Misfits,936addc3-91aa-49de-8ec0-0dc186de151f
-147,Elvis Costello,63,https://www.last.fm/music/Elvis+Costello,8a338e06-d182-46f2-bd16-30a09bc840ba
-148,my bloody valentine,63,https://www.last.fm/music/my+bloody+valentine,8ca01f46-53ac-4af2-8516-55a909c0905e
-149,Nick Cave & the Bad Seeds,62,https://www.last.fm/music/Nick+Cave+&+the+Bad+Seeds,172e1f1a-504d-4488-b053-6344ba63e6d0
-150,The La's,62,https://www.last.fm/music/The+La%27s,ff3e88b3-7354-4f30-967c-1a61ebc8c642
-151,Iggy Pop,61,https://www.last.fm/music/Iggy+Pop,f37b3f31-b1f8-4b88-8cb5-b34f709b17d7
-152,Kraftwerk,61,https://www.last.fm/music/Kraftwerk,5700dcd4-c139-4f31-aa3e-6382b9af9032
-153,Syd Barrett,61,https://www.last.fm/music/Syd+Barrett,12327d75-47d5-45d9-84c2-3760b9210c17
-154,The Velvet Underground,61,https://www.last.fm/music/The+Velvet+Underground,94b0fb9d-a066-4823-b2ec-af1d324bcfcf
-155,Barón Rojo,59,https://www.last.fm/music/Bar%C3%B3n+Rojo,fae59483-47cf-4499-aa30-f07c120983dd
-156,Guns N' Roses,59,https://www.last.fm/music/Guns+N%27+Roses,eeb1195b-f213-4ce1-b28c-8565211f8e43
-157,New Order,59,https://www.last.fm/music/New+Order,f1106b17-dcbb-45f6-b938-199ccfab50cc
-158,Scorpions,59,https://www.last.fm/music/Scorpions,c3cceeed-3332-4cf0-8c4c-bbde425147b6
-159,The Stone Roses,59,https://www.last.fm/music/The+Stone+Roses,b5fa29f1-6c22-4321-a488-b5f363b06b06
-160,Space,58,https://www.last.fm/music/Space,
-161,Stereolab,58,https://www.last.fm/music/Stereolab,f1df0431-9250-4ec8-95d8-f19ce7cf7fb6
-162,Van Halen,58,https://www.last.fm/music/Van+Halen,b665b768-0d83-4363-950c-31ed39317c15
-163,Eskorbuto,57,https://www.last.fm/music/Eskorbuto,fd7432e5-2ec0-4197-a38e-cfc26ef2789c
-164,Garbage,57,https://www.last.fm/music/Garbage,f9ef7a22-4262-4596-a2a8-1d19345b8e50
-165,Klaxons,57,https://www.last.fm/music/Klaxons,63011a8d-0117-4f7e-9991-1ef1f337ff70
-166,Superstate,57,https://www.last.fm/music/Superstate,
-167,The White Stripes,57,https://www.last.fm/music/The+White+Stripes,11ae9fbb-f3d7-4a47-936f-4c0a04d3b3b5
-168,Def con Dos,55,https://www.last.fm/music/Def+con+Dos,677002d6-385c-4c8a-8dc5-9d68d514a32f
-169,Echo & the Bunnymen,55,https://www.last.fm/music/Echo+&+the+Bunnymen,ccd4879c-5e88-4385-b131-bf65296bf245
-170,Manu Chao,55,https://www.last.fm/music/Manu+Chao,7570a0dd-5a67-401b-b19a-261eee01a284
-171,The Specials,55,https://www.last.fm/music/The+Specials,07eb40a2-2914-439c-a01d-15a685b84ddf
-172,No Doubt,54,https://www.last.fm/music/No+Doubt,fbd2a255-1d57-4d31-ac11-65b671c19958
-173,Public Image Ltd.,54,https://www.last.fm/music/Public+Image+Ltd.,
-174,Siouxsie and the Banshees,54,https://www.last.fm/music/Siouxsie+and+the+Banshees,78ea5ea1-3c4d-4b7e-ac5d-68900319ebe2
+140,New Order,68,https://www.last.fm/music/New+Order,f1106b17-dcbb-45f6-b938-199ccfab50cc
+141,Pearl Jam,68,https://www.last.fm/music/Pearl+Jam,83b9cbe7-9857-49e2-ab8e-b57b01038103
+142,Joy Division,67,https://www.last.fm/music/Joy+Division,9a58fda3-f4ed-4080-a3a5-f457aac9fcdd
+143,Metallica,67,https://www.last.fm/music/Metallica,65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab
+144,The Killers,67,https://www.last.fm/music/The+Killers,95e1ead9-4d31-4808-a7ac-32c3614c116b
+145,Lynyrd Skynyrd,66,https://www.last.fm/music/Lynyrd+Skynyrd,c544ed4d-2390-4442-a83e-1ea2883b09c8
+146,The Divine Comedy,65,https://www.last.fm/music/The+Divine+Comedy,49c4378b-3c36-4c5a-8999-8d936e74f39b
+147,Misfits,64,https://www.last.fm/music/Misfits,936addc3-91aa-49de-8ec0-0dc186de151f
+148,my bloody valentine,64,https://www.last.fm/music/my+bloody+valentine,8ca01f46-53ac-4af2-8516-55a909c0905e
+149,Elvis Costello,63,https://www.last.fm/music/Elvis+Costello,8a338e06-d182-46f2-bd16-30a09bc840ba
+150,Nick Cave & the Bad Seeds,63,https://www.last.fm/music/Nick+Cave+&+the+Bad+Seeds,172e1f1a-504d-4488-b053-6344ba63e6d0
+151,Public Image Ltd.,63,https://www.last.fm/music/Public+Image+Ltd.,
+152,Syd Barrett,62,https://www.last.fm/music/Syd+Barrett,12327d75-47d5-45d9-84c2-3760b9210c17
+153,The La's,62,https://www.last.fm/music/The+La%27s,ff3e88b3-7354-4f30-967c-1a61ebc8c642
+154,Iggy Pop,61,https://www.last.fm/music/Iggy+Pop,f37b3f31-b1f8-4b88-8cb5-b34f709b17d7
+155,Kraftwerk,61,https://www.last.fm/music/Kraftwerk,5700dcd4-c139-4f31-aa3e-6382b9af9032
+156,The Velvet Underground,61,https://www.last.fm/music/The+Velvet+Underground,94b0fb9d-a066-4823-b2ec-af1d324bcfcf
+157,Barón Rojo,59,https://www.last.fm/music/Bar%C3%B3n+Rojo,fae59483-47cf-4499-aa30-f07c120983dd
+158,Guns N' Roses,59,https://www.last.fm/music/Guns+N%27+Roses,eeb1195b-f213-4ce1-b28c-8565211f8e43
+159,Scorpions,59,https://www.last.fm/music/Scorpions,c3cceeed-3332-4cf0-8c4c-bbde425147b6
+160,Space,59,https://www.last.fm/music/Space,
+161,The Stone Roses,59,https://www.last.fm/music/The+Stone+Roses,b5fa29f1-6c22-4321-a488-b5f363b06b06
+162,Garbage,58,https://www.last.fm/music/Garbage,f9ef7a22-4262-4596-a2a8-1d19345b8e50
+163,Stereolab,58,https://www.last.fm/music/Stereolab,f1df0431-9250-4ec8-95d8-f19ce7cf7fb6
+164,Van Halen,58,https://www.last.fm/music/Van+Halen,b665b768-0d83-4363-950c-31ed39317c15
+165,Eskorbuto,57,https://www.last.fm/music/Eskorbuto,fd7432e5-2ec0-4197-a38e-cfc26ef2789c
+166,Klaxons,57,https://www.last.fm/music/Klaxons,63011a8d-0117-4f7e-9991-1ef1f337ff70
+167,Superstate,57,https://www.last.fm/music/Superstate,
+168,The White Stripes,57,https://www.last.fm/music/The+White+Stripes,11ae9fbb-f3d7-4a47-936f-4c0a04d3b3b5
+169,Def con Dos,55,https://www.last.fm/music/Def+con+Dos,677002d6-385c-4c8a-8dc5-9d68d514a32f
+170,Echo & the Bunnymen,55,https://www.last.fm/music/Echo+&+the+Bunnymen,ccd4879c-5e88-4385-b131-bf65296bf245
+171,Manu Chao,55,https://www.last.fm/music/Manu+Chao,7570a0dd-5a67-401b-b19a-261eee01a284
+172,Siouxsie and the Banshees,55,https://www.last.fm/music/Siouxsie+and+the+Banshees,78ea5ea1-3c4d-4b7e-ac5d-68900319ebe2
+173,The Specials,55,https://www.last.fm/music/The+Specials,07eb40a2-2914-439c-a01d-15a685b84ddf
+174,No Doubt,54,https://www.last.fm/music/No+Doubt,fbd2a255-1d57-4d31-ac11-65b671c19958
 175,Siniestro Total,53,https://www.last.fm/music/Siniestro+Total,d320be5e-ba25-4113-8b22-5c64ab87fcd2
 176,Depeche Mode,52,https://www.last.fm/music/Depeche+Mode,8538e728-ca0b-4321-b7e5-cff6565dd4c0
 177,Jefferson Airplane,52,https://www.last.fm/music/Jefferson+Airplane,39c2a93d-9afa-4a22-9bba-c087ab056e1c
@@ -194,57 +194,57 @@ rank,artist_name,playcount,artist_url,artist_mbid
 193,Marvin Gaye,45,https://www.last.fm/music/Marvin+Gaye,afdb7919-059d-43c1-b668-ba1d265e7e42
 194,Rage Against the Machine,45,https://www.last.fm/music/Rage+Against+the+Machine,3798b104-01cb-484c-a3b0-56adc6399b80
 195,Beck,44,https://www.last.fm/music/Beck,
-196,Miles Davis,44,https://www.last.fm/music/Miles+Davis,561d854a-6a28-4aa7-8c99-323e6ce46c2a
-197,Otis Redding,44,https://www.last.fm/music/Otis+Redding,82b1f5fd-cd31-41a9-b5d4-7e33f0eb9751
-198,Portishead,44,https://www.last.fm/music/Portishead,8f6bd1e4-fbe1-4f50-aa9b-94c450ec0f11
-199,Camilo Sesto,43,https://www.last.fm/music/Camilo+Sesto,138fe36a-0888-40d2-9390-3d9be0d74f07
-200,Primal Scream,43,https://www.last.fm/music/Primal+Scream,55704c38-224f-4b75-b29f-d43653f8bc9a
-201,Giorgio Moroder,42,https://www.last.fm/music/Giorgio+Moroder,38dd6337-19ae-4793-ab4b-313eff523457
-202,Loquillo y Trogloditas,42,https://www.last.fm/music/Loquillo+y+Trogloditas,
-203,Mansun,42,https://www.last.fm/music/Mansun,a8be3422-d905-42c9-90b6-90ee45e3e938
-204,The Charlatans,42,https://www.last.fm/music/The+Charlatans,
-205,Player,41,https://www.last.fm/music/Player,7ad4ef1c-4f82-4755-a74b-94cd3096d221
-206,Fleetwood Mac,40,https://www.last.fm/music/Fleetwood+Mac,bd13909f-1c29-4c27-a874-d4aaf27c5b1a
-207,George Michael,40,https://www.last.fm/music/George+Michael,ccb8f30e-4d71-40c4-8b1d-846dafe73e2c
-208,Gilbert O'Sullivan,40,https://www.last.fm/music/Gilbert+O%27Sullivan,215394ba-3d0c-4b57-b284-ec5bb4a5ad25
-209,Jimi Hendrix,40,https://www.last.fm/music/Jimi+Hendrix,06fb1c8b-566e-4cb2-985b-b467c90781d4
-210,The Cramps,40,https://www.last.fm/music/The+Cramps,96c1edac-1011-4cb8-882c-27248de35071
-211,dEUS,39,https://www.last.fm/music/dEUS,f675495f-554e-4919-9675-b3f5bd0b0450
-212,Jethro Tull,39,https://www.last.fm/music/Jethro+Tull,ece57992-dc2e-4f67-a269-fa43626c1a3d
-213,Little Richard,39,https://www.last.fm/music/Little+Richard,95c2339b-8277-49a6-9aaf-08d8eeeaa0be
-214,Björk,38,https://www.last.fm/music/Bj%C3%B6rk,87c5dedd-371d-4a53-9f7f-80522fb7f3cb
-215,Dream Theater,38,https://www.last.fm/music/Dream+Theater,28503ab7-8bf2-4666-a7bd-2644bfc7cb1d
-216,Miles Kane,38,https://www.last.fm/music/Miles+Kane,26afaedd-e99c-45b2-b7f9-6c4c2b33d90c
-217,Barricada,37,https://www.last.fm/music/Barricada,8fe43356-6902-4311-a80c-f221bfcf3efb
-218,Kings of Leon,37,https://www.last.fm/music/Kings+of+Leon,6ffb8ea9-2370-44d8-b678-e9237bbd347b
-219,Richard Ashcroft,37,https://www.last.fm/music/Richard+Ashcroft,2d1d8985-47bc-4244-8cc3-577584e411f6
-220,Alice in Chains,36,https://www.last.fm/music/Alice+in+Chains,4bd95eea-b9f6-4d70-a36c-cfea77431553
-221,The Pretenders,36,https://www.last.fm/music/The+Pretenders,75ffaf7d-46ee-4794-a405-9ec20c0c1696
-222,The Vines,36,https://www.last.fm/music/The+Vines,
-223,Joe Satriani,35,https://www.last.fm/music/Joe+Satriani,29762c82-bb92-4acd-b1fb-09cc4da250d2
-224,Kasabian,35,https://www.last.fm/music/Kasabian,69b39eab-6577-46a4-a9f5-817839092033
-225,Patti Smith,35,https://www.last.fm/music/Patti+Smith,d135874d-9cae-4fef-97e3-36acbd9f5a26
-226,Sigur Rós,35,https://www.last.fm/music/Sigur+R%C3%B3s,f6f2326f-6b25-4170-b89d-e235b25508e8
-227,Van Morrison,35,https://www.last.fm/music/Van+Morrison,a41ac10f-0a56-4672-9161-b83f9b223559
-228,Édith Piaf,34,https://www.last.fm/music/%C3%89dith+Piaf,4f8ef4a3-40fa-46b5-8773-97686a8424f4
-229,Estopa,34,https://www.last.fm/music/Estopa,49fc7e46-5441-4b7e-996a-12dddf22a632
-230,Hamlet,34,https://www.last.fm/music/Hamlet,7c42a72d-5838-4397-b751-70b007585b73
-231,Inspiral Carpets,34,https://www.last.fm/music/Inspiral+Carpets,03c2e506-e8bb-4bd6-9693-5aa97c8eea1c
-232,Kaiser Chiefs,34,https://www.last.fm/music/Kaiser+Chiefs,90218af4-4d58-4821-8d41-2ee295ebbe21
-233,Los Piratas,34,https://www.last.fm/music/Los+Piratas,e1283576-51be-498c-ae30-b0c1506e4bd8
-234,Righeira,34,https://www.last.fm/music/Righeira,3e2f3190-45a4-480a-8ab5-61308c002fb2
-235,Café Quijano,33,https://www.last.fm/music/Caf%C3%A9+Quijano,227f3e04-feb2-4741-b73f-70e266d32bf0
-236,El Último de la Fila,33,https://www.last.fm/music/El+%C3%9Altimo+de+la+Fila,a8b6eecf-1bad-465e-a806-4179c4e436e6
-237,La Polla Records,33,https://www.last.fm/music/La+Polla+Records,cd3f2331-160b-4ed3-9f2d-f0c54fcc1c63
-238,Robbie Williams,33,https://www.last.fm/music/Robbie+Williams,db4624cf-0e44-481e-a9dc-2142b833ec2f
-239,Tool,33,https://www.last.fm/music/Tool,66fc5bf8-daa4-4241-b378-9bc9077939d2
-240,Alice Cooper,32,https://www.last.fm/music/Alice+Cooper,ee58c59f-8e7f-4430-b8ca-236c4d3745ae
-241,Foals,32,https://www.last.fm/music/Foals,6a65d878-fcd0-42cf-aff9-ca1d636a8bcc
-242,Foo Fighters,32,https://www.last.fm/music/Foo+Fighters,67f66c07-6e61-4026-ade5-7e782fad3a5d
-243,New York Dolls,32,https://www.last.fm/music/New+York+Dolls,1b96b9c9-0832-40cb-9f8d-7274de3733fc
-244,Pantera,32,https://www.last.fm/music/Pantera,541f16f5-ad7a-428e-af89-9fa1b16d3c9c
-245,Roxy Music,32,https://www.last.fm/music/Roxy+Music,331ce348-1b08-40b9-8ed7-0763b92bd003
-246,Billy Idol,31,https://www.last.fm/music/Billy+Idol,47c8f88b-987a-4b64-9175-2b1b57809727
+196,Billy Idol,44,https://www.last.fm/music/Billy+Idol,47c8f88b-987a-4b64-9175-2b1b57809727
+197,Miles Davis,44,https://www.last.fm/music/Miles+Davis,561d854a-6a28-4aa7-8c99-323e6ce46c2a
+198,Otis Redding,44,https://www.last.fm/music/Otis+Redding,82b1f5fd-cd31-41a9-b5d4-7e33f0eb9751
+199,Portishead,44,https://www.last.fm/music/Portishead,8f6bd1e4-fbe1-4f50-aa9b-94c450ec0f11
+200,Camilo Sesto,43,https://www.last.fm/music/Camilo+Sesto,138fe36a-0888-40d2-9390-3d9be0d74f07
+201,Primal Scream,43,https://www.last.fm/music/Primal+Scream,55704c38-224f-4b75-b29f-d43653f8bc9a
+202,Giorgio Moroder,42,https://www.last.fm/music/Giorgio+Moroder,38dd6337-19ae-4793-ab4b-313eff523457
+203,Loquillo y Trogloditas,42,https://www.last.fm/music/Loquillo+y+Trogloditas,
+204,Mansun,42,https://www.last.fm/music/Mansun,a8be3422-d905-42c9-90b6-90ee45e3e938
+205,The Charlatans,42,https://www.last.fm/music/The+Charlatans,
+206,Jethro Tull,41,https://www.last.fm/music/Jethro+Tull,ece57992-dc2e-4f67-a269-fa43626c1a3d
+207,Player,41,https://www.last.fm/music/Player,7ad4ef1c-4f82-4755-a74b-94cd3096d221
+208,Fleetwood Mac,40,https://www.last.fm/music/Fleetwood+Mac,bd13909f-1c29-4c27-a874-d4aaf27c5b1a
+209,George Michael,40,https://www.last.fm/music/George+Michael,ccb8f30e-4d71-40c4-8b1d-846dafe73e2c
+210,Gilbert O'Sullivan,40,https://www.last.fm/music/Gilbert+O%27Sullivan,215394ba-3d0c-4b57-b284-ec5bb4a5ad25
+211,Jimi Hendrix,40,https://www.last.fm/music/Jimi+Hendrix,06fb1c8b-566e-4cb2-985b-b467c90781d4
+212,The Cramps,40,https://www.last.fm/music/The+Cramps,96c1edac-1011-4cb8-882c-27248de35071
+213,dEUS,39,https://www.last.fm/music/dEUS,f675495f-554e-4919-9675-b3f5bd0b0450
+214,Little Richard,39,https://www.last.fm/music/Little+Richard,95c2339b-8277-49a6-9aaf-08d8eeeaa0be
+215,Björk,38,https://www.last.fm/music/Bj%C3%B6rk,87c5dedd-371d-4a53-9f7f-80522fb7f3cb
+216,Dream Theater,38,https://www.last.fm/music/Dream+Theater,28503ab7-8bf2-4666-a7bd-2644bfc7cb1d
+217,Miles Kane,38,https://www.last.fm/music/Miles+Kane,26afaedd-e99c-45b2-b7f9-6c4c2b33d90c
+218,Barricada,37,https://www.last.fm/music/Barricada,8fe43356-6902-4311-a80c-f221bfcf3efb
+219,Kings of Leon,37,https://www.last.fm/music/Kings+of+Leon,6ffb8ea9-2370-44d8-b678-e9237bbd347b
+220,Richard Ashcroft,37,https://www.last.fm/music/Richard+Ashcroft,2d1d8985-47bc-4244-8cc3-577584e411f6
+221,Alice in Chains,36,https://www.last.fm/music/Alice+in+Chains,4bd95eea-b9f6-4d70-a36c-cfea77431553
+222,The Pretenders,36,https://www.last.fm/music/The+Pretenders,75ffaf7d-46ee-4794-a405-9ec20c0c1696
+223,The Vines,36,https://www.last.fm/music/The+Vines,
+224,Inspiral Carpets,35,https://www.last.fm/music/Inspiral+Carpets,03c2e506-e8bb-4bd6-9693-5aa97c8eea1c
+225,Joe Satriani,35,https://www.last.fm/music/Joe+Satriani,29762c82-bb92-4acd-b1fb-09cc4da250d2
+226,Kasabian,35,https://www.last.fm/music/Kasabian,69b39eab-6577-46a4-a9f5-817839092033
+227,Patti Smith,35,https://www.last.fm/music/Patti+Smith,d135874d-9cae-4fef-97e3-36acbd9f5a26
+228,Sigur Rós,35,https://www.last.fm/music/Sigur+R%C3%B3s,f6f2326f-6b25-4170-b89d-e235b25508e8
+229,Van Morrison,35,https://www.last.fm/music/Van+Morrison,a41ac10f-0a56-4672-9161-b83f9b223559
+230,Édith Piaf,34,https://www.last.fm/music/%C3%89dith+Piaf,4f8ef4a3-40fa-46b5-8773-97686a8424f4
+231,Estopa,34,https://www.last.fm/music/Estopa,49fc7e46-5441-4b7e-996a-12dddf22a632
+232,Hamlet,34,https://www.last.fm/music/Hamlet,7c42a72d-5838-4397-b751-70b007585b73
+233,Kaiser Chiefs,34,https://www.last.fm/music/Kaiser+Chiefs,90218af4-4d58-4821-8d41-2ee295ebbe21
+234,Los Piratas,34,https://www.last.fm/music/Los+Piratas,e1283576-51be-498c-ae30-b0c1506e4bd8
+235,Righeira,34,https://www.last.fm/music/Righeira,3e2f3190-45a4-480a-8ab5-61308c002fb2
+236,Alice Cooper,33,https://www.last.fm/music/Alice+Cooper,ee58c59f-8e7f-4430-b8ca-236c4d3745ae
+237,Café Quijano,33,https://www.last.fm/music/Caf%C3%A9+Quijano,227f3e04-feb2-4741-b73f-70e266d32bf0
+238,El Último de la Fila,33,https://www.last.fm/music/El+%C3%9Altimo+de+la+Fila,a8b6eecf-1bad-465e-a806-4179c4e436e6
+239,La Polla Records,33,https://www.last.fm/music/La+Polla+Records,cd3f2331-160b-4ed3-9f2d-f0c54fcc1c63
+240,Robbie Williams,33,https://www.last.fm/music/Robbie+Williams,db4624cf-0e44-481e-a9dc-2142b833ec2f
+241,Tool,33,https://www.last.fm/music/Tool,66fc5bf8-daa4-4241-b378-9bc9077939d2
+242,Foals,32,https://www.last.fm/music/Foals,6a65d878-fcd0-42cf-aff9-ca1d636a8bcc
+243,Foo Fighters,32,https://www.last.fm/music/Foo+Fighters,67f66c07-6e61-4026-ade5-7e782fad3a5d
+244,New York Dolls,32,https://www.last.fm/music/New+York+Dolls,1b96b9c9-0832-40cb-9f8d-7274de3733fc
+245,Pantera,32,https://www.last.fm/music/Pantera,541f16f5-ad7a-428e-af89-9fa1b16d3c9c
+246,Roxy Music,32,https://www.last.fm/music/Roxy+Music,331ce348-1b08-40b9-8ed7-0763b92bd003
 247,Decibelios,31,https://www.last.fm/music/Decibelios,067e7276-7267-4051-9585-f4158ae7ab3f
 248,Dirty Pretty Things,31,https://www.last.fm/music/Dirty+Pretty+Things,648615ca-ca74-460d-928a-2bae67ae6d14
 249,Jane's Addiction,31,https://www.last.fm/music/Jane%27s+Addiction,e3434cc7-d348-491a-9dc8-325af3d9086d
@@ -265,13 +265,13 @@ rank,artist_name,playcount,artist_url,artist_mbid
 264,Hard-Fi,27,https://www.last.fm/music/Hard-Fi,
 265,Rocket Juice & The Moon,26,https://www.last.fm/music/Rocket+Juice+&+The+Moon,6dd0c24f-da12-49e6-b27e-4f98500c357f
 266,Small Faces,26,https://www.last.fm/music/Small+Faces,7771a68c-ef6a-400f-978d-64050d45a54c
-267,Wu-Tang Clan,26,https://www.last.fm/music/Wu-Tang+Clan,
-268,Australian Blonde,25,https://www.last.fm/music/Australian+Blonde,f8569f1a-ee2c-4d6d-b6b7-47f7156fc06c
-269,De La Soul,25,https://www.last.fm/music/De+La+Soul,a8ebde98-7e91-46c7-992c-90039ba42017
-270,Incubus,25,https://www.last.fm/music/Incubus,
-271,Nine Inch Nails,25,https://www.last.fm/music/Nine+Inch+Nails,b7ffd2af-418f-4be2-bdd1-22f8b48613da
-272,Parálisis Permanente,25,https://www.last.fm/music/Par%C3%A1lisis+Permanente,8b4d7237-5ec8-4201-a702-4b95819d3890
-273,Television,25,https://www.last.fm/music/Television,490bde43-5edb-4a93-b3b3-7a0465fd8909
+267,Television,26,https://www.last.fm/music/Television,490bde43-5edb-4a93-b3b3-7a0465fd8909
+268,Wu-Tang Clan,26,https://www.last.fm/music/Wu-Tang+Clan,
+269,Australian Blonde,25,https://www.last.fm/music/Australian+Blonde,f8569f1a-ee2c-4d6d-b6b7-47f7156fc06c
+270,De La Soul,25,https://www.last.fm/music/De+La+Soul,a8ebde98-7e91-46c7-992c-90039ba42017
+271,Incubus,25,https://www.last.fm/music/Incubus,
+272,Nine Inch Nails,25,https://www.last.fm/music/Nine+Inch+Nails,b7ffd2af-418f-4be2-bdd1-22f8b48613da
+273,Parálisis Permanente,25,https://www.last.fm/music/Par%C3%A1lisis+Permanente,8b4d7237-5ec8-4201-a702-4b95819d3890
 274,The Flaming Lips,25,https://www.last.fm/music/The+Flaming+Lips,1f43d76f-8edf-44f6-aaf1-b65f05ad9402
 275,Yes,25,https://www.last.fm/music/Yes,8353f93f-163e-48c2-bb75-9f18987a3d46
 276,Anthrax,24,https://www.last.fm/music/Anthrax,
@@ -289,165 +289,183 @@ rank,artist_name,playcount,artist_url,artist_mbid
 288,Korn,22,https://www.last.fm/music/Korn,ac865b2e-bba8-4f5a-8756-dd40d5e39f46
 289,Neil Young,22,https://www.last.fm/music/Neil+Young,75167b8b-44e4-407b-9d35-effe87b223cf
 290,Ride,22,https://www.last.fm/music/Ride,3f575ecd-627d-4f08-a89f-abd46d469c7e
-291,Rory Gallagher,21,https://www.last.fm/music/Rory+Gallagher,
-292,Slayer,21,https://www.last.fm/music/Slayer,bdacc37b-8633-4bf8-9dd5-4662ee651aec
-293,Cicatriz,20,https://www.last.fm/music/Cicatriz,c5e7b4c8-d568-4e58-adb7-53e4b495c37e
-294,Grateful Dead,20,https://www.last.fm/music/Grateful+Dead,6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6
-295,Spandau Ballet,20,https://www.last.fm/music/Spandau+Ballet,4c0d9acf-a8a1-4765-9c56-05f92f68c048
-296,Frank Zappa,19,https://www.last.fm/music/Frank+Zappa,e20747e7-55a4-452e-8766-7b985585082d
-297,Leonard Cohen,19,https://www.last.fm/music/Leonard+Cohen,65314b12-0e08-43fa-ba33-baaa7b874c15
-298,King Crimson,18,https://www.last.fm/music/King+Crimson,b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3
-299,Robbie Dupree,18,https://www.last.fm/music/Robbie+Dupree,4981fd19-16b6-4393-ae72-3f6e427ed677
-300,Soundgarden,18,https://www.last.fm/music/Soundgarden,153c9281-268f-4cf3-8938-f5a4593e5df4
-301,Wilco,18,https://www.last.fm/music/Wilco,9e53f84d-ef44-4c16-9677-5fd4d78cbd7d
-302,Adriano Celentano,17,https://www.last.fm/music/Adriano+Celentano,d2b50525-1111-4906-aab6-4553f035f679
-303,El Club de los Poetas Violentos,17,https://www.last.fm/music/El+Club+de+los+Poetas+Violentos,aef2fa36-6ab2-46d7-a65b-daf16d5d25e6
-304,Reincidentes,17,https://www.last.fm/music/Reincidentes,47a40555-4df7-41f5-a4a5-6033b198a3e3
-305,Cat Stevens,16,https://www.last.fm/music/Cat+Stevens,e2345fdf-2be7-47c5-a6dd-be64353ad134
-306,Fatboy Slim,16,https://www.last.fm/music/Fatboy+Slim,34c63966-445c-4613-afe1-4f0e1e53ae9a
-307,Glasvegas,16,https://www.last.fm/music/Glasvegas,da785f6e-86e2-4efa-aca6-6c3cbd15d91c
-308,Johnny Cash,16,https://www.last.fm/music/Johnny+Cash,d43d12a1-2dc9-4257-a2fd-0a3bb1081b86
-309,Limp Bizkit,16,https://www.last.fm/music/Limp+Bizkit,8f9d6bb2-dba4-4cca-9967-cc02b9f4820c
-310,Rancid,16,https://www.last.fm/music/Rancid,24f8d8a5-269b-475c-a1cb-792990b0b2ee
-311,Beastie Boys,15,https://www.last.fm/music/Beastie+Boys,
-312,Terrorvision,15,https://www.last.fm/music/Terrorvision,d2038f68-9325-42d3-a06c-5198aac24752
-313,The Stooges,15,https://www.last.fm/music/The+Stooges,794c6bf2-3241-416f-9b8f-24e2d84a1c4b
-314,Boikot,14,https://www.last.fm/music/Boikot,e8c70743-2890-402b-bc49-539b609a33bb
-315,Dead Kennedys,14,https://www.last.fm/music/Dead+Kennedys,37c78aeb-d196-42b5-b991-6afb4fc9bc2e
-316,La Habitación Roja,14,https://www.last.fm/music/La+Habitaci%C3%B3n+Roja,371a92b1-11a6-477b-afb1-9beb11d29550
-317,Morcheeba,14,https://www.last.fm/music/Morcheeba,067102ea-9519-4622-9077-57ca4164cfbb
-318,Babyshambles,13,https://www.last.fm/music/Babyshambles,8e1e03fe-ebbc-467a-b541-857144db10fb
-319,Beady Eye,13,https://www.last.fm/music/Beady+Eye,a0e10984-0eca-4920-a171-5fd7a62ee069
-320,Death Cab for Cutie,13,https://www.last.fm/music/Death+Cab+for+Cutie,0039c7ae-e1a7-4a7d-9b49-0cbc716821a6
-321,Def Leppard,13,https://www.last.fm/music/Def+Leppard,7249b899-8db8-43e7-9e6e-22f1e736024e
-322,Jarabe de Palo,13,https://www.last.fm/music/Jarabe+de+Palo,38b511a2-76fa-4a1e-9b7a-e2a6efa6399b
-323,Lush,13,https://www.last.fm/music/Lush,
-324,Madonna,13,https://www.last.fm/music/Madonna,79239441-bfd5-4981-a70c-55c3f15c1287
-325,Texas,13,https://www.last.fm/music/Texas,7289d10d-d8d2-41ff-8308-c56ec9346e07
-326,Thom Yorke,13,https://www.last.fm/music/Thom+Yorke,8ed2e0b3-aa4c-4e13-bec3-dc7393ed4d6b
-327,Bill Evans,12,https://www.last.fm/music/Bill+Evans,
-328,Moloko,12,https://www.last.fm/music/Moloko,2f94016a-3880-4d8c-9af9-0e197ee77189
-329,Talk Talk,12,https://www.last.fm/music/Talk+Talk,a74f43e4-50c4-4b19-a2ce-c05ce9bccb03
-330,Al Green,11,https://www.last.fm/music/Al+Green,fb7272ba-f130-4f0a-934d-6eeea4c18c9a
-331,Barry White,11,https://www.last.fm/music/Barry+White,b904d624-9e05-4398-8f4f-88fbcf022f79
-332,Carlos Berlanga,11,https://www.last.fm/music/Carlos+Berlanga,a65eea73-f2a8-4964-aba3-d0ee5edf2028
-333,Deftones,11,https://www.last.fm/music/Deftones,7527f6c2-d762-4b88-b5e2-9244f1e34c46
-334,Hole,11,https://www.last.fm/music/Hole,
-335,Johnny Marr,11,https://www.last.fm/music/Johnny+Marr,ff621094-2a76-401f-8398-b75b5fd2be24
-336,King Diamond,11,https://www.last.fm/music/King+Diamond,00565b31-14a3-4913-bd22-385eb40dd13c
-337,Obus,11,https://www.last.fm/music/Obus,
-338,Papa Roach,11,https://www.last.fm/music/Papa+Roach,c5eb9407-caeb-4303-b383-6929aa94021c
-339,Rinôçérôse,11,https://www.last.fm/music/Rin%C3%B4%C3%A7%C3%A9r%C3%B4se,68179c0f-792c-407c-8b51-fc2f1b72be91
-340,Stone Temple Pilots,11,https://www.last.fm/music/Stone+Temple+Pilots,8c32bb01-58a3-453b-8050-8c0620edb0e5
-341,Al Stewart,10,https://www.last.fm/music/Al+Stewart,47a27727-4e8c-4c77-8532-ae94ccd37c68
-342,Alaska y Dinarama,10,https://www.last.fm/music/Alaska+y+Dinarama,32e5def8-6668-4459-bf21-643c0bde0de8
-343,Andy Gibb,10,https://www.last.fm/music/Andy+Gibb,f1d174fc-6bd9-41fe-b4c8-972ab578fb5c
-344,The Fratellis,10,https://www.last.fm/music/The+Fratellis,f4ad883e-9a92-45ed-a540-a49c2d1c36dd
-345,The Wallflowers,10,https://www.last.fm/music/The+Wallflowers,d9c90718-d54d-4ccf-a92e-37a5415ce299
-346,Blind Guardian,9,https://www.last.fm/music/Blind+Guardian,7fa7fc04-1011-4876-8095-ecd232edea87
-347,Chic,9,https://www.last.fm/music/Chic,a4ed036b-5f18-439c-b1e1-96d205bab255
-348,David Shire,9,https://www.last.fm/music/David+Shire,b2283bca-ced1-4856-9cc6-a94b271062f5
-349,Derribos Arias,9,https://www.last.fm/music/Derribos+Arias,99e62a7d-6ad2-41e5-af11-863fce599d91
-350,Frankie Valli,9,https://www.last.fm/music/Frankie+Valli,3c714102-94d8-42f4-9005-fb8a75c2766d
-351,Golpes Bajos,9,https://www.last.fm/music/Golpes+Bajos,e426b3ad-8b2a-4641-8035-c46a100eeaed
-352,Los Coronas,9,https://www.last.fm/music/Los+Coronas,420a794b-2454-4230-bccb-6ef4b3043df5
-353,Mecano,9,https://www.last.fm/music/Mecano,
-354,Sylvester,9,https://www.last.fm/music/Sylvester,4d3b710b-a5f0-4772-97db-f09e47fbc6d8
-355,The O'Jays,9,https://www.last.fm/music/The+O%27Jays,8153c6ef-026c-481f-b081-974f2c948d9f
-356,Tom Jones,9,https://www.last.fm/music/Tom+Jones,57c6f649-6cde-48a7-8114-2a200247601a
-357,Yann Tiersen,9,https://www.last.fm/music/Yann+Tiersen,12d432a3-feb0-49b1-a107-d20751880764
-358,Black Harmony,8,https://www.last.fm/music/Black+Harmony,
-359,The Yardbirds,8,https://www.last.fm/music/The+Yardbirds,191de76f-a224-445d-b041-54df16d65bf7
-360,John Travolta,7,https://www.last.fm/music/John+Travolta,94f4c61e-5cf3-4cba-ab3e-9bd5be99f6ab
-361,The Doobie Brothers,7,https://www.last.fm/music/The+Doobie+Brothers,588dea29-eea3-456b-a815-3ee04f75c8e7
-362,Violadores del Verso,7,https://www.last.fm/music/Violadores+del+Verso,43706fe2-bf24-4b1b-8d0b-28f8439b3d55
-363,Sha Na Na,6,https://www.last.fm/music/Sha+Na+Na,86aa8b2d-be7e-489c-a1b7-80e814fb6815
-364,Sid Vicious,6,https://www.last.fm/music/Sid+Vicious,637504e3-be95-4005-83ee-3ebb91f9fcf9
-365,The Trammps,6,https://www.last.fm/music/The+Trammps,8799413d-7df8-4eb9-8542-af8cea6b0feb
-366,Dick Dale,5,https://www.last.fm/music/Dick+Dale,cc6115aa-379c-4133-9f46-5743a4a341d0
-367,João Gilberto,5,https://www.last.fm/music/Jo%C3%A3o+Gilberto,286ec4c2-b5ca-4f85-b331-280a6d73dd14
-368,Kool & the Gang,5,https://www.last.fm/music/Kool+&+the+Gang,2469950a-f0ca-425a-bfbc-baf55ea3afde
-369,Mika,5,https://www.last.fm/music/Mika,
-370,New Radicals,5,https://www.last.fm/music/New+Radicals,09a6ae88-7589-4ab2-b10c-dd50ebd526a0
-371,Obús,5,https://www.last.fm/music/Ob%C3%BAs,6de071b1-e801-4ef6-926a-ebb8e9eea0b8
-372,Sylvia Telles,5,https://www.last.fm/music/Sylvia+Telles,3808f065-7214-4a9d-a97b-16873cdd4442
-373,The Byrds,5,https://www.last.fm/music/The+Byrds,2819834e-4e08-47b0-a2c4-b7672318e8f0
-374,Ariel Rot,4,https://www.last.fm/music/Ariel+Rot,86c4c7dd-5289-4c49-aee2-28318a70984b
-375,B.J. Thomas,4,https://www.last.fm/music/B.J.+Thomas,42a19448-ff60-4fd2-9d10-959bf2000729
-376,Eminem,4,https://www.last.fm/music/Eminem,b95ce3ff-3d05-4e87-9e01-c97b66af13d4
-377,José Luis Perales,4,https://www.last.fm/music/Jos%C3%A9+Luis+Perales,86845ceb-170e-4bc2-9006-cb360867d04b
-378,Les Paul & Mary Ford,4,https://www.last.fm/music/Les+Paul+&+Mary+Ford,7ee21fe4-f337-4a74-aebf-a69fc91809c5
-379,Peor Impossible,4,https://www.last.fm/music/Peor+Impossible,db96ef6a-186b-4cbd-8a92-07ce06ea47b8
-380,Simon & Garfunkel,4,https://www.last.fm/music/Simon+&+Garfunkel,5d02f264-e225-41ff-83f7-d9b1f0b1874a
-381,Sleaford Mods,4,https://www.last.fm/music/Sleaford+Mods,09d8290b-6ada-422f-8ce3-19349fb1c15d
-382,Cindy Bullens,3,https://www.last.fm/music/Cindy+Bullens,41780c1c-a572-410d-873f-ee74c93d3d10
-383,Ennio Morricone,3,https://www.last.fm/music/Ennio+Morricone,a16e47f5-aa54-47fe-87e4-bb8af91a9fdd
-384,KC and The Sunshine Band,3,https://www.last.fm/music/KC+and+The+Sunshine+Band,76a5a114-ed6a-4eb6-8a81-ad5768d4b41c
-385,MFSB,3,https://www.last.fm/music/MFSB,f5e66486-4481-4ebf-b1f9-f87ebabf5897
-386,Ralph MacDonald,3,https://www.last.fm/music/Ralph+MacDonald,b6be6ceb-f776-460f-a145-212fa306baa1
-387,Tavares,3,https://www.last.fm/music/Tavares,08b2c88f-6c13-419b-a4f5-182cc3738e49
-388,The Dandy Warhols,3,https://www.last.fm/music/The+Dandy+Warhols,5f572b31-8fd9-45ae-9beb-358c98d839df
-389,The Lemonheads,3,https://www.last.fm/music/The+Lemonheads,58a53082-a629-4ff1-a44d-7492d6f6e8fb
-390,The Lovin' Spoonful,3,https://www.last.fm/music/The+Lovin%27+Spoonful,abc08d4f-4e3c-4b5a-b1e8-d324cd6a2f92
-391,Walter Murphy,3,https://www.last.fm/music/Walter+Murphy,c48af196-bab1-4505-9256-0922adac0fe2
-392,Yvonne Elliman,3,https://www.last.fm/music/Yvonne+Elliman,62b9eb3e-c470-462d-8d63-9b6cbac13d62
-393,Brothers Johnson,2,https://www.last.fm/music/Brothers+Johnson,
-394,Chuck Berry,2,https://www.last.fm/music/Chuck+Berry,592a3b6d-c42b-4567-99c9-ecf63bd66499
-395,JAY-Z,2,https://www.last.fm/music/JAY-Z,
-396,Jim Jacobs,2,https://www.last.fm/music/Jim+Jacobs,8a776dbe-8be6-4319-9cdd-09cfbfb6a3d9
-397,Lilys,2,https://www.last.fm/music/Lilys,50ad1cde-1536-4268-a55f-e47a7b8280ab
-398,Los Sencillos,2,https://www.last.fm/music/Los+Sencillos,bdf0da5a-7723-4ad4-85f5-3de6b26e35b4
-399,Olivia Newton-John,2,https://www.last.fm/music/Olivia+Newton-John,
-400,Rick Nelson,2,https://www.last.fm/music/Rick+Nelson,0b511854-c21c-4af1-9c31-e3fc178ded61
-401,Rosa Anschütz,2,https://www.last.fm/music/Rosa+Ansch%C3%BCtz,f2c61f11-9c3d-4840-ab44-9e2364f0827e
-402,Stereophonics,2,https://www.last.fm/music/Stereophonics,0bfba3d3-6a04-4779-bb0a-df07df5b0558
-403,The Tornadoes,2,https://www.last.fm/music/The+Tornadoes,d557c4bb-253c-4f3b-967f-b6fef3e6db37
-404,A Tribe Called Quest,1,https://www.last.fm/music/A+Tribe+Called+Quest,9689aa5a-4471-4fb4-9721-07cecda0fa9f
-405,Alaska y Los Pegamoides,1,https://www.last.fm/music/Alaska+y+Los+Pegamoides,d7a16aab-6822-4d14-985e-8f87a2602051
-406,Alizzz,1,https://www.last.fm/music/Alizzz,a4238edc-daf9-42ed-917b-dd586f91c269
-407,Aphex Twin,1,https://www.last.fm/music/Aphex+Twin,f22942a1-6f70-4f48-866e-238cb2308fbd
-408,Black Grape,1,https://www.last.fm/music/Black+Grape,2f6d511c-0bcd-4926-b363-a98848f63edd
-409,blink-182,1,https://www.last.fm/music/blink-182,
-410,Bruce Willis,1,https://www.last.fm/music/Bruce+Willis,a60fa7b7-ec5c-4c0a-bec2-f1e2ae8eb4f3
-411,Carlos Lyra,1,https://www.last.fm/music/Carlos+Lyra,2674d9a0-7647-4220-8c10-6d8d0c9677d9
-412,Cornershop,1,https://www.last.fm/music/Cornershop,92046be7-0927-4835-a4ed-a90416747d53
-413,Cypress Hill,1,https://www.last.fm/music/Cypress+Hill,51508c1f-8d07-4a00-9cf1-26c570fe7b78
-414,Duane Whitaker,1,https://www.last.fm/music/Duane+Whitaker,
-415,Dusty Springfield,1,https://www.last.fm/music/Dusty+Springfield,b896aa8c-2761-40ce-b485-0e1fffd26167
-416,El Aviador Dro,1,https://www.last.fm/music/El+Aviador+Dro,c30cc8a0-2312-4332-9117-d0e6d77b4c65
-417,Frankie Avalon,1,https://www.last.fm/music/Frankie+Avalon,a21c1636-c622-48b7-bf6a-d9032645aa55
-418,Groove Armada,1,https://www.last.fm/music/Groove+Armada,35723b60-732e-4bd8-957f-320b416e7b7f
-419,Happy Mondays,1,https://www.last.fm/music/Happy+Mondays,01f4fb92-6bf0-4de5-83dc-3fe194e763bf
-420,Helloween,1,https://www.last.fm/music/Helloween,765774a0-2060-469b-8b7d-612eea48579b
-421,Ian Brown,1,https://www.last.fm/music/Ian+Brown,182d5d8a-94c7-4ef4-8222-a1838353a37b
-422,Justice,1,https://www.last.fm/music/Justice,
-423,Kenickie,1,https://www.last.fm/music/Kenickie,74522ae6-9ddd-4a88-a821-fa5e702bfdab
-424,Leftfield,1,https://www.last.fm/music/Leftfield,369fbad4-6fa4-4dae-9842-a69826cd359d
-425,Link Wray & His Wraymen,1,https://www.last.fm/music/Link+Wray+&+His+Wraymen,
-426,Longpigs,1,https://www.last.fm/music/Longpigs,a7378d57-a9a5-408a-80e0-a14d7203df77
-427,Louis St. Louis,1,https://www.last.fm/music/Louis+St.+Louis,670f3946-cc8a-44fb-b1b8-4482f136e506
-428,Marc Parrot,1,https://www.last.fm/music/Marc+Parrot,8e4daa5e-288a-45b1-8a7e-8a3556ead043
-429,Maria McKee,1,https://www.last.fm/music/Maria+McKee,f8276a46-0c87-4d2f-a0d3-f22900f9cbfe
-430,Marilyn Manson,1,https://www.last.fm/music/Marilyn+Manson,
-431,Museum,1,https://www.last.fm/music/Museum,
-432,Passion Pit,1,https://www.last.fm/music/Passion+Pit,daeec599-bf5d-4428-994a-e76ba5f86e2f
-433,Paul Francis Webster,1,https://www.last.fm/music/Paul+Francis+Webster,b7d69ea7-2f72-43cf-881b-6dc142afdb48
-434,Paul Weller,1,https://www.last.fm/music/Paul+Weller,c4406045-e640-4cfe-8b88-4732cce314d4
-435,Pery Ribeiro,1,https://www.last.fm/music/Pery+Ribeiro,063d505c-cbdc-4db6-b8d1-02046d61a1e1
-436,Samuel L. Jackson,1,https://www.last.fm/music/Samuel+L.+Jackson,a1c82f09-cc3a-4c94-a518-cba50d9bfab1
-437,Spiritualized,1,https://www.last.fm/music/Spiritualized,65041e06-83d2-4987-ae52-c17a915fc82a
-438,Stockard Channing,1,https://www.last.fm/music/Stockard+Channing,2e3020a2-6a5f-4011-beaa-302ee622d6a8
-439,The Bluetones,1,https://www.last.fm/music/The+Bluetones,024bea6e-e250-4348-9e69-2dfcad38442e
-440,The Go! Team,1,https://www.last.fm/music/The+Go!+Team,8a396a9c-2e4f-47e2-a587-c26e93a0953f
-441,The Knack,1,https://www.last.fm/music/The+Knack,
-442,The Lively Ones,1,https://www.last.fm/music/The+Lively+Ones,cd7b4151-2d66-441c-93dd-598817ef04f6
-443,The Long Blondes,1,https://www.last.fm/music/The+Long+Blondes,3efd863f-6a5c-400a-9868-6ef533d51509
-444,The Marketts,1,https://www.last.fm/music/The+Marketts,8d735fa3-9eb7-4f26-a1a1-5fb10013f84e
-445,The Notorious B.I.G.,1,https://www.last.fm/music/The+Notorious+B.I.G.,d5d97b2b-b83b-4976-814a-056d9076c8c3
-446,The Robins,1,https://www.last.fm/music/The+Robins,58bcaf1b-6d5c-478c-8eeb-14ea064d6531
-447,The Statler Brothers,1,https://www.last.fm/music/The+Statler+Brothers,8f0c7db9-6d1c-446b-913c-b5c6811ca6fc
-448,The Teardrop Explodes,1,https://www.last.fm/music/The+Teardrop+Explodes,8002d7ee-2a0e-4ea8-8984-3c69a81a4b7e
-449,The Wonder Stuff,1,https://www.last.fm/music/The+Wonder+Stuff,323c9a5b-ca01-49ad-be39-046223a0c9ae
-450,Underworld,1,https://www.last.fm/music/Underworld,ba2f4f3b-0293-4bc8-bb94-2f73b5207343
-451,Urge Overkill,1,https://www.last.fm/music/Urge+Overkill,120e728a-4078-47b7-a31c-d581ade28bde
-452,Vinícius de Moraes,1,https://www.last.fm/music/Vin%C3%ADcius+de+Moraes,
+291,Ray Charles,21,https://www.last.fm/music/Ray+Charles,2ce02909-598b-44ef-a456-151ba0a3bd70
+292,Rory Gallagher,21,https://www.last.fm/music/Rory+Gallagher,
+293,Slayer,21,https://www.last.fm/music/Slayer,bdacc37b-8633-4bf8-9dd5-4662ee651aec
+294,Cicatriz,20,https://www.last.fm/music/Cicatriz,c5e7b4c8-d568-4e58-adb7-53e4b495c37e
+295,Grateful Dead,20,https://www.last.fm/music/Grateful+Dead,6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6
+296,Spandau Ballet,20,https://www.last.fm/music/Spandau+Ballet,4c0d9acf-a8a1-4765-9c56-05f92f68c048
+297,Frank Zappa,19,https://www.last.fm/music/Frank+Zappa,e20747e7-55a4-452e-8766-7b985585082d
+298,Leonard Cohen,19,https://www.last.fm/music/Leonard+Cohen,65314b12-0e08-43fa-ba33-baaa7b874c15
+299,King Crimson,18,https://www.last.fm/music/King+Crimson,b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3
+300,Robbie Dupree,18,https://www.last.fm/music/Robbie+Dupree,4981fd19-16b6-4393-ae72-3f6e427ed677
+301,Soundgarden,18,https://www.last.fm/music/Soundgarden,153c9281-268f-4cf3-8938-f5a4593e5df4
+302,Wilco,18,https://www.last.fm/music/Wilco,9e53f84d-ef44-4c16-9677-5fd4d78cbd7d
+303,Adriano Celentano,17,https://www.last.fm/music/Adriano+Celentano,d2b50525-1111-4906-aab6-4553f035f679
+304,El Club de los Poetas Violentos,17,https://www.last.fm/music/El+Club+de+los+Poetas+Violentos,aef2fa36-6ab2-46d7-a65b-daf16d5d25e6
+305,Reincidentes,17,https://www.last.fm/music/Reincidentes,47a40555-4df7-41f5-a4a5-6033b198a3e3
+306,Terrorvision,17,https://www.last.fm/music/Terrorvision,d2038f68-9325-42d3-a06c-5198aac24752
+307,Cat Stevens,16,https://www.last.fm/music/Cat+Stevens,e2345fdf-2be7-47c5-a6dd-be64353ad134
+308,Fatboy Slim,16,https://www.last.fm/music/Fatboy+Slim,34c63966-445c-4613-afe1-4f0e1e53ae9a
+309,Glasvegas,16,https://www.last.fm/music/Glasvegas,da785f6e-86e2-4efa-aca6-6c3cbd15d91c
+310,Johnny Cash,16,https://www.last.fm/music/Johnny+Cash,d43d12a1-2dc9-4257-a2fd-0a3bb1081b86
+311,Limp Bizkit,16,https://www.last.fm/music/Limp+Bizkit,8f9d6bb2-dba4-4cca-9967-cc02b9f4820c
+312,Rancid,16,https://www.last.fm/music/Rancid,24f8d8a5-269b-475c-a1cb-792990b0b2ee
+313,Beastie Boys,15,https://www.last.fm/music/Beastie+Boys,9beb62b2-88db-4cea-801e-162cd344ee53
+314,Morcheeba,15,https://www.last.fm/music/Morcheeba,067102ea-9519-4622-9077-57ca4164cfbb
+315,The Stooges,15,https://www.last.fm/music/The+Stooges,
+316,Boikot,14,https://www.last.fm/music/Boikot,e8c70743-2890-402b-bc49-539b609a33bb
+317,Dead Kennedys,14,https://www.last.fm/music/Dead+Kennedys,37c78aeb-d196-42b5-b991-6afb4fc9bc2e
+318,La Habitación Roja,14,https://www.last.fm/music/La+Habitaci%C3%B3n+Roja,371a92b1-11a6-477b-afb1-9beb11d29550
+319,Babyshambles,13,https://www.last.fm/music/Babyshambles,8e1e03fe-ebbc-467a-b541-857144db10fb
+320,Beady Eye,13,https://www.last.fm/music/Beady+Eye,a0e10984-0eca-4920-a171-5fd7a62ee069
+321,Death Cab for Cutie,13,https://www.last.fm/music/Death+Cab+for+Cutie,0039c7ae-e1a7-4a7d-9b49-0cbc716821a6
+322,Def Leppard,13,https://www.last.fm/music/Def+Leppard,7249b899-8db8-43e7-9e6e-22f1e736024e
+323,Jarabe de Palo,13,https://www.last.fm/music/Jarabe+de+Palo,38b511a2-76fa-4a1e-9b7a-e2a6efa6399b
+324,Lush,13,https://www.last.fm/music/Lush,
+325,Madonna,13,https://www.last.fm/music/Madonna,79239441-bfd5-4981-a70c-55c3f15c1287
+326,Texas,13,https://www.last.fm/music/Texas,7289d10d-d8d2-41ff-8308-c56ec9346e07
+327,Thom Yorke,13,https://www.last.fm/music/Thom+Yorke,8ed2e0b3-aa4c-4e13-bec3-dc7393ed4d6b
+328,Bill Evans,12,https://www.last.fm/music/Bill+Evans,
+329,Moloko,12,https://www.last.fm/music/Moloko,2f94016a-3880-4d8c-9af9-0e197ee77189
+330,Talk Talk,12,https://www.last.fm/music/Talk+Talk,a74f43e4-50c4-4b19-a2ce-c05ce9bccb03
+331,Al Green,11,https://www.last.fm/music/Al+Green,fb7272ba-f130-4f0a-934d-6eeea4c18c9a
+332,Barry White,11,https://www.last.fm/music/Barry+White,b904d624-9e05-4398-8f4f-88fbcf022f79
+333,Carlos Berlanga,11,https://www.last.fm/music/Carlos+Berlanga,a65eea73-f2a8-4964-aba3-d0ee5edf2028
+334,Deftones,11,https://www.last.fm/music/Deftones,7527f6c2-d762-4b88-b5e2-9244f1e34c46
+335,Hole,11,https://www.last.fm/music/Hole,
+336,Johnny Marr,11,https://www.last.fm/music/Johnny+Marr,ff621094-2a76-401f-8398-b75b5fd2be24
+337,King Diamond,11,https://www.last.fm/music/King+Diamond,00565b31-14a3-4913-bd22-385eb40dd13c
+338,Obus,11,https://www.last.fm/music/Obus,
+339,Papa Roach,11,https://www.last.fm/music/Papa+Roach,c5eb9407-caeb-4303-b383-6929aa94021c
+340,Rinôçérôse,11,https://www.last.fm/music/Rin%C3%B4%C3%A7%C3%A9r%C3%B4se,68179c0f-792c-407c-8b51-fc2f1b72be91
+341,Stone Temple Pilots,11,https://www.last.fm/music/Stone+Temple+Pilots,8c32bb01-58a3-453b-8050-8c0620edb0e5
+342,Al Stewart,10,https://www.last.fm/music/Al+Stewart,47a27727-4e8c-4c77-8532-ae94ccd37c68
+343,Alaska y Dinarama,10,https://www.last.fm/music/Alaska+y+Dinarama,32e5def8-6668-4459-bf21-643c0bde0de8
+344,Andy Gibb,10,https://www.last.fm/music/Andy+Gibb,f1d174fc-6bd9-41fe-b4c8-972ab578fb5c
+345,The Fratellis,10,https://www.last.fm/music/The+Fratellis,f4ad883e-9a92-45ed-a540-a49c2d1c36dd
+346,The Wallflowers,10,https://www.last.fm/music/The+Wallflowers,d9c90718-d54d-4ccf-a92e-37a5415ce299
+347,Blind Guardian,9,https://www.last.fm/music/Blind+Guardian,7fa7fc04-1011-4876-8095-ecd232edea87
+348,Chic,9,https://www.last.fm/music/Chic,a4ed036b-5f18-439c-b1e1-96d205bab255
+349,David Shire,9,https://www.last.fm/music/David+Shire,b2283bca-ced1-4856-9cc6-a94b271062f5
+350,Derribos Arias,9,https://www.last.fm/music/Derribos+Arias,99e62a7d-6ad2-41e5-af11-863fce599d91
+351,Frankie Valli,9,https://www.last.fm/music/Frankie+Valli,3c714102-94d8-42f4-9005-fb8a75c2766d
+352,Golpes Bajos,9,https://www.last.fm/music/Golpes+Bajos,e426b3ad-8b2a-4641-8035-c46a100eeaed
+353,Los Coronas,9,https://www.last.fm/music/Los+Coronas,420a794b-2454-4230-bccb-6ef4b3043df5
+354,Mecano,9,https://www.last.fm/music/Mecano,
+355,Sylvester,9,https://www.last.fm/music/Sylvester,4d3b710b-a5f0-4772-97db-f09e47fbc6d8
+356,The O'Jays,9,https://www.last.fm/music/The+O%27Jays,8153c6ef-026c-481f-b081-974f2c948d9f
+357,Tom Jones,9,https://www.last.fm/music/Tom+Jones,57c6f649-6cde-48a7-8114-2a200247601a
+358,Yann Tiersen,9,https://www.last.fm/music/Yann+Tiersen,12d432a3-feb0-49b1-a107-d20751880764
+359,Black Harmony,8,https://www.last.fm/music/Black+Harmony,
+360,Mark Knopfler,8,https://www.last.fm/music/Mark+Knopfler,e49f69da-17d5-4c5c-bac0-dadcb0e588f5
+361,The Yardbirds,8,https://www.last.fm/music/The+Yardbirds,191de76f-a224-445d-b041-54df16d65bf7
+362,John Travolta,7,https://www.last.fm/music/John+Travolta,94f4c61e-5cf3-4cba-ab3e-9bd5be99f6ab
+363,Kaka de Luxe,7,https://www.last.fm/music/Kaka+de+Luxe,8dfa0f49-a1e3-4d67-99aa-3f75b68d64e1
+364,The Doobie Brothers,7,https://www.last.fm/music/The+Doobie+Brothers,588dea29-eea3-456b-a815-3ee04f75c8e7
+365,Violadores del Verso,7,https://www.last.fm/music/Violadores+del+Verso,43706fe2-bf24-4b1b-8d0b-28f8439b3d55
+366,Sha Na Na,6,https://www.last.fm/music/Sha+Na+Na,86aa8b2d-be7e-489c-a1b7-80e814fb6815
+367,Sid Vicious,6,https://www.last.fm/music/Sid+Vicious,637504e3-be95-4005-83ee-3ebb91f9fcf9
+368,The Trammps,6,https://www.last.fm/music/The+Trammps,8799413d-7df8-4eb9-8542-af8cea6b0feb
+369,Dick Dale,5,https://www.last.fm/music/Dick+Dale,cc6115aa-379c-4133-9f46-5743a4a341d0
+370,João Gilberto,5,https://www.last.fm/music/Jo%C3%A3o+Gilberto,286ec4c2-b5ca-4f85-b331-280a6d73dd14
+371,Kool & the Gang,5,https://www.last.fm/music/Kool+&+the+Gang,2469950a-f0ca-425a-bfbc-baf55ea3afde
+372,Mika,5,https://www.last.fm/music/Mika,
+373,New Radicals,5,https://www.last.fm/music/New+Radicals,09a6ae88-7589-4ab2-b10c-dd50ebd526a0
+374,Obús,5,https://www.last.fm/music/Ob%C3%BAs,6de071b1-e801-4ef6-926a-ebb8e9eea0b8
+375,Sylvia Telles,5,https://www.last.fm/music/Sylvia+Telles,3808f065-7214-4a9d-a97b-16873cdd4442
+376,The Byrds,5,https://www.last.fm/music/The+Byrds,2819834e-4e08-47b0-a2c4-b7672318e8f0
+377,Ariel Rot,4,https://www.last.fm/music/Ariel+Rot,86c4c7dd-5289-4c49-aee2-28318a70984b
+378,B.J. Thomas,4,https://www.last.fm/music/B.J.+Thomas,42a19448-ff60-4fd2-9d10-959bf2000729
+379,Eminem,4,https://www.last.fm/music/Eminem,b95ce3ff-3d05-4e87-9e01-c97b66af13d4
+380,José Luis Perales,4,https://www.last.fm/music/Jos%C3%A9+Luis+Perales,86845ceb-170e-4bc2-9006-cb360867d04b
+381,Les Paul & Mary Ford,4,https://www.last.fm/music/Les+Paul+&+Mary+Ford,7ee21fe4-f337-4a74-aebf-a69fc91809c5
+382,Peor Impossible,4,https://www.last.fm/music/Peor+Impossible,
+383,Simon & Garfunkel,4,https://www.last.fm/music/Simon+&+Garfunkel,5d02f264-e225-41ff-83f7-d9b1f0b1874a
+384,Sleaford Mods,4,https://www.last.fm/music/Sleaford+Mods,09d8290b-6ada-422f-8ce3-19349fb1c15d
+385,Cindy Bullens,3,https://www.last.fm/music/Cindy+Bullens,41780c1c-a572-410d-873f-ee74c93d3d10
+386,Ennio Morricone,3,https://www.last.fm/music/Ennio+Morricone,a16e47f5-aa54-47fe-87e4-bb8af91a9fdd
+387,KC and The Sunshine Band,3,https://www.last.fm/music/KC+and+The+Sunshine+Band,76a5a114-ed6a-4eb6-8a81-ad5768d4b41c
+388,MFSB,3,https://www.last.fm/music/MFSB,f5e66486-4481-4ebf-b1f9-f87ebabf5897
+389,Ralph MacDonald,3,https://www.last.fm/music/Ralph+MacDonald,b6be6ceb-f776-460f-a145-212fa306baa1
+390,Tavares,3,https://www.last.fm/music/Tavares,08b2c88f-6c13-419b-a4f5-182cc3738e49
+391,The Dandy Warhols,3,https://www.last.fm/music/The+Dandy+Warhols,5f572b31-8fd9-45ae-9beb-358c98d839df
+392,The Lemonheads,3,https://www.last.fm/music/The+Lemonheads,58a53082-a629-4ff1-a44d-7492d6f6e8fb
+393,The Lovin' Spoonful,3,https://www.last.fm/music/The+Lovin%27+Spoonful,abc08d4f-4e3c-4b5a-b1e8-d324cd6a2f92
+394,Walter Murphy,3,https://www.last.fm/music/Walter+Murphy,c48af196-bab1-4505-9256-0922adac0fe2
+395,Yvonne Elliman,3,https://www.last.fm/music/Yvonne+Elliman,62b9eb3e-c470-462d-8d63-9b6cbac13d62
+396,Brothers Johnson,2,https://www.last.fm/music/Brothers+Johnson,
+397,Chuck Berry,2,https://www.last.fm/music/Chuck+Berry,592a3b6d-c42b-4567-99c9-ecf63bd66499
+398,JAY-Z,2,https://www.last.fm/music/JAY-Z,
+399,Jim Jacobs,2,https://www.last.fm/music/Jim+Jacobs,8a776dbe-8be6-4319-9cdd-09cfbfb6a3d9
+400,Lilys,2,https://www.last.fm/music/Lilys,50ad1cde-1536-4268-a55f-e47a7b8280ab
+401,Los Sencillos,2,https://www.last.fm/music/Los+Sencillos,bdf0da5a-7723-4ad4-85f5-3de6b26e35b4
+402,Marc Parrot,2,https://www.last.fm/music/Marc+Parrot,8e4daa5e-288a-45b1-8a7e-8a3556ead043
+403,Olivia Newton-John,2,https://www.last.fm/music/Olivia+Newton-John,
+404,Paul Weller,2,https://www.last.fm/music/Paul+Weller,c4406045-e640-4cfe-8b88-4732cce314d4
+405,Rick Nelson,2,https://www.last.fm/music/Rick+Nelson,0b511854-c21c-4af1-9c31-e3fc178ded61
+406,Rosa Anschütz,2,https://www.last.fm/music/Rosa+Ansch%C3%BCtz,f2c61f11-9c3d-4840-ab44-9e2364f0827e
+407,Stereophonics,2,https://www.last.fm/music/Stereophonics,0bfba3d3-6a04-4779-bb0a-df07df5b0558
+408,The Go! Team,2,https://www.last.fm/music/The+Go!+Team,8a396a9c-2e4f-47e2-a587-c26e93a0953f
+409,The Tornadoes,2,https://www.last.fm/music/The+Tornadoes,d557c4bb-253c-4f3b-967f-b6fef3e6db37
+410,Underworld,2,https://www.last.fm/music/Underworld,ba2f4f3b-0293-4bc8-bb94-2f73b5207343
+411,A Tribe Called Quest,1,https://www.last.fm/music/A+Tribe+Called+Quest,9689aa5a-4471-4fb4-9721-07cecda0fa9f
+412,Alaska y Los Pegamoides,1,https://www.last.fm/music/Alaska+y+Los+Pegamoides,d7a16aab-6822-4d14-985e-8f87a2602051
+413,Alizzz,1,https://www.last.fm/music/Alizzz,a4238edc-daf9-42ed-917b-dd586f91c269
+414,Aphex Twin,1,https://www.last.fm/music/Aphex+Twin,f22942a1-6f70-4f48-866e-238cb2308fbd
+415,Black Grape,1,https://www.last.fm/music/Black+Grape,2f6d511c-0bcd-4926-b363-a98848f63edd
+416,blink-182,1,https://www.last.fm/music/blink-182,
+417,Bruce Willis,1,https://www.last.fm/music/Bruce+Willis,a60fa7b7-ec5c-4c0a-bec2-f1e2ae8eb4f3
+418,Carlos Lyra,1,https://www.last.fm/music/Carlos+Lyra,2674d9a0-7647-4220-8c10-6d8d0c9677d9
+419,Cast,1,https://www.last.fm/music/Cast,
+420,Chumbawamba,1,https://www.last.fm/music/Chumbawamba,7b7b1e6f-e73e-41a0-9d72-8f0b30c6992d
+421,Cornershop,1,https://www.last.fm/music/Cornershop,92046be7-0927-4835-a4ed-a90416747d53
+422,Cypress Hill,1,https://www.last.fm/music/Cypress+Hill,51508c1f-8d07-4a00-9cf1-26c570fe7b78
+423,Doves,1,https://www.last.fm/music/Doves,
+424,Duane Whitaker,1,https://www.last.fm/music/Duane+Whitaker,
+425,Dusty Springfield,1,https://www.last.fm/music/Dusty+Springfield,b896aa8c-2761-40ce-b485-0e1fffd26167
+426,El Aviador Dro,1,https://www.last.fm/music/El+Aviador+Dro,c30cc8a0-2312-4332-9117-d0e6d77b4c65
+427,Embrace,1,https://www.last.fm/music/Embrace,
+428,EMF,1,https://www.last.fm/music/EMF,26f94a6a-d60a-4bcc-a130-ce0e77122bd7
+429,Frankie Avalon,1,https://www.last.fm/music/Frankie+Avalon,a21c1636-c622-48b7-bf6a-d9032645aa55
+430,Groove Armada,1,https://www.last.fm/music/Groove+Armada,35723b60-732e-4bd8-957f-320b416e7b7f
+431,Happy Mondays,1,https://www.last.fm/music/Happy+Mondays,01f4fb92-6bf0-4de5-83dc-3fe194e763bf
+432,Helloween,1,https://www.last.fm/music/Helloween,765774a0-2060-469b-8b7d-612eea48579b
+433,Ian Brown,1,https://www.last.fm/music/Ian+Brown,182d5d8a-94c7-4ef4-8222-a1838353a37b
+434,Jesus Jones,1,https://www.last.fm/music/Jesus+Jones,f9776598-2689-41db-98d3-829f5510021c
+435,Jolie Holland,1,https://www.last.fm/music/Jolie+Holland,66932740-f510-4bc6-b4d0-160bb1f4c723
+436,Justice,1,https://www.last.fm/music/Justice,
+437,Kenickie,1,https://www.last.fm/music/Kenickie,74522ae6-9ddd-4a88-a821-fa5e702bfdab
+438,Leftfield,1,https://www.last.fm/music/Leftfield,369fbad4-6fa4-4dae-9842-a69826cd359d
+439,Link Wray & His Wraymen,1,https://www.last.fm/music/Link+Wray+&+His+Wraymen,
+440,Longpigs,1,https://www.last.fm/music/Longpigs,a7378d57-a9a5-408a-80e0-a14d7203df77
+441,Louis St. Louis,1,https://www.last.fm/music/Louis+St.+Louis,670f3946-cc8a-44fb-b1b8-4482f136e506
+442,Maria McKee,1,https://www.last.fm/music/Maria+McKee,f8276a46-0c87-4d2f-a0d3-f22900f9cbfe
+443,Marilyn Manson,1,https://www.last.fm/music/Marilyn+Manson,
+444,Mogwai,1,https://www.last.fm/music/Mogwai,d700b3f5-45af-4d02-95ed-57d301bda93e
+445,Museum,1,https://www.last.fm/music/Museum,
+446,Paraíso,1,https://www.last.fm/music/Para%C3%ADso,5f062650-e61d-485a-872b-35902e4826ac
+447,Passion Pit,1,https://www.last.fm/music/Passion+Pit,daeec599-bf5d-4428-994a-e76ba5f86e2f
+448,Paul Francis Webster,1,https://www.last.fm/music/Paul+Francis+Webster,b7d69ea7-2f72-43cf-881b-6dc142afdb48
+449,Pery Ribeiro,1,https://www.last.fm/music/Pery+Ribeiro,063d505c-cbdc-4db6-b8d1-02046d61a1e1
+450,RJD2,1,https://www.last.fm/music/RJD2,1a120ec5-35b3-4f3e-aa49-7201550d9feb
+451,Samuel L. Jackson,1,https://www.last.fm/music/Samuel+L.+Jackson,a1c82f09-cc3a-4c94-a518-cba50d9bfab1
+452,Shed Seven,1,https://www.last.fm/music/Shed+Seven,4d8650ba-b4ed-4307-a6c8-368eb646210b
+453,Spiritualized,1,https://www.last.fm/music/Spiritualized,65041e06-83d2-4987-ae52-c17a915fc82a
+454,Stockard Channing,1,https://www.last.fm/music/Stockard+Channing,2e3020a2-6a5f-4011-beaa-302ee622d6a8
+455,The Bluetones,1,https://www.last.fm/music/The+Bluetones,024bea6e-e250-4348-9e69-2dfcad38442e
+456,The Farm,1,https://www.last.fm/music/The+Farm,3a833d3e-9eac-410e-a1d0-707f1f86c5c1
+457,The Knack,1,https://www.last.fm/music/The+Knack,
+458,The Lightning Seeds,1,https://www.last.fm/music/The+Lightning+Seeds,1ba601a0-3401-4b28-8ddd-9af8203661e8
+459,The Lively Ones,1,https://www.last.fm/music/The+Lively+Ones,cd7b4151-2d66-441c-93dd-598817ef04f6
+460,The Long Blondes,1,https://www.last.fm/music/The+Long+Blondes,3efd863f-6a5c-400a-9868-6ef533d51509
+461,The Marketts,1,https://www.last.fm/music/The+Marketts,8d735fa3-9eb7-4f26-a1a1-5fb10013f84e
+462,The Mock Turtles,1,https://www.last.fm/music/The+Mock+Turtles,55c8f303-8c16-4853-bd38-753090fefc54
+463,The Notorious B.I.G.,1,https://www.last.fm/music/The+Notorious+B.I.G.,d5d97b2b-b83b-4976-814a-056d9076c8c3
+464,The Robins,1,https://www.last.fm/music/The+Robins,58bcaf1b-6d5c-478c-8eeb-14ea064d6531
+465,The Soup Dragons,1,https://www.last.fm/music/The+Soup+Dragons,5c42c9cf-5833-41d8-b600-177e70894046
+466,The Statler Brothers,1,https://www.last.fm/music/The+Statler+Brothers,8f0c7db9-6d1c-446b-913c-b5c6811ca6fc
+467,The Teardrop Explodes,1,https://www.last.fm/music/The+Teardrop+Explodes,8002d7ee-2a0e-4ea8-8984-3c69a81a4b7e
+468,The Wonder Stuff,1,https://www.last.fm/music/The+Wonder+Stuff,323c9a5b-ca01-49ad-be39-046223a0c9ae
+469,Urge Overkill,1,https://www.last.fm/music/Urge+Overkill,120e728a-4078-47b7-a31c-d581ade28bde
+470,Vinícius de Moraes,1,https://www.last.fm/music/Vin%C3%ADcius+de+Moraes,
