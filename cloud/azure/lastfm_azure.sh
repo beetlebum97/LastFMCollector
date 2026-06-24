@@ -20,7 +20,7 @@ command -v ansible >/dev/null 2>&1 || { echo "❌ Ansible no instalado"; exit 1;
 
 
 # ==================================================== #
-# DESCARGAR REPOSITORIO (RAMA DEVELOP)                 #
+# DESCARGAR REPOSITORIO (RAMA MAIN)                    #
 # ==================================================== #
 echo -e "\n=== 1. DIRECTORIO DE INSTALACIÓN E INFRAESTRUCTURA ==="
 # Usamos $PWD para que por defecto se instale en la carpeta actual de la terminal
@@ -42,8 +42,8 @@ fi
 echo "🧹 Limpiando instalación previa en '$INSTALL_DIR' (si existe)..."
 rm -rf "$INSTALL_DIR"
 
-echo "📥 Clonando el repositorio desde la rama 'develop' en '$INSTALL_DIR'..."
-git clone -b develop https://github.com/beetlebum97/LastFMCollector.git "$INSTALL_DIR"
+echo "📥 Clonando el repositorio desde la rama 'main' en '$INSTALL_DIR'..."
+git clone -b main https://github.com/beetlebum97/LastFMCollector.git "$INSTALL_DIR"
 
 # ATENCIÓN: A diferencia de local, para Azure necesitamos saltar al directorio cloud
 cd "$INSTALL_DIR/cloud/azure"
