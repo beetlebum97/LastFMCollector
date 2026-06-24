@@ -176,7 +176,7 @@
                     <span id="theme-label">Modo oscuro</span>
                 </button>
                 <form onsubmit="event.preventDefault(); inicializarDashboard();" class="flex gap-2">
-                    <input type="text" id="username" placeholder="Usuario (ej. hayman3030)" class="s-input" style="min-width:200px;">
+                    <input type="text" id="username" placeholder="Usuario (ej. hayman3030)" class="s-input" style="min-width:200px;" value="hayman3030">
                     <button type="submit" class="s-btn">Buscar</button>
                 </form>
             </div>
@@ -451,6 +451,8 @@
             }
             el.innerHTML = datos.map(item=>`<li class="row-item">${tpl(item)}</li>`).join('');
         }
+        // Carga automática al arrancar la página
+        document.addEventListener("DOMContentLoaded", () => inicializarDashboard());
     </script>
 </body>
 </html>
