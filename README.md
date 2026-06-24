@@ -1,4 +1,4 @@
-# 🎵 LastFM Collector
+# 🎵 LastFMCollector
 
 Pipeline ETL completo para extraer, procesar y visualizar tu historial de escuchas de Last.fm. Descarga tus scrobbles y top artistas/álbumes/canciones, los transforma en capas medallion (Raw → Staging → Curated) y los expone a través de un dashboard interactivo.
 
@@ -59,7 +59,7 @@ LastFMCollector/
 Desde Azure Cloud Shell, en un solo comando:
 
 ```bash
-wget -qO- https://raw.githubusercontent.com/beetlebum97/LastFMCollector/develop/cloud/azure/lastfm_azure.sh | bash
+wget -qO- https://raw.githubusercontent.com/beetlebum97/LastFMCollector/main/cloud/azure/lastfm_azure.sh | bash
 ```
 
 El script se encarga de todo:
@@ -81,9 +81,7 @@ El script se encarga de todo:
 **Requisitos:** Python 3.x y Docker instalados.
 
 ```bash
-git clone -b develop https://github.com/beetlebum97/LastFMCollector.git
-cd LastFMCollector
-bash deploy/deploy_local.sh
+wget -qO- https://raw.githubusercontent.com/beetlebum97/LastFMCollector/main/deploy/deploy_local.sh | bash
 ```
 
 El script crea el entorno virtual, instala dependencias, lanza PostgreSQL en Docker, ejecuta el pipeline y levanta la API. El dashboard queda disponible en `http://<tu-ip-local>:8000`.
