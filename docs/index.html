@@ -1,0 +1,456 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Last.fm | Curated Dashboard</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        /* ── TOKENS ─────────────────────────────────────── */
+        :root {
+            /* RED MODE */
+            --bg:           #D51007;
+            --bg2:          rgba(0,0,0,0.22);
+            --bg3:          rgba(0,0,0,0.15);
+            --card-bg:      rgba(255,255,255,0.11);
+            --card-border:  rgba(255,255,255,0.18);
+            --card-hover:   rgba(255,255,255,0.18);
+            --nav-bg:       rgba(0,0,0,0.28);
+            --nav-border:   rgba(0,0,0,0.18);
+            --filter-bg:    rgba(0,0,0,0.18);
+            --text-1:       #ffffff;
+            --text-2:       #ffffff;
+            --text-3:       rgba(255,255,255,0.60);
+            --text-rank:    #ff9b96;
+            --pill-bg:      rgba(0,0,0,0.30);
+            --pill-text:    #fff;
+            --divider:      rgba(255,255,255,0.13);
+            --bar-bg:       rgba(255,255,255,0.20);
+            --bar-fill:     #fff;
+            --input-bg:     rgba(0,0,0,0.22);
+            --input-border: rgba(255,255,255,0.22);
+            --input-focus:  rgba(255,255,255,0.70);
+            --btn-bg:       rgba(0,0,0,0.32);
+            --btn-hover:    rgba(0,0,0,0.48);
+            --pag-bg:       rgba(0,0,0,0.22);
+            --stat-top:     rgba(255,255,255,0.55);
+            --scrobble-bar: #ff9b96;
+            --date-color:   #ff9b96;
+            --toggle-icon:  "🌙";
+        }
+        html.dark {
+            /* DARK MODE */
+            --bg:           #111111;
+            --bg2:          #1a1a1a;
+            --bg3:          #161616;
+            --card-bg:      #1a1a1a;
+            --card-border:  #2a2a2a;
+            --card-hover:   #222;
+            --nav-bg:       #1a1a1a;
+            --nav-border:   #2a2a2a;
+            --filter-bg:    #161616;
+            --text-1:       #ffffff;
+            --text-2:       #d1d5db;
+            --text-3:       #9ca3af;
+            --text-rank:    #D51007;
+            --pill-bg:      rgba(213,16,7,0.18);
+            --pill-text:    #ff6b63;
+            --divider:      #2a2a2a;
+            --bar-bg:       #2a2a2a;
+            --bar-fill:     #D51007;
+            --input-bg:     #2a2a2a;
+            --input-border: #3a3a3a;
+            --input-focus:  #D51007;
+            --btn-bg:       #D51007;
+            --btn-hover:    #b00e06;
+            --pag-bg:       #2a2a2a;
+            --stat-top:     #D51007;
+            --scrobble-bar: #D51007;
+            --date-color:   #D51007;
+            --toggle-icon:  "☀️";
+        }
+
+        /* ── BASE ────────────────────────────────────────── */
+        * { box-sizing: border-box; }
+        body { background: var(--bg); color: var(--text-1); font-family: ui-sans-serif, system-ui, sans-serif; min-height: 100vh; transition: background 0.3s; }
+
+        ::-webkit-scrollbar { width: 7px; }
+        ::-webkit-scrollbar-track { background: var(--bg2); }
+        ::-webkit-scrollbar-thumb { background: var(--divider); border-radius: 4px; }
+        ::-webkit-scrollbar-thumb:hover { background: var(--text-3); }
+
+        /* ── NAV ─────────────────────────────────────────── */
+        .nav-bar { background: var(--nav-bg); border-bottom: 1px solid var(--nav-border); padding: 10px 0; }
+
+        /* ── FILTER BAR ──────────────────────────────────── */
+        .filter-strip { background: var(--filter-bg); border-bottom: 1px solid var(--nav-border); padding: 8px 0; }
+
+        /* ── INPUTS / BUTTONS ────────────────────────────── */
+        .s-input {
+            background: var(--input-bg); color: var(--text-1);
+            border: 1px solid var(--input-border); border-radius: 6px;
+            padding: 7px 14px; font-size: 0.85rem; transition: border 0.15s, box-shadow 0.15s;
+        }
+        .s-input::placeholder { color: var(--text-3); }
+        .s-input:focus { outline: none; border-color: var(--input-focus); box-shadow: 0 0 0 2px color-mix(in srgb, var(--input-focus) 25%, transparent); }
+
+        .s-btn {
+            background: var(--btn-bg); color: var(--text-1);
+            border: 1px solid var(--input-border); border-radius: 6px;
+            padding: 7px 18px; font-size: 0.85rem; font-weight: 700; cursor: pointer; transition: background 0.15s;
+        }
+        .s-btn:hover { background: var(--btn-hover); }
+
+        /* ── TOGGLE ──────────────────────────────────────── */
+        .toggle-btn {
+            background: var(--pag-bg); color: var(--text-1);
+            border: 1px solid var(--input-border); border-radius: 20px;
+            padding: 5px 13px; font-size: 0.78rem; font-weight: 600; cursor: pointer;
+            display: flex; align-items: center; gap: 6px; transition: background 0.15s; white-space: nowrap;
+        }
+        .toggle-btn:hover { background: var(--btn-hover); }
+
+        /* ── CARDS ───────────────────────────────────────── */
+        .glass { background: var(--card-bg); border: 1px solid var(--card-border); border-radius: 12px; }
+        .stat-card { border-top: 3px solid var(--stat-top); }
+
+        /* ── COLUMN TITLES ───────────────────────────────── */
+        .col-title {
+            color: var(--text-1); font-weight: 800; font-size: 0.78rem;
+            letter-spacing: 0.09em; text-transform: uppercase;
+            border-bottom: 1px solid var(--divider); padding-bottom: 10px; margin-bottom: 12px;
+        }
+
+        /* ── LIST ROWS ───────────────────────────────────── */
+        .row-item { padding: 6px 5px; border-radius: 5px; border-bottom: 1px solid var(--divider); transition: background 0.12s; cursor: default; }
+        .row-item:last-child { border-bottom: none; }
+        .row-item:hover { background: var(--card-hover); }
+
+        /* ── TEXT ROLES ──────────────────────────────────── */
+        .t1 { color: var(--text-1); font-size: 0.84rem; font-weight: 600; }
+        .t2 { color: var(--text-2); font-size: 0.75rem; font-weight: 500; }
+        .t3 { color: var(--text-3); font-size: 0.72rem; }
+        .rank { color: var(--text-rank); font-size: 0.68rem; font-weight: 700; margin-right: 3px; }
+
+        /* ── PILL (playcount) ────────────────────────────── */
+        .pill { background: var(--pill-bg); color: var(--pill-text); font-size: 0.72rem; font-weight: 700; padding: 2px 8px; border-radius: 20px; white-space: nowrap; flex-shrink: 0; }
+
+        /* ── PROGRESS BAR ────────────────────────────────── */
+        .bar-bg { background: var(--bar-bg); border-radius: 2px; height: 3px; margin-top: 5px; }
+        .bar-fill { background: var(--bar-fill); border-radius: 2px; height: 3px; transition: width 0.35s ease; }
+
+        /* ── SCROBBLE ────────────────────────────────────── */
+        .scrobble-line { border-left: 2px solid var(--scrobble-bar); padding-left: 10px; }
+        .date-badge { color: var(--date-color); font-size: 0.7rem; white-space: nowrap; flex-shrink: 0; }
+
+        /* ── PAGINATION ──────────────────────────────────── */
+        .pag-btn { background: var(--pag-bg); color: var(--text-1); border: 1px solid var(--divider); border-radius: 5px; padding: 3px 11px; font-size: 0.75rem; font-weight: 800; cursor: pointer; transition: background 0.12s; }
+        .pag-btn:hover:not([disabled]) { filter: brightness(1.25); }
+        .pag-btn[disabled] { opacity: 0.3; cursor: not-allowed; }
+        .pag-inp { background: var(--pag-bg); color: var(--text-1); border: 1px solid var(--divider); border-radius: 4px; width: 36px; text-align: center; font-size: 0.72rem; padding: 2px 4px; }
+        .pag-inp:focus { outline: none; border-color: var(--input-focus); }
+        input[type=number]::-webkit-outer-spin-button,
+        input[type=number]::-webkit-inner-spin-button { -webkit-appearance: none; }
+        input[type=number] { -moz-appearance: textfield; }
+
+        /* ── STAT CARD INTERNALS ─────────────────────────── */
+        .stat-val { color: var(--text-1); font-size: 1.95rem; font-weight: 800; line-height: 1.1; }
+        .stat-lbl { color: var(--text-2); font-size: 0.68rem; letter-spacing: 0.1em; text-transform: uppercase; margin: 4px 0 2px; }
+        .stat-icon { font-size: 1.25rem; margin-bottom: 2px; }
+
+        /* ── STATUS ──────────────────────────────────────── */
+        #status-message { color: var(--text-3); }
+    </style>
+</head>
+<body class="min-h-screen">
+
+    <nav class="nav-bar">
+        <div class="container mx-auto px-6 flex justify-between items-center gap-4">
+            <div class="flex items-center gap-3 flex-shrink-0">
+                <img src="data:image/png;base64,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" style="height:34px;border-radius:7px;flex-shrink:0;" alt="LastFMCollector">
+                <span style="font-size:1.15rem;font-weight:800;color:var(--text-1);letter-spacing:-0.01em;">LastFM<span style="color:#ff9b96;font-weight:300;">Collector</span></span>
+            </div>
+            <div class="flex items-center gap-3">
+                <button class="toggle-btn" id="theme-toggle" onclick="toggleTheme()">
+                    <span id="theme-icon">🌙</span>
+                    <span id="theme-label">Modo oscuro</span>
+                </button>
+                <form onsubmit="event.preventDefault(); inicializarDashboard();" class="flex gap-2">
+                    <input type="text" id="username" placeholder="Usuario (ej. hayman3030)" class="s-input" style="min-width:200px;">
+                    <button type="submit" class="s-btn">Buscar</button>
+                </form>
+            </div>
+        </div>
+    </nav>
+
+    <div id="filter-bar" class="filter-strip hidden">
+        <div class="container mx-auto px-6 flex items-center gap-3">
+            <span class="t3" style="white-space:nowrap;">Filtrar:</span>
+            <div class="relative" style="max-width:280px;flex:1;">
+                <input type="text" id="filter-input" placeholder="Artista, canción, álbum..." class="s-input w-full" style="padding-top:5px;padding-bottom:5px;padding-right:28px;font-size:0.8rem;">
+                <button id="filter-clear" onclick="limpiarFiltro()" class="absolute right-2 top-1/2 -translate-y-1/2 hidden t3 hover:text-white" style="font-size:1.1rem;line-height:1;">×</button>
+            </div>
+            <span id="filter-status" class="t3"></span>
+        </div>
+    </div>
+
+    <main class="container mx-auto px-6 py-6 hidden" id="dashboard">
+        <div class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-4 gap-4 mb-6" id="stats-container"></div>
+        <div class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-4 gap-4">
+
+            <div class="glass p-5 flex flex-col justify-between" style="min-height:650px;">
+                <div><div class="col-title">Top Artistas</div><ul id="list-artists"></ul></div>
+                <div id="pag-artists" class="flex justify-between items-center mt-4 pt-3" style="border-top:1px solid var(--divider);"></div>
+            </div>
+
+            <div class="glass p-5 flex flex-col justify-between" style="min-height:650px;">
+                <div><div class="col-title">Top Álbumes</div><ul id="list-albums"></ul></div>
+                <div id="pag-albums" class="flex justify-between items-center mt-4 pt-3" style="border-top:1px solid var(--divider);"></div>
+            </div>
+
+            <div class="glass p-5 flex flex-col justify-between" style="min-height:650px;">
+                <div><div class="col-title">Top Canciones</div><ul id="list-tracks"></ul></div>
+                <div id="pag-tracks" class="flex justify-between items-center mt-4 pt-3" style="border-top:1px solid var(--divider);"></div>
+            </div>
+
+            <div class="glass p-5 flex flex-col justify-between" style="min-height:650px;">
+                <div><div class="col-title">Últimos Scrobbles</div><ul id="list-scrobbles"></ul></div>
+                <div id="pag-scrobbles" class="flex justify-between items-center mt-4 pt-3" style="border-top:1px solid var(--divider);"></div>
+            </div>
+
+        </div>
+    </main>
+
+    <div id="status-message" class="text-center mt-24 text-base">
+        Introduce un nombre de usuario para ver sus estadísticas procesadas.
+    </div>
+
+    <script>
+        // ── THEME ────────────────────────────────────────────
+        function applyTheme(dark) {
+            document.documentElement.classList.toggle('dark', dark);
+            document.getElementById('theme-icon').textContent  = dark ? '☀️' : '🌙';
+            document.getElementById('theme-label').textContent = dark ? 'Modo claro' : 'Modo oscuro';
+            localStorage.setItem('lfm-theme', dark ? 'dark' : 'light');
+        }
+        function toggleTheme() { applyTheme(!document.documentElement.classList.contains('dark')); }
+        // Init from saved preference — light (red) is the default
+        applyTheme(localStorage.getItem('lfm-theme') === 'dark');
+
+        // ── STATE ────────────────────────────────────────────
+        // GitHub Pages: lee JSON estáticos desde data/{usuario}/
+        const DATA_BASE_URL = "./data";
+        let usuarioActual = "";
+        let paginas = { artists:1, albums:1, tracks:1, scrobbles:1 };
+        const LIMITE = 10;
+        let filtroActivo = "";
+        let cacheData = { artists:[], albums:[], tracks:[], scrobbles:[] };
+        let maxPC = { artists:1, albums:1, tracks:1 };
+
+        // ── FILTER ───────────────────────────────────────────
+        document.getElementById("filter-input").addEventListener("input", function() {
+            filtroActivo = this.value.trim().toLowerCase();
+            document.getElementById("filter-clear").classList.toggle("hidden", !filtroActivo);
+            paginas = { artists:1, albums:1, tracks:1, scrobbles:1 };
+            aplicarFiltro();
+        });
+
+        function limpiarFiltro() {
+            filtroActivo = "";
+            document.getElementById("filter-input").value = "";
+            document.getElementById("filter-clear").classList.add("hidden");
+            document.getElementById("filter-status").textContent = "";
+            paginas = { artists:1, albums:1, tracks:1, scrobbles:1 };
+            aplicarFiltro();
+        }
+
+        function filtrarDatos(tipo, datos) {
+            if (!filtroActivo) return datos;
+            return datos.filter(item =>
+                (item.artist_name||"").toLowerCase().includes(filtroActivo) ||
+                (item.track_name||"").toLowerCase().includes(filtroActivo) ||
+                (item.album_name||"").toLowerCase().includes(filtroActivo)
+            );
+        }
+
+        function aplicarFiltro() {
+            let total = 0;
+            ["artists","albums","tracks","scrobbles"].forEach(tipo => {
+                const f = filtrarDatos(tipo, cacheData[tipo]);
+                total += f.length;
+                const s = (paginas[tipo]-1)*LIMITE;
+                renderizarEntidad(tipo, f.slice(s, s+LIMITE));
+                renderPag(tipo, paginas[tipo], f.length);
+            });
+            if (filtroActivo) {
+                const q = document.getElementById("filter-input").value.trim();
+                document.getElementById("filter-status").innerHTML = total > 0
+                    ? `${total} resultado${total!==1?'s':''} — <strong style="color:var(--text-1)">${q}</strong>`
+                    : `Sin resultados — <strong style="color:var(--text-1)">${q}</strong>`;
+            } else {
+                document.getElementById("filter-status").textContent = "";
+            }
+        }
+
+        function cambiarPag(tipo, dir) { paginas[tipo]+=dir; aplicarFiltro(); }
+        function irAPagina(tipo, val, max) { paginas[tipo]=Math.max(1,Math.min(parseInt(val)||1,max)); aplicarFiltro(); }
+
+        function renderPag(tipo, cur, total) {
+            const el = document.getElementById(`pag-${tipo}`);
+            const pages = Math.ceil(total/LIMITE)||1;
+            el.innerHTML = `
+                <button class="pag-btn" onclick="if(${cur}>1) cambiarPag('${tipo}',-1)" ${cur<=1?'disabled':''}>‹</button>
+                <div style="display:flex;align-items:center;gap:5px;color:var(--text-3);font-size:0.72rem;">
+                    <input type="number" class="pag-inp" min="1" max="${pages}" value="${cur}"
+                        onchange="irAPagina('${tipo}',this.value,${pages})"
+                        onkeydown="if(event.key==='Enter')irAPagina('${tipo}',this.value,${pages})">
+                    <span>/ ${pages}</span>
+                </div>
+                <button class="pag-btn" onclick="if(${cur}<${pages}) cambiarPag('${tipo}',1)" ${cur>=pages?'disabled':''}>›</button>`;
+        }
+
+        // ── DATA ─────────────────────────────────────────────
+        function formatFecha(item) {
+            let f = item.date_time||item.fecha_hora||item.timestamp_iso||item.fecha;
+            if (!f||f==="Ahora") return "Ahora";
+            return f.replace("T"," ").split("+")[0].trim();
+        }
+
+        async function inicializarDashboard() {
+            const u = document.getElementById("username").value.trim();
+            if (!u) return;
+            usuarioActual = u;
+            paginas = { artists:1, albums:1, tracks:1, scrobbles:1 };
+            limpiarFiltro();
+            document.getElementById("filter-bar").classList.add("hidden");
+            await cargarStats();
+            await Promise.all(["artists","albums","tracks","scrobbles"].map(cargarBloque));
+            document.getElementById("filter-bar").classList.remove("hidden");
+        }
+
+        async function cargarStats() {
+            const dash = document.getElementById("dashboard");
+            const msg  = document.getElementById("status-message");
+            dash.classList.add("hidden"); msg.classList.remove("hidden");
+            msg.innerHTML = `<span style="color:var(--text-2);" class="animate-pulse">Cargando datos de ${usuarioActual}…</span>`;
+            try {
+                // Cargamos todos los JSON en paralelo directamente desde /data/
+                const archivos = {
+                    artists:  "top_artists_curated.json",
+                    albums:   "top_albums_curated.json",
+                    tracks:   "top_tracks_curated.json",
+                    scrobbles:"scrobbles_curated.json"
+                };
+                const base = `${DATA_BASE_URL}/${usuarioActual}`;
+                const [ra, rl, rt, rs] = await Promise.all(
+                    Object.values(archivos).map(f => fetch(`${base}/${f}`).then(r => {
+                        if (!r.ok) throw new Error("Usuario no encontrado o sin datos procesados.");
+                        return r.json();
+                    }))
+                );
+                cacheData.artists   = ra || [];
+                cacheData.albums    = rl || [];
+                cacheData.tracks    = rt || [];
+                cacheData.scrobbles = rs || [];
+
+                maxPC.artists = Math.max(...cacheData.artists.map(d=>d.playcount||0)) || 1;
+                maxPC.albums  = Math.max(...cacheData.albums.map(d=>d.playcount||0))  || 1;
+                maxPC.tracks  = Math.max(...cacheData.tracks.map(d=>d.playcount||0))  || 1;
+
+                document.getElementById("stats-container").innerHTML =
+                    stat("Artistas Únicos",  cacheData.artists.length,   "🎤") +
+                    stat("Álbumes Únicos",   cacheData.albums.length,    "💿") +
+                    stat("Canciones Únicas", cacheData.tracks.length,    "🎵") +
+                    stat("Scrobbles Totales",cacheData.scrobbles.length, "📡");
+                msg.classList.add("hidden"); dash.classList.remove("hidden");
+                aplicarFiltro();
+            } catch(e) {
+                msg.innerHTML = `<span style="color:var(--text-2);">✗ ${e.message}</span>`;
+            }
+        }
+
+        async function cargarBloque(tipo) {
+            // En la versión estática los datos ya se cargan todos en cargarStats()
+            // Esta función queda vacía para mantener compatibilidad con inicializarDashboard()
+        }
+
+        // ── RENDER ───────────────────────────────────────────
+        function barra(pc, max) {
+            const w = Math.max(3, Math.round((pc/max)*100));
+            return `<div class="bar-bg"><div class="bar-fill" style="width:${w}%"></div></div>`;
+        }
+
+        function renderizarEntidad(tipo, lista) {
+            if (tipo==="artists") renderLista("list-artists", lista, item=>`
+                <div>
+                    <div style="display:flex;justify-content:space-between;align-items:baseline;gap:6px;">
+                        <span class="t1" style="overflow:hidden;text-overflow:ellipsis;white-space:nowrap;min-width:0;">
+                            <span class="rank">${item.rank||'-'}.</span>${item.artist_name||'?'}
+                        </span>
+                        <span class="pill">${(item.playcount||0).toLocaleString('es-ES')} <span style="opacity:0.55;">${item.playcount_pct||0}%</span></span>
+                    </div>
+                    ${barra(item.playcount||0, maxPC.artists)}
+                </div>`);
+
+            if (tipo==="albums") renderLista("list-albums", lista, item=>`
+                <div>
+                    <div style="display:flex;justify-content:space-between;align-items:flex-start;gap:6px;">
+                        <div style="min-width:0;">
+                            <div class="t1" style="overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">
+                                <span class="rank">${item.rank||'-'}.</span>${item.album_name||'?'}
+                            </div>
+                            <div class="t2" style="overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">${item.artist_name||'?'}</div>
+                        </div>
+                        <span class="pill">${(item.playcount||0).toLocaleString('es-ES')}</span>
+                    </div>
+                    ${barra(item.playcount||0, maxPC.albums)}
+                </div>`);
+
+            if (tipo==="tracks") renderLista("list-tracks", lista, item=>`
+                <div>
+                    <div style="display:flex;justify-content:space-between;align-items:flex-start;gap:6px;">
+                        <div style="min-width:0;">
+                            <div class="t1" style="overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">
+                                <span class="rank">${item.rank||'-'}.</span>${item.track_name||'?'}
+                            </div>
+                            <div class="t2" style="overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">${item.artist_name||'?'}</div>
+                        </div>
+                        <span class="pill">${(item.playcount||0).toLocaleString('es-ES')}</span>
+                    </div>
+                    ${barra(item.playcount||0, maxPC.tracks)}
+                </div>`);
+
+            if (tipo==="scrobbles") renderLista("list-scrobbles", lista, item=>`
+                <div class="scrobble-line">
+                    <div class="t1" style="overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">
+                        ${item.track_name||'?'} <span class="t3" style="font-weight:400;">by</span> ${item.artist_name||'?'}
+                    </div>
+                    <div style="display:flex;justify-content:space-between;align-items:center;margin-top:2px;gap:6px;">
+                        <span class="t2" style="overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">${item.album_name||'Single'}</span>
+                        <span class="date-badge">${formatFecha(item)}</span>
+                    </div>
+                </div>`);
+        }
+
+        function stat(titulo, valor, icono) {
+            return `<div class="glass p-5 text-center stat-card">
+                <div class="stat-icon">${icono}</div>
+                <div class="stat-lbl">${titulo}</div>
+                <div class="stat-val">${(valor||0).toLocaleString('es-ES')}</div>
+            </div>`;
+        }
+
+        function renderLista(id, datos, tpl) {
+            const el = document.getElementById(id);
+            if (!datos||datos.length===0) {
+                const q = document.getElementById("filter-input").value.trim();
+                el.innerHTML = filtroActivo
+                    ? `<li style="text-align:center;padding:24px 0;" class="t3">Sin resultados para "<strong style="color:var(--text-1)">${q}</strong>"</li>`
+                    : `<li style="text-align:center;padding:24px 0;" class="t3">No hay registros.</li>`;
+                return;
+            }
+            el.innerHTML = datos.map(item=>`<li class="row-item">${tpl(item)}</li>`).join('');
+        }
+    </script>
+</body>
+</html>
