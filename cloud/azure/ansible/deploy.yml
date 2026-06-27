@@ -20,11 +20,11 @@
         state: present
         update_cache: yes
 
-    - name: Clonar la rama 'develop' del repositorio
+    - name: Clonar la rama 'main' del repositorio
       git:
         repo: 'https://github.com/beetlebum97/LastFMCollector.git'
         dest: /opt/LastFMCollector
-        version: develop
+        version: main
         force: yes
 
     - name: Levantar la Infraestructura Docker (PostgreSQL + FastAPI)
