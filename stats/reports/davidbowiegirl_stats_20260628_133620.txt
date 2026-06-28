@@ -5,11 +5,11 @@
 
 PAÍS        : Finland
 MIEMBRO     : 2008-11-13
-ARTISTAS    : 3.844
-ALBUMS      : 9.908
-CANCIONES   : 27.416
-FAVORITAS   : 9.888
-SCROBBLES   : 55.708
+ARTISTAS    : 3.847
+ALBUMS      : 9.919
+CANCIONES   : 27.434
+FAVORITAS   : 9.895
+SCROBBLES   : 55.758
 
 TOP ARTISTAS
 1. David Bowie (1852)
@@ -33,8 +33,8 @@ TOP CANCIONES
 5. Lust For Life - Iggy Pop (33)
 
 ÚLTIMOS SCROBBLES
-- Wednesday (2023 Remaster) | Tori Amos | 22 Jun 2026, 23:21
-- Trouble's Lament | Tori Amos | 22 Jun 2026, 23:17
-- Professional Widow - Armand's Star Trunk Funk Mix | Tori Amos | 22 Jun 2026, 23:12
-- Defiance | Iced Earth | 22 Jun 2026, 23:01
-- Brothers | Iced Earth | 22 Jun 2026, 22:56
+- Psychosocial | Slipknot | 27 Jun 2026, 23:13
+- We’re an American Band | Rob Zombie | 27 Jun 2026, 23:02
+- More Human Than Human | White Zombie | 27 Jun 2026, 22:01
+- Dead City Radio and the New Gods of Supertown | Rob Zombie | 27 Jun 2026, 21:51
+- Heathen Days | Rob Zombie | 27 Jun 2026, 21:32

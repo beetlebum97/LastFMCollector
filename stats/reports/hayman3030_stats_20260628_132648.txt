@@ -5,15 +5,15 @@
 
 PAÍS        : Spain
 MIEMBRO     : 2015-03-11
-ARTISTAS    : 470
-ALBUMS      : 1.253
-CANCIONES   : 11.118
+ARTISTAS    : 476
+ALBUMS      : 1.262
+CANCIONES   : 11.126
 FAVORITAS   : 182
-SCROBBLES   : 42.598
+SCROBBLES   : 42.628
 
 TOP ARTISTAS
-1. Blur (2344)
-2. Lou Reed (1286)
+1. Blur (2345)
+2. Lou Reed (1287)
 3. David Bowie (1228)
 4. The Beatles (1153)
 5. The Doors (1076)
@@ -33,8 +33,8 @@ TOP CANCIONES
 5. City Lights - Lou Reed (69)
 
 ÚLTIMOS SCROBBLES
-- Someone's Missing | MGMT | 24 Jun 2026, 02:48
-- The Funny Bird | Mercury Rev | 24 Jun 2026, 02:42
-- Real Real Real | Jesus Jones | 24 Jun 2026, 02:36
-- Tequila | Terrorvision | 24 Jun 2026, 02:32
-- The Life Of Riley | The Lightning Seeds | 24 Jun 2026, 02:28
+- Bodies | Sex Pistols | 27 Jun 2026, 11:34
+- Today Tomorrow Sometime Never | Echobelly | 27 Jun 2026, 11:29
+- Caught by the Fuzz | Supergrass | 27 Jun 2026, 11:26
+- Trash | Suede | 27 Jun 2026, 11:21
+- What Do I Get? | Buzzcocks | 26 Jun 2026, 19:42
