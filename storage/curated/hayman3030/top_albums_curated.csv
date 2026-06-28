@@ -1,6 +1,6 @@
 rank,album_name,artist_name,playcount,playcount_pct
 1,Parklife,Blur,437,1.03
-2,My Way the Best of Frank Sinatra,Frank Sinatra,381,0.9
+2,My Way the Best of Frank Sinatra,Frank Sinatra,381,0.89
 3,The Doors,The Doors,346,0.81
 4,The Boss,Diana Ross,333,0.78
 5,Breakfast in America,Supertramp,319,0.75
@@ -14,7 +14,7 @@ rank,album_name,artist_name,playcount,playcount_pct
 13,Diana,Diana Ross,236,0.55
 14,Arthur (Or the Decline and Fall of the British Empire),The Kinks,221,0.52
 15,Coney Island Baby,Lou Reed,217,0.51
-16,The Blue Mask,Lou Reed,211,0.5
+16,The Blue Mask,Lou Reed,212,0.5
 17,Berlin,Lou Reed,209,0.49
 18,OK Computer,Radiohead,189,0.44
 19,The Beatles [White Album] Disc 1,The Beatles,188,0.44
@@ -22,7 +22,7 @@ rank,album_name,artist_name,playcount,playcount_pct
 21,Bad Reputation,Thin Lizzy,184,0.43
 22,Crystal Castles,Crystal Castles,178,0.42
 23,Something Else By The Kinks,The Kinks,178,0.42
-24,Surfer Rosa,Pixies,175,0.41
+24,Surfer Rosa,Pixies,176,0.41
 25,Trompe le Monde,Pixies,174,0.41
 26,Rubber Soul,The Beatles,174,0.41
 27,Hunky Dory,David Bowie,171,0.4
@@ -37,12 +37,12 @@ rank,album_name,artist_name,playcount,playcount_pct
 36,Children of the World,Bee Gees,145,0.34
 37,Doolittle,Pixies,145,0.34
 38,The Bells,Lou Reed,143,0.34
-39,Smart,Sleeper,142,0.33
-40,The Ballad of Darren,Blur,140,0.33
+39,Smart,Sleeper,143,0.34
+40,The Ballad of Darren,Blur,141,0.33
 41,John Lennon/Plastic Ono Band,John Lennon,140,0.33
 42,Songs in the Key of Life (disc 1),Stevie Wonder,140,0.33
-43,13,Blur,138,0.32
-44,Imagine,John Lennon,138,0.32
+43,Imagine,John Lennon,139,0.33
+44,13,Blur,138,0.32
 45,Waiting for the Sun,The Doors,138,0.32
 46,Bayou Country,Creedence Clearwater Revival,137,0.32
 47,A Night at the Opera,Queen,137,0.32
@@ -52,16 +52,16 @@ rank,album_name,artist_name,playcount,playcount_pct
 51,International Velvet,Catatonia,132,0.31
 52,Lodger,David Bowie,131,0.31
 53,Music From Big Pink,The Band,129,0.3
-54,Up the Bracket,The Libertines,128,0.3
+54,Up the Bracket,The Libertines,129,0.3
 55,Goodbye Yellow Brick Road,Elton John,127,0.3
 56,Off the Wall,Michael Jackson,127,0.3
-57,Imagination,Gladys Knight & The Pips,126,0.3
-58,This Is Hardcore,Pulp,126,0.3
+57,This Is Hardcore,Pulp,127,0.3
+58,Imagination,Gladys Knight & The Pips,126,0.3
 59,Discovery,Electric Light Orchestra,122,0.29
 60,The Dark Side of the Moon,Pink Floyd,122,0.29
 61,Demon Days,Gorillaz,121,0.28
 62,Nevermind,Nirvana,121,0.28
-63,I Should Coco,Supergrass,119,0.28
+63,I Should Coco,Supergrass,120,0.28
 64,The Beatles [White Album] Disc 2,The Beatles,119,0.28
 65,Lennon Legend,John Lennon,117,0.27
 66,Ace of Spades,Motörhead,116,0.27
@@ -81,15 +81,15 @@ rank,album_name,artist_name,playcount,playcount_pct
 80,Bloodsports,Suede,105,0.25
 81,More Songs About Buildings and Food,Talking Heads,105,0.25
 82,Pet Sounds,The Beach Boys,105,0.25
-83,Living in the Material World,George Harrison,103,0.24
-84,K,Kula Shaker,103,0.24
-85,Transformer,Lou Reed,103,0.24
-86,"Never Mind The Bollocks, Here's The Sex Pistols",Sex Pistols,103,0.24
+83,"Never Mind The Bollocks, Here's The Sex Pistols",Sex Pistols,104,0.24
+84,Living in the Material World,George Harrison,103,0.24
+85,K,Kula Shaker,103,0.24
+86,Transformer,Lou Reed,103,0.24
 87,Urban Hymns,The Verve,103,0.24
 88,Green River,Creedence Clearwater Revival,101,0.24
 89,The Rise and Fall of Ziggy Stardust and the Spiders From Mars,David Bowie,101,0.24
-90,Currents,Tame Impala,100,0.23
-91,Coming Up,Suede,99,0.23
+90,Coming Up,Suede,100,0.23
+91,Currents,Tame Impala,100,0.23
 92,Killers,Iron Maiden,98,0.23
 93,Sin After Sin,Judas Priest,98,0.23
 94,The Secret Migration,Mercury Rev,98,0.23
@@ -119,9 +119,9 @@ rank,album_name,artist_name,playcount,playcount_pct
 118,Blonde on Blonde,Bob Dylan,84,0.2
 119,The Bends,Radiohead,84,0.2
 120,Steppenwolf,Steppenwolf,84,0.2
-121,The Spinning Top,Graham Coxon,83,0.2
-122,Wowee Zowee,Pavement,83,0.2
-123,Nightlife,Thin Lizzy,83,0.2
+121,The Spinning Top,Graham Coxon,83,0.19
+122,Wowee Zowee,Pavement,83,0.19
+123,Nightlife,Thin Lizzy,83,0.19
 124,Ross,Diana Ross,82,0.19
 125,Innerspeaker,Tame Impala,82,0.19
 126,The Who Sell Out,The Who,82,0.19
@@ -157,9 +157,9 @@ rank,album_name,artist_name,playcount,playcount_pct
 156,Johnny the Fox,Thin Lizzy,73,0.17
 157,Diamond Dogs,David Bowie,72,0.17
 158,Revolver,The Beatles,72,0.17
-159,If You Can Believe Your Eyes and Ears,The Mamas & the Papas,71,0.17
-160,Californication,Red Hot Chili Peppers,70,0.16
-161,Giant Steps,The Boo Radleys,70,0.16
+159,Giant Steps,The Boo Radleys,71,0.17
+160,If You Can Believe Your Eyes and Ears,The Mamas & the Papas,71,0.17
+161,Californication,Red Hot Chili Peppers,70,0.16
 162,Elastica,Elastica,69,0.16
 163,Dog Man Star,Suede,69,0.16
 164,Mellon Collie and the Infinite Sadness (Dawn to Dusk),The Smashing Pumpkins,69,0.16
@@ -167,11 +167,11 @@ rank,album_name,artist_name,playcount,playcount_pct
 166,Maneras de vivir (Todos los grandes éxitos),Leno,68,0.16
 167,Veneno En La Piel,Radio Futura,68,0.16
 168,Innervisions,Stevie Wonder,68,0.16
-169,McCartney II,Paul McCartney,66,0.16
-170,End of the Century,Ramones,66,0.16
-171,Road to Ruin,Ramones,66,0.16
-172,Merrie Land,"The Good, the Bad & the Queen",66,0.16
-173,Face to Face,The Kinks,66,0.16
+169,McCartney II,Paul McCartney,66,0.15
+170,End of the Century,Ramones,66,0.15
+171,Road to Ruin,Ramones,66,0.15
+172,Merrie Land,"The Good, the Bad & the Queen",66,0.15
+173,Face to Face,The Kinks,66,0.15
 174,Rocks,Aerosmith,65,0.15
 175,The Now Now,Gorillaz,65,0.15
 176,El Espíritu Del Vino,Héroes del Silencio,65,0.15
@@ -222,17 +222,17 @@ rank,album_name,artist_name,playcount,playcount_pct
 221,Best of Specials,The Specials,55,0.13
 222,The Velvet Underground & Nico,The Velvet Underground,55,0.13
 223,Fighting,Thin Lizzy,55,0.13
-224,Everyday Robots,Damon Albarn,54,0.13
-225,Juez y Parte,Joaquín Sabina,54,0.13
-226,Sally Can't Dance,Lou Reed,54,0.13
-227,Tragic Kingdom,No Doubt,54,0.13
-228,The Gift,The Jam,54,0.13
-229,Is This It,The Strokes,54,0.13
-230,Weezer (The Blue Album),Weezer,54,0.13
-231,Highway 61 Revisited,Bob Dylan,53,0.12
-232,Cosmo's Factory,Creedence Clearwater Revival,53,0.12
-233,Space Oddity,David Bowie,53,0.12
-234,You're Living All Over Me,Dinosaur Jr.,53,0.12
+224,Cosmo's Factory,Creedence Clearwater Revival,54,0.13
+225,Everyday Robots,Damon Albarn,54,0.13
+226,You're Living All Over Me,Dinosaur Jr.,54,0.13
+227,Juez y Parte,Joaquín Sabina,54,0.13
+228,Sally Can't Dance,Lou Reed,54,0.13
+229,Tragic Kingdom,No Doubt,54,0.13
+230,The Gift,The Jam,54,0.13
+231,Is This It,The Strokes,54,0.13
+232,Weezer (The Blue Album),Weezer,54,0.13
+233,Highway 61 Revisited,Bob Dylan,53,0.12
+234,Space Oddity,David Bowie,53,0.12
 235,The Sky Is Too High,Graham Coxon,53,0.12
 236,Alevosía,Luis Eduardo Aute,53,0.12
 237,This Is My Truth Tell Me Yours,Manic Street Preachers,53,0.12
@@ -251,17 +251,17 @@ rank,album_name,artist_name,playcount,playcount_pct
 250,Oracular Spectacular,MGMT,51,0.12
 251,Wallpaper For The Soul,Tahiti 80,51,0.12
 252,Parallel Lines,Blondie,50,0.12
-253,Metal Box,Public Image Ltd.,50,0.12
-254,Costa Azul,Sidonie,50,0.12
-255,Supergrass,Supergrass,50,0.12
-256,The Clash (U.K.),The Clash,50,0.12
-257,The Man Who Sold the World,David Bowie,49,0.12
-258,Duran Duran,Duran Duran,49,0.12
-259,Gorillaz,Gorillaz,49,0.12
-260,Lust for Life,Iggy Pop,49,0.12
-261,Don't Believe the Truth,Oasis,49,0.12
-262,The Madcap Laughs,Syd Barrett,49,0.12
-263,Everyone's Got One,Echobelly,48,0.11
+253,Lust for Life,Iggy Pop,50,0.12
+254,Metal Box,Public Image Ltd.,50,0.12
+255,Costa Azul,Sidonie,50,0.12
+256,Supergrass,Supergrass,50,0.12
+257,The Clash (U.K.),The Clash,50,0.12
+258,The Man Who Sold the World,David Bowie,49,0.12
+259,Duran Duran,Duran Duran,49,0.12
+260,Everyone's Got One,Echobelly,49,0.12
+261,Gorillaz,Gorillaz,49,0.12
+262,Don't Believe the Truth,Oasis,49,0.12
+263,The Madcap Laughs,Syd Barrett,49,0.12
 264,Be Here Now,Oasis,48,0.11
 265,Alta Suciedad,Andrés Calamaro,47,0.11
 266,The Fall,Gorillaz,47,0.11
@@ -275,18 +275,18 @@ rank,album_name,artist_name,playcount,playcount_pct
 274,Leaders of the Free World,Elbow,46,0.11
 275,Aloha From Hawaii Via Satellite,Elvis Presley,46,0.11
 276,Angel Dust,Faith No More,46,0.11
-277,Herzeleid,Rammstein,46,0.11
-278,Kaleidoscope,Siouxsie and the Banshees,46,0.11
-279,Outlandos D'Amour,The Police,46,0.11
-280,Hatful of Hollow,The Smiths,46,0.11
-281,Version 2.0,Garbage,45,0.11
-282,Unknown Pleasures,Joy Division,45,0.11
-283,In Through the Out Door,Led Zeppelin,45,0.11
-284,Street Hassle,Lou Reed,45,0.11
-285,What's Going On,Marvin Gaye,45,0.11
-286,Blue Lines,Massive Attack,45,0.11
-287,Thriller,Michael Jackson,45,0.11
-288,Alphabetical,Phoenix,45,0.11
+277,Alphabetical,Phoenix,46,0.11
+278,Herzeleid,Rammstein,46,0.11
+279,Kaleidoscope,Siouxsie and the Banshees,46,0.11
+280,Outlandos D'Amour,The Police,46,0.11
+281,Hatful of Hollow,The Smiths,46,0.11
+282,Version 2.0,Garbage,45,0.11
+283,Unknown Pleasures,Joy Division,45,0.11
+284,In Through the Out Door,Led Zeppelin,45,0.11
+285,Street Hassle,Lou Reed,45,0.11
+286,What's Going On,Marvin Gaye,45,0.11
+287,Blue Lines,Massive Attack,45,0.11
+288,Thriller,Michael Jackson,45,0.11
 289,Mars Audiac Quintet,Stereolab,45,0.11
 290,Exodus,Bob Marley & The Wailers,44,0.1
 291,Machine Head,Deep Purple,44,0.1
@@ -504,81 +504,81 @@ rank,album_name,artist_name,playcount,playcount_pct
 503,3 Feet High and Rising,De La Soul,25,0.06
 504,Estopa,Estopa,25,0.06
 505,Tonight: Franz Ferdinand,Franz Ferdinand,25,0.06
-506,Sketches of Spain,Miles Davis,25,0.06
-507,Low-Life,New Order,25,0.06
-508,Noel Gallagher's High Flying Birds,Noel Gallagher,25,0.06
-509,Grabaciones Completas 1981-1983,Parálisis Permanente,25,0.06
-510,Muy Deficiente,Platero Y Tu,25,0.06
-511,Música moderna,Radio Futura,25,0.06
-512,Remain in Light,Talking Heads,25,0.06
-513,Marquee Moon,Television,25,0.06
-514,Wake Up!,The Boo Radleys,25,0.06
-515,Yoshimi Battles the Pink Robots,The Flaming Lips,25,0.06
-516,Experience,The Prodigy,25,0.06
-517,Enter the Wu-Tang (36 Chambers),Wu-Tang Clan,25,0.06
-518,Among the Living,Anthrax,24,0.06
-519,Volumen Brutal,Barón Rojo,24,0.06
-520,The Sky's Gone Out,Bauhaus,24,0.06
-521,Dire Straits,Dire Straits,24,0.06
-522,Tumbleweed Connection,Elton John,24,0.06
-523,From Here to Eternity,Giorgio Moroder,24,0.06
-524,Crow Sit on Blood Tree,Graham Coxon,24,0.06
-525,Chicos Pálidos Para La Máquina,Ilegales,24,0.06
-526,The Number of the Beast,Iron Maiden,24,0.06
-527,"I Got Dem Ol' Kozmic Blues Again, Mama",Janis Joplin,24,0.06
-528,Surfing the Void,Klaxons,24,0.06
-529,Generation Terrorists,Manic Street Preachers,24,0.06
-530,Countdown to Extinction,Megadeth,24,0.06
-531,Movement,New Order,24,0.06
-532,"Stories From the City, Stories From the Sea",PJ Harvey,24,0.06
-533,The Best of Talking Heads,Talking Heads,24,0.06
-534,Volcano,Temples,24,0.06
+506,Surfing the Void,Klaxons,25,0.06
+507,Sketches of Spain,Miles Davis,25,0.06
+508,Low-Life,New Order,25,0.06
+509,Noel Gallagher's High Flying Birds,Noel Gallagher,25,0.06
+510,Grabaciones Completas 1981-1983,Parálisis Permanente,25,0.06
+511,Muy Deficiente,Platero Y Tu,25,0.06
+512,Música moderna,Radio Futura,25,0.06
+513,Remain in Light,Talking Heads,25,0.06
+514,Marquee Moon,Television,25,0.06
+515,Volcano,Temples,25,0.06
+516,Wake Up!,The Boo Radleys,25,0.06
+517,Yoshimi Battles the Pink Robots,The Flaming Lips,25,0.06
+518,Experience,The Prodigy,25,0.06
+519,Enter the Wu-Tang (36 Chambers),Wu-Tang Clan,25,0.06
+520,Among the Living,Anthrax,24,0.06
+521,Volumen Brutal,Barón Rojo,24,0.06
+522,The Sky's Gone Out,Bauhaus,24,0.06
+523,Dire Straits,Dire Straits,24,0.06
+524,Tumbleweed Connection,Elton John,24,0.06
+525,From Here to Eternity,Giorgio Moroder,24,0.06
+526,Crow Sit on Blood Tree,Graham Coxon,24,0.06
+527,Chicos Pálidos Para La Máquina,Ilegales,24,0.06
+528,The Number of the Beast,Iron Maiden,24,0.06
+529,"I Got Dem Ol' Kozmic Blues Again, Mama",Janis Joplin,24,0.06
+530,Generation Terrorists,Manic Street Preachers,24,0.06
+531,Countdown to Extinction,Megadeth,24,0.06
+532,Movement,New Order,24,0.06
+533,"Stories From the City, Stories From the Sea",PJ Harvey,24,0.06
+534,The Best of Talking Heads,Talking Heads,24,0.06
 535,Dig Your Own Hole,The Chemical Brothers,24,0.06
-536,All Mod Cons,The Jam,24,0.06
-537,Pretenders,The Pretenders,24,0.06
-538,Maxinquaye,Tricky,24,0.06
-539,It's Blitz!,Yeah Yeah Yeahs,24,0.06
-540,Por Instinto,Barricada,23,0.05
-541,Billy Idol,Billy Idol,23,0.05
-542,Buddy Holly 75 - CD2,Buddy Holly,23,0.05
-543,Crowded House,Crowded House,23,0.05
-544,Caldo de Pollo,Decibelios,23,0.05
-545,"Right Thoughts, Right Words, Right Action",Franz Ferdinand,23,0.05
-546,Earth A.D. & Wolfsblood,Misfits,23,0.05
-547,Animal Rights,Moby,23,0.05
-548,Yield,Pearl Jam,23,0.05
-549,The Wall [CD1],Pink Floyd,23,0.05
-550,Good Humor,Saint Etienne,23,0.05
-551,Magical Mystery Tour,The Beatles,23,0.05
-552,Hate,The Delgados,23,0.05
+536,Hate,The Delgados,24,0.06
+537,All Mod Cons,The Jam,24,0.06
+538,Pretenders,The Pretenders,24,0.06
+539,Maxinquaye,Tricky,24,0.06
+540,It's Blitz!,Yeah Yeah Yeahs,24,0.06
+541,Por Instinto,Barricada,23,0.05
+542,Billy Idol,Billy Idol,23,0.05
+543,Buddy Holly 75 - CD2,Buddy Holly,23,0.05
+544,Crowded House,Crowded House,23,0.05
+545,Caldo de Pollo,Decibelios,23,0.05
+546,"Right Thoughts, Right Words, Right Action",Franz Ferdinand,23,0.05
+547,Earth A.D. & Wolfsblood,Misfits,23,0.05
+548,Animal Rights,Moby,23,0.05
+549,Yield,Pearl Jam,23,0.05
+550,The Wall [CD1],Pink Floyd,23,0.05
+551,Good Humor,Saint Etienne,23,0.05
+552,Magical Mystery Tour,The Beatles,23,0.05
 553,Reggatta de Blanc,The Police,23,0.05
 554,The Fat of the Land,The Prodigy,23,0.05
 555,Tommy,The Who,23,0.05
 556,Nine Lives,Aerosmith,22,0.05
-557,La Taberna del Buda,Café Quijano,22,0.05
-558,Hours...,David Bowie,22,0.05
-559,Fireball,Deep Purple,22,0.05
-560,Slowhand,Eric Clapton,22,0.05
-561,A Funk Odyssey,Jamiroquai,22,0.05
-562,Nothing's Shocking,Jane's Addiction,22,0.05
-563,Loveless,my bloody valentine,22,0.05
-564,New York Dolls,New York Dolls,22,0.05
-565,Unplugged in New York,Nirvana,22,0.05
-566,Complete 'B' Sides,Pixies,22,0.05
-567,Correos,Platero y tú,22,0.05
-568,The Works,Queen,22,0.05
-569,Blood Sugar Sex Magik,Red Hot Chili Peppers,22,0.05
-570,By the Way,Red Hot Chili Peppers,22,0.05
-571,Nowhere,Ride,22,0.05
-572,For Your Pleasure,Roxy Music,22,0.05
-573,Goo,Sonic Youth,22,0.05
-574,A Catholic Education,Teenage Fanclub,22,0.05
-575,Ghost In The Machine,The Police,22,0.05
-576,Room on Fire,The Strokes,22,0.05
-577,It's Hard,The Who,22,0.05
-578,Fragile,Yes,22,0.05
-579,Buddy Holly 75 - CD01,Buddy Holly,21,0.05
-580,Singles Going Steady,Buzzcocks,21,0.05
+557,Singles Going Steady,Buzzcocks,22,0.05
+558,La Taberna del Buda,Café Quijano,22,0.05
+559,Hours...,David Bowie,22,0.05
+560,Fireball,Deep Purple,22,0.05
+561,Slowhand,Eric Clapton,22,0.05
+562,A Funk Odyssey,Jamiroquai,22,0.05
+563,Nothing's Shocking,Jane's Addiction,22,0.05
+564,Loveless,my bloody valentine,22,0.05
+565,New York Dolls,New York Dolls,22,0.05
+566,Unplugged in New York,Nirvana,22,0.05
+567,Complete 'B' Sides,Pixies,22,0.05
+568,Correos,Platero y tú,22,0.05
+569,The Works,Queen,22,0.05
+570,Blood Sugar Sex Magik,Red Hot Chili Peppers,22,0.05
+571,By the Way,Red Hot Chili Peppers,22,0.05
+572,Nowhere,Ride,22,0.05
+573,For Your Pleasure,Roxy Music,22,0.05
+574,Goo,Sonic Youth,22,0.05
+575,A Catholic Education,Teenage Fanclub,22,0.05
+576,Ghost In The Machine,The Police,22,0.05
+577,Room on Fire,The Strokes,22,0.05
+578,It's Hard,The Who,22,0.05
+579,Fragile,Yes,22,0.05
+580,Buddy Holly 75 - CD01,Buddy Holly,21,0.05
 581,Anti Todo,Eskorbuto,21,0.05
 582,Encuentros con entidades,Los Planetas,21,0.05
 583,Una semana en el motor de un autobús,Los Planetas,21,0.05
@@ -1110,145 +1110,154 @@ rank,album_name,artist_name,playcount,playcount_pct
 1109,Blurb 1,Blur,2,0.0
 1110,Pulp Fiction (Collector's Edition),Brothers Johnson,2,0.0
 1111,Grandes Éxitos Pequeños Regalos 1,Celtas Cortos,2,0.0
-1112,Reality,David Bowie,2,0.0
-1113,Baby It's Me,Diana Ross,2,0.0
-1114,The Very Best of Elvis Costello Disc 2,Elvis Costello,2,0.0
-1115,The Very Best of Elvis Costello Disc 2,Elvis Costello & The Attractions,2,0.0
-1116,Cuatro rosas. Que Dios reparta suerte,Gabinete Caligari,2,0.0
-1117,For The Very First Time Vol. 1,Glenn Miller,2,0.0
-1118,Canciones '84 - '96 (CD 2 von 2),Héroes del Silencio,2,0.0
-1119,Física y Química,Joaquín Sabina,2,0.0
-1120,Pulp Fiction (Collector's Edition),John Travolta,2,0.0
-1121,Pulp Fiction (Collector's Edition),Kool & the Gang,2,0.0
-1122,2002 - KOLLECTED - THE BEST OF,Kula Shaker,2,0.0
-1123,Better Can't Make Your Life Better,Lilys,2,0.0
-1124,¿Dónde Estabas Tú En El 77?,Loquillo y Trogloditas,2,0.0
-1125,Pacífico / Todos los chico en la playa,Loquillo y Trogloditas,2,0.0
-1126,Disco Pirata,Los Rodríguez,2,0.0
-1127,Bultacos Y Montesas,Los Sencillos,2,0.0
-1128,Metal Machine Music,Lou Reed,2,0.0
-1129,PIAS 2005 Music First,Marc Parrot,2,0.0
-1130,Crises,Mike Oldfield,2,0.0
-1131,Ommadawn,Mike Oldfield,2,0.0
-1132,Apocalypshit,Molotov,2,0.0
-1133,The 2nd Law,Muse,2,0.0
-1134,One From the Modern,Ocean Colour Scene,2,0.0
-1135,Sabbatical,Rosa Anschütz,2,0.0
-1136,Bookends,Simon & Garfunkel,2,0.0
-1137,Spare Ribs,Sleaford Mods,2,0.0
-1138,Performance and Cocktails,Stereophonics,2,0.0
-1139,Best Of The Capitol Years 1995-2007,The Dandy Warhols,2,0.0
-1140,Absent Friends,The Divine Comedy,2,0.0
-1141,PIAS 2005 Music First,The Go! Team,2,0.0
-1142,Come on Feel the Lemonheads,The Lemonheads,2,0.0
-1143,Rotten Apples,The Smashing Pumpkins,2,0.0
-1144,Is This It (US),The Strokes,2,0.0
-1145,Winning Days,The Vines,2,0.0
-1146,Let's Stay Together,Various Artists,2,0.0
-1147,Let's Stay Together,Al Green,1,0.0
-1148,Alaska Y Los Pegamoides,Alaska y Los Pegamoides,1,0.0
-1149,Que Pasa Nen Estic Content,Alizzz,1,0.0
-1150,Come to Daddy,Aphex Twin,1,0.0
-1151,Britpop Anthems,Ash,1,0.0
-1152,Raindrops Keep Fallin' on My Head,B.J. Thomas,1,0.0
-1153,La Araña,Barricada,1,0.0
-1154,Living Eyes,Bee Gees,1,0.0
-1155,Rebel Yell,Billy Idol,1,0.0
-1156,Grand Theft Auto: San Andreas Official Soundtrack Box Set,Black Harmony,1,0.0
-1157,Enema of the State,blink-182,1,0.0
-1158,All the people... Blur: Live in Hyde Park 02/07/2009 - Disc 02,Blur,1,0.0
-1159,Britpop Anthems,Blur,1,0.0
-1160,Atrapado en el Amor,Burning,1,0.0
-1161,Best Of Bossa Nova - 75 Classic Hits (Disc 1),Carlos Lyra,1,0.0
-1162,Britpop Anthems,Cast,1,0.0
-1163,Britpop Anthems,Catatonia,1,0.0
-1164,Britpop Anthems,Chumbawamba,1,0.0
-1165,1. Outside - The Nathan Adler Diaries: A Hyper Cycle,David Bowie,1,0.0
-1166,David Live CD1,David Bowie,1,0.0
-1167,Space Oddity (Bonus Disc),David Bowie,1,0.0
-1168,Stage (disc 2),David Bowie,1,0.0
-1169,Vacaciones en el Prat,Decibelios,1,0.0
-1170,Ultramemia,Def con Dos,1,0.0
-1171,Britpop Anthems,Doves,1,0.0
-1172,Pulp Fiction (Collector's Edition),Duane Whitaker,1,0.0
-1173,Alas Sobre El Mundo,El Aviador Dro,1,0.0
-1174,Britpop Anthems,Elastica,1,0.0
-1175,Britpop Anthems,Embrace,1,0.0
-1176,Britpop Anthems,EMF,1,0.0
-1177,Closeup,Frankie Valli,1,0.0
-1178,PIAS 2005 Music First,Franz Ferdinand,1,0.0
-1179,SUBID LA MUSICA,Gabinete Caligari,1,0.0
-1180,Britpop Anthems,Garbage,1,0.0
-1181,Older,George Michael,1,0.0
-1182,For The Very First Time Vol. 2,Glenn Miller,1,0.0
-1183,The Sound of Glenn Miller,Glenn Miller,1,0.0
-1184,Kasabian,Ｇｏｒｉｌｌａｚ,1,0.0
-1185,Better Than Raw,Helloween,1,0.0
-1186,Britpop Anthems,Inspiral Carpets,1,0.0
-1187,Bonito,Jarabe de Palo,1,0.0
-1188,De Vuelta Y Vuelta,Jarabe de Palo,1,0.0
-1189,Depende,Jarabe de Palo,1,0.0
-1190,Britpop Anthems,Jesus Jones,1,0.0
-1191,PIAS 2005 Music First,Jolie Holland,1,0.0
-1192,Cross,Justice,1,0.0
-1193,Pulp Fiction (Collector's Edition),Link Wray & His Wraymen,1,0.0
-1194,Ese Día Piensa En Mí,Los Suaves,1,0.0
-1195,Pulp Fiction (Collector's Edition),Maria McKee,1,0.0
-1196,Antichrist Superstar,Marilyn Manson,1,0.0
-1197,Metallica (Black Album),Metallica,1,0.0
-1198,PIAS 2005 Music First,Mogwai,1,0.0
-1199,Britpop Anthems,Morcheeba,1,0.0
-1200,Britpop Anthems,New Order,1,0.0
-1201,From Her to Eternity,Nick Cave & the Bad Seeds,1,0.0
-1202,Tender Prey,Nick Cave & the Bad Seeds,1,0.0
-1203,Best Of The Capitol Years 1995-2007,Original TV Soundtrack,1,0.0
-1204,Kaka  de Luxe/Paraíso,Paraíso,1,0.0
-1205,Manners,Passion Pit,1,0.0
-1206,Sounds of Silence,Paul Simon,1,0.0
-1207,Britpop Anthems,Paul Weller,1,0.0
-1208,Best Of Bossa Nova - 75 Classic Hits (Disc 1),Pery Ribeiro,1,0.0
-1209,First Issue,Public Image Ltd.,1,0.0
-1210,The Flowers of Romance,Public Image Ltd.,1,0.0
-1211,Britpop Anthems,Pulp,1,0.0
-1212,The King of Limbs,Radiohead,1,0.0
-1213,Anthology ( Disc 2 ),Ramones,1,0.0
-1214,PIAS 2005 Music First,RJD2,1,0.0
-1215,Listos Para La Reconversión,Rosendo,1,0.0
-1216,Pulp Fiction (Collector's Edition),Samuel L. Jackson,1,0.0
-1217,Blackout,Scorpions,1,0.0
-1218,Never Mind The Bollocks [TOCP-53098 TOSHIBA-EMI JAPAN],Sex Pistols,1,0.0
-1219,The Great Rock'n'Roll Swindle,Sex Pistols,1,0.0
-1220,Britpop Anthems,Shed Seven,1,0.0
-1221,Sounds of Silence,Simon & Garfunkel,1,0.0
-1222,Siniestro Total II: El Regreso,Siniestro Total,1,0.0
-1223,Eton Alive,Sleaford Mods,1,0.0
-1224,Sleaford Mods,Sleaford Mods,1,0.0
-1225,Britpop Anthems,Space,1,0.0
-1226,Easy Rider,Steppenwolf,1,0.0
-1227,The Second,Steppenwolf,1,0.0
-1228,Britpop Anthems,Suede,1,0.0
-1229,Adventure,Television,1,0.0
-1230,Britpop Anthems,Terrorvision,1,0.0
-1231,Push the Button,The Chemical Brothers,1,0.0
-1232,Britpop Anthems,The Farm,1,0.0
-1233,Get The Knack,The Knack,1,0.0
-1234,Britpop Anthems,The Lightning Seeds,1,0.0
-1235,Pulp Fiction (Collector's Edition),The Lively Ones,1,0.0
-1236,Someone to Drive You Home,The Long Blondes,1,0.0
-1237,Pulp Fiction (Collector's Edition),The Marketts,1,0.0
-1238,Britpop Anthems,The Mock Turtles,1,0.0
-1239,Always Outnumbered Never Outgu,The Prodigy,1,0.0
-1240,Pulp Fiction (Collector's Edition),The Robins,1,0.0
-1241,It's Only Rock ' N Roll,The Rolling Stones,1,0.0
-1242,Their Satanic Majesties Request,The Rolling Stones,1,0.0
-1243,Mellon Collie and the Infinite Sadness (CD 2 Twilight to Starlight),The Smashing Pumpkins,1,0.0
-1244,Hatful Of Hollow (Japan MiniLP WPCR-12439),The Smiths,1,0.0
-1245,Britpop Anthems,The Soup Dragons,1,0.0
-1246,Pulp Fiction (Collector's Edition),The Statler Brothers,1,0.0
-1247,Kilimanjaro,The Teardrop Explodes,1,0.0
-1248,Britpop Anthems,The Verve,1,0.0
-1249,Britpop Anthems,Underworld,1,0.0
-1250,Van Halen,Van Halen,1,0.0
-1251,The Bends,Varios intérpretes,1,0.0
-1252,The Invisible Band,Various Artists,1,0.0
-1253,Best Of Bossa Nova - 75 Classic Hits (Disc 1),Vinícius de Moraes,1,0.0
+1112,Britpop Anthems,Chumbawamba,2,0.0
+1113,Reality,David Bowie,2,0.0
+1114,Baby It's Me,Diana Ross,2,0.0
+1115,The Very Best of Elvis Costello Disc 2,Elvis Costello,2,0.0
+1116,The Very Best of Elvis Costello Disc 2,Elvis Costello & The Attractions,2,0.0
+1117,Cuatro rosas. Que Dios reparta suerte,Gabinete Caligari,2,0.0
+1118,For The Very First Time Vol. 1,Glenn Miller,2,0.0
+1119,Canciones '84 - '96 (CD 2 von 2),Héroes del Silencio,2,0.0
+1120,Física y Química,Joaquín Sabina,2,0.0
+1121,Pulp Fiction (Collector's Edition),John Travolta,2,0.0
+1122,Pulp Fiction (Collector's Edition),Kool & the Gang,2,0.0
+1123,2002 - KOLLECTED - THE BEST OF,Kula Shaker,2,0.0
+1124,Better Can't Make Your Life Better,Lilys,2,0.0
+1125,¿Dónde Estabas Tú En El 77?,Loquillo y Trogloditas,2,0.0
+1126,Pacífico / Todos los chico en la playa,Loquillo y Trogloditas,2,0.0
+1127,Disco Pirata,Los Rodríguez,2,0.0
+1128,Bultacos Y Montesas,Los Sencillos,2,0.0
+1129,Metal Machine Music,Lou Reed,2,0.0
+1130,PIAS 2005 Music First,Marc Parrot,2,0.0
+1131,Crises,Mike Oldfield,2,0.0
+1132,Ommadawn,Mike Oldfield,2,0.0
+1133,Apocalypshit,Molotov,2,0.0
+1134,The 2nd Law,Muse,2,0.0
+1135,One From the Modern,Ocean Colour Scene,2,0.0
+1136,Sabbatical,Rosa Anschütz,2,0.0
+1137,Bookends,Simon & Garfunkel,2,0.0
+1138,Spare Ribs,Sleaford Mods,2,0.0
+1139,Performance and Cocktails,Stereophonics,2,0.0
+1140,Best Of The Capitol Years 1995-2007,The Dandy Warhols,2,0.0
+1141,Absent Friends,The Divine Comedy,2,0.0
+1142,PIAS 2005 Music First,The Go! Team,2,0.0
+1143,Come on Feel the Lemonheads,The Lemonheads,2,0.0
+1144,Rotten Apples,The Smashing Pumpkins,2,0.0
+1145,Is This It (US),The Strokes,2,0.0
+1146,Winning Days,The Vines,2,0.0
+1147,Let's Stay Together,Various Artists,2,0.0
+1148,Let's Stay Together,Al Green,1,0.0
+1149,Alaska Y Los Pegamoides,Alaska y Los Pegamoides,1,0.0
+1150,Que Pasa Nen Estic Content,Alizzz,1,0.0
+1151,Come to Daddy,Aphex Twin,1,0.0
+1152,Britpop Anthems,Ash,1,0.0
+1153,Raindrops Keep Fallin' on My Head,B.J. Thomas,1,0.0
+1154,La Araña,Barricada,1,0.0
+1155,Living Eyes,Bee Gees,1,0.0
+1156,Rebel Yell,Billy Idol,1,0.0
+1157,Grand Theft Auto: San Andreas Official Soundtrack Box Set,Black Harmony,1,0.0
+1158,Enema of the State,blink-182,1,0.0
+1159,All the people... Blur: Live in Hyde Park 02/07/2009 - Disc 02,Blur,1,0.0
+1160,Britpop Anthems,Blur,1,0.0
+1161,Razzmatazz by DJ Amable - CD1,Budapest,1,0.0
+1162,Atrapado en el Amor,Burning,1,0.0
+1163,Best Of Bossa Nova - 75 Classic Hits (Disc 1),Carlos Lyra,1,0.0
+1164,Britpop Anthems,Cast,1,0.0
+1165,Britpop Anthems,Catatonia,1,0.0
+1166,1. Outside - The Nathan Adler Diaries: A Hyper Cycle,David Bowie,1,0.0
+1167,David Live CD1,David Bowie,1,0.0
+1168,Space Oddity (Bonus Disc),David Bowie,1,0.0
+1169,Stage (disc 2),David Bowie,1,0.0
+1170,Vacaciones en el Prat,Decibelios,1,0.0
+1171,Ultramemia,Def con Dos,1,0.0
+1172,Razzmatazz by DJ Amable CD2,Deluxe,1,0.0
+1173,Britpop Anthems,Doves,1,0.0
+1174,Pulp Fiction (Collector's Edition),Duane Whitaker,1,0.0
+1175,Alas Sobre El Mundo,El Aviador Dro,1,0.0
+1176,Britpop Anthems,Elastica,1,0.0
+1177,Britpop Anthems,Embrace,1,0.0
+1178,Britpop Anthems,EMF,1,0.0
+1179,Closeup,Frankie Valli,1,0.0
+1180,PIAS 2005 Music First,Franz Ferdinand,1,0.0
+1181,SUBID LA MUSICA,Gabinete Caligari,1,0.0
+1182,Britpop Anthems,Garbage,1,0.0
+1183,Older,George Michael,1,0.0
+1184,For The Very First Time Vol. 2,Glenn Miller,1,0.0
+1185,The Sound of Glenn Miller,Glenn Miller,1,0.0
+1186,Kasabian,Ｇｏｒｉｌｌａｚ,1,0.0
+1187,Better Than Raw,Helloween,1,0.0
+1188,Britpop Anthems,Inspiral Carpets,1,0.0
+1189,Razzmatazz by DJ Amable - CD1,Interpol,1,0.0
+1190,Bonito,Jarabe de Palo,1,0.0
+1191,De Vuelta Y Vuelta,Jarabe de Palo,1,0.0
+1192,Depende,Jarabe de Palo,1,0.0
+1193,Britpop Anthems,Jesus Jones,1,0.0
+1194,PIAS 2005 Music First,Jolie Holland,1,0.0
+1195,Cross,Justice,1,0.0
+1196,Pulp Fiction (Collector's Edition),Link Wray & His Wraymen,1,0.0
+1197,Ese Día Piensa En Mí,Los Suaves,1,0.0
+1198,Razzmatazz by DJ Amable - CD1,Maga,1,0.0
+1199,Pulp Fiction (Collector's Edition),Maria McKee,1,0.0
+1200,Antichrist Superstar,Marilyn Manson,1,0.0
+1201,Metallica (Black Album),Metallica,1,0.0
+1202,PIAS 2005 Music First,Mogwai,1,0.0
+1203,Britpop Anthems,Morcheeba,1,0.0
+1204,Britpop Anthems,New Order,1,0.0
+1205,From Her to Eternity,Nick Cave & the Bad Seeds,1,0.0
+1206,Tender Prey,Nick Cave & the Bad Seeds,1,0.0
+1207,Best Of The Capitol Years 1995-2007,Original TV Soundtrack,1,0.0
+1208,Kaka  de Luxe/Paraíso,Paraíso,1,0.0
+1209,Manners,Passion Pit,1,0.0
+1210,Sounds of Silence,Paul Simon,1,0.0
+1211,Britpop Anthems,Paul Weller,1,0.0
+1212,Best Of Bossa Nova - 75 Classic Hits (Disc 1),Pery Ribeiro,1,0.0
+1213,First Issue,Public Image Ltd.,1,0.0
+1214,The Flowers of Romance,Public Image Ltd.,1,0.0
+1215,Britpop Anthems,Pulp,1,0.0
+1216,The King of Limbs,Radiohead,1,0.0
+1217,Anthology ( Disc 2 ),Ramones,1,0.0
+1218,PIAS 2005 Music First,RJD2,1,0.0
+1219,Listos Para La Reconversión,Rosendo,1,0.0
+1220,Pulp Fiction (Collector's Edition),Samuel L. Jackson,1,0.0
+1221,Blackout,Scorpions,1,0.0
+1222,Never Mind The Bollocks [TOCP-53098 TOSHIBA-EMI JAPAN],Sex Pistols,1,0.0
+1223,The Great Rock'n'Roll Swindle,Sex Pistols,1,0.0
+1224,Razzmatazz by DJ Amable - CD1,Sexy Sadie,1,0.0
+1225,Britpop Anthems,Shed Seven,1,0.0
+1226,Sounds of Silence,Simon & Garfunkel,1,0.0
+1227,Siniestro Total II: El Regreso,Siniestro Total,1,0.0
+1228,Eton Alive,Sleaford Mods,1,0.0
+1229,Sleaford Mods,Sleaford Mods,1,0.0
+1230,Britpop Anthems,Space,1,0.0
+1231,Easy Rider,Steppenwolf,1,0.0
+1232,The Second,Steppenwolf,1,0.0
+1233,Britpop Anthems,Suede,1,0.0
+1234,Adventure,Television,1,0.0
+1235,Britpop Anthems,Terrorvision,1,0.0
+1236,Push the Button,The Chemical Brothers,1,0.0
+1237,Britpop Anthems,The Farm,1,0.0
+1238,Get The Knack,The Knack,1,0.0
+1239,Britpop Anthems,The Lightning Seeds,1,0.0
+1240,Pulp Fiction (Collector's Edition),The Lively Ones,1,0.0
+1241,Someone to Drive You Home,The Long Blondes,1,0.0
+1242,Pulp Fiction (Collector's Edition),The Marketts,1,0.0
+1243,Britpop Anthems,The Mock Turtles,1,0.0
+1244,Razzmatazz,The Postal Service,1,0.0
+1245,Razzmatazz by DJ Amable - CD1,The Postal Service,1,0.0
+1246,Always Outnumbered Never Outgu,The Prodigy,1,0.0
+1247,Pulp Fiction (Collector's Edition),The Robins,1,0.0
+1248,It's Only Rock ' N Roll,The Rolling Stones,1,0.0
+1249,Their Satanic Majesties Request,The Rolling Stones,1,0.0
+1250,Mellon Collie and the Infinite Sadness (CD 2 Twilight to Starlight),The Smashing Pumpkins,1,0.0
+1251,Hatful Of Hollow (Japan MiniLP WPCR-12439),The Smiths,1,0.0
+1252,Britpop Anthems,The Soup Dragons,1,0.0
+1253,Pulp Fiction (Collector's Edition),The Statler Brothers,1,0.0
+1254,Kilimanjaro,The Teardrop Explodes,1,0.0
+1255,Britpop Anthems,The Verve,1,0.0
+1256,Britpop Anthems,Underworld,1,0.0
+1257,Razzmatazz by DJ Amable CD2,Underworld,1,0.0
+1258,Van Halen,Van Halen,1,0.0
+1259,The Bends,Varios intérpretes,1,0.0
+1260,The Invisible Band,Various Artists,1,0.0
+1261,Best Of Bossa Nova - 75 Classic Hits (Disc 1),Vinícius de Moraes,1,0.0
+1262,Razzmatazz by DJ Amable - CD1,Volován,1,0.0

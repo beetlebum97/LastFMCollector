@@ -1,5 +1,215 @@
 [
   {
+    "artist_name": "Sex Pistols",
+    "track_name": "Bodies",
+    "album_name": "Never Mind The Bollocks, Here's The Sex Pistols",
+    "loved": 1,
+    "date_time": "2026-06-27 11:34:48"
+  },
+  {
+    "artist_name": "Echobelly",
+    "track_name": "Today Tomorrow Sometime Never",
+    "album_name": "Everyone's Got One",
+    "loved": 0,
+    "date_time": "2026-06-27 11:29:16"
+  },
+  {
+    "artist_name": "Supergrass",
+    "track_name": "Caught by the Fuzz",
+    "album_name": "I Should Coco",
+    "loved": 0,
+    "date_time": "2026-06-27 11:26:38"
+  },
+  {
+    "artist_name": "Suede",
+    "track_name": "Trash",
+    "album_name": "Coming Up",
+    "loved": 1,
+    "date_time": "2026-06-27 11:21:49"
+  },
+  {
+    "artist_name": "Buzzcocks",
+    "track_name": "What Do I Get?",
+    "album_name": "Singles Going Steady",
+    "loved": 1,
+    "date_time": "2026-06-26 19:42:22"
+  },
+  {
+    "artist_name": "The Boo Radleys",
+    "track_name": "If You Want It, Take It",
+    "album_name": "Giant Steps",
+    "loved": 0,
+    "date_time": "2026-06-26 19:39:11"
+  },
+  {
+    "artist_name": "Dinosaur Jr.",
+    "track_name": "The Lung",
+    "album_name": "You're Living All Over Me",
+    "loved": 1,
+    "date_time": "2026-06-26 19:32:32"
+  },
+  {
+    "artist_name": "Sleeper",
+    "track_name": "Swallow",
+    "album_name": "Smart",
+    "loved": 1,
+    "date_time": "2026-06-26 19:29:49"
+  },
+  {
+    "artist_name": "Pixies",
+    "track_name": "Something Against You",
+    "album_name": "Surfer Rosa",
+    "loved": 0,
+    "date_time": "2026-06-26 19:25:47"
+  },
+  {
+    "artist_name": "Temples",
+    "track_name": "Born Into The Sunset",
+    "album_name": "Volcano",
+    "loved": 0,
+    "date_time": "2026-06-26 19:16:49"
+  },
+  {
+    "artist_name": "Klaxons",
+    "track_name": "Venusia",
+    "album_name": "Surfing the Void",
+    "loved": 0,
+    "date_time": "2026-06-26 19:08:53"
+  },
+  {
+    "artist_name": "The Libertines",
+    "track_name": "Time for Heroes",
+    "album_name": "Up the Bracket",
+    "loved": 0,
+    "date_time": "2026-06-26 19:04:39"
+  },
+  {
+    "artist_name": "Pulp",
+    "track_name": "Party Hard",
+    "album_name": "This Is Hardcore",
+    "loved": 0,
+    "date_time": "2026-06-26 18:41:17"
+  },
+  {
+    "artist_name": "Underworld",
+    "track_name": "Two Months Off (radio edit)",
+    "album_name": "Razzmatazz by DJ Amable CD2",
+    "loved": 0,
+    "date_time": "2026-06-26 18:19:16"
+  },
+  {
+    "artist_name": "Deluxe",
+    "track_name": "Que No",
+    "album_name": "Razzmatazz by DJ Amable CD2",
+    "loved": 0,
+    "date_time": "2026-06-26 18:15:07"
+  },
+  {
+    "artist_name": "The Postal Service",
+    "track_name": "Such Great Heights",
+    "album_name": "Razzmatazz",
+    "loved": 0,
+    "date_time": "2026-06-26 18:10:01"
+  },
+  {
+    "artist_name": "The Postal Service",
+    "track_name": "Such Great Heights",
+    "album_name": "Razzmatazz by DJ Amable - CD1",
+    "loved": 0,
+    "date_time": "2026-06-26 18:06:15"
+  },
+  {
+    "artist_name": "Maga",
+    "track_name": "Diecinueve",
+    "album_name": "Razzmatazz by DJ Amable - CD1",
+    "loved": 0,
+    "date_time": "2026-06-26 17:56:08"
+  },
+  {
+    "artist_name": "Interpol",
+    "track_name": "PDA",
+    "album_name": "Razzmatazz by DJ Amable - CD1",
+    "loved": 0,
+    "date_time": "2026-06-26 17:50:48"
+  },
+  {
+    "artist_name": "Volován",
+    "track_name": "Ella Es Azul",
+    "album_name": "Razzmatazz by DJ Amable - CD1",
+    "loved": 0,
+    "date_time": "2026-06-26 17:45:45"
+  },
+  {
+    "artist_name": "Sexy Sadie",
+    "track_name": "Take from me",
+    "album_name": "Razzmatazz by DJ Amable - CD1",
+    "loved": 0,
+    "date_time": "2026-06-26 17:41:01"
+  },
+  {
+    "artist_name": "Budapest",
+    "track_name": "Censored Memories",
+    "album_name": "Razzmatazz by DJ Amable - CD1",
+    "loved": 0,
+    "date_time": "2026-06-26 17:36:16"
+  },
+  {
+    "artist_name": "Chumbawamba",
+    "track_name": "Tubthumping",
+    "album_name": "Britpop Anthems",
+    "loved": 0,
+    "date_time": "2026-06-26 17:24:52"
+  },
+  {
+    "artist_name": "Creedence Clearwater Revival",
+    "track_name": "I Heard It Through the Grapevine",
+    "album_name": "Cosmo's Factory",
+    "loved": 0,
+    "date_time": "2026-06-25 19:00:46"
+  },
+  {
+    "artist_name": "John Lennon",
+    "track_name": "Gimme Some Truth",
+    "album_name": "Imagine",
+    "loved": 1,
+    "date_time": "2026-06-25 18:55:09"
+  },
+  {
+    "artist_name": "Lou Reed",
+    "track_name": "The Blue Mask",
+    "album_name": "The Blue Mask",
+    "loved": 1,
+    "date_time": "2026-06-25 18:46:12"
+  },
+  {
+    "artist_name": "Iggy Pop",
+    "track_name": "Lust For Life",
+    "album_name": "Lust for Life",
+    "loved": 0,
+    "date_time": "2026-06-25 18:34:44"
+  },
+  {
+    "artist_name": "Phoenix",
+    "track_name": "Holding on together",
+    "album_name": "Alphabetical",
+    "loved": 0,
+    "date_time": "2026-06-25 17:49:52"
+  },
+  {
+    "artist_name": "The Delgados",
+    "track_name": "Coming in From the Cold",
+    "album_name": "Hate",
+    "loved": 0,
+    "date_time": "2026-06-25 17:44:32"
+  },
+  {
+    "artist_name": "Blur",
+    "track_name": "The Narcissist",
+    "album_name": "The Ballad of Darren",
+    "loved": 1,
+    "date_time": "2026-06-25 17:30:22"
+  },
+  {
     "artist_name": "MGMT",
     "track_name": "Someone's Missing",
     "album_name": "Congratulations",
