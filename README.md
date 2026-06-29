@@ -2,9 +2,9 @@
 
 Pipeline ETL completo para extraer, procesar y visualizar tu historial de escuchas de Last.fm. Descarga tus scrobbles y top artistas/álbumes/canciones, los transforma en capas medallion (Raw → Staging → Curated) y los expone a través de un dashboard interactivo.
 
-**[🌐 Ver demo en vivo](https://beetlebum97.github.io/LastFMCollector/)** — datos reales de `hayman3030`
-**[▶️ Ver vídeo: Despliegue en entorno Local](https://youtu.be/C7vZROSJyEU)** — ETL, Docker y FastAPI
-**[☁️ Ver vídeo: Despliegue Cloud en Azure](https://youtu.be/b2DiqF-3AVw)** — Terraform, Ansible y DevOps
+- **[🌐 Ver demo en vivo](https://beetlebum97.github.io/LastFMCollector/)** — datos reales de `hayman3030`
+- **[▶️ Ver vídeo: Despliegue en entorno Local](https://youtu.be/C7vZROSJyEU)** — ETL, Docker y FastAPI
+- **[☁️ Ver vídeo: Despliegue Cloud en Azure](https://youtu.be/b2DiqF-3AVw)** — Terraform, Ansible y DevOps
 
 ---
 
@@ -64,7 +64,7 @@ Desde Azure Cloud Shell, en un solo comando:
 wget -qO- https://raw.githubusercontent.com/beetlebum97/LastFMCollector/main/cloud/azure/lastfm_azure.sh | bash
 ```
 
-*🎥 ¿Prefieres verlo antes de ejecutarlo? **[Mira la demostración local en YouTube](https://youtu.be/b2DiqF-3AVw)***
+*🎥 ¿Quieres verlo en acción? **[Vídeo en YouTube](https://youtu.be/b2DiqF-3AVw)***
 
 
 El script se encarga de todo:
@@ -89,7 +89,7 @@ El script se encarga de todo:
 wget -qO- https://raw.githubusercontent.com/beetlebum97/LastFMCollector/main/deploy/deploy_local.sh | bash
 ```
 
-*🎥 ¿Quieres verlo en acción? **[Mira el vídeo del despliegue en Azure](https://youtu.be/C7vZROSJyEU)***
+*🎥 ¿Quieres verlo en acción? **[Vídeo en Youtube](https://youtu.be/C7vZROSJyEU)***
 
 El script crea el entorno virtual, instala dependencias, lanza PostgreSQL en Docker, ejecuta el pipeline y levanta la API. El dashboard queda disponible en `http://<tu-ip-local>:8000`.
 
