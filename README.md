@@ -3,8 +3,8 @@
 LastFMCollector es una aplicación de análisis de datos musicales que implementa un pipeline ETL sobre la API de Last.fm, con almacenamiento en PostgreSQL, dashboard interactivo y despliegue automatizado tanto en local como en Azure.
 
 - **[🌐 Ver demo en vivo](https://beetlebum97.github.io/LastFMCollector/)** — datos reales de `hayman3030`
-- **[▶️ Ver víideo: Despliegue en entorno Local](https://youtu.be/C7vZROSJyEU)** — ETL, Docker y FastAPI
-- **[☁️ Ver víideo: Despliegue Cloud en Azure](https://youtu.be/b2DiqF-3AVw)** — Terraform, Ansible y DevOps
+- **[▶️ Ver vídeo: Despliegue en entorno Local](https://youtu.be/C7vZROSJyEU)** — ETL, Docker y FastAPI
+- **[☁️ Ver vídeo: Despliegue Cloud en Azure](https://youtu.be/b2DiqF-3AVw)** — Terraform, Ansible y DevOps
 
 ---
 
