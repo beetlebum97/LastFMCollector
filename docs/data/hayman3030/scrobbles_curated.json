@@ -1,5 +1,2917 @@
 [
   {
+    "artist_name": "Pulp",
+    "track_name": "A Sunset",
+    "album_name": "More",
+    "loved": 0,
+    "date_time": "2026-07-11 13:44:02"
+  },
+  {
+    "artist_name": "Pulp",
+    "track_name": "Hymn of the North",
+    "album_name": "More",
+    "loved": 0,
+    "date_time": "2026-07-11 13:38:03"
+  },
+  {
+    "artist_name": "Pulp",
+    "track_name": "Partial Eclipse",
+    "album_name": "More",
+    "loved": 0,
+    "date_time": "2026-07-11 13:33:09"
+  },
+  {
+    "artist_name": "Pulp",
+    "track_name": "Background Noise",
+    "album_name": "More",
+    "loved": 0,
+    "date_time": "2026-07-11 13:26:28"
+  },
+  {
+    "artist_name": "Pulp",
+    "track_name": "Got to Have Love",
+    "album_name": "More",
+    "loved": 0,
+    "date_time": "2026-07-11 13:20:56"
+  },
+  {
+    "artist_name": "Pulp",
+    "track_name": "My Sex",
+    "album_name": "More",
+    "loved": 0,
+    "date_time": "2026-07-11 13:16:20"
+  },
+  {
+    "artist_name": "Pulp",
+    "track_name": "Farmers Market",
+    "album_name": "More",
+    "loved": 0,
+    "date_time": "2026-07-11 13:10:41"
+  },
+  {
+    "artist_name": "Pulp",
+    "track_name": "Slow Jam",
+    "album_name": "More",
+    "loved": 0,
+    "date_time": "2026-07-11 13:05:13"
+  },
+  {
+    "artist_name": "Pulp",
+    "track_name": "Grown Ups",
+    "album_name": "More",
+    "loved": 0,
+    "date_time": "2026-07-11 12:59:10"
+  },
+  {
+    "artist_name": "Pulp",
+    "track_name": "Tina",
+    "album_name": "More",
+    "loved": 0,
+    "date_time": "2026-07-11 12:55:34"
+  },
+  {
+    "artist_name": "Pulp",
+    "track_name": "Spike Island",
+    "album_name": "More",
+    "loved": 0,
+    "date_time": "2026-07-11 12:50:34"
+  },
+  {
+    "artist_name": "Florence + the Machine",
+    "track_name": "You've Got the Love",
+    "album_name": "Lungs",
+    "loved": 0,
+    "date_time": "2026-07-11 12:45:02"
+  },
+  {
+    "artist_name": "Florence + the Machine",
+    "track_name": "Blinding",
+    "album_name": "Lungs",
+    "loved": 0,
+    "date_time": "2026-07-11 12:40:03"
+  },
+  {
+    "artist_name": "Florence + the Machine",
+    "track_name": "Hurricane Drunk",
+    "album_name": "Lungs",
+    "loved": 0,
+    "date_time": "2026-07-11 12:36:17"
+  },
+  {
+    "artist_name": "Florence + the Machine",
+    "track_name": "My Boy Builds Coffins",
+    "album_name": "Lungs",
+    "loved": 0,
+    "date_time": "2026-07-11 12:32:31"
+  },
+  {
+    "artist_name": "Florence + the Machine",
+    "track_name": "Cosmic Love",
+    "album_name": "Lungs",
+    "loved": 0,
+    "date_time": "2026-07-11 12:28:14"
+  },
+  {
+    "artist_name": "Florence + the Machine",
+    "track_name": "Between Two Lungs",
+    "album_name": "Lungs",
+    "loved": 0,
+    "date_time": "2026-07-11 12:19:13"
+  },
+  {
+    "artist_name": "Florence + the Machine",
+    "track_name": "Drumming Song",
+    "album_name": "Lungs",
+    "loved": 0,
+    "date_time": "2026-07-11 12:15:09"
+  },
+  {
+    "artist_name": "Florence + the Machine",
+    "track_name": "Girl with One Eye",
+    "album_name": "Lungs",
+    "loved": 0,
+    "date_time": "2026-07-11 12:10:36"
+  },
+  {
+    "artist_name": "Florence + the Machine",
+    "track_name": "Kiss With a Fist",
+    "album_name": "Lungs",
+    "loved": 0,
+    "date_time": "2026-07-11 12:05:56"
+  },
+  {
+    "artist_name": "Florence + the Machine",
+    "track_name": "Howl",
+    "album_name": "Lungs",
+    "loved": 0,
+    "date_time": "2026-07-11 12:01:43"
+  },
+  {
+    "artist_name": "Florence + the Machine",
+    "track_name": "I'm Not Calling You a Liar",
+    "album_name": "Lungs",
+    "loved": 0,
+    "date_time": "2026-07-11 11:58:24"
+  },
+  {
+    "artist_name": "Florence + the Machine",
+    "track_name": "Rabbit Heart (Raise It Up)",
+    "album_name": "Lungs",
+    "loved": 0,
+    "date_time": "2026-07-11 11:53:33"
+  },
+  {
+    "artist_name": "Florence + the Machine",
+    "track_name": "Dog Days Are Over",
+    "album_name": "Lungs",
+    "loved": 0,
+    "date_time": "2026-07-11 11:41:48"
+  },
+  {
+    "artist_name": "Editors",
+    "track_name": "What Is This Thing Called Love",
+    "album_name": "The Weight of Your Love",
+    "loved": 0,
+    "date_time": "2026-07-11 01:43:14"
+  },
+  {
+    "artist_name": "Editors",
+    "track_name": "A Ton of Love",
+    "album_name": "The Weight of Your Love",
+    "loved": 0,
+    "date_time": "2026-07-11 01:39:09"
+  },
+  {
+    "artist_name": "Editors",
+    "track_name": "Sugar",
+    "album_name": "The Weight of Your Love",
+    "loved": 0,
+    "date_time": "2026-07-11 01:34:25"
+  },
+  {
+    "artist_name": "Editors",
+    "track_name": "The Weight",
+    "album_name": "The Weight of Your Love",
+    "loved": 0,
+    "date_time": "2026-07-11 01:29:28"
+  },
+  {
+    "artist_name": "Bauhaus",
+    "track_name": "Hope",
+    "album_name": "Burning from the Inside",
+    "loved": 0,
+    "date_time": "2026-07-11 00:51:13"
+  },
+  {
+    "artist_name": "Bauhaus",
+    "track_name": "Burning From the Inside",
+    "album_name": "Burning from the Inside",
+    "loved": 0,
+    "date_time": "2026-07-11 00:41:39"
+  },
+  {
+    "artist_name": "Bauhaus",
+    "track_name": "Kingdom's Coming",
+    "album_name": "Burning from the Inside",
+    "loved": 0,
+    "date_time": "2026-07-11 00:38:57"
+  },
+  {
+    "artist_name": "Bauhaus",
+    "track_name": "Honeymoon Croon",
+    "album_name": "Burning from the Inside",
+    "loved": 0,
+    "date_time": "2026-07-11 00:35:50"
+  },
+  {
+    "artist_name": "Bauhaus",
+    "track_name": "Slice of Life",
+    "album_name": "Burning from the Inside",
+    "loved": 0,
+    "date_time": "2026-07-11 00:31:27"
+  },
+  {
+    "artist_name": "Bauhaus",
+    "track_name": "Who Killed Mr. Moonlight",
+    "album_name": "Burning from the Inside",
+    "loved": 0,
+    "date_time": "2026-07-11 00:26:20"
+  },
+  {
+    "artist_name": "Bauhaus",
+    "track_name": "King Volcano",
+    "album_name": "Burning from the Inside",
+    "loved": 0,
+    "date_time": "2026-07-11 00:22:45"
+  },
+  {
+    "artist_name": "Bauhaus",
+    "track_name": "Antonin Artaud",
+    "album_name": "Burning from the Inside",
+    "loved": 0,
+    "date_time": "2026-07-11 00:15:43"
+  },
+  {
+    "artist_name": "Bauhaus",
+    "track_name": "She's in Parties",
+    "album_name": "Burning from the Inside",
+    "loved": 0,
+    "date_time": "2026-07-11 00:09:36"
+  },
+  {
+    "artist_name": "Rosa Anschütz",
+    "track_name": "watch me disappear",
+    "album_name": "Sabbatical",
+    "loved": 1,
+    "date_time": "2026-07-11 00:04:51"
+  },
+  {
+    "artist_name": "Interpol",
+    "track_name": "The Lighthouse",
+    "album_name": "Our Love to Admire",
+    "loved": 0,
+    "date_time": "2026-07-10 20:10:34"
+  },
+  {
+    "artist_name": "Interpol",
+    "track_name": "Wrecking Ball",
+    "album_name": "Our Love to Admire",
+    "loved": 0,
+    "date_time": "2026-07-10 20:05:37"
+  },
+  {
+    "artist_name": "Interpol",
+    "track_name": "Who Do You Think",
+    "album_name": "Our Love to Admire",
+    "loved": 0,
+    "date_time": "2026-07-10 20:02:06"
+  },
+  {
+    "artist_name": "Interpol",
+    "track_name": "Rest My Chemistry",
+    "album_name": "Our Love to Admire",
+    "loved": 0,
+    "date_time": "2026-07-10 19:56:55"
+  },
+  {
+    "artist_name": "Interpol",
+    "track_name": "All Fired Up",
+    "album_name": "Our Love to Admire",
+    "loved": 0,
+    "date_time": "2026-07-10 19:53:13"
+  },
+  {
+    "artist_name": "Interpol",
+    "track_name": "Pace Is The Trick",
+    "album_name": "Our Love to Admire",
+    "loved": 0,
+    "date_time": "2026-07-10 19:48:36"
+  },
+  {
+    "artist_name": "Interpol",
+    "track_name": "Mammoth",
+    "album_name": "Our Love to Admire",
+    "loved": 1,
+    "date_time": "2026-07-10 19:44:19"
+  },
+  {
+    "artist_name": "Interpol",
+    "track_name": "The Heinrich Maneuver",
+    "album_name": "Our Love to Admire",
+    "loved": 0,
+    "date_time": "2026-07-10 19:32:54"
+  },
+  {
+    "artist_name": "Interpol",
+    "track_name": "The Scale",
+    "album_name": "Our Love to Admire",
+    "loved": 0,
+    "date_time": "2026-07-10 19:29:02"
+  },
+  {
+    "artist_name": "Interpol",
+    "track_name": "No I in Threesome",
+    "album_name": "Our Love to Admire",
+    "loved": 0,
+    "date_time": "2026-07-10 19:23:06"
+  },
+  {
+    "artist_name": "Interpol",
+    "track_name": "Pioneer to the Falls",
+    "album_name": "Our Love to Admire",
+    "loved": 0,
+    "date_time": "2026-07-10 19:17:15"
+  },
+  {
+    "artist_name": "Nick Cave & the Bad Seeds",
+    "track_name": "Lucy",
+    "album_name": "The Good Son",
+    "loved": 0,
+    "date_time": "2026-07-10 19:09:14"
+  },
+  {
+    "artist_name": "Nick Cave & the Bad Seeds",
+    "track_name": "The Witness Song",
+    "album_name": "The Good Son",
+    "loved": 0,
+    "date_time": "2026-07-10 19:02:47"
+  },
+  {
+    "artist_name": "Nick Cave & the Bad Seeds",
+    "track_name": "Lament",
+    "album_name": "The Good Son",
+    "loved": 0,
+    "date_time": "2026-07-10 18:56:35"
+  },
+  {
+    "artist_name": "Nick Cave & the Bad Seeds",
+    "track_name": "The Hammer Song",
+    "album_name": "The Good Son",
+    "loved": 0,
+    "date_time": "2026-07-10 18:52:05"
+  },
+  {
+    "artist_name": "Nick Cave & the Bad Seeds",
+    "track_name": "The Ship Song",
+    "album_name": "The Good Son",
+    "loved": 0,
+    "date_time": "2026-07-10 18:46:47"
+  },
+  {
+    "artist_name": "Nick Cave & the Bad Seeds",
+    "track_name": "The Weeping Song",
+    "album_name": "The Good Son",
+    "loved": 0,
+    "date_time": "2026-07-10 18:42:11"
+  },
+  {
+    "artist_name": "Nick Cave & the Bad Seeds",
+    "track_name": "Sorrow's Child",
+    "album_name": "The Good Son",
+    "loved": 0,
+    "date_time": "2026-07-10 18:37:17"
+  },
+  {
+    "artist_name": "Nick Cave & the Bad Seeds",
+    "track_name": "Foi Na Cruz",
+    "album_name": "The Good Son",
+    "loved": 0,
+    "date_time": "2026-07-10 18:27:50"
+  },
+  {
+    "artist_name": "Nick Cave & the Bad Seeds",
+    "track_name": "The Good Son",
+    "album_name": "The Good Son",
+    "loved": 0,
+    "date_time": "2026-07-10 18:21:41"
+  },
+  {
+    "artist_name": "Pulp",
+    "track_name": "The Day After the Revolution",
+    "album_name": "This Is Hardcore",
+    "loved": 0,
+    "date_time": "2026-07-10 17:21:48"
+  },
+  {
+    "artist_name": "Pulp",
+    "track_name": "Glory Days",
+    "album_name": "This Is Hardcore",
+    "loved": 0,
+    "date_time": "2026-07-10 17:16:48"
+  },
+  {
+    "artist_name": "Pulp",
+    "track_name": "Sylvia",
+    "album_name": "This Is Hardcore",
+    "loved": 0,
+    "date_time": "2026-07-10 17:10:59"
+  },
+  {
+    "artist_name": "Pulp",
+    "track_name": "Seductive Barry",
+    "album_name": "This Is Hardcore",
+    "loved": 0,
+    "date_time": "2026-07-10 17:00:55"
+  },
+  {
+    "artist_name": "Pulp",
+    "track_name": "I'm a Man",
+    "album_name": "This Is Hardcore",
+    "loved": 0,
+    "date_time": "2026-07-10 16:55:43"
+  },
+  {
+    "artist_name": "Pulp",
+    "track_name": "A Little Soul",
+    "album_name": "This Is Hardcore",
+    "loved": 0,
+    "date_time": "2026-07-10 16:52:16"
+  },
+  {
+    "artist_name": "Pulp",
+    "track_name": "TV Movie",
+    "album_name": "This Is Hardcore",
+    "loved": 0,
+    "date_time": "2026-07-10 16:48:47"
+  },
+  {
+    "artist_name": "Pulp",
+    "track_name": "This Is Hardcore",
+    "album_name": "This Is Hardcore",
+    "loved": 0,
+    "date_time": "2026-07-10 16:42:10"
+  },
+  {
+    "artist_name": "Pulp",
+    "track_name": "Help the Aged",
+    "album_name": "This Is Hardcore",
+    "loved": 1,
+    "date_time": "2026-07-10 16:37:35"
+  },
+  {
+    "artist_name": "Pulp",
+    "track_name": "Party Hard",
+    "album_name": "This Is Hardcore",
+    "loved": 1,
+    "date_time": "2026-07-10 16:33:30"
+  },
+  {
+    "artist_name": "Pulp",
+    "track_name": "Dishes",
+    "album_name": "This Is Hardcore",
+    "loved": 0,
+    "date_time": "2026-07-10 16:29:50"
+  },
+  {
+    "artist_name": "Pulp",
+    "track_name": "The Fear",
+    "album_name": "This Is Hardcore",
+    "loved": 0,
+    "date_time": "2026-07-10 16:24:11"
+  },
+  {
+    "artist_name": "Patti Smith",
+    "track_name": "Elegie",
+    "album_name": "Horses",
+    "loved": 0,
+    "date_time": "2026-07-09 21:10:31"
+  },
+  {
+    "artist_name": "Patti Smith",
+    "track_name": "Land: Horses + Land Of A Thousand Dances + La Mer (de)",
+    "album_name": "Horses",
+    "loved": 0,
+    "date_time": "2026-07-09 20:58:37"
+  },
+  {
+    "artist_name": "Patti Smith",
+    "track_name": "Break It Up",
+    "album_name": "Horses",
+    "loved": 0,
+    "date_time": "2026-07-09 20:54:21"
+  },
+  {
+    "artist_name": "Patti Smith",
+    "track_name": "Kimberly",
+    "album_name": "Horses",
+    "loved": 0,
+    "date_time": "2026-07-09 20:49:43"
+  },
+  {
+    "artist_name": "Patti Smith",
+    "track_name": "Free Money",
+    "album_name": "Horses",
+    "loved": 0,
+    "date_time": "2026-07-09 20:45:36"
+  },
+  {
+    "artist_name": "Patti Smith",
+    "track_name": "Birdland",
+    "album_name": "Horses",
+    "loved": 0,
+    "date_time": "2026-07-09 20:34:34"
+  },
+  {
+    "artist_name": "Patti Smith",
+    "track_name": "Redondo Beach",
+    "album_name": "Horses",
+    "loved": 0,
+    "date_time": "2026-07-09 20:31:05"
+  },
+  {
+    "artist_name": "Patti Smith",
+    "track_name": "Gloria",
+    "album_name": "Horses",
+    "loved": 0,
+    "date_time": "2026-07-09 20:25:10"
+  },
+  {
+    "artist_name": "The Clash",
+    "track_name": "Train in Vain",
+    "album_name": "London Calling",
+    "loved": 0,
+    "date_time": "2026-07-09 20:16:18"
+  },
+  {
+    "artist_name": "The Clash",
+    "track_name": "Revolution Rock",
+    "album_name": "London Calling",
+    "loved": 0,
+    "date_time": "2026-07-09 20:10:24"
+  },
+  {
+    "artist_name": "The Clash",
+    "track_name": "I'm Not Down",
+    "album_name": "London Calling",
+    "loved": 0,
+    "date_time": "2026-07-09 20:07:07"
+  },
+  {
+    "artist_name": "The Clash",
+    "track_name": "Four Horsemen",
+    "album_name": "London Calling",
+    "loved": 0,
+    "date_time": "2026-07-09 20:04:01"
+  },
+  {
+    "artist_name": "The Clash",
+    "track_name": "Lover's Rock",
+    "album_name": "London Calling",
+    "loved": 0,
+    "date_time": "2026-07-09 19:59:01"
+  },
+  {
+    "artist_name": "The Clash",
+    "track_name": "The Card Cheat",
+    "album_name": "London Calling",
+    "loved": 0,
+    "date_time": "2026-07-09 19:48:21"
+  },
+  {
+    "artist_name": "The Clash",
+    "track_name": "Koka Kola",
+    "album_name": "London Calling",
+    "loved": 0,
+    "date_time": "2026-07-09 19:45:55"
+  },
+  {
+    "artist_name": "The Clash",
+    "track_name": "Death or Glory",
+    "album_name": "London Calling",
+    "loved": 0,
+    "date_time": "2026-07-09 19:41:42"
+  },
+  {
+    "artist_name": "The Clash",
+    "track_name": "Wrong 'Em Boyo",
+    "album_name": "London Calling",
+    "loved": 0,
+    "date_time": "2026-07-09 19:38:20"
+  },
+  {
+    "artist_name": "The Clash",
+    "track_name": "The Guns of Brixton",
+    "album_name": "London Calling",
+    "loved": 0,
+    "date_time": "2026-07-09 19:32:51"
+  },
+  {
+    "artist_name": "The Clash",
+    "track_name": "Clampdown",
+    "album_name": "London Calling",
+    "loved": 0,
+    "date_time": "2026-07-09 19:28:33"
+  },
+  {
+    "artist_name": "The Clash",
+    "track_name": "Lost in the Supermarket",
+    "album_name": "London Calling",
+    "loved": 0,
+    "date_time": "2026-07-09 19:24:37"
+  },
+  {
+    "artist_name": "The Clash",
+    "track_name": "The Right Profile",
+    "album_name": "London Calling",
+    "loved": 0,
+    "date_time": "2026-07-09 19:20:36"
+  },
+  {
+    "artist_name": "The Clash",
+    "track_name": "Spanish Bombs",
+    "album_name": "London Calling",
+    "loved": 1,
+    "date_time": "2026-07-09 19:17:12"
+  },
+  {
+    "artist_name": "The Clash",
+    "track_name": "Rudie Can't Fail",
+    "album_name": "London Calling",
+    "loved": 0,
+    "date_time": "2026-07-09 19:13:19"
+  },
+  {
+    "artist_name": "The Clash",
+    "track_name": "Hateful",
+    "album_name": "London Calling",
+    "loved": 0,
+    "date_time": "2026-07-09 19:10:20"
+  },
+  {
+    "artist_name": "The Clash",
+    "track_name": "Jimmy Jazz",
+    "album_name": "London Calling",
+    "loved": 0,
+    "date_time": "2026-07-09 19:06:18"
+  },
+  {
+    "artist_name": "The Clash",
+    "track_name": "Brand New Cadillac",
+    "album_name": "London Calling",
+    "loved": 0,
+    "date_time": "2026-07-09 19:03:43"
+  },
+  {
+    "artist_name": "The Clash",
+    "track_name": "London Calling",
+    "album_name": "London Calling",
+    "loved": 0,
+    "date_time": "2026-07-09 19:00:13"
+  },
+  {
+    "artist_name": "Nick Cave & the Bad Seeds",
+    "track_name": "Your Funeral, My Trial",
+    "album_name": "Your Funeral... My Trial",
+    "loved": 0,
+    "date_time": "2026-07-09 00:26:42"
+  },
+  {
+    "artist_name": "Nick Cave & the Bad Seeds",
+    "track_name": "From Her To Eternity",
+    "album_name": "From Her to Eternity",
+    "loved": 0,
+    "date_time": "2026-07-09 00:16:51"
+  },
+  {
+    "artist_name": "Nick Cave & the Bad Seeds",
+    "track_name": "Tupelo",
+    "album_name": "The Firstborn Is Dead",
+    "loved": 0,
+    "date_time": "2026-07-09 00:08:53"
+  },
+  {
+    "artist_name": "Glasvegas",
+    "track_name": "Euphoria, Take My Hand",
+    "album_name": "Euphoric Heartbreak",
+    "loved": 0,
+    "date_time": "2026-07-08 20:11:47"
+  },
+  {
+    "artist_name": "Pulp",
+    "track_name": "Bar Italia",
+    "album_name": "Different Class",
+    "loved": 0,
+    "date_time": "2026-07-08 17:36:32"
+  },
+  {
+    "artist_name": "Pulp",
+    "track_name": "Monday Morning",
+    "album_name": "Different Class",
+    "loved": 0,
+    "date_time": "2026-07-08 17:31:41"
+  },
+  {
+    "artist_name": "Pulp",
+    "track_name": "Underwear",
+    "album_name": "Different Class",
+    "loved": 0,
+    "date_time": "2026-07-08 17:27:23"
+  },
+  {
+    "artist_name": "Pulp",
+    "track_name": "F.E.E.L.I.N.G.C.A.L.L.E.D.L.O.V.E",
+    "album_name": "Different Class",
+    "loved": 0,
+    "date_time": "2026-07-08 17:21:19"
+  },
+  {
+    "artist_name": "Pulp",
+    "track_name": "Sorted for E's & Wizz",
+    "album_name": "Different Class",
+    "loved": 0,
+    "date_time": "2026-07-08 17:17:27"
+  },
+  {
+    "artist_name": "Pulp",
+    "track_name": "Something Changed",
+    "album_name": "Different Class",
+    "loved": 1,
+    "date_time": "2026-07-08 17:09:17"
+  },
+  {
+    "artist_name": "Pulp",
+    "track_name": "Live Bed Show",
+    "album_name": "Different Class",
+    "loved": 0,
+    "date_time": "2026-07-08 17:05:34"
+  },
+  {
+    "artist_name": "Pulp",
+    "track_name": "Disco 2000",
+    "album_name": "Different Class",
+    "loved": 0,
+    "date_time": "2026-07-08 17:00:56"
+  },
+  {
+    "artist_name": "Pulp",
+    "track_name": "I Spy",
+    "album_name": "Different Class",
+    "loved": 0,
+    "date_time": "2026-07-08 16:54:56"
+  },
+  {
+    "artist_name": "Pulp",
+    "track_name": "Common People",
+    "album_name": "Different Class",
+    "loved": 0,
+    "date_time": "2026-07-08 16:48:34"
+  },
+  {
+    "artist_name": "Pulp",
+    "track_name": "Pencil Skirt",
+    "album_name": "Different Class",
+    "loved": 0,
+    "date_time": "2026-07-08 16:45:16"
+  },
+  {
+    "artist_name": "Pulp",
+    "track_name": "Mis-Shapes",
+    "album_name": "Different Class",
+    "loved": 0,
+    "date_time": "2026-07-08 16:39:23"
+  },
+  {
+    "artist_name": "my bloody valentine",
+    "track_name": "Soft as Snow (But Warm Inside)",
+    "album_name": "Isn't Anything",
+    "loved": 0,
+    "date_time": "2026-07-07 20:08:21"
+  },
+  {
+    "artist_name": "Kasabian",
+    "track_name": "U Boat",
+    "album_name": "Kasabian",
+    "loved": 0,
+    "date_time": "2026-07-07 19:51:43"
+  },
+  {
+    "artist_name": "Kasabian",
+    "track_name": "Ovary Stripe",
+    "album_name": "Kasabian",
+    "loved": 0,
+    "date_time": "2026-07-07 19:47:49"
+  },
+  {
+    "artist_name": "Kasabian",
+    "track_name": "Butcher Blues",
+    "album_name": "Kasabian",
+    "loved": 0,
+    "date_time": "2026-07-07 19:43:11"
+  },
+  {
+    "artist_name": "Kasabian",
+    "track_name": "Cutt Off",
+    "album_name": "Kasabian",
+    "loved": 0,
+    "date_time": "2026-07-07 19:38:33"
+  },
+  {
+    "artist_name": "Kasabian",
+    "track_name": "Pinch Roller",
+    "album_name": "Kasabian",
+    "loved": 0,
+    "date_time": "2026-07-07 19:37:14"
+  },
+  {
+    "artist_name": "Kasabian",
+    "track_name": "Test Transmission",
+    "album_name": "Kasabian",
+    "loved": 0,
+    "date_time": "2026-07-07 19:32:52"
+  },
+  {
+    "artist_name": "Kasabian",
+    "track_name": "Running Battle",
+    "album_name": "Kasabian",
+    "loved": 0,
+    "date_time": "2026-07-07 19:28:28"
+  },
+  {
+    "artist_name": "Kasabian",
+    "track_name": "L.S.F. (Lost Souls Forever)",
+    "album_name": "Kasabian",
+    "loved": 0,
+    "date_time": "2026-07-07 19:24:52"
+  },
+  {
+    "artist_name": "Kasabian",
+    "track_name": "Orange",
+    "album_name": "Kasabian",
+    "loved": 0,
+    "date_time": "2026-07-07 19:23:56"
+  },
+  {
+    "artist_name": "Kasabian",
+    "track_name": "I.D.",
+    "album_name": "Kasabian",
+    "loved": 0,
+    "date_time": "2026-07-07 19:18:19"
+  },
+  {
+    "artist_name": "Kasabian",
+    "track_name": "Reason Is Treason",
+    "album_name": "Kasabian",
+    "loved": 0,
+    "date_time": "2026-07-07 19:13:38"
+  },
+  {
+    "artist_name": "Kasabian",
+    "track_name": "Processed Beats",
+    "album_name": "Kasabian",
+    "loved": 0,
+    "date_time": "2026-07-07 19:10:26"
+  },
+  {
+    "artist_name": "Kasabian",
+    "track_name": "Club Foot",
+    "album_name": "Kasabian",
+    "loved": 0,
+    "date_time": "2026-07-07 19:06:45"
+  },
+  {
+    "artist_name": "Foo Fighters",
+    "track_name": "Fraternity",
+    "album_name": "There Is Nothing Left to Lose",
+    "loved": 0,
+    "date_time": "2026-07-07 14:30:59"
+  },
+  {
+    "artist_name": "Foo Fighters",
+    "track_name": "M.I.A.",
+    "album_name": "There Is Nothing Left to Lose",
+    "loved": 0,
+    "date_time": "2026-07-07 14:25:52"
+  },
+  {
+    "artist_name": "Foo Fighters",
+    "track_name": "Ain't It the Life",
+    "album_name": "There Is Nothing Left to Lose",
+    "loved": 0,
+    "date_time": "2026-07-07 14:18:22"
+  },
+  {
+    "artist_name": "Foo Fighters",
+    "track_name": "Headwires",
+    "album_name": "There Is Nothing Left to Lose",
+    "loved": 0,
+    "date_time": "2026-07-07 14:05:01"
+  },
+  {
+    "artist_name": "Foo Fighters",
+    "track_name": "Next Year",
+    "album_name": "There Is Nothing Left to Lose",
+    "loved": 0,
+    "date_time": "2026-07-07 13:59:24"
+  },
+  {
+    "artist_name": "Foo Fighters",
+    "track_name": "Live-In Skin",
+    "album_name": "There Is Nothing Left to Lose",
+    "loved": 0,
+    "date_time": "2026-07-07 13:54:52"
+  },
+  {
+    "artist_name": "Foo Fighters",
+    "track_name": "Aurora",
+    "album_name": "There Is Nothing Left to Lose",
+    "loved": 0,
+    "date_time": "2026-07-07 13:49:01"
+  },
+  {
+    "artist_name": "Foo Fighters",
+    "track_name": "Generator",
+    "album_name": "There Is Nothing Left to Lose",
+    "loved": 0,
+    "date_time": "2026-07-07 13:45:06"
+  },
+  {
+    "artist_name": "Foo Fighters",
+    "track_name": "Gimme Stitches",
+    "album_name": "There Is Nothing Left to Lose",
+    "loved": 0,
+    "date_time": "2026-07-07 13:40:36"
+  },
+  {
+    "artist_name": "Foo Fighters",
+    "track_name": "Learn to Fly",
+    "album_name": "There Is Nothing Left to Lose",
+    "loved": 0,
+    "date_time": "2026-07-07 13:35:04"
+  },
+  {
+    "artist_name": "Foo Fighters",
+    "track_name": "Breakout",
+    "album_name": "There Is Nothing Left to Lose",
+    "loved": 0,
+    "date_time": "2026-07-07 13:31:20"
+  },
+  {
+    "artist_name": "Foo Fighters",
+    "track_name": "Stacked Actors",
+    "album_name": "There Is Nothing Left to Lose",
+    "loved": 0,
+    "date_time": "2026-07-07 13:26:36"
+  },
+  {
+    "artist_name": "Pulp",
+    "track_name": "David's Last Summer",
+    "album_name": "His 'n' Hers",
+    "loved": 0,
+    "date_time": "2026-07-07 13:09:30"
+  },
+  {
+    "artist_name": "Pulp",
+    "track_name": "Someone Like the Moon",
+    "album_name": "His 'n' Hers",
+    "loved": 0,
+    "date_time": "2026-07-07 13:05:11"
+  },
+  {
+    "artist_name": "Pulp",
+    "track_name": "Pink Glove",
+    "album_name": "His 'n' Hers",
+    "loved": 0,
+    "date_time": "2026-07-07 13:00:21"
+  },
+  {
+    "artist_name": "Pulp",
+    "track_name": "Do You Remember the First Time?",
+    "album_name": "His 'n' Hers",
+    "loved": 0,
+    "date_time": "2026-07-07 12:55:52"
+  },
+  {
+    "artist_name": "Pulp",
+    "track_name": "Happy Endings",
+    "album_name": "His 'n' Hers",
+    "loved": 0,
+    "date_time": "2026-07-07 12:50:43"
+  },
+  {
+    "artist_name": "Pulp",
+    "track_name": "She's a Lady",
+    "album_name": "His 'n' Hers",
+    "loved": 0,
+    "date_time": "2026-07-07 12:11:39"
+  },
+  {
+    "artist_name": "Pulp",
+    "track_name": "Babies",
+    "album_name": "His 'n' Hers",
+    "loved": 0,
+    "date_time": "2026-07-07 12:07:34"
+  },
+  {
+    "artist_name": "Pulp",
+    "track_name": "Have You Seen Her Lately?",
+    "album_name": "His 'n' Hers",
+    "loved": 0,
+    "date_time": "2026-07-07 12:02:52"
+  },
+  {
+    "artist_name": "Pulp",
+    "track_name": "Acrylic Afternoons",
+    "album_name": "His 'n' Hers",
+    "loved": 0,
+    "date_time": "2026-07-07 11:58:31"
+  },
+  {
+    "artist_name": "Pulp",
+    "track_name": "Lipgloss",
+    "album_name": "His 'n' Hers",
+    "loved": 0,
+    "date_time": "2026-07-07 11:54:47"
+  },
+  {
+    "artist_name": "Pulp",
+    "track_name": "Joyriders",
+    "album_name": "His 'n' Hers",
+    "loved": 0,
+    "date_time": "2026-07-07 11:51:16"
+  },
+  {
+    "artist_name": "Volován",
+    "track_name": "Ella Es Azul",
+    "album_name": "Razzmatazz",
+    "loved": 0,
+    "date_time": "2026-07-06 23:29:52"
+  },
+  {
+    "artist_name": "The Horrors",
+    "track_name": "Oceans Burning",
+    "album_name": "Skying",
+    "loved": 0,
+    "date_time": "2026-07-05 21:26:58"
+  },
+  {
+    "artist_name": "The Horrors",
+    "track_name": "Monica Gems",
+    "album_name": "Skying",
+    "loved": 0,
+    "date_time": "2026-07-05 21:21:34"
+  },
+  {
+    "artist_name": "The Horrors",
+    "track_name": "Moving Further Away",
+    "album_name": "Skying",
+    "loved": 0,
+    "date_time": "2026-07-05 21:11:41"
+  },
+  {
+    "artist_name": "The Horrors",
+    "track_name": "Wild Eyed",
+    "album_name": "Skying",
+    "loved": 0,
+    "date_time": "2026-07-05 21:07:14"
+  },
+  {
+    "artist_name": "The Horrors",
+    "track_name": "Still Life",
+    "album_name": "Skying",
+    "loved": 0,
+    "date_time": "2026-07-05 21:01:48"
+  },
+  {
+    "artist_name": "The Horrors",
+    "track_name": "Dive In",
+    "album_name": "Skying",
+    "loved": 0,
+    "date_time": "2026-07-05 20:56:30"
+  },
+  {
+    "artist_name": "The Horrors",
+    "track_name": "Endless Blue",
+    "album_name": "Skying",
+    "loved": 0,
+    "date_time": "2026-07-05 20:51:11"
+  },
+  {
+    "artist_name": "The Horrors",
+    "track_name": "I Can See Through You",
+    "album_name": "Skying",
+    "loved": 0,
+    "date_time": "2026-07-05 20:44:46"
+  },
+  {
+    "artist_name": "The Horrors",
+    "track_name": "You Said",
+    "album_name": "Skying",
+    "loved": 0,
+    "date_time": "2026-07-05 20:37:58"
+  },
+  {
+    "artist_name": "The Horrors",
+    "track_name": "Changing The Rain",
+    "album_name": "Skying",
+    "loved": 0,
+    "date_time": "2026-07-05 20:33:19"
+  },
+  {
+    "artist_name": "The Jam",
+    "track_name": "Scrape Away",
+    "album_name": "Sound Affects",
+    "loved": 0,
+    "date_time": "2026-07-05 20:17:28"
+  },
+  {
+    "artist_name": "The Jam",
+    "track_name": "Boy About Town",
+    "album_name": "Sound Affects",
+    "loved": 0,
+    "date_time": "2026-07-05 20:15:01"
+  },
+  {
+    "artist_name": "The Jam",
+    "track_name": "Music for the Last Couple",
+    "album_name": "Sound Affects",
+    "loved": 0,
+    "date_time": "2026-07-05 20:10:14"
+  },
+  {
+    "artist_name": "The Jam",
+    "track_name": "Man in the Corner Shop",
+    "album_name": "Sound Affects",
+    "loved": 0,
+    "date_time": "2026-07-05 20:05:51"
+  },
+  {
+    "artist_name": "The Jam",
+    "track_name": "Dreamtime",
+    "album_name": "Sound Affects",
+    "loved": 0,
+    "date_time": "2026-07-05 20:01:39"
+  },
+  {
+    "artist_name": "The Jam",
+    "track_name": "That's Entertainment",
+    "album_name": "Sound Affects",
+    "loved": 0,
+    "date_time": "2026-07-05 19:58:02"
+  },
+  {
+    "artist_name": "The Jam",
+    "track_name": "Start!",
+    "album_name": "Sound Affects",
+    "loved": 0,
+    "date_time": "2026-07-05 19:55:01"
+  },
+  {
+    "artist_name": "The Jam",
+    "track_name": "Set the House Ablaze",
+    "album_name": "Sound Affects",
+    "loved": 0,
+    "date_time": "2026-07-05 19:49:53"
+  },
+  {
+    "artist_name": "The Jam",
+    "track_name": "But I'm Different Now",
+    "album_name": "Sound Affects",
+    "loved": 0,
+    "date_time": "2026-07-05 19:47:54"
+  },
+  {
+    "artist_name": "The Jam",
+    "track_name": "Monday",
+    "album_name": "Sound Affects",
+    "loved": 0,
+    "date_time": "2026-07-05 19:44:38"
+  },
+  {
+    "artist_name": "The Jam",
+    "track_name": "Pretty Green",
+    "album_name": "Sound Affects",
+    "loved": 0,
+    "date_time": "2026-07-05 19:41:56"
+  },
+  {
+    "artist_name": "James",
+    "track_name": "Sit Down",
+    "album_name": "Britpop Anthems",
+    "loved": 0,
+    "date_time": "2026-07-05 16:35:53"
+  },
+  {
+    "artist_name": "Simian",
+    "track_name": "La Breeze",
+    "album_name": "Razzmatazz by DJ Amable CD2",
+    "loved": 0,
+    "date_time": "2026-07-05 16:32:07"
+  },
+  {
+    "artist_name": "Burning",
+    "track_name": "Sin Tiempo para Vivir",
+    "album_name": "Madrid",
+    "loved": 0,
+    "date_time": "2026-07-05 13:23:54"
+  },
+  {
+    "artist_name": "Burning",
+    "track_name": "Miéntelas",
+    "album_name": "Madrid",
+    "loved": 0,
+    "date_time": "2026-07-05 13:16:10"
+  },
+  {
+    "artist_name": "Burning",
+    "track_name": "Lujuria",
+    "album_name": "Madrid",
+    "loved": 0,
+    "date_time": "2026-07-05 13:09:57"
+  },
+  {
+    "artist_name": "Burning",
+    "track_name": "Hey Nena",
+    "album_name": "Madrid",
+    "loved": 0,
+    "date_time": "2026-07-05 13:03:34"
+  },
+  {
+    "artist_name": "Burning",
+    "track_name": "Rock 'n' Roll Mama",
+    "album_name": "Madrid",
+    "loved": 0,
+    "date_time": "2026-07-05 12:59:54"
+  },
+  {
+    "artist_name": "Burning",
+    "track_name": "Madrid",
+    "album_name": "Madrid",
+    "loved": 0,
+    "date_time": "2026-07-05 12:54:15"
+  },
+  {
+    "artist_name": "Platero y tú",
+    "track_name": "Imanol",
+    "album_name": "Voy a acabar borracho",
+    "loved": 0,
+    "date_time": "2026-07-05 12:50:26"
+  },
+  {
+    "artist_name": "Platero y tú",
+    "track_name": "Ramón",
+    "album_name": "Voy a acabar borracho",
+    "loved": 0,
+    "date_time": "2026-07-05 12:41:56"
+  },
+  {
+    "artist_name": "Platero y tú",
+    "track_name": "Déjame en paz",
+    "album_name": "Voy a acabar borracho",
+    "loved": 0,
+    "date_time": "2026-07-05 12:37:44"
+  },
+  {
+    "artist_name": "Platero y tú",
+    "track_name": "Ya no existe la vida",
+    "album_name": "Voy a acabar borracho",
+    "loved": 0,
+    "date_time": "2026-07-05 12:35:05"
+  },
+  {
+    "artist_name": "Platero y tú",
+    "track_name": "La maté porque era mía",
+    "album_name": "Voy a acabar borracho",
+    "loved": 0,
+    "date_time": "2026-07-05 12:32:25"
+  },
+  {
+    "artist_name": "Platero y tú",
+    "track_name": "No me quieres saludar",
+    "album_name": "Voy a acabar borracho",
+    "loved": 0,
+    "date_time": "2026-07-05 12:29:17"
+  },
+  {
+    "artist_name": "Platero y tú",
+    "track_name": "Mira Hacia Mí",
+    "album_name": "Voy a acabar borracho",
+    "loved": 0,
+    "date_time": "2026-07-05 12:17:54"
+  },
+  {
+    "artist_name": "Platero y tú",
+    "track_name": "Si tú te vas",
+    "album_name": "Voy a acabar borracho",
+    "loved": 0,
+    "date_time": "2026-07-05 12:13:28"
+  },
+  {
+    "artist_name": "Platero y tú",
+    "track_name": "Por Detrás",
+    "album_name": "Voy a acabar borracho",
+    "loved": 0,
+    "date_time": "2026-07-05 12:10:14"
+  },
+  {
+    "artist_name": "Platero y tú",
+    "track_name": "Un abecedario sin letras",
+    "album_name": "Voy a acabar borracho",
+    "loved": 0,
+    "date_time": "2026-07-05 12:07:07"
+  },
+  {
+    "artist_name": "Platero y tú",
+    "track_name": "Tiemblan los corazones",
+    "album_name": "Voy a acabar borracho",
+    "loved": 0,
+    "date_time": "2026-07-05 12:04:15"
+  },
+  {
+    "artist_name": "Platero y tú",
+    "track_name": "Voy a acabar borracho",
+    "album_name": "Voy a acabar borracho",
+    "loved": 0,
+    "date_time": "2026-07-05 11:58:35"
+  },
+  {
+    "artist_name": "The Pogues",
+    "track_name": "Billy's Bones",
+    "album_name": "Rum Sodomy & the Lash",
+    "loved": 0,
+    "date_time": "2026-07-04 18:39:05"
+  },
+  {
+    "artist_name": "The Pogues",
+    "track_name": "Navigator",
+    "album_name": "Rum Sodomy & the Lash",
+    "loved": 0,
+    "date_time": "2026-07-04 18:34:01"
+  },
+  {
+    "artist_name": "The Pogues",
+    "track_name": "Jesse James",
+    "album_name": "Rum Sodomy & the Lash",
+    "loved": 0,
+    "date_time": "2026-07-04 18:31:01"
+  },
+  {
+    "artist_name": "The Pogues",
+    "track_name": "A Pair Of Brown Eyes",
+    "album_name": "Rum Sodomy & the Lash",
+    "loved": 0,
+    "date_time": "2026-07-04 18:21:16"
+  },
+  {
+    "artist_name": "The Pogues",
+    "track_name": "I'm a Man You Don't Meet Every Day",
+    "album_name": "Rum Sodomy & the Lash",
+    "loved": 0,
+    "date_time": "2026-07-04 18:08:53"
+  },
+  {
+    "artist_name": "The Pogues",
+    "track_name": "Wild Cats of Kilkenny",
+    "album_name": "Rum Sodomy & the Lash",
+    "loved": 0,
+    "date_time": "2026-07-04 17:53:41"
+  },
+  {
+    "artist_name": "The Pogues",
+    "track_name": "The Old Main Drag",
+    "album_name": "Rum Sodomy & the Lash",
+    "loved": 0,
+    "date_time": "2026-07-04 17:50:19"
+  },
+  {
+    "artist_name": "The Pogues",
+    "track_name": "The Sick Bed of Cuchulainn",
+    "album_name": "Rum Sodomy & the Lash",
+    "loved": 0,
+    "date_time": "2026-07-04 17:46:55"
+  },
+  {
+    "artist_name": "Los Planetas",
+    "track_name": "La Caja Del Diablo",
+    "album_name": "Super 8",
+    "loved": 0,
+    "date_time": "2026-07-04 16:51:02"
+  },
+  {
+    "artist_name": "Los Planetas",
+    "track_name": "Desorden",
+    "album_name": "Super 8",
+    "loved": 0,
+    "date_time": "2026-07-04 16:45:42"
+  },
+  {
+    "artist_name": "Los Planetas",
+    "track_name": "Rey Sombra",
+    "album_name": "Super 8",
+    "loved": 0,
+    "date_time": "2026-07-04 16:41:08"
+  },
+  {
+    "artist_name": "Los Planetas",
+    "track_name": "Brigitte",
+    "album_name": "Super 8",
+    "loved": 0,
+    "date_time": "2026-07-04 16:37:57"
+  },
+  {
+    "artist_name": "Los Planetas",
+    "track_name": "Estos últimos días",
+    "album_name": "Super 8",
+    "loved": 0,
+    "date_time": "2026-07-04 16:32:46"
+  },
+  {
+    "artist_name": "Los Planetas",
+    "track_name": "Jesús",
+    "album_name": "Super 8",
+    "loved": 0,
+    "date_time": "2026-07-04 16:29:15"
+  },
+  {
+    "artist_name": "Los Planetas",
+    "track_name": "10.000",
+    "album_name": "Super 8",
+    "loved": 0,
+    "date_time": "2026-07-04 16:24:28"
+  },
+  {
+    "artist_name": "Los Planetas",
+    "track_name": "Si está bien",
+    "album_name": "Super 8",
+    "loved": 0,
+    "date_time": "2026-07-04 15:36:07"
+  },
+  {
+    "artist_name": "Los Planetas",
+    "track_name": "Qué Puedo Hacer",
+    "album_name": "Super 8",
+    "loved": 0,
+    "date_time": "2026-07-04 15:32:57"
+  },
+  {
+    "artist_name": "Los Planetas",
+    "track_name": "De Viaje",
+    "album_name": "Super 8",
+    "loved": 0,
+    "date_time": "2026-07-04 15:28:28"
+  },
+  {
+    "artist_name": "Sidonie",
+    "track_name": "Giraluna",
+    "album_name": "Costa Azul",
+    "loved": 0,
+    "date_time": "2026-07-04 14:57:24"
+  },
+  {
+    "artist_name": "Sidonie",
+    "track_name": "Todo Lo Que Nos Gusta",
+    "album_name": "Costa Azul",
+    "loved": 0,
+    "date_time": "2026-07-04 14:53:18"
+  },
+  {
+    "artist_name": "Sidonie",
+    "track_name": "Empieza El Día En Tu Jardín",
+    "album_name": "Costa Azul",
+    "loved": 0,
+    "date_time": "2026-07-04 14:49:51"
+  },
+  {
+    "artist_name": "Sidonie",
+    "track_name": "Dandy Del Extrarradio",
+    "album_name": "Costa Azul",
+    "loved": 0,
+    "date_time": "2026-07-04 14:46:05"
+  },
+  {
+    "artist_name": "Sidonie",
+    "track_name": "Miles",
+    "album_name": "Costa Azul",
+    "loved": 0,
+    "date_time": "2026-07-04 14:41:51"
+  },
+  {
+    "artist_name": "Sidonie",
+    "track_name": "Mi Canción De Domingo",
+    "album_name": "Costa Azul",
+    "loved": 0,
+    "date_time": "2026-07-04 14:37:43"
+  },
+  {
+    "artist_name": "Sidonie",
+    "track_name": "Nuestro Baile Del Viernes",
+    "album_name": "Costa Azul",
+    "loved": 0,
+    "date_time": "2026-07-04 14:33:43"
+  },
+  {
+    "artist_name": "Sidonie",
+    "track_name": "Los Olvidados",
+    "album_name": "Costa Azul",
+    "loved": 0,
+    "date_time": "2026-07-04 14:28:48"
+  },
+  {
+    "artist_name": "Sidonie",
+    "track_name": "Sylvia",
+    "album_name": "Costa Azul",
+    "loved": 0,
+    "date_time": "2026-07-04 14:25:29"
+  },
+  {
+    "artist_name": "Sidonie",
+    "track_name": "Costa Azul",
+    "album_name": "Costa Azul",
+    "loved": 0,
+    "date_time": "2026-07-04 14:21:23"
+  },
+  {
+    "artist_name": "Sidonie",
+    "track_name": "Persona",
+    "album_name": "Costa Azul",
+    "loved": 0,
+    "date_time": "2026-07-04 14:17:32"
+  },
+  {
+    "artist_name": "Sidonie",
+    "track_name": "Feelin' Down' 01",
+    "album_name": "Razzmatazz by DJ Amable CD2",
+    "loved": 0,
+    "date_time": "2026-07-04 14:13:25"
+  },
+  {
+    "artist_name": "Gomez",
+    "track_name": "Shot Shot",
+    "album_name": "Razzmatazz by DJ Amable CD2",
+    "loved": 0,
+    "date_time": "2026-07-04 14:10:47"
+  },
+  {
+    "artist_name": "The Electric Soft Parade",
+    "track_name": "Empty At The End",
+    "album_name": "Razzmatazz by DJ Amable CD2",
+    "loved": 0,
+    "date_time": "2026-07-04 14:06:55"
+  },
+  {
+    "artist_name": "Boedekka",
+    "track_name": "Cabin Fever",
+    "album_name": "Razzmatazz by DJ Amable CD2",
+    "loved": 0,
+    "date_time": "2026-07-04 14:03:16"
+  },
+  {
+    "artist_name": "Black Rebel Motorcycle Club",
+    "track_name": "Lover Burns",
+    "album_name": "Razzmatazz by DJ Amable CD2",
+    "loved": 0,
+    "date_time": "2026-07-04 14:00:15"
+  },
+  {
+    "artist_name": "Kent",
+    "track_name": "Socker",
+    "album_name": "Razzmatazz by DJ Amable CD2",
+    "loved": 0,
+    "date_time": "2026-07-04 13:08:07"
+  },
+  {
+    "artist_name": "Jay-Jay Johanson",
+    "track_name": "On The Radio",
+    "album_name": "Razzmatazz by DJ Amable CD2",
+    "loved": 0,
+    "date_time": "2026-07-04 13:03:45"
+  },
+  {
+    "artist_name": "Timo Maas",
+    "track_name": "To Get Down",
+    "album_name": "Razzmatazz by DJ Amable CD2",
+    "loved": 0,
+    "date_time": "2026-07-04 13:00:18"
+  },
+  {
+    "artist_name": "Radio 4",
+    "track_name": "Dance To The Underground",
+    "album_name": "Razzmatazz by DJ Amable CD2",
+    "loved": 0,
+    "date_time": "2026-07-04 12:55:40"
+  },
+  {
+    "artist_name": "Operator",
+    "track_name": "I Need Money Bad",
+    "album_name": "Razzmatazz by DJ Amable CD2",
+    "loved": 0,
+    "date_time": "2026-07-04 12:52:58"
+  },
+  {
+    "artist_name": "Björk",
+    "track_name": "It's in Out Hands",
+    "album_name": "Razzmatazz by DJ Amable CD2",
+    "loved": 0,
+    "date_time": "2026-07-04 12:49:30"
+  },
+  {
+    "artist_name": "Ivy",
+    "track_name": "Let's Go to Bed",
+    "album_name": "Razzmatazz by DJ Amable CD2",
+    "loved": 0,
+    "date_time": "2026-07-04 12:45:31"
+  },
+  {
+    "artist_name": "Underworld",
+    "track_name": "Two Months Off (radio edit)",
+    "album_name": "Razzmatazz",
+    "loved": 0,
+    "date_time": "2026-07-04 12:41:36"
+  },
+  {
+    "artist_name": "Music Lovers",
+    "track_name": "One Musician One DJ",
+    "album_name": "Razzmatazz by DJ Amable CD2",
+    "loved": 0,
+    "date_time": "2026-07-04 12:37:14"
+  },
+  {
+    "artist_name": "The Chemical Brothers",
+    "track_name": "Surrender",
+    "album_name": "Surrender",
+    "loved": 0,
+    "date_time": "2026-07-04 04:24:11"
+  },
+  {
+    "artist_name": "The Chemical Brothers",
+    "track_name": "Got Glint?",
+    "album_name": "Surrender",
+    "loved": 0,
+    "date_time": "2026-07-04 04:18:45"
+  },
+  {
+    "artist_name": "The Chemical Brothers",
+    "track_name": "Asleep From Day",
+    "album_name": "Surrender",
+    "loved": 0,
+    "date_time": "2026-07-04 04:13:51"
+  },
+  {
+    "artist_name": "The Chemical Brothers",
+    "track_name": "The Sunshine Underground",
+    "album_name": "Surrender",
+    "loved": 0,
+    "date_time": "2026-07-04 04:05:06"
+  },
+  {
+    "artist_name": "The Chemical Brothers",
+    "track_name": "Let Forever Be",
+    "album_name": "Surrender",
+    "loved": 0,
+    "date_time": "2026-07-04 04:00:47"
+  },
+  {
+    "artist_name": "The Chemical Brothers",
+    "track_name": "Orange Wedge",
+    "album_name": "Surrender",
+    "loved": 0,
+    "date_time": "2026-07-04 03:57:26"
+  },
+  {
+    "artist_name": "The Chemical Brothers",
+    "track_name": "Music: Response",
+    "album_name": "Surrender",
+    "loved": 0,
+    "date_time": "2026-07-04 03:51:51"
+  },
+  {
+    "artist_name": "The Chemical Brothers",
+    "track_name": "Out of Control",
+    "album_name": "Surrender",
+    "loved": 0,
+    "date_time": "2026-07-04 03:44:23"
+  },
+  {
+    "artist_name": "The Chemical Brothers",
+    "track_name": "Under The Influence",
+    "album_name": "Surrender",
+    "loved": 0,
+    "date_time": "2026-07-04 03:40:03"
+  },
+  {
+    "artist_name": "The Chemical Brothers",
+    "track_name": "Hey Boy Hey Girl",
+    "album_name": "Surrender",
+    "loved": 1,
+    "date_time": "2026-07-04 03:33:57"
+  },
+  {
+    "artist_name": "Phoenix",
+    "track_name": "Holding on together",
+    "album_name": "Alphabetical",
+    "loved": 0,
+    "date_time": "2026-07-04 03:29:48"
+  },
+  {
+    "artist_name": "Phoenix",
+    "track_name": "Summer Days",
+    "album_name": "United",
+    "loved": 0,
+    "date_time": "2026-07-04 03:26:18"
+  },
+  {
+    "artist_name": "Phoenix",
+    "track_name": "Embuscade",
+    "album_name": "United",
+    "loved": 0,
+    "date_time": "2026-07-04 03:22:01"
+  },
+  {
+    "artist_name": "Phoenix",
+    "track_name": "On Fire",
+    "album_name": "United",
+    "loved": 0,
+    "date_time": "2026-07-04 03:18:58"
+  },
+  {
+    "artist_name": "Phoenix",
+    "track_name": "Party Time",
+    "album_name": "United",
+    "loved": 0,
+    "date_time": "2026-07-04 03:16:42"
+  },
+  {
+    "artist_name": "Phoenix",
+    "track_name": "If I Ever Feel Better",
+    "album_name": "United",
+    "loved": 0,
+    "date_time": "2026-07-04 03:12:09"
+  },
+  {
+    "artist_name": "Phoenix",
+    "track_name": "Honeymoon",
+    "album_name": "United",
+    "loved": 0,
+    "date_time": "2026-07-04 03:07:01"
+  },
+  {
+    "artist_name": "Phoenix",
+    "track_name": "Too Young",
+    "album_name": "United",
+    "loved": 1,
+    "date_time": "2026-07-04 03:00:27"
+  },
+  {
+    "artist_name": "Duran Duran",
+    "track_name": "Of Crime And Passion",
+    "album_name": "Seven and the Ragged Tiger",
+    "loved": 0,
+    "date_time": "2026-07-03 20:36:21"
+  },
+  {
+    "artist_name": "Duran Duran",
+    "track_name": "I Take The Dice",
+    "album_name": "Seven and the Ragged Tiger",
+    "loved": 0,
+    "date_time": "2026-07-03 20:29:23"
+  },
+  {
+    "artist_name": "Duran Duran",
+    "track_name": "(I'm Looking For) Cracks In The Pavement",
+    "album_name": "Seven and the Ragged Tiger",
+    "loved": 0,
+    "date_time": "2026-07-03 20:25:43"
+  },
+  {
+    "artist_name": "Duran Duran",
+    "track_name": "New Moon On Monday",
+    "album_name": "Seven and the Ragged Tiger",
+    "loved": 0,
+    "date_time": "2026-07-03 20:20:50"
+  },
+  {
+    "artist_name": "Duran Duran",
+    "track_name": "The Reflex",
+    "album_name": "Seven and the Ragged Tiger",
+    "loved": 0,
+    "date_time": "2026-07-03 20:15:12"
+  },
+  {
+    "artist_name": "Noel Gallagher",
+    "track_name": "The Mexican",
+    "album_name": "Chasing Yesterday",
+    "loved": 0,
+    "date_time": "2026-07-03 15:18:38"
+  },
+  {
+    "artist_name": "Noel Gallagher",
+    "track_name": "While the Song Remains the Same",
+    "album_name": "Chasing Yesterday",
+    "loved": 0,
+    "date_time": "2026-07-03 15:01:30"
+  },
+  {
+    "artist_name": "Noel Gallagher",
+    "track_name": "The Right Stuff",
+    "album_name": "Chasing Yesterday",
+    "loved": 0,
+    "date_time": "2026-07-03 14:53:22"
+  },
+  {
+    "artist_name": "Noel Gallagher",
+    "track_name": "The Dying Of The Light",
+    "album_name": "Chasing Yesterday",
+    "loved": 0,
+    "date_time": "2026-07-03 14:47:49"
+  },
+  {
+    "artist_name": "Noel Gallagher",
+    "track_name": "Lock All The Doors",
+    "album_name": "Chasing Yesterday",
+    "loved": 0,
+    "date_time": "2026-07-03 14:43:54"
+  },
+  {
+    "artist_name": "Noel Gallagher",
+    "track_name": "In the Heat of the Moment",
+    "album_name": "Chasing Yesterday",
+    "loved": 0,
+    "date_time": "2026-07-03 14:39:38"
+  },
+  {
+    "artist_name": "Noel Gallagher",
+    "track_name": "Riverman",
+    "album_name": "Chasing Yesterday",
+    "loved": 0,
+    "date_time": "2026-07-03 14:33:10"
+  },
+  {
+    "artist_name": "Noel Gallagher",
+    "track_name": "The Girl with X-Ray Eyes",
+    "album_name": "Chasing Yesterday",
+    "loved": 0,
+    "date_time": "2026-07-03 14:28:36"
+  },
+  {
+    "artist_name": "Noel Gallagher",
+    "track_name": "The Death of You and Me",
+    "album_name": "Noel Gallagher's High Flying Birds",
+    "loved": 0,
+    "date_time": "2026-07-03 14:21:54"
+  },
+  {
+    "artist_name": "Noel Gallagher",
+    "track_name": "AKA... What a Life!",
+    "album_name": "Noel Gallagher's High Flying Birds",
+    "loved": 0,
+    "date_time": "2026-07-03 14:17:26"
+  },
+  {
+    "artist_name": "Mercury Rev",
+    "track_name": "Chains",
+    "album_name": "All Is Dream",
+    "loved": 0,
+    "date_time": "2026-07-02 01:49:07"
+  },
+  {
+    "artist_name": "Mercury Rev",
+    "track_name": "Spiders And Flies",
+    "album_name": "All Is Dream",
+    "loved": 0,
+    "date_time": "2026-07-02 01:44:49"
+  },
+  {
+    "artist_name": "Noel Gallagher",
+    "track_name": "The Dying Of The Light",
+    "album_name": "Chasing Yesterday",
+    "loved": 0,
+    "date_time": "2026-07-02 01:38:40"
+  },
+  {
+    "artist_name": "Noel Gallagher",
+    "track_name": "Lock All The Doors",
+    "album_name": "Chasing Yesterday",
+    "loved": 0,
+    "date_time": "2026-07-02 01:34:53"
+  },
+  {
+    "artist_name": "Noel Gallagher",
+    "track_name": "The Girl with X-Ray Eyes",
+    "album_name": "Chasing Yesterday",
+    "loved": 0,
+    "date_time": "2026-07-02 01:28:13"
+  },
+  {
+    "artist_name": "Noel Gallagher",
+    "track_name": "Ballad Of The Mighty I",
+    "album_name": "Chasing Yesterday",
+    "loved": 0,
+    "date_time": "2026-07-02 01:22:50"
+  },
+  {
+    "artist_name": "Jarvis Cocker",
+    "track_name": "I Never Said I Was Deep",
+    "album_name": "Further Complications",
+    "loved": 0,
+    "date_time": "2026-07-02 01:15:12"
+  },
+  {
+    "artist_name": "Jarvis Cocker",
+    "track_name": "Big Julie",
+    "album_name": "Jarvis",
+    "loved": 0,
+    "date_time": "2026-07-02 01:09:27"
+  },
+  {
+    "artist_name": "Jarvis Cocker",
+    "track_name": "Tonite",
+    "album_name": "Jarvis",
+    "loved": 0,
+    "date_time": "2026-07-02 01:05:28"
+  },
+  {
+    "artist_name": "Jarvis Cocker",
+    "track_name": "From Auschwitz To Ipswich",
+    "album_name": "Jarvis",
+    "loved": 0,
+    "date_time": "2026-07-02 01:00:50"
+  },
+  {
+    "artist_name": "Jarvis Cocker",
+    "track_name": "I Will Kill Again",
+    "album_name": "Jarvis",
+    "loved": 0,
+    "date_time": "2026-07-02 00:56:57"
+  },
+  {
+    "artist_name": "Jarvis Cocker",
+    "track_name": "Heavy Weather",
+    "album_name": "Jarvis",
+    "loved": 0,
+    "date_time": "2026-07-02 00:53:02"
+  },
+  {
+    "artist_name": "Jarvis Cocker",
+    "track_name": "Don't Let Him Waste Your Time",
+    "album_name": "Jarvis",
+    "loved": 0,
+    "date_time": "2026-07-02 00:48:52"
+  },
+  {
+    "artist_name": "Led Zeppelin",
+    "track_name": "The Ocean",
+    "album_name": "Houses of the Holy",
+    "loved": 0,
+    "date_time": "2026-07-01 18:24:01"
+  },
+  {
+    "artist_name": "Led Zeppelin",
+    "track_name": "No Quarter",
+    "album_name": "Houses of the Holy",
+    "loved": 0,
+    "date_time": "2026-07-01 18:16:57"
+  },
+  {
+    "artist_name": "Led Zeppelin",
+    "track_name": "D'yer Mak'er",
+    "album_name": "Houses of the Holy",
+    "loved": 0,
+    "date_time": "2026-07-01 18:12:23"
+  },
+  {
+    "artist_name": "Led Zeppelin",
+    "track_name": "Dancing Days",
+    "album_name": "Houses of the Holy",
+    "loved": 0,
+    "date_time": "2026-07-01 18:08:22"
+  },
+  {
+    "artist_name": "Led Zeppelin",
+    "track_name": "The Crunge",
+    "album_name": "Houses of the Holy",
+    "loved": 0,
+    "date_time": "2026-07-01 18:04:58"
+  },
+  {
+    "artist_name": "Led Zeppelin",
+    "track_name": "Over the Hills and Far Away",
+    "album_name": "Houses of the Holy",
+    "loved": 0,
+    "date_time": "2026-07-01 17:59:53"
+  },
+  {
+    "artist_name": "Led Zeppelin",
+    "track_name": "The Rain Song",
+    "album_name": "Houses of the Holy",
+    "loved": 0,
+    "date_time": "2026-07-01 17:44:48"
+  },
+  {
+    "artist_name": "Led Zeppelin",
+    "track_name": "The Song Remains the Same",
+    "album_name": "Houses of the Holy",
+    "loved": 0,
+    "date_time": "2026-07-01 17:37:48"
+  },
+  {
+    "artist_name": "The Strokes",
+    "track_name": "Is This It",
+    "album_name": "Is This It",
+    "loved": 0,
+    "date_time": "2026-07-01 14:05:30"
+  },
+  {
+    "artist_name": "Nine Inch Nails",
+    "track_name": "Hurt",
+    "album_name": "The Downward Spiral",
+    "loved": 0,
+    "date_time": "2026-07-01 01:29:03"
+  },
+  {
+    "artist_name": "Nine Inch Nails",
+    "track_name": "The Downward Spiral",
+    "album_name": "The Downward Spiral",
+    "loved": 0,
+    "date_time": "2026-07-01 01:24:28"
+  },
+  {
+    "artist_name": "Nine Inch Nails",
+    "track_name": "Reptile",
+    "album_name": "The Downward Spiral",
+    "loved": 0,
+    "date_time": "2026-07-01 01:17:20"
+  },
+  {
+    "artist_name": "Nine Inch Nails",
+    "track_name": "Eraser",
+    "album_name": "The Downward Spiral",
+    "loved": 0,
+    "date_time": "2026-07-01 01:12:01"
+  },
+  {
+    "artist_name": "Nine Inch Nails",
+    "track_name": "A Warm Place",
+    "album_name": "The Downward Spiral",
+    "loved": 0,
+    "date_time": "2026-07-01 01:08:23"
+  },
+  {
+    "artist_name": "Nine Inch Nails",
+    "track_name": "Dead Souls",
+    "album_name": "The Downward Spiral",
+    "loved": 0,
+    "date_time": "2026-07-01 01:03:12"
+  },
+  {
+    "artist_name": "Nine Inch Nails",
+    "track_name": "Big Man With a Gun",
+    "album_name": "The Downward Spiral",
+    "loved": 0,
+    "date_time": "2026-07-01 01:01:23"
+  },
+  {
+    "artist_name": "Nine Inch Nails",
+    "track_name": "I Do Not Want This",
+    "album_name": "The Downward Spiral",
+    "loved": 0,
+    "date_time": "2026-07-01 00:44:24"
+  },
+  {
+    "artist_name": "Nine Inch Nails",
+    "track_name": "The Becoming",
+    "album_name": "The Downward Spiral",
+    "loved": 0,
+    "date_time": "2026-07-01 00:38:43"
+  },
+  {
+    "artist_name": "Nine Inch Nails",
+    "track_name": "Ruiner",
+    "album_name": "The Downward Spiral",
+    "loved": 0,
+    "date_time": "2026-07-01 00:31:56"
+  },
+  {
+    "artist_name": "Nine Inch Nails",
+    "track_name": "Closer",
+    "album_name": "The Downward Spiral",
+    "loved": 0,
+    "date_time": "2026-07-01 00:24:39"
+  },
+  {
+    "artist_name": "Nine Inch Nails",
+    "track_name": "March of the Pigs",
+    "album_name": "The Downward Spiral",
+    "loved": 0,
+    "date_time": "2026-07-01 00:21:45"
+  },
+  {
+    "artist_name": "Nine Inch Nails",
+    "track_name": "Heresy",
+    "album_name": "The Downward Spiral",
+    "loved": 0,
+    "date_time": "2026-07-01 00:17:08"
+  },
+  {
+    "artist_name": "Nine Inch Nails",
+    "track_name": "Piggy",
+    "album_name": "The Downward Spiral",
+    "loved": 0,
+    "date_time": "2026-07-01 00:12:23"
+  },
+  {
+    "artist_name": "Nine Inch Nails",
+    "track_name": "Mr Self Destruct",
+    "album_name": "The Downward Spiral",
+    "loved": 0,
+    "date_time": "2026-07-01 00:06:15"
+  },
+  {
+    "artist_name": "Judas Priest",
+    "track_name": "Evil Fantasies",
+    "album_name": "Killing Machine",
+    "loved": 0,
+    "date_time": "2026-06-30 23:48:37"
+  },
+  {
+    "artist_name": "Judas Priest",
+    "track_name": "Before the Dawn",
+    "album_name": "Killing Machine",
+    "loved": 0,
+    "date_time": "2026-06-30 23:45:07"
+  },
+  {
+    "artist_name": "Judas Priest",
+    "track_name": "Running Wild",
+    "album_name": "Killing Machine",
+    "loved": 0,
+    "date_time": "2026-06-30 23:38:15"
+  },
+  {
+    "artist_name": "Judas Priest",
+    "track_name": "Killing Machine",
+    "album_name": "Killing Machine",
+    "loved": 0,
+    "date_time": "2026-06-30 23:35:04"
+  },
+  {
+    "artist_name": "Judas Priest",
+    "track_name": "The Green Manalishi (With the Two-Pronged Crown)",
+    "album_name": "Killing Machine",
+    "loved": 0,
+    "date_time": "2026-06-30 22:51:41"
+  },
+  {
+    "artist_name": "Judas Priest",
+    "track_name": "Burnin' Up",
+    "album_name": "Killing Machine",
+    "loved": 0,
+    "date_time": "2026-06-30 22:47:26"
+  },
+  {
+    "artist_name": "Judas Priest",
+    "track_name": "Take on the World",
+    "album_name": "Killing Machine",
+    "loved": 0,
+    "date_time": "2026-06-30 22:44:21"
+  },
+  {
+    "artist_name": "Judas Priest",
+    "track_name": "Hell Bent for Leather",
+    "album_name": "Killing Machine",
+    "loved": 0,
+    "date_time": "2026-06-30 22:41:08"
+  },
+  {
+    "artist_name": "Judas Priest",
+    "track_name": "Evening Star",
+    "album_name": "Killing Machine",
+    "loved": 0,
+    "date_time": "2026-06-30 22:36:39"
+  },
+  {
+    "artist_name": "Judas Priest",
+    "track_name": "Rock Forever",
+    "album_name": "Killing Machine",
+    "loved": 0,
+    "date_time": "2026-06-30 22:33:09"
+  },
+  {
+    "artist_name": "Judas Priest",
+    "track_name": "Delivering the Goods",
+    "album_name": "Killing Machine",
+    "loved": 0,
+    "date_time": "2026-06-30 22:28:38"
+  },
+  {
+    "artist_name": "Rosendo",
+    "track_name": "Así Nos Va",
+    "album_name": "Canciones Para Normales y Mero Dementes",
+    "loved": 0,
+    "date_time": "2026-06-30 20:35:37"
+  },
+  {
+    "artist_name": "Rosendo",
+    "track_name": "MArcha Atrás",
+    "album_name": "Canciones Para Normales y Mero Dementes",
+    "loved": 0,
+    "date_time": "2026-06-30 20:31:53"
+  },
+  {
+    "artist_name": "Rosendo",
+    "track_name": "El Alma Se Colma",
+    "album_name": "Canciones Para Normales y Mero Dementes",
+    "loved": 0,
+    "date_time": "2026-06-30 20:27:51"
+  },
+  {
+    "artist_name": "Rosendo",
+    "track_name": "No Es Lo Mismo",
+    "album_name": "Canciones Para Normales y Mero Dementes",
+    "loved": 0,
+    "date_time": "2026-06-30 20:24:27"
+  },
+  {
+    "artist_name": "Rosendo",
+    "track_name": "A Dudar Se Aprende",
+    "album_name": "Canciones Para Normales y Mero Dementes",
+    "loved": 0,
+    "date_time": "2026-06-30 20:20:37"
+  },
+  {
+    "artist_name": "Rosendo",
+    "track_name": "Sursum Corda",
+    "album_name": "Canciones Para Normales y Mero Dementes",
+    "loved": 0,
+    "date_time": "2026-06-30 20:16:47"
+  },
+  {
+    "artist_name": "Rosendo",
+    "track_name": "Evidencia",
+    "album_name": "Canciones Para Normales y Mero Dementes",
+    "loved": 0,
+    "date_time": "2026-06-30 20:12:18"
+  },
+  {
+    "artist_name": "Rosendo",
+    "track_name": "Otro Espabilao",
+    "album_name": "Canciones Para Normales y Mero Dementes",
+    "loved": 0,
+    "date_time": "2026-06-30 20:08:01"
+  },
+  {
+    "artist_name": "Rosendo",
+    "track_name": "No Son Gigantes",
+    "album_name": "Canciones Para Normales y Mero Dementes",
+    "loved": 0,
+    "date_time": "2026-06-30 20:03:50"
+  },
+  {
+    "artist_name": "Rosendo",
+    "track_name": "Sire",
+    "album_name": "Canciones Para Normales y Mero Dementes",
+    "loved": 0,
+    "date_time": "2026-06-30 20:00:24"
+  },
+  {
+    "artist_name": "Rosendo",
+    "track_name": "La Fauna",
+    "album_name": "Canciones Para Normales y Mero Dementes",
+    "loved": 0,
+    "date_time": "2026-06-30 19:56:18"
+  },
+  {
+    "artist_name": "Platero y tú",
+    "track_name": "Pero Al Ponerse El Sol",
+    "album_name": "Correos",
+    "loved": 0,
+    "date_time": "2026-06-30 19:39:51"
+  },
+  {
+    "artist_name": "Platero y tú",
+    "track_name": "¿Qué Demonios?",
+    "album_name": "Correos",
+    "loved": 0,
+    "date_time": "2026-06-30 19:34:42"
+  },
+  {
+    "artist_name": "Platero y tú",
+    "track_name": "Me Da Igual",
+    "album_name": "Correos",
+    "loved": 0,
+    "date_time": "2026-06-30 19:30:19"
+  },
+  {
+    "artist_name": "Platero y tú",
+    "track_name": "Humo de mis pies",
+    "album_name": "Correos",
+    "loved": 0,
+    "date_time": "2026-06-30 19:26:25"
+  },
+  {
+    "artist_name": "Platero y tú",
+    "track_name": "Salvaje",
+    "album_name": "Correos",
+    "loved": 0,
+    "date_time": "2026-06-30 19:23:47"
+  },
+  {
+    "artist_name": "Platero y tú",
+    "track_name": "Entrando Cruzado",
+    "album_name": "Correos",
+    "loved": 0,
+    "date_time": "2026-06-30 19:19:39"
+  },
+  {
+    "artist_name": "Platero y tú",
+    "track_name": "Naufragio",
+    "album_name": "Correos",
+    "loved": 0,
+    "date_time": "2026-06-30 19:15:34"
+  },
+  {
+    "artist_name": "Platero y tú",
+    "track_name": "Caminar Cuesta Arriba",
+    "album_name": "Correos",
+    "loved": 0,
+    "date_time": "2026-06-30 19:11:34"
+  },
+  {
+    "artist_name": "Platero y tú",
+    "track_name": "Entre Dos Mares",
+    "album_name": "Correos",
+    "loved": 0,
+    "date_time": "2026-06-30 18:07:14"
+  },
+  {
+    "artist_name": "Platero y tú",
+    "track_name": "Un Ticket para cualquier lugar",
+    "album_name": "Correos",
+    "loved": 0,
+    "date_time": "2026-06-30 17:58:48"
+  },
+  {
+    "artist_name": "Platero y tú",
+    "track_name": "Cigarrito",
+    "album_name": "Correos",
+    "loved": 0,
+    "date_time": "2026-06-30 17:54:40"
+  },
+  {
+    "artist_name": "David Bowie",
+    "track_name": "Fantastic Voyage",
+    "album_name": "Lodger",
+    "loved": 1,
+    "date_time": "2026-06-30 00:30:57"
+  },
+  {
+    "artist_name": "David Bowie",
+    "track_name": "Subterraneans",
+    "album_name": "Low",
+    "loved": 0,
+    "date_time": "2026-06-30 00:11:33"
+  },
+  {
+    "artist_name": "David Bowie",
+    "track_name": "Weeping Wall",
+    "album_name": "Low",
+    "loved": 0,
+    "date_time": "2026-06-30 00:07:09"
+  },
+  {
+    "artist_name": "David Bowie",
+    "track_name": "Art Decade",
+    "album_name": "Low",
+    "loved": 0,
+    "date_time": "2026-06-30 00:03:21"
+  },
+  {
+    "artist_name": "David Bowie",
+    "track_name": "Warszawa",
+    "album_name": "Low",
+    "loved": 0,
+    "date_time": "2026-06-29 23:55:21"
+  },
+  {
+    "artist_name": "David Bowie",
+    "track_name": "A New Career in a New Town",
+    "album_name": "Low",
+    "loved": 1,
+    "date_time": "2026-06-29 23:52:26"
+  },
+  {
+    "artist_name": "David Bowie",
+    "track_name": "A New Career in a New Town",
+    "album_name": "Low",
+    "loved": 1,
+    "date_time": "2026-06-29 23:48:51"
+  },
+  {
+    "artist_name": "David Bowie",
+    "track_name": "Be My Wife",
+    "album_name": "Low",
+    "loved": 0,
+    "date_time": "2026-06-29 23:40:00"
+  },
+  {
+    "artist_name": "David Bowie",
+    "track_name": "Always Crashing in the Same Car",
+    "album_name": "Low",
+    "loved": 0,
+    "date_time": "2026-06-29 23:36:14"
+  },
+  {
+    "artist_name": "David Bowie",
+    "track_name": "Sound and Vision",
+    "album_name": "Low",
+    "loved": 0,
+    "date_time": "2026-06-29 23:33:06"
+  },
+  {
+    "artist_name": "David Bowie",
+    "track_name": "What in the World",
+    "album_name": "Low",
+    "loved": 0,
+    "date_time": "2026-06-29 23:30:42"
+  },
+  {
+    "artist_name": "David Bowie",
+    "track_name": "Breaking Glass",
+    "album_name": "Low",
+    "loved": 0,
+    "date_time": "2026-06-29 23:28:47"
+  },
+  {
+    "artist_name": "David Bowie",
+    "track_name": "Speed of Life",
+    "album_name": "Low",
+    "loved": 0,
+    "date_time": "2026-06-29 23:25:47"
+  },
+  {
+    "artist_name": "Pavement",
+    "track_name": "Our Singer",
+    "album_name": "Slanted and Enchanted",
+    "loved": 0,
+    "date_time": "2026-06-29 22:48:53"
+  },
+  {
+    "artist_name": "Pavement",
+    "track_name": "Jackals, False Grails: The Lonesome Era",
+    "album_name": "Slanted and Enchanted",
+    "loved": 0,
+    "date_time": "2026-06-29 22:45:32"
+  },
+  {
+    "artist_name": "Pavement",
+    "track_name": "Fame Throwa",
+    "album_name": "Slanted and Enchanted",
+    "loved": 0,
+    "date_time": "2026-06-29 22:40:35"
+  },
+  {
+    "artist_name": "Pavement",
+    "track_name": "Perfume-V",
+    "album_name": "Slanted and Enchanted",
+    "loved": 0,
+    "date_time": "2026-06-29 22:38:15"
+  },
+  {
+    "artist_name": "Pavement",
+    "track_name": "Two States",
+    "album_name": "Slanted and Enchanted",
+    "loved": 0,
+    "date_time": "2026-06-29 22:36:08"
+  },
+  {
+    "artist_name": "Pavement",
+    "track_name": "Here",
+    "album_name": "Slanted and Enchanted",
+    "loved": 0,
+    "date_time": "2026-06-29 22:32:04"
+  },
+  {
+    "artist_name": "Pavement",
+    "track_name": "Loretta's Scars",
+    "album_name": "Slanted and Enchanted",
+    "loved": 0,
+    "date_time": "2026-06-29 22:28:58"
+  },
+  {
+    "artist_name": "Pavement",
+    "track_name": "Chesley's Little Wrists",
+    "album_name": "Slanted and Enchanted",
+    "loved": 0,
+    "date_time": "2026-06-29 22:26:42"
+  },
+  {
+    "artist_name": "Pavement",
+    "track_name": "Conduit for Sale!",
+    "album_name": "Slanted and Enchanted",
+    "loved": 0,
+    "date_time": "2026-06-29 22:22:40"
+  },
+  {
+    "artist_name": "Pavement",
+    "track_name": "In the Mouth a Desert",
+    "album_name": "Slanted and Enchanted",
+    "loved": 0,
+    "date_time": "2026-06-29 22:18:28"
+  },
+  {
+    "artist_name": "Pavement",
+    "track_name": "No Life Singed Her",
+    "album_name": "Slanted and Enchanted",
+    "loved": 0,
+    "date_time": "2026-06-29 22:16:11"
+  },
+  {
+    "artist_name": "Pavement",
+    "track_name": "Trigger Cut/Wounded-Kite at :17",
+    "album_name": "Slanted and Enchanted",
+    "loved": 0,
+    "date_time": "2026-06-29 22:12:51"
+  },
+  {
+    "artist_name": "Pavement",
+    "track_name": "Summer Babe (Winter Version)",
+    "album_name": "Slanted and Enchanted",
+    "loved": 0,
+    "date_time": "2026-06-29 22:09:30"
+  },
+  {
+    "artist_name": "dEUS",
+    "track_name": "Middlewave",
+    "album_name": "My Sister Is My Clock",
+    "loved": 0,
+    "date_time": "2026-06-29 20:11:34"
+  },
+  {
+    "artist_name": "dEUS",
+    "track_name": "Lorre in the Forest",
+    "album_name": "My Sister Is My Clock",
+    "loved": 0,
+    "date_time": "2026-06-29 19:55:44"
+  },
+  {
+    "artist_name": "dEUS",
+    "track_name": "Glovesong",
+    "album_name": "My Sister Is My Clock",
+    "loved": 0,
+    "date_time": "2026-06-29 19:53:01"
+  },
+  {
+    "artist_name": "dEUS",
+    "track_name": "Sans titre pour Sira",
+    "album_name": "My Sister Is My Clock",
+    "loved": 0,
+    "date_time": "2026-06-29 19:51:14"
+  },
+  {
+    "artist_name": "dEUS",
+    "track_name": "Void",
+    "album_name": "My Sister Is My Clock",
+    "loved": 0,
+    "date_time": "2026-06-29 19:49:03"
+  },
+  {
+    "artist_name": "dEUS",
+    "track_name": "The Horror Partyjokes",
+    "album_name": "My Sister Is My Clock",
+    "loved": 0,
+    "date_time": "2026-06-29 19:43:40"
+  },
+  {
+    "artist_name": "dEUS",
+    "track_name": "Sick Sugar",
+    "album_name": "My Sister Is My Clock",
+    "loved": 0,
+    "date_time": "2026-06-29 19:42:27"
+  },
+  {
+    "artist_name": "dEUS",
+    "track_name": "Sweetness",
+    "album_name": "My Sister Is My Clock",
+    "loved": 0,
+    "date_time": "2026-06-29 19:41:06"
+  },
+  {
+    "artist_name": "dEUS",
+    "track_name": "Only a Colour to Her",
+    "album_name": "My Sister Is My Clock",
+    "loved": 0,
+    "date_time": "2026-06-29 19:36:26"
+  },
+  {
+    "artist_name": "dEUS",
+    "track_name": "How to Row a Cat",
+    "album_name": "My Sister Is My Clock",
+    "loved": 0,
+    "date_time": "2026-06-29 19:34:13"
+  },
+  {
+    "artist_name": "dEUS",
+    "track_name": "Little Ghost",
+    "album_name": "My Sister Is My Clock",
+    "loved": 0,
+    "date_time": "2026-06-29 19:32:24"
+  },
+  {
+    "artist_name": "dEUS",
+    "track_name": "Healthinsurance",
+    "album_name": "My Sister Is My Clock",
+    "loved": 0,
+    "date_time": "2026-06-29 19:30:23"
+  },
+  {
+    "artist_name": "dEUS",
+    "track_name": "Almost White",
+    "album_name": "My Sister Is My Clock",
+    "loved": 0,
+    "date_time": "2026-06-29 19:28:58"
+  },
+  {
+    "artist_name": "dEUS",
+    "track_name": "Middlewave",
+    "album_name": "My Sister Is My Clock",
+    "loved": 0,
+    "date_time": "2026-06-29 19:26:38"
+  },
+  {
+    "artist_name": "Talking Heads",
+    "track_name": "The Big Country",
+    "album_name": "More Songs About Buildings and Food",
+    "loved": 0,
+    "date_time": "2026-06-29 19:16:14"
+  },
+  {
+    "artist_name": "Talking Heads",
+    "track_name": "Take Me to the River",
+    "album_name": "More Songs About Buildings and Food",
+    "loved": 0,
+    "date_time": "2026-06-29 19:11:11"
+  },
+  {
+    "artist_name": "Talking Heads",
+    "track_name": "Stay Hungry",
+    "album_name": "More Songs About Buildings and Food",
+    "loved": 0,
+    "date_time": "2026-06-29 19:08:10"
+  },
+  {
+    "artist_name": "Talking Heads",
+    "track_name": "I'm Not in Love",
+    "album_name": "More Songs About Buildings and Food",
+    "loved": 0,
+    "date_time": "2026-06-29 19:03:15"
+  },
+  {
+    "artist_name": "Talking Heads",
+    "track_name": "Artists Only",
+    "album_name": "More Songs About Buildings and Food",
+    "loved": 0,
+    "date_time": "2026-06-29 18:57:34"
+  },
+  {
+    "artist_name": "Talking Heads",
+    "track_name": "Found a Job",
+    "album_name": "More Songs About Buildings and Food",
+    "loved": 0,
+    "date_time": "2026-06-29 18:51:34"
+  },
+  {
+    "artist_name": "Talking Heads",
+    "track_name": "The Girls Want to Be With the Girls",
+    "album_name": "More Songs About Buildings and Food",
+    "loved": 0,
+    "date_time": "2026-06-29 18:44:54"
+  },
+  {
+    "artist_name": "Talking Heads",
+    "track_name": "Warning Sign",
+    "album_name": "More Songs About Buildings and Food",
+    "loved": 0,
+    "date_time": "2026-06-29 18:40:54"
+  },
+  {
+    "artist_name": "Talking Heads",
+    "track_name": "The Good Thing",
+    "album_name": "More Songs About Buildings and Food",
+    "loved": 0,
+    "date_time": "2026-06-29 18:37:09"
+  },
+  {
+    "artist_name": "Talking Heads",
+    "track_name": "With Our Love",
+    "album_name": "More Songs About Buildings and Food",
+    "loved": 0,
+    "date_time": "2026-06-29 18:33:25"
+  },
+  {
+    "artist_name": "Talking Heads",
+    "track_name": "Thank You for Sending Me an Angel",
+    "album_name": "More Songs About Buildings and Food",
+    "loved": 0,
+    "date_time": "2026-06-29 18:28:48"
+  },
+  {
+    "artist_name": "Interpol",
+    "track_name": "PDA",
+    "album_name": "Razzmatazz",
+    "loved": 0,
+    "date_time": "2026-06-29 18:22:22"
+  },
+  {
+    "artist_name": "The Jeevas",
+    "track_name": "You Got My Number",
+    "album_name": "Razzmatazz by DJ Amable - CD1",
+    "loved": 0,
+    "date_time": "2026-06-29 18:19:31"
+  },
+  {
+    "artist_name": "Gomez",
+    "track_name": "Shot Shot",
+    "album_name": "Razzmatazz by DJ Amable CD2",
+    "loved": 0,
+    "date_time": "2026-06-29 18:16:43"
+  },
+  {
+    "artist_name": "Lou Reed",
+    "track_name": "Heavenly Arms",
+    "album_name": "The Blue Mask",
+    "loved": 1,
+    "date_time": "2026-06-29 17:54:34"
+  },
+  {
+    "artist_name": "Lou Reed",
+    "track_name": "The Day John Kennedy Died",
+    "album_name": "The Blue Mask",
+    "loved": 0,
+    "date_time": "2026-06-29 17:50:27"
+  },
+  {
+    "artist_name": "Lou Reed",
+    "track_name": "Waves Of Fear",
+    "album_name": "The Blue Mask",
+    "loved": 1,
+    "date_time": "2026-06-29 17:46:09"
+  },
+  {
+    "artist_name": "Lou Reed",
+    "track_name": "The Heroine",
+    "album_name": "The Blue Mask",
+    "loved": 0,
+    "date_time": "2026-06-29 17:43:00"
+  },
+  {
+    "artist_name": "Lou Reed",
+    "track_name": "Average Guy",
+    "album_name": "The Blue Mask",
+    "loved": 0,
+    "date_time": "2026-06-29 17:39:44"
+  },
+  {
+    "artist_name": "Lou Reed",
+    "track_name": "The Blue Mask",
+    "album_name": "The Blue Mask",
+    "loved": 1,
+    "date_time": "2026-06-29 17:34:31"
+  },
+  {
+    "artist_name": "Lou Reed",
+    "track_name": "The Gun",
+    "album_name": "The Blue Mask",
+    "loved": 0,
+    "date_time": "2026-06-29 17:30:26"
+  },
+  {
+    "artist_name": "Lou Reed",
+    "track_name": "Underneath The Bottle",
+    "album_name": "The Blue Mask",
+    "loved": 0,
+    "date_time": "2026-06-29 17:27:25"
+  },
+  {
+    "artist_name": "Lou Reed",
+    "track_name": "Women",
+    "album_name": "The Blue Mask",
+    "loved": 0,
+    "date_time": "2026-06-29 17:22:18"
+  },
+  {
+    "artist_name": "Lou Reed",
+    "track_name": "My House",
+    "album_name": "The Blue Mask",
+    "loved": 0,
+    "date_time": "2026-06-29 16:31:11"
+  },
+  {
+    "artist_name": "Green Day",
+    "track_name": "Pulling Teeth",
+    "album_name": "Dookie",
+    "loved": 0,
+    "date_time": "2026-06-28 14:35:23"
+  },
+  {
+    "artist_name": "Green Day",
+    "track_name": "Welcome to Paradise",
+    "album_name": "Dookie",
+    "loved": 0,
+    "date_time": "2026-06-28 14:29:34"
+  },
+  {
+    "artist_name": "Green Day",
+    "track_name": "Longview",
+    "album_name": "Dookie",
+    "loved": 0,
+    "date_time": "2026-06-28 14:25:25"
+  },
+  {
+    "artist_name": "Green Day",
+    "track_name": "Chump",
+    "album_name": "Dookie",
+    "loved": 0,
+    "date_time": "2026-06-28 14:22:22"
+  },
+  {
+    "artist_name": "Green Day",
+    "track_name": "Having a Blast",
+    "album_name": "Dookie",
+    "loved": 0,
+    "date_time": "2026-06-28 14:19:34"
+  },
+  {
+    "artist_name": "Green Day",
+    "track_name": "Burnout",
+    "album_name": "Dookie",
+    "loved": 0,
+    "date_time": "2026-06-28 14:17:20"
+  },
+  {
+    "artist_name": "Public Image Ltd.",
+    "track_name": "Fodderstompf",
+    "album_name": "First Issue",
+    "loved": 0,
+    "date_time": "2026-06-28 14:05:22"
+  },
+  {
+    "artist_name": "Public Image Ltd.",
+    "track_name": "Attack",
+    "album_name": "First Issue",
+    "loved": 0,
+    "date_time": "2026-06-28 14:02:07"
+  },
+  {
+    "artist_name": "Public Image Ltd.",
+    "track_name": "Low Life",
+    "album_name": "First Issue",
+    "loved": 0,
+    "date_time": "2026-06-28 13:57:44"
+  },
+  {
+    "artist_name": "Public Image Ltd.",
+    "track_name": "Public Image",
+    "album_name": "First Issue",
+    "loved": 0,
+    "date_time": "2026-06-28 13:54:34"
+  },
+  {
+    "artist_name": "Public Image Ltd.",
+    "track_name": "Annalisa",
+    "album_name": "First Issue",
+    "loved": 0,
+    "date_time": "2026-06-28 13:48:21"
+  },
+  {
+    "artist_name": "Public Image Ltd.",
+    "track_name": "Religion II",
+    "album_name": "First Issue",
+    "loved": 0,
+    "date_time": "2026-06-28 13:41:23"
+  },
+  {
+    "artist_name": "Public Image Ltd.",
+    "track_name": "Religion I",
+    "album_name": "First Issue",
+    "loved": 0,
+    "date_time": "2026-06-28 13:39:51"
+  },
+  {
+    "artist_name": "Public Image Ltd.",
+    "track_name": "Theme",
+    "album_name": "First Issue",
+    "loved": 0,
+    "date_time": "2026-06-28 13:30:30"
+  },
+  {
     "artist_name": "Sex Pistols",
     "track_name": "Bodies",
     "album_name": "Never Mind The Bollocks, Here's The Sex Pistols",
@@ -87,7 +2999,7 @@
     "artist_name": "Pulp",
     "track_name": "Party Hard",
     "album_name": "This Is Hardcore",
-    "loved": 0,
+    "loved": 1,
     "date_time": "2026-06-26 18:41:17"
   },
   {
@@ -103,13 +3015,6 @@
     "album_name": "Razzmatazz by DJ Amable CD2",
     "loved": 0,
     "date_time": "2026-06-26 18:15:07"
-  },
-  {
-    "artist_name": "The Postal Service",
-    "track_name": "Such Great Heights",
-    "album_name": "Razzmatazz",
-    "loved": 0,
-    "date_time": "2026-06-26 18:10:01"
   },
   {
     "artist_name": "The Postal Service",
@@ -7129,7 +10034,7 @@
     "artist_name": "Pulp",
     "track_name": "Party Hard",
     "album_name": "This Is Hardcore",
-    "loved": 0,
+    "loved": 1,
     "date_time": "2026-04-11 19:45:36"
   },
   {
@@ -17958,7 +20863,7 @@
     "artist_name": "Pulp",
     "track_name": "Party Hard",
     "album_name": "This Is Hardcore",
-    "loved": 0,
+    "loved": 1,
     "date_time": "2025-10-18 14:01:15"
   },
   {
@@ -24629,7 +27534,7 @@
     "artist_name": "Pulp",
     "track_name": "Party Hard",
     "album_name": "This Is Hardcore",
-    "loved": 0,
+    "loved": 1,
     "date_time": "2025-08-22 01:47:53"
   },
   {
@@ -29578,7 +32483,7 @@
     "artist_name": "Pulp",
     "track_name": "Party Hard",
     "album_name": "This Is Hardcore",
-    "loved": 0,
+    "loved": 1,
     "date_time": "2025-06-17 19:04:12"
   },
   {
@@ -45027,7 +47932,7 @@
     "artist_name": "Pulp",
     "track_name": "Party Hard",
     "album_name": "This Is Hardcore",
-    "loved": 0,
+    "loved": 1,
     "date_time": "2025-03-05 22:39:33"
   },
   {
@@ -51376,7 +54281,7 @@
     "artist_name": "Pulp",
     "track_name": "Party Hard",
     "album_name": "This Is Hardcore",
-    "loved": 0,
+    "loved": 1,
     "date_time": "2024-12-20 19:58:22"
   },
   {
@@ -54239,7 +57144,7 @@
     "artist_name": "David Bowie",
     "track_name": "A New Career in a New Town",
     "album_name": "Low",
-    "loved": 0,
+    "loved": 1,
     "date_time": "2024-10-08 01:42:22"
   },
   {
@@ -58194,7 +61099,7 @@
     "artist_name": "David Bowie",
     "track_name": "A New Career in a New Town",
     "album_name": "Low",
-    "loved": 0,
+    "loved": 1,
     "date_time": "2024-04-30 22:58:54"
   },
   {
@@ -77514,7 +80419,7 @@
     "artist_name": "Pulp",
     "track_name": "Party Hard",
     "album_name": "This Is Hardcore",
-    "loved": 0,
+    "loved": 1,
     "date_time": "2022-12-17 20:13:35"
   },
   {
@@ -79712,7 +82617,7 @@
     "artist_name": "David Bowie",
     "track_name": "A New Career in a New Town",
     "album_name": "Low",
-    "loved": 0,
+    "loved": 1,
     "date_time": "2022-10-20 13:05:13"
   },
   {
@@ -84885,7 +87790,7 @@
     "artist_name": "Pulp",
     "track_name": "Party Hard",
     "album_name": "This Is Hardcore",
-    "loved": 0,
+    "loved": 1,
     "date_time": "2022-06-07 02:46:55"
   },
   {
@@ -90961,7 +93866,7 @@
     "artist_name": "Pulp",
     "track_name": "Party Hard",
     "album_name": "This Is Hardcore",
-    "loved": 0,
+    "loved": 1,
     "date_time": "2021-11-22 17:53:57"
   },
   {
@@ -120060,7 +122965,7 @@
     "artist_name": "David Bowie",
     "track_name": "A New Career in a New Town",
     "album_name": "Low",
-    "loved": 0,
+    "loved": 1,
     "date_time": "2019-12-13 01:53:26"
   },
   {
@@ -122594,7 +125499,7 @@
     "artist_name": "Pulp",
     "track_name": "Party Hard",
     "album_name": "This Is Hardcore",
-    "loved": 0,
+    "loved": 1,
     "date_time": "2019-10-30 22:11:03"
   },
   {
@@ -131092,7 +133997,7 @@
     "artist_name": "David Bowie",
     "track_name": "A New Career in a New Town",
     "album_name": "Low",
-    "loved": 0,
+    "loved": 1,
     "date_time": "2019-05-25 00:44:18"
   },
   {
@@ -146226,7 +149131,7 @@
     "artist_name": "Pulp",
     "track_name": "Party Hard",
     "album_name": "This Is Hardcore",
-    "loved": 0,
+    "loved": 1,
     "date_time": "2018-10-20 12:44:05"
   },
   {
@@ -146471,7 +149376,7 @@
     "artist_name": "David Bowie",
     "track_name": "A New Career in a New Town",
     "album_name": "Low",
-    "loved": 0,
+    "loved": 1,
     "date_time": "2018-10-18 00:49:25"
   },
   {
@@ -148207,7 +151112,7 @@
     "artist_name": "Pulp",
     "track_name": "Party Hard",
     "album_name": "This Is Hardcore",
-    "loved": 0,
+    "loved": 1,
     "date_time": "2018-09-16 20:51:46"
   },
   {
@@ -161178,7 +164083,7 @@
     "artist_name": "David Bowie",
     "track_name": "A New Career in a New Town",
     "album_name": "Low",
-    "loved": 0,
+    "loved": 1,
     "date_time": "2018-03-25 23:39:02"
   },
   {
@@ -166764,7 +169669,7 @@
     "artist_name": "David Bowie",
     "track_name": "A New Career in a New Town",
     "album_name": "Low",
-    "loved": 0,
+    "loved": 1,
     "date_time": "2018-01-06 13:56:18"
   },
   {
@@ -169445,7 +172350,7 @@
     "artist_name": "David Bowie",
     "track_name": "A New Career in a New Town",
     "album_name": "Low",
-    "loved": 0,
+    "loved": 1,
     "date_time": "2017-12-09 01:41:51"
   },
   {
@@ -172287,7 +175192,7 @@
     "artist_name": "David Bowie",
     "track_name": "A New Career in a New Town",
     "album_name": "Low",
-    "loved": 0,
+    "loved": 1,
     "date_time": "2017-11-09 00:40:48"
   },
   {
@@ -172938,7 +175843,7 @@
     "artist_name": "David Bowie",
     "track_name": "A New Career in a New Town",
     "album_name": "Low",
-    "loved": 0,
+    "loved": 1,
     "date_time": "2017-10-31 14:50:10"
   },
   {
@@ -173064,7 +175969,7 @@
     "artist_name": "David Bowie",
     "track_name": "A New Career in a New Town",
     "album_name": "Low",
-    "loved": 0,
+    "loved": 1,
     "date_time": "2017-10-29 07:01:18"
   },
   {
@@ -177586,7 +180491,7 @@
     "artist_name": "David Bowie",
     "track_name": "A New Career in a New Town",
     "album_name": "Low",
-    "loved": 0,
+    "loved": 1,
     "date_time": "2017-08-23 21:45:42"
   },
   {
@@ -200959,7 +203864,7 @@
     "artist_name": "Pulp",
     "track_name": "Party Hard",
     "album_name": "This Is Hardcore",
-    "loved": 0,
+    "loved": 1,
     "date_time": "2016-12-10 21:02:27"
   },
   {
@@ -240103,7 +243008,7 @@
     "artist_name": "David Bowie",
     "track_name": "A New Career in a New Town",
     "album_name": "Low",
-    "loved": 0,
+    "loved": 1,
     "date_time": "2016-02-02 12:41:46"
   },
   {
@@ -241776,7 +244681,7 @@
     "artist_name": "Pulp",
     "track_name": "Party Hard",
     "album_name": "This Is Hardcore",
-    "loved": 0,
+    "loved": 1,
     "date_time": "2016-01-21 22:35:40"
   },
   {
@@ -242868,14 +245773,14 @@
     "artist_name": "David Bowie",
     "track_name": "A New Career in a New Town",
     "album_name": "Low",
-    "loved": 0,
+    "loved": 1,
     "date_time": "2016-01-14 18:10:03"
   },
   {
     "artist_name": "David Bowie",
     "track_name": "A New Career in a New Town",
     "album_name": "Low",
-    "loved": 0,
+    "loved": 1,
     "date_time": "2016-01-14 18:08:20"
   },
   {
@@ -243204,7 +246109,7 @@
     "artist_name": "David Bowie",
     "track_name": "A New Career in a New Town",
     "album_name": "Low",
-    "loved": 0,
+    "loved": 1,
     "date_time": "2016-01-11 19:49:06"
   },
   {
@@ -248146,7 +251051,7 @@
     "artist_name": "David Bowie",
     "track_name": "A New Career in a New Town",
     "album_name": "Low",
-    "loved": 0,
+    "loved": 1,
     "date_time": "2015-12-17 01:17:08"
   },
   {
@@ -250925,7 +253830,7 @@
     "artist_name": "Pulp",
     "track_name": "Party Hard",
     "album_name": "This Is Hardcore",
-    "loved": 0,
+    "loved": 1,
     "date_time": "2015-11-30 22:35:15"
   },
   {
@@ -254390,7 +257295,7 @@
     "artist_name": "David Bowie",
     "track_name": "A New Career in a New Town",
     "album_name": "Low",
-    "loved": 0,
+    "loved": 1,
     "date_time": "2015-11-16 01:05:16"
   },
   {
@@ -258891,7 +261796,7 @@
     "artist_name": "David Bowie",
     "track_name": "A New Career in a New Town",
     "album_name": "Low",
-    "loved": 0,
+    "loved": 1,
     "date_time": "2015-10-27 21:50:00"
   },
   {
@@ -259416,7 +262321,7 @@
     "artist_name": "Pulp",
     "track_name": "Party Hard",
     "album_name": "This Is Hardcore",
-    "loved": 0,
+    "loved": 1,
     "date_time": "2015-10-25 17:00:53"
   },
   {
@@ -266724,7 +269629,7 @@
     "artist_name": "David Bowie",
     "track_name": "A New Career in a New Town",
     "album_name": "Low",
-    "loved": 0,
+    "loved": 1,
     "date_time": "2015-08-04 23:26:13"
   },
   {
@@ -274389,7 +277294,7 @@
     "artist_name": "David Bowie",
     "track_name": "A New Career in a New Town",
     "album_name": "Low",
-    "loved": 0,
+    "loved": 1,
     "date_time": "2015-06-21 15:37:28"
   },
   {
@@ -274508,7 +277413,7 @@
     "artist_name": "David Bowie",
     "track_name": "A New Career in a New Town",
     "album_name": "Low",
-    "loved": 0,
+    "loved": 1,
     "date_time": "2015-06-20 18:02:07"
   },
   {
@@ -274711,7 +277616,7 @@
     "artist_name": "David Bowie",
     "track_name": "A New Career in a New Town",
     "album_name": "Low",
-    "loved": 0,
+    "loved": 1,
     "date_time": "2015-06-19 15:26:36"
   },
   {
@@ -276349,7 +279254,7 @@
     "artist_name": "David Bowie",
     "track_name": "A New Career in a New Town",
     "album_name": "Low",
-    "loved": 0,
+    "loved": 1,
     "date_time": "2015-06-03 02:12:32"
   },
   {
@@ -282726,7 +285631,7 @@
     "artist_name": "David Bowie",
     "track_name": "A New Career in a New Town",
     "album_name": "Low",
-    "loved": 0,
+    "loved": 1,
     "date_time": "2015-05-02 15:20:45"
   },
   {
@@ -283769,7 +286674,7 @@
     "artist_name": "Pulp",
     "track_name": "Party Hard",
     "album_name": "This Is Hardcore",
-    "loved": 0,
+    "loved": 1,
     "date_time": "2015-04-27 20:23:15"
   },
   {
