@@ -1,276 +1,276 @@
 rank,artist_name,playcount,playcount_pct
-1,Blur,2345,5.5
-2,Lou Reed,1287,3.02
-3,David Bowie,1228,2.88
-4,The Beatles,1153,2.7
-5,The Doors,1076,2.52
-6,Judas Priest,971,2.28
-7,The Kinks,901,2.11
-8,Pixies,878,2.06
-9,Diana Ross,653,1.53
-10,John Lennon,612,1.44
-11,Electric Light Orchestra,600,1.41
-12,Gorillaz,572,1.34
-13,Pulp,559,1.31
-14,Suede,550,1.29
-15,Thin Lizzy,545,1.28
-16,Radiohead,523,1.23
-17,Oasis,518,1.22
-18,Queen,512,1.2
-19,Led Zeppelin,469,1.1
-20,Pink Floyd,461,1.08
-21,Stevie Wonder,451,1.06
-22,Frank Sinatra,410,0.96
-23,Supertramp,410,0.96
-24,Creedence Clearwater Revival,404,0.95
-25,Graham Coxon,404,0.95
-26,Talking Heads,351,0.82
-27,XTC,350,0.82
-28,The Rolling Stones,334,0.78
-29,The Clash,315,0.74
-30,Mercury Rev,314,0.74
-31,Crystal Castles,310,0.73
-32,Ramones,302,0.71
+1,Blur,2345,5.45
+2,Lou Reed,1297,3.01
+3,David Bowie,1241,2.88
+4,The Beatles,1153,2.68
+5,The Doors,1076,2.5
+6,Judas Priest,982,2.28
+7,The Kinks,901,2.09
+8,Pixies,878,2.04
+9,Diana Ross,653,1.52
+10,John Lennon,612,1.42
+11,Pulp,605,1.41
+12,Electric Light Orchestra,600,1.39
+13,Gorillaz,572,1.33
+14,Suede,550,1.28
+15,Thin Lizzy,545,1.27
+16,Radiohead,523,1.22
+17,Oasis,518,1.2
+18,Queen,512,1.19
+19,Led Zeppelin,477,1.11
+20,Pink Floyd,461,1.07
+21,Stevie Wonder,451,1.05
+22,Frank Sinatra,410,0.95
+23,Supertramp,410,0.95
+24,Creedence Clearwater Revival,404,0.94
+25,Graham Coxon,404,0.94
+26,Talking Heads,362,0.84
+27,XTC,350,0.81
+28,The Clash,334,0.78
+29,The Rolling Stones,334,0.78
+30,Mercury Rev,316,0.73
+31,Crystal Castles,310,0.72
+32,Ramones,302,0.7
 33,Black Sabbath,265,0.62
 34,Bee Gees,262,0.61
 35,Tame Impala,262,0.61
-36,The Smashing Pumpkins,256,0.6
+36,The Smashing Pumpkins,256,0.59
 37,Elvis Presley,248,0.58
-38,The Cure,242,0.57
-39,The Who,238,0.56
+38,The Cure,242,0.56
+39,The Who,238,0.55
 40,Ilegales,236,0.55
 41,Nirvana,235,0.55
 42,Supergrass,226,0.53
 43,The Libertines,219,0.51
-44,The Band,205,0.48
-45,Elton John,201,0.47
-46,Rosendo,201,0.47
-47,Buzzcocks,199,0.47
+44,Rosendo,212,0.49
+45,The Band,205,0.48
+46,Elton John,201,0.47
+47,Buzzcocks,199,0.46
 48,Manic Street Preachers,193,0.45
 49,Héroes del Silencio,189,0.44
 50,Joaquín Sabina,189,0.44
-51,Jamiroquai,186,0.44
-52,Michael Jackson,186,0.44
-53,Motörhead,181,0.42
-54,Bob Dylan,176,0.41
-55,George Harrison,176,0.41
-56,Sleeper,174,0.41
-57,AC/DC,172,0.4
-58,Extremoduro,171,0.4
-59,The Beach Boys,162,0.38
-60,Glenn Miller,161,0.38
-61,Platero y tú,160,0.38
-62,MGMT,159,0.37
-63,Aerosmith,158,0.37
-64,Vangelis,157,0.37
-65,NOFX,156,0.37
-66,Phoenix,156,0.37
-67,Bob Marley,155,0.36
-68,Gabinete Caligari,154,0.36
-69,The Smiths,151,0.35
-70,Coldplay,149,0.35
-71,Iron Maiden,148,0.35
-72,The Jam,147,0.34
-73,The Prodigy,147,0.34
-74,Bruce Springsteen,144,0.34
-75,Madness,144,0.34
-76,Red Hot Chili Peppers,140,0.33
-77,Prince,139,0.33
-78,Los Planetas,138,0.32
-79,Sidonie,138,0.32
+51,Jamiroquai,186,0.43
+52,Michael Jackson,186,0.43
+53,Platero y tú,183,0.43
+54,Motörhead,181,0.42
+55,Bob Dylan,176,0.41
+56,George Harrison,176,0.41
+57,Sleeper,174,0.4
+58,AC/DC,172,0.4
+59,Extremoduro,171,0.4
+60,Phoenix,164,0.38
+61,The Beach Boys,162,0.38
+62,Glenn Miller,161,0.37
+63,MGMT,159,0.37
+64,Aerosmith,158,0.37
+65,The Jam,158,0.37
+66,Vangelis,157,0.36
+67,NOFX,156,0.36
+68,Bob Marley,155,0.36
+69,Gabinete Caligari,154,0.36
+70,The Smiths,151,0.35
+71,Sidonie,150,0.35
+72,Coldplay,149,0.35
+73,Iron Maiden,148,0.34
+74,Los Planetas,148,0.34
+75,The Prodigy,147,0.34
+76,Bruce Springsteen,144,0.33
+77,Madness,144,0.33
+78,Red Hot Chili Peppers,140,0.33
+79,Prince,139,0.32
 80,Weezer,136,0.32
 81,Catatonia,134,0.31
-82,Faith No More,133,0.31
-83,R.E.M.,131,0.31
-84,The Cardigans,129,0.3
-85,Gladys Knight & The Pips,126,0.3
-86,The Verve,126,0.3
-87,Sonic Youth,122,0.29
-88,Kula Shaker,121,0.28
-89,Pavement,121,0.28
+82,Pavement,134,0.31
+83,Faith No More,133,0.31
+84,R.E.M.,131,0.3
+85,The Cardigans,129,0.3
+86,Gladys Knight & The Pips,126,0.29
+87,The Verve,126,0.29
+88,Sonic Youth,122,0.28
+89,Kula Shaker,121,0.28
 90,Sex Pistols,120,0.28
 91,Muse,119,0.28
 92,Radio Futura,116,0.27
 93,Paul McCartney,115,0.27
-94,Cream,114,0.27
-95,Rammstein,114,0.27
-96,The Police,114,0.27
-97,Daft Punk,113,0.27
+94,Cream,114,0.26
+95,Rammstein,114,0.26
+96,The Police,114,0.26
+97,Daft Punk,113,0.26
 98,The Boo Radleys,112,0.26
 99,T. Rex,108,0.25
 100,"The Good, the Bad & the Queen",108,0.25
-101,Damon Albarn,101,0.24
-102,Andrés Calamaro,98,0.23
-103,Los Rodríguez,97,0.23
-104,Franz Ferdinand,96,0.23
-105,Placebo,95,0.22
-106,Moby,94,0.22
-107,The Chemical Brothers,94,0.22
-108,Bauhaus,92,0.22
-109,Blondie,92,0.22
-110,Kiss,92,0.22
-111,Teenage Fanclub,91,0.21
-112,Smash Mouth,90,0.21
-113,Arcade Fire,88,0.21
-114,The Strokes,88,0.21
-115,U2,88,0.21
-116,Los Suaves,87,0.2
-117,Green Day,86,0.2
-118,Megadeth,86,0.2
-119,Steppenwolf,86,0.2
-120,Arctic Monkeys,85,0.2
-121,Freddie Mercury,85,0.2
-122,Ocean Colour Scene,85,0.2
-123,Celtas Cortos,84,0.2
-124,Duran Duran,84,0.2
+101,The Chemical Brothers,104,0.24
+102,Bauhaus,101,0.23
+103,Damon Albarn,101,0.23
+104,Andrés Calamaro,98,0.23
+105,Los Rodríguez,97,0.23
+106,Franz Ferdinand,96,0.22
+107,Placebo,95,0.22
+108,Moby,94,0.22
+109,Blondie,92,0.21
+110,Green Day,92,0.21
+111,Kiss,92,0.21
+112,Teenage Fanclub,91,0.21
+113,Smash Mouth,90,0.21
+114,Duran Duran,89,0.21
+115,The Strokes,89,0.21
+116,Arcade Fire,88,0.2
+117,U2,88,0.2
+118,Los Suaves,87,0.2
+119,Megadeth,86,0.2
+120,Steppenwolf,86,0.2
+121,Arctic Monkeys,85,0.2
+122,Freddie Mercury,85,0.2
+123,Ocean Colour Scene,85,0.2
+124,Celtas Cortos,84,0.2
 125,Deep Purple,80,0.19
 126,The WAEVE,80,0.19
-127,Jerry Lee Lewis,79,0.19
-128,Massive Attack,78,0.18
-129,Luis Eduardo Aute,77,0.18
-130,ZZ Top,77,0.18
-131,Echobelly,76,0.18
-132,Soulwax,76,0.18
-133,The Jesus and Mary Chain,76,0.18
-134,Ash,74,0.17
-135,Dinosaur Jr.,71,0.17
-136,Jarvis Cocker,71,0.17
-137,The Mamas & the Papas,71,0.17
-138,Elastica,70,0.16
-139,Leño,68,0.16
-140,New Order,68,0.16
-141,Pearl Jam,68,0.16
-142,Joy Division,67,0.16
-143,Metallica,67,0.16
-144,The Killers,67,0.16
-145,Lynyrd Skynyrd,66,0.15
-146,The Divine Comedy,65,0.15
-147,Misfits,64,0.15
-148,my bloody valentine,64,0.15
-149,Elvis Costello,63,0.15
-150,Nick Cave & the Bad Seeds,63,0.15
-151,Public Image Ltd.,63,0.15
-152,Iggy Pop,62,0.15
-153,Syd Barrett,62,0.15
-154,The La's,62,0.15
-155,Kraftwerk,61,0.14
-156,The Velvet Underground,61,0.14
-157,Barón Rojo,59,0.14
-158,Guns N' Roses,59,0.14
-159,Scorpions,59,0.14
-160,Space,59,0.14
-161,The Stone Roses,59,0.14
-162,Garbage,58,0.14
-163,Klaxons,58,0.14
-164,Stereolab,58,0.14
-165,Van Halen,58,0.14
-166,Eskorbuto,57,0.13
-167,Superstate,57,0.13
-168,The White Stripes,57,0.13
-169,Def con Dos,55,0.13
-170,Echo & the Bunnymen,55,0.13
-171,Manu Chao,55,0.13
-172,Siouxsie and the Banshees,55,0.13
-173,The Specials,55,0.13
-174,No Doubt,54,0.13
-175,Siniestro Total,53,0.12
-176,Depeche Mode,52,0.12
-177,Jefferson Airplane,52,0.12
-178,The Horrors,52,0.12
-179,The Offspring,52,0.12
-180,Dire Straits,51,0.12
-181,Noel Gallagher,51,0.12
-182,Tahiti 80,51,0.12
-183,The Hives,51,0.12
-184,Buddy Holly,49,0.11
-185,Queens of the Stone Age,49,0.11
-186,Jaime Urrutia,48,0.11
-187,Mötley Crüe,48,0.11
-188,Burning,47,0.11
-189,Janis Joplin,47,0.11
-190,Elbow,46,0.11
-191,Mike Oldfield,46,0.11
-192,Enrique Bunbury,45,0.11
-193,Marvin Gaye,45,0.11
-194,Rage Against the Machine,45,0.11
-195,Beck,44,0.1
-196,Billy Idol,44,0.1
-197,Miles Davis,44,0.1
-198,Otis Redding,44,0.1
-199,Portishead,44,0.1
-200,Camilo Sesto,43,0.1
-201,Primal Scream,43,0.1
-202,Giorgio Moroder,42,0.1
-203,Loquillo y Trogloditas,42,0.1
-204,Mansun,42,0.1
-205,The Charlatans,42,0.1
-206,Jethro Tull,41,0.1
-207,Player,41,0.1
-208,Fleetwood Mac,40,0.09
-209,George Michael,40,0.09
-210,Gilbert O'Sullivan,40,0.09
-211,Jimi Hendrix,40,0.09
-212,The Cramps,40,0.09
-213,dEUS,39,0.09
-214,Little Richard,39,0.09
-215,Björk,38,0.09
-216,Dream Theater,38,0.09
-217,Miles Kane,38,0.09
-218,Barricada,37,0.09
-219,Kings of Leon,37,0.09
-220,Richard Ashcroft,37,0.09
-221,Alice in Chains,36,0.08
-222,The Pretenders,36,0.08
-223,The Vines,36,0.08
-224,Inspiral Carpets,35,0.08
-225,Joe Satriani,35,0.08
-226,Kasabian,35,0.08
-227,Patti Smith,35,0.08
-228,Sigur Rós,35,0.08
-229,Van Morrison,35,0.08
-230,Édith Piaf,34,0.08
-231,Estopa,34,0.08
-232,Hamlet,34,0.08
-233,Kaiser Chiefs,34,0.08
-234,Los Piratas,34,0.08
-235,Righeira,34,0.08
-236,Alice Cooper,33,0.08
-237,Café Quijano,33,0.08
-238,El Último de la Fila,33,0.08
-239,La Polla Records,33,0.08
-240,Robbie Williams,33,0.08
-241,Tool,33,0.08
-242,Foals,32,0.08
-243,Foo Fighters,32,0.08
-244,New York Dolls,32,0.08
-245,Pantera,32,0.08
-246,Roxy Music,32,0.08
-247,Decibelios,31,0.07
-248,Dirty Pretty Things,31,0.07
-249,Jane's Addiction,31,0.07
-250,Jeff Buckley,31,0.07
-251,Vampire Weekend,31,0.07
-252,Wings,31,0.07
-253,Dave Rowntree,30,0.07
-254,Joe Cocker,30,0.07
-255,Los Toreros Muertos,30,0.07
-256,Molotov,30,0.07
-257,Chet Baker,29,0.07
-258,Clawfinger,29,0.07
-259,Interpol,29,0.07
-260,Nino Bravo,29,0.07
-261,The Coral,28,0.07
-262,The Cranberries,28,0.07
-263,Bad Religion,27,0.06
-264,Hard-Fi,27,0.06
-265,Rocket Juice & The Moon,26,0.06
-266,Small Faces,26,0.06
-267,Television,26,0.06
-268,Wu-Tang Clan,26,0.06
-269,Australian Blonde,25,0.06
-270,De La Soul,25,0.06
-271,Incubus,25,0.06
-272,Nine Inch Nails,25,0.06
+127,Jerry Lee Lewis,79,0.18
+128,Jarvis Cocker,78,0.18
+129,Massive Attack,78,0.18
+130,Luis Eduardo Aute,77,0.18
+131,ZZ Top,77,0.18
+132,Echobelly,76,0.18
+133,Soulwax,76,0.18
+134,The Jesus and Mary Chain,76,0.18
+135,Nick Cave & the Bad Seeds,75,0.17
+136,Ash,74,0.17
+137,Dinosaur Jr.,71,0.16
+138,Public Image Ltd.,71,0.16
+139,The Mamas & the Papas,71,0.16
+140,Elastica,70,0.16
+141,Leño,68,0.16
+142,New Order,68,0.16
+143,Pearl Jam,68,0.16
+144,Joy Division,67,0.16
+145,Metallica,67,0.16
+146,The Killers,67,0.16
+147,Lynyrd Skynyrd,66,0.15
+148,my bloody valentine,65,0.15
+149,Noel Gallagher,65,0.15
+150,The Divine Comedy,65,0.15
+151,Misfits,64,0.15
+152,Elvis Costello,63,0.15
+153,Iggy Pop,62,0.14
+154,Syd Barrett,62,0.14
+155,The Horrors,62,0.14
+156,The La's,62,0.14
+157,Kraftwerk,61,0.14
+158,The Velvet Underground,61,0.14
+159,Barón Rojo,59,0.14
+160,Guns N' Roses,59,0.14
+161,Scorpions,59,0.14
+162,Space,59,0.14
+163,The Stone Roses,59,0.14
+164,Garbage,58,0.13
+165,Klaxons,58,0.13
+166,Stereolab,58,0.13
+167,Van Halen,58,0.13
+168,Eskorbuto,57,0.13
+169,Superstate,57,0.13
+170,The White Stripes,57,0.13
+171,Def con Dos,55,0.13
+172,Echo & the Bunnymen,55,0.13
+173,Manu Chao,55,0.13
+174,Siouxsie and the Banshees,55,0.13
+175,The Specials,55,0.13
+176,No Doubt,54,0.13
+177,Burning,53,0.12
+178,dEUS,53,0.12
+179,Siniestro Total,53,0.12
+180,Depeche Mode,52,0.12
+181,Jefferson Airplane,52,0.12
+182,The Offspring,52,0.12
+183,Dire Straits,51,0.12
+184,Tahiti 80,51,0.12
+185,The Hives,51,0.12
+186,Buddy Holly,49,0.11
+187,Queens of the Stone Age,49,0.11
+188,Jaime Urrutia,48,0.11
+189,Kasabian,48,0.11
+190,Mötley Crüe,48,0.11
+191,Janis Joplin,47,0.11
+192,Elbow,46,0.11
+193,Mike Oldfield,46,0.11
+194,Enrique Bunbury,45,0.1
+195,Marvin Gaye,45,0.1
+196,Rage Against the Machine,45,0.1
+197,Beck,44,0.1
+198,Billy Idol,44,0.1
+199,Foo Fighters,44,0.1
+200,Miles Davis,44,0.1
+201,Otis Redding,44,0.1
+202,Portishead,44,0.1
+203,Camilo Sesto,43,0.1
+204,Patti Smith,43,0.1
+205,Primal Scream,43,0.1
+206,Giorgio Moroder,42,0.1
+207,Loquillo y Trogloditas,42,0.1
+208,Mansun,42,0.1
+209,The Charlatans,42,0.1
+210,Interpol,41,0.1
+211,Jethro Tull,41,0.1
+212,Player,41,0.1
+213,Fleetwood Mac,40,0.09
+214,George Michael,40,0.09
+215,Gilbert O'Sullivan,40,0.09
+216,Jimi Hendrix,40,0.09
+217,Nine Inch Nails,40,0.09
+218,The Cramps,40,0.09
+219,Björk,39,0.09
+220,Little Richard,39,0.09
+221,Dream Theater,38,0.09
+222,Miles Kane,38,0.09
+223,Barricada,37,0.09
+224,Kings of Leon,37,0.09
+225,Richard Ashcroft,37,0.09
+226,Alice in Chains,36,0.08
+227,The Pretenders,36,0.08
+228,The Vines,36,0.08
+229,Inspiral Carpets,35,0.08
+230,Joe Satriani,35,0.08
+231,Sigur Rós,35,0.08
+232,Van Morrison,35,0.08
+233,Édith Piaf,34,0.08
+234,Estopa,34,0.08
+235,Hamlet,34,0.08
+236,Kaiser Chiefs,34,0.08
+237,Los Piratas,34,0.08
+238,Righeira,34,0.08
+239,Alice Cooper,33,0.08
+240,Café Quijano,33,0.08
+241,El Último de la Fila,33,0.08
+242,La Polla Records,33,0.08
+243,Robbie Williams,33,0.08
+244,Tool,33,0.08
+245,Foals,32,0.07
+246,New York Dolls,32,0.07
+247,Pantera,32,0.07
+248,Roxy Music,32,0.07
+249,Decibelios,31,0.07
+250,Dirty Pretty Things,31,0.07
+251,Jane's Addiction,31,0.07
+252,Jeff Buckley,31,0.07
+253,Vampire Weekend,31,0.07
+254,Wings,31,0.07
+255,Dave Rowntree,30,0.07
+256,Joe Cocker,30,0.07
+257,Los Toreros Muertos,30,0.07
+258,Molotov,30,0.07
+259,Chet Baker,29,0.07
+260,Clawfinger,29,0.07
+261,Nino Bravo,29,0.07
+262,The Coral,28,0.07
+263,The Cranberries,28,0.07
+264,Bad Religion,27,0.06
+265,Hard-Fi,27,0.06
+266,Rocket Juice & The Moon,26,0.06
+267,Small Faces,26,0.06
+268,Television,26,0.06
+269,Wu-Tang Clan,26,0.06
+270,Australian Blonde,25,0.06
+271,De La Soul,25,0.06
+272,Incubus,25,0.06
 273,Parálisis Permanente,25,0.06
 274,Temples,25,0.06
 275,The Flaming Lips,25,0.06
@@ -303,17 +303,17 @@ rank,artist_name,playcount,playcount_pct
 302,Wilco,18,0.04
 303,Adriano Celentano,17,0.04
 304,El Club de los Poetas Violentos,17,0.04
-305,Reincidentes,17,0.04
-306,Terrorvision,17,0.04
-307,Cat Stevens,16,0.04
-308,Fatboy Slim,16,0.04
-309,Glasvegas,16,0.04
+305,Glasvegas,17,0.04
+306,Reincidentes,17,0.04
+307,Terrorvision,17,0.04
+308,Cat Stevens,16,0.04
+309,Fatboy Slim,16,0.04
 310,Johnny Cash,16,0.04
 311,Limp Bizkit,16,0.04
 312,Rancid,16,0.04
-313,Beastie Boys,15,0.04
-314,Morcheeba,15,0.04
-315,The Stooges,15,0.04
+313,Beastie Boys,15,0.03
+314,Morcheeba,15,0.03
+315,The Stooges,15,0.03
 316,Boikot,14,0.03
 317,Dead Kennedys,14,0.03
 318,La Habitación Roja,14,0.03
@@ -321,157 +321,174 @@ rank,artist_name,playcount,playcount_pct
 320,Beady Eye,13,0.03
 321,Death Cab for Cutie,13,0.03
 322,Def Leppard,13,0.03
-323,Jarabe de Palo,13,0.03
-324,Lush,13,0.03
-325,Madonna,13,0.03
-326,Texas,13,0.03
-327,Thom Yorke,13,0.03
-328,Bill Evans,12,0.03
-329,Moloko,12,0.03
-330,Talk Talk,12,0.03
-331,Al Green,11,0.03
-332,Barry White,11,0.03
-333,Carlos Berlanga,11,0.03
-334,Deftones,11,0.03
-335,Hole,11,0.03
-336,Johnny Marr,11,0.03
-337,King Diamond,11,0.03
-338,Obus,11,0.03
-339,Papa Roach,11,0.03
-340,Rinôçérôse,11,0.03
-341,Stone Temple Pilots,11,0.03
-342,Al Stewart,10,0.02
-343,Alaska y Dinarama,10,0.02
-344,Andy Gibb,10,0.02
-345,The Fratellis,10,0.02
-346,The Wallflowers,10,0.02
-347,Blind Guardian,9,0.02
-348,Chic,9,0.02
-349,David Shire,9,0.02
-350,Derribos Arias,9,0.02
-351,Frankie Valli,9,0.02
-352,Golpes Bajos,9,0.02
-353,Los Coronas,9,0.02
-354,Mecano,9,0.02
-355,Sylvester,9,0.02
-356,The O'Jays,9,0.02
-357,Tom Jones,9,0.02
-358,Yann Tiersen,9,0.02
-359,Black Harmony,8,0.02
-360,Mark Knopfler,8,0.02
-361,The Yardbirds,8,0.02
-362,John Travolta,7,0.02
-363,Kaka de Luxe,7,0.02
-364,The Doobie Brothers,7,0.02
-365,Violadores del Verso,7,0.02
-366,Sha Na Na,6,0.01
-367,Sid Vicious,6,0.01
-368,The Trammps,6,0.01
-369,Dick Dale,5,0.01
-370,João Gilberto,5,0.01
-371,Kool & the Gang,5,0.01
-372,Mika,5,0.01
-373,New Radicals,5,0.01
-374,Obús,5,0.01
-375,Sylvia Telles,5,0.01
-376,The Byrds,5,0.01
-377,Ariel Rot,4,0.01
-378,B.J. Thomas,4,0.01
-379,Eminem,4,0.01
-380,José Luis Perales,4,0.01
-381,Les Paul & Mary Ford,4,0.01
-382,Peor Impossible,4,0.01
-383,Simon & Garfunkel,4,0.01
-384,Sleaford Mods,4,0.01
-385,Cindy Bullens,3,0.01
-386,Ennio Morricone,3,0.01
-387,KC and The Sunshine Band,3,0.01
-388,MFSB,3,0.01
-389,Ralph MacDonald,3,0.01
-390,Tavares,3,0.01
-391,The Dandy Warhols,3,0.01
-392,The Lemonheads,3,0.01
-393,The Lovin' Spoonful,3,0.01
-394,Underworld,3,0.01
-395,Walter Murphy,3,0.01
-396,Yvonne Elliman,3,0.01
-397,Brothers Johnson,2,0.0
-398,Chuck Berry,2,0.0
-399,Chumbawamba,2,0.0
-400,JAY-Z,2,0.0
-401,Jim Jacobs,2,0.0
-402,Lilys,2,0.0
-403,Los Sencillos,2,0.0
-404,Marc Parrot,2,0.0
-405,Olivia Newton-John,2,0.0
-406,Paul Weller,2,0.0
-407,Rick Nelson,2,0.0
-408,Rosa Anschütz,2,0.0
-409,Stereophonics,2,0.0
-410,The Go! Team,2,0.0
-411,The Postal Service,2,0.0
-412,The Tornadoes,2,0.0
-413,A Tribe Called Quest,1,0.0
-414,Alaska y Los Pegamoides,1,0.0
-415,Alizzz,1,0.0
-416,Aphex Twin,1,0.0
-417,Black Grape,1,0.0
-418,blink-182,1,0.0
-419,Bruce Willis,1,0.0
-420,Budapest,1,0.0
-421,Carlos Lyra,1,0.0
-422,Cast,1,0.0
-423,Cornershop,1,0.0
-424,Cypress Hill,1,0.0
-425,Deluxe,1,0.0
-426,Doves,1,0.0
-427,Duane Whitaker,1,0.0
-428,Dusty Springfield,1,0.0
-429,El Aviador Dro,1,0.0
-430,Embrace,1,0.0
-431,EMF,1,0.0
-432,Frankie Avalon,1,0.0
-433,Groove Armada,1,0.0
-434,Happy Mondays,1,0.0
-435,Helloween,1,0.0
-436,Ian Brown,1,0.0
-437,Jesus Jones,1,0.0
-438,Jolie Holland,1,0.0
-439,Justice,1,0.0
-440,Kenickie,1,0.0
-441,Leftfield,1,0.0
-442,Link Wray & His Wraymen,1,0.0
-443,Longpigs,1,0.0
-444,Louis St. Louis,1,0.0
-445,Maga,1,0.0
-446,Maria McKee,1,0.0
-447,Marilyn Manson,1,0.0
-448,Mogwai,1,0.0
-449,Museum,1,0.0
-450,Paraíso,1,0.0
-451,Passion Pit,1,0.0
-452,Paul Francis Webster,1,0.0
-453,Pery Ribeiro,1,0.0
-454,RJD2,1,0.0
-455,Samuel L. Jackson,1,0.0
-456,Sexy Sadie,1,0.0
-457,Shed Seven,1,0.0
-458,Spiritualized,1,0.0
-459,Stockard Channing,1,0.0
-460,The Bluetones,1,0.0
-461,The Farm,1,0.0
-462,The Knack,1,0.0
-463,The Lightning Seeds,1,0.0
-464,The Lively Ones,1,0.0
-465,The Long Blondes,1,0.0
-466,The Marketts,1,0.0
-467,The Mock Turtles,1,0.0
-468,The Notorious B.I.G.,1,0.0
-469,The Robins,1,0.0
-470,The Soup Dragons,1,0.0
-471,The Statler Brothers,1,0.0
-472,The Teardrop Explodes,1,0.0
-473,The Wonder Stuff,1,0.0
-474,Urge Overkill,1,0.0
-475,Vinícius de Moraes,1,0.0
-476,Volován,1,0.0
+323,Florence + the Machine,13,0.03
+324,Jarabe de Palo,13,0.03
+325,Lush,13,0.03
+326,Madonna,13,0.03
+327,Texas,13,0.03
+328,Thom Yorke,13,0.03
+329,Bill Evans,12,0.03
+330,Moloko,12,0.03
+331,Talk Talk,12,0.03
+332,Al Green,11,0.03
+333,Barry White,11,0.03
+334,Carlos Berlanga,11,0.03
+335,Deftones,11,0.03
+336,Hole,11,0.03
+337,Johnny Marr,11,0.03
+338,King Diamond,11,0.03
+339,Obus,11,0.03
+340,Papa Roach,11,0.03
+341,Rinôçérôse,11,0.03
+342,Stone Temple Pilots,11,0.03
+343,Al Stewart,10,0.02
+344,Alaska y Dinarama,10,0.02
+345,Andy Gibb,10,0.02
+346,The Fratellis,10,0.02
+347,The Wallflowers,10,0.02
+348,Blind Guardian,9,0.02
+349,Chic,9,0.02
+350,David Shire,9,0.02
+351,Derribos Arias,9,0.02
+352,Frankie Valli,9,0.02
+353,Golpes Bajos,9,0.02
+354,Los Coronas,9,0.02
+355,Mecano,9,0.02
+356,Sylvester,9,0.02
+357,The O'Jays,9,0.02
+358,Tom Jones,9,0.02
+359,Yann Tiersen,9,0.02
+360,Black Harmony,8,0.02
+361,Mark Knopfler,8,0.02
+362,The Pogues,8,0.02
+363,The Yardbirds,8,0.02
+364,John Travolta,7,0.02
+365,Kaka de Luxe,7,0.02
+366,The Doobie Brothers,7,0.02
+367,Violadores del Verso,7,0.02
+368,Sha Na Na,6,0.01
+369,Sid Vicious,6,0.01
+370,The Trammps,6,0.01
+371,Dick Dale,5,0.01
+372,João Gilberto,5,0.01
+373,Kool & the Gang,5,0.01
+374,Mika,5,0.01
+375,New Radicals,5,0.01
+376,Obús,5,0.01
+377,Sylvia Telles,5,0.01
+378,The Byrds,5,0.01
+379,Ariel Rot,4,0.01
+380,B.J. Thomas,4,0.01
+381,Editors,4,0.01
+382,Eminem,4,0.01
+383,José Luis Perales,4,0.01
+384,Les Paul & Mary Ford,4,0.01
+385,Peor Impossible,4,0.01
+386,Simon & Garfunkel,4,0.01
+387,Sleaford Mods,4,0.01
+388,Underworld,4,0.01
+389,Cindy Bullens,3,0.01
+390,Ennio Morricone,3,0.01
+391,KC and The Sunshine Band,3,0.01
+392,MFSB,3,0.01
+393,Ralph MacDonald,3,0.01
+394,Rosa Anschütz,3,0.01
+395,Tavares,3,0.01
+396,The Dandy Warhols,3,0.01
+397,The Lemonheads,3,0.01
+398,The Lovin' Spoonful,3,0.01
+399,Walter Murphy,3,0.01
+400,Yvonne Elliman,3,0.01
+401,Brothers Johnson,2,0.0
+402,Chuck Berry,2,0.0
+403,Chumbawamba,2,0.0
+404,Gomez,2,0.0
+405,JAY-Z,2,0.0
+406,Jim Jacobs,2,0.0
+407,Lilys,2,0.0
+408,Los Sencillos,2,0.0
+409,Marc Parrot,2,0.0
+410,Olivia Newton-John,2,0.0
+411,Paul Weller,2,0.0
+412,Rick Nelson,2,0.0
+413,Stereophonics,2,0.0
+414,The Go! Team,2,0.0
+415,The Tornadoes,2,0.0
+416,Volován,2,0.0
+417,A Tribe Called Quest,1,0.0
+418,Alaska y Los Pegamoides,1,0.0
+419,Alizzz,1,0.0
+420,Aphex Twin,1,0.0
+421,Black Grape,1,0.0
+422,Black Rebel Motorcycle Club,1,0.0
+423,blink-182,1,0.0
+424,Boedekka,1,0.0
+425,Bruce Willis,1,0.0
+426,Budapest,1,0.0
+427,Carlos Lyra,1,0.0
+428,Cast,1,0.0
+429,Cornershop,1,0.0
+430,Cypress Hill,1,0.0
+431,Deluxe,1,0.0
+432,Doves,1,0.0
+433,Duane Whitaker,1,0.0
+434,Dusty Springfield,1,0.0
+435,El Aviador Dro,1,0.0
+436,Embrace,1,0.0
+437,EMF,1,0.0
+438,Frankie Avalon,1,0.0
+439,Groove Armada,1,0.0
+440,Happy Mondays,1,0.0
+441,Helloween,1,0.0
+442,Ian Brown,1,0.0
+443,Ivy,1,0.0
+444,James,1,0.0
+445,Jay-Jay Johanson,1,0.0
+446,Jesus Jones,1,0.0
+447,Jolie Holland,1,0.0
+448,Justice,1,0.0
+449,Kenickie,1,0.0
+450,Kent,1,0.0
+451,Leftfield,1,0.0
+452,Link Wray & His Wraymen,1,0.0
+453,Longpigs,1,0.0
+454,Louis St. Louis,1,0.0
+455,Maga,1,0.0
+456,Maria McKee,1,0.0
+457,Marilyn Manson,1,0.0
+458,Mogwai,1,0.0
+459,Museum,1,0.0
+460,Music Lovers,1,0.0
+461,Operator,1,0.0
+462,Paraíso,1,0.0
+463,Passion Pit,1,0.0
+464,Paul Francis Webster,1,0.0
+465,Pery Ribeiro,1,0.0
+466,Radio 4,1,0.0
+467,RJD2,1,0.0
+468,Samuel L. Jackson,1,0.0
+469,Sexy Sadie,1,0.0
+470,Shed Seven,1,0.0
+471,Simian,1,0.0
+472,Spiritualized,1,0.0
+473,Stockard Channing,1,0.0
+474,The Bluetones,1,0.0
+475,The Electric Soft Parade,1,0.0
+476,The Farm,1,0.0
+477,The Jeevas,1,0.0
+478,The Knack,1,0.0
+479,The Lightning Seeds,1,0.0
+480,The Lively Ones,1,0.0
+481,The Long Blondes,1,0.0
+482,The Marketts,1,0.0
+483,The Mock Turtles,1,0.0
+484,The Notorious B.I.G.,1,0.0
+485,The Postal Service,1,0.0
+486,The Robins,1,0.0
+487,The Soup Dragons,1,0.0
+488,The Statler Brothers,1,0.0
+489,The Teardrop Explodes,1,0.0
+490,The Wonder Stuff,1,0.0
+491,Timo Maas,1,0.0
+492,Urge Overkill,1,0.0
+493,Vinícius de Moraes,1,0.0
