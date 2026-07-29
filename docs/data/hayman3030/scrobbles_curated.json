@@ -1,5 +1,2238 @@
 [
   {
+    "artist_name": "The Kinks",
+    "track_name": "Got to Be Free",
+    "album_name": "Lola Versus Powerman And The Moneygoround, Part One",
+    "loved": 0,
+    "date_time": "2026-07-29 11:56:57"
+  },
+  {
+    "artist_name": "The Kinks",
+    "track_name": "Powerman",
+    "album_name": "Lola Versus Powerman And The Moneygoround, Part One",
+    "loved": 0,
+    "date_time": "2026-07-29 11:52:38"
+  },
+  {
+    "artist_name": "The Kinks",
+    "track_name": "Apeman",
+    "album_name": "Lola Versus Powerman And The Moneygoround, Part One",
+    "loved": 0,
+    "date_time": "2026-07-29 11:48:46"
+  },
+  {
+    "artist_name": "The Kinks",
+    "track_name": "Rats",
+    "album_name": "Lola Versus Powerman And The Moneygoround, Part One",
+    "loved": 0,
+    "date_time": "2026-07-29 11:46:06"
+  },
+  {
+    "artist_name": "The Kinks",
+    "track_name": "A Long Way from Home",
+    "album_name": "Lola Versus Powerman And The Moneygoround, Part One",
+    "loved": 0,
+    "date_time": "2026-07-29 11:43:39"
+  },
+  {
+    "artist_name": "The Kinks",
+    "track_name": "This Time Tomorrow",
+    "album_name": "Lola Versus Powerman And The Moneygoround, Part One",
+    "loved": 0,
+    "date_time": "2026-07-29 11:40:17"
+  },
+  {
+    "artist_name": "The Kinks",
+    "track_name": "The Money Go Round",
+    "album_name": "Lola Versus Powerman And The Moneygoround, Part One",
+    "loved": 0,
+    "date_time": "2026-07-29 11:38:33"
+  },
+  {
+    "artist_name": "The Kinks",
+    "track_name": "Top of the Pops",
+    "album_name": "Lola Versus Powerman And The Moneygoround, Part One",
+    "loved": 0,
+    "date_time": "2026-07-29 11:34:53"
+  },
+  {
+    "artist_name": "The Kinks",
+    "track_name": "Lola",
+    "album_name": "Lola Versus Powerman And The Moneygoround, Part One",
+    "loved": 0,
+    "date_time": "2026-07-29 11:30:52"
+  },
+  {
+    "artist_name": "The Kinks",
+    "track_name": "Get Back in Line",
+    "album_name": "Lola Versus Powerman And The Moneygoround, Part One",
+    "loved": 0,
+    "date_time": "2026-07-29 11:27:47"
+  },
+  {
+    "artist_name": "The Kinks",
+    "track_name": "Denmark Street",
+    "album_name": "Lola Versus Powerman And The Moneygoround, Part One",
+    "loved": 0,
+    "date_time": "2026-07-29 11:25:45"
+  },
+  {
+    "artist_name": "The Kinks",
+    "track_name": "Strangers",
+    "album_name": "Lola Versus Powerman And The Moneygoround, Part One",
+    "loved": 0,
+    "date_time": "2026-07-29 11:22:25"
+  },
+  {
+    "artist_name": "The Kinks",
+    "track_name": "The Contenders",
+    "album_name": "Lola Versus Powerman And The Moneygoround, Part One",
+    "loved": 0,
+    "date_time": "2026-07-29 11:19:00"
+  },
+  {
+    "artist_name": "The Smiths",
+    "track_name": "Please, Please, Please, Let Me Get What I Want",
+    "album_name": "Hatful of Hollow",
+    "loved": 0,
+    "date_time": "2026-07-29 01:47:38"
+  },
+  {
+    "artist_name": "The Smiths",
+    "track_name": "Reel Around the Fountain",
+    "album_name": "Hatful of Hollow",
+    "loved": 0,
+    "date_time": "2026-07-29 01:41:41"
+  },
+  {
+    "artist_name": "The Smiths",
+    "track_name": "Back to the Old House",
+    "album_name": "Hatful of Hollow",
+    "loved": 0,
+    "date_time": "2026-07-29 01:38:27"
+  },
+  {
+    "artist_name": "The Smiths",
+    "track_name": "Girl Afraid",
+    "album_name": "Hatful of Hollow",
+    "loved": 0,
+    "date_time": "2026-07-29 01:35:33"
+  },
+  {
+    "artist_name": "The Smiths",
+    "track_name": "Accept Yourself",
+    "album_name": "Hatful of Hollow",
+    "loved": 0,
+    "date_time": "2026-07-29 01:31:12"
+  },
+  {
+    "artist_name": "The Smiths",
+    "track_name": "You've Got Everything Now",
+    "album_name": "Hatful of Hollow",
+    "loved": 0,
+    "date_time": "2026-07-29 01:26:49"
+  },
+  {
+    "artist_name": "The Smiths",
+    "track_name": "This Night Has Opened My Eyes",
+    "album_name": "Hatful of Hollow",
+    "loved": 0,
+    "date_time": "2026-07-29 01:16:40"
+  },
+  {
+    "artist_name": "The Smiths",
+    "track_name": "Heaven Knows I'm Miserable Now",
+    "album_name": "Hatful of Hollow",
+    "loved": 1,
+    "date_time": "2026-07-29 01:10:25"
+  },
+  {
+    "artist_name": "The Smiths",
+    "track_name": "Still Ill",
+    "album_name": "Hatful of Hollow",
+    "loved": 0,
+    "date_time": "2026-07-29 01:06:45"
+  },
+  {
+    "artist_name": "The Smiths",
+    "track_name": "Hand in Glove",
+    "album_name": "Hatful of Hollow",
+    "loved": 0,
+    "date_time": "2026-07-29 01:03:02"
+  },
+  {
+    "artist_name": "The Smiths",
+    "track_name": "Handsome Devil",
+    "album_name": "Hatful of Hollow",
+    "loved": 0,
+    "date_time": "2026-07-29 01:00:09"
+  },
+  {
+    "artist_name": "The Smiths",
+    "track_name": "How Soon Is Now?",
+    "album_name": "Hatful of Hollow",
+    "loved": 0,
+    "date_time": "2026-07-29 00:40:53"
+  },
+  {
+    "artist_name": "The Smiths",
+    "track_name": "This Charming Man",
+    "album_name": "Hatful of Hollow",
+    "loved": 0,
+    "date_time": "2026-07-29 00:35:24"
+  },
+  {
+    "artist_name": "The Smiths",
+    "track_name": "These Things Take Time",
+    "album_name": "Hatful of Hollow",
+    "loved": 0,
+    "date_time": "2026-07-29 00:32:32"
+  },
+  {
+    "artist_name": "The Smiths",
+    "track_name": "What Difference Does It Make",
+    "album_name": "Hatful of Hollow",
+    "loved": 0,
+    "date_time": "2026-07-29 00:29:12"
+  },
+  {
+    "artist_name": "The Smiths",
+    "track_name": "William, It Was Really Nothing",
+    "album_name": "Hatful of Hollow",
+    "loved": 0,
+    "date_time": "2026-07-29 00:01:01"
+  },
+  {
+    "artist_name": "Sonic Youth",
+    "track_name": "Sweet Shine",
+    "album_name": "Experimental Jet Set, Trash And No Star",
+    "loved": 0,
+    "date_time": "2026-07-28 20:15:00"
+  },
+  {
+    "artist_name": "Sonic Youth",
+    "track_name": "In The Mind Of The Bourgeois Reader",
+    "album_name": "Experimental Jet Set, Trash And No Star",
+    "loved": 0,
+    "date_time": "2026-07-28 20:12:27"
+  },
+  {
+    "artist_name": "Sonic Youth",
+    "track_name": "Tokyo Eye",
+    "album_name": "Experimental Jet Set, Trash And No Star",
+    "loved": 0,
+    "date_time": "2026-07-28 20:08:08"
+  },
+  {
+    "artist_name": "Sonic Youth",
+    "track_name": "Doctor's Orders",
+    "album_name": "Experimental Jet Set, Trash And No Star",
+    "loved": 0,
+    "date_time": "2026-07-28 20:03:43"
+  },
+  {
+    "artist_name": "Sonic Youth",
+    "track_name": "Waist",
+    "album_name": "Experimental Jet Set, Trash And No Star",
+    "loved": 0,
+    "date_time": "2026-07-28 20:00:38"
+  },
+  {
+    "artist_name": "Sonic Youth",
+    "track_name": "Quest for the Cup",
+    "album_name": "Experimental Jet Set, Trash And No Star",
+    "loved": 0,
+    "date_time": "2026-07-28 19:57:57"
+  },
+  {
+    "artist_name": "Sonic Youth",
+    "track_name": "Androgynous Mind",
+    "album_name": "Experimental Jet Set, Trash And No Star",
+    "loved": 0,
+    "date_time": "2026-07-28 19:53:48"
+  },
+  {
+    "artist_name": "Sonic Youth",
+    "track_name": "Bone",
+    "album_name": "Experimental Jet Set, Trash And No Star",
+    "loved": 0,
+    "date_time": "2026-07-28 19:49:18"
+  },
+  {
+    "artist_name": "Sonic Youth",
+    "track_name": "Self-Obsessed and Sexxee",
+    "album_name": "Experimental Jet Set, Trash And No Star",
+    "loved": 0,
+    "date_time": "2026-07-28 19:44:40"
+  },
+  {
+    "artist_name": "Sonic Youth",
+    "track_name": "Screaming Skull",
+    "album_name": "Experimental Jet Set, Trash And No Star",
+    "loved": 0,
+    "date_time": "2026-07-28 19:41:06"
+  },
+  {
+    "artist_name": "Sonic Youth",
+    "track_name": "Skink",
+    "album_name": "Experimental Jet Set, Trash And No Star",
+    "loved": 0,
+    "date_time": "2026-07-28 19:35:56"
+  },
+  {
+    "artist_name": "Sonic Youth",
+    "track_name": "Starfield Road",
+    "album_name": "Experimental Jet Set, Trash And No Star",
+    "loved": 0,
+    "date_time": "2026-07-28 19:33:12"
+  },
+  {
+    "artist_name": "Sonic Youth",
+    "track_name": "Bull In The Heather",
+    "album_name": "Experimental Jet Set, Trash And No Star",
+    "loved": 0,
+    "date_time": "2026-07-28 19:29:25"
+  },
+  {
+    "artist_name": "Sonic Youth",
+    "track_name": "Winner's Blues",
+    "album_name": "Experimental Jet Set, Trash And No Star",
+    "loved": 0,
+    "date_time": "2026-07-28 19:26:35"
+  },
+  {
+    "artist_name": "Kasabian",
+    "track_name": "Happiness",
+    "album_name": "West Ryder Pauper Lunatic Asylum",
+    "loved": 0,
+    "date_time": "2026-07-28 17:59:15"
+  },
+  {
+    "artist_name": "Kasabian",
+    "track_name": "Fire",
+    "album_name": "West Ryder Pauper Lunatic Asylum",
+    "loved": 0,
+    "date_time": "2026-07-28 17:55:01"
+  },
+  {
+    "artist_name": "Kasabian",
+    "track_name": "Fire",
+    "album_name": "West Ryder Pauper Lunatic Asylum",
+    "loved": 0,
+    "date_time": "2026-07-28 17:50:41"
+  },
+  {
+    "artist_name": "Kasabian",
+    "track_name": "Secret Alphabets",
+    "album_name": "West Ryder Pauper Lunatic Asylum",
+    "loved": 0,
+    "date_time": "2026-07-28 17:44:33"
+  },
+  {
+    "artist_name": "Kasabian",
+    "track_name": "Ladies and Gentlemen, Roll the Dice",
+    "album_name": "West Ryder Pauper Lunatic Asylum",
+    "loved": 0,
+    "date_time": "2026-07-28 17:40:30"
+  },
+  {
+    "artist_name": "Kasabian",
+    "track_name": "Vlad the Impaler",
+    "album_name": "West Ryder Pauper Lunatic Asylum",
+    "loved": 0,
+    "date_time": "2026-07-28 17:34:10"
+  },
+  {
+    "artist_name": "Kasabian",
+    "track_name": "West Ryder Silver Bullet",
+    "album_name": "West Ryder Pauper Lunatic Asylum",
+    "loved": 0,
+    "date_time": "2026-07-28 17:28:05"
+  },
+  {
+    "artist_name": "Kasabian",
+    "track_name": "Thick as Thieves",
+    "album_name": "West Ryder Pauper Lunatic Asylum",
+    "loved": 0,
+    "date_time": "2026-07-28 17:24:29"
+  },
+  {
+    "artist_name": "Kasabian",
+    "track_name": "Take Aim",
+    "album_name": "West Ryder Pauper Lunatic Asylum",
+    "loved": 0,
+    "date_time": "2026-07-28 17:18:13"
+  },
+  {
+    "artist_name": "Kasabian",
+    "track_name": "Fast Fuse",
+    "album_name": "West Ryder Pauper Lunatic Asylum",
+    "loved": 0,
+    "date_time": "2026-07-28 16:55:46"
+  },
+  {
+    "artist_name": "Kasabian",
+    "track_name": "Swarfiga",
+    "album_name": "West Ryder Pauper Lunatic Asylum",
+    "loved": 0,
+    "date_time": "2026-07-28 16:43:34"
+  },
+  {
+    "artist_name": "Kasabian",
+    "track_name": "Where Did All the Love Go?",
+    "album_name": "West Ryder Pauper Lunatic Asylum",
+    "loved": 0,
+    "date_time": "2026-07-28 16:25:52"
+  },
+  {
+    "artist_name": "Kasabian",
+    "track_name": "Underdog",
+    "album_name": "West Ryder Pauper Lunatic Asylum",
+    "loved": 0,
+    "date_time": "2026-07-28 16:21:03"
+  },
+  {
+    "artist_name": "Suede",
+    "track_name": "Life Is Endless, Life Is A Moment",
+    "album_name": "Antidepressants",
+    "loved": 0,
+    "date_time": "2026-07-28 15:09:17"
+  },
+  {
+    "artist_name": "Suede",
+    "track_name": "June Rain",
+    "album_name": "Antidepressants",
+    "loved": 0,
+    "date_time": "2026-07-28 15:05:09"
+  },
+  {
+    "artist_name": "Suede",
+    "track_name": "Trance State",
+    "album_name": "Antidepressants",
+    "loved": 0,
+    "date_time": "2026-07-28 15:00:42"
+  },
+  {
+    "artist_name": "Suede",
+    "track_name": "Criminal Ways",
+    "album_name": "Antidepressants",
+    "loved": 0,
+    "date_time": "2026-07-28 14:39:36"
+  },
+  {
+    "artist_name": "Suede",
+    "track_name": "Broken Music For Broken People",
+    "album_name": "Antidepressants",
+    "loved": 0,
+    "date_time": "2026-07-28 14:25:27"
+  },
+  {
+    "artist_name": "Suede",
+    "track_name": "Somewhere Between An Atom And A Star",
+    "album_name": "Antidepressants",
+    "loved": 0,
+    "date_time": "2026-07-28 14:22:09"
+  },
+  {
+    "artist_name": "Suede",
+    "track_name": "Sound and the Summer",
+    "album_name": "Antidepressants",
+    "loved": 0,
+    "date_time": "2026-07-28 14:18:20"
+  },
+  {
+    "artist_name": "Suede",
+    "track_name": "Sweet Kid",
+    "album_name": "Antidepressants",
+    "loved": 0,
+    "date_time": "2026-07-28 14:11:00"
+  },
+  {
+    "artist_name": "Suede",
+    "track_name": "Antidepressants",
+    "album_name": "Antidepressants",
+    "loved": 0,
+    "date_time": "2026-07-28 14:05:58"
+  },
+  {
+    "artist_name": "Suede",
+    "track_name": "Dancing With the Europeans",
+    "album_name": "Antidepressants",
+    "loved": 0,
+    "date_time": "2026-07-28 14:01:54"
+  },
+  {
+    "artist_name": "Suede",
+    "track_name": "Disintegrate",
+    "album_name": "Antidepressants",
+    "loved": 0,
+    "date_time": "2026-07-28 13:58:02"
+  },
+  {
+    "artist_name": "Kasabian",
+    "track_name": "U Boat",
+    "album_name": "Kasabian",
+    "loved": 0,
+    "date_time": "2026-07-26 17:24:00"
+  },
+  {
+    "artist_name": "Kasabian",
+    "track_name": "Ovary Stripe",
+    "album_name": "Kasabian",
+    "loved": 0,
+    "date_time": "2026-07-26 17:18:10"
+  },
+  {
+    "artist_name": "Kasabian",
+    "track_name": "Butcher Blues",
+    "album_name": "Kasabian",
+    "loved": 0,
+    "date_time": "2026-07-26 17:12:46"
+  },
+  {
+    "artist_name": "Kasabian",
+    "track_name": "Cutt Off",
+    "album_name": "Kasabian",
+    "loved": 0,
+    "date_time": "2026-07-26 17:07:55"
+  },
+  {
+    "artist_name": "Kasabian",
+    "track_name": "Pinch Roller",
+    "album_name": "Kasabian",
+    "loved": 0,
+    "date_time": "2026-07-26 17:06:24"
+  },
+  {
+    "artist_name": "Kasabian",
+    "track_name": "Test Transmission",
+    "album_name": "Kasabian",
+    "loved": 0,
+    "date_time": "2026-07-26 17:02:12"
+  },
+  {
+    "artist_name": "Kasabian",
+    "track_name": "Running Battle",
+    "album_name": "Kasabian",
+    "loved": 0,
+    "date_time": "2026-07-26 16:54:54"
+  },
+  {
+    "artist_name": "Kasabian",
+    "track_name": "L.S.F. (Lost Souls Forever)",
+    "album_name": "Kasabian",
+    "loved": 0,
+    "date_time": "2026-07-26 16:50:27"
+  },
+  {
+    "artist_name": "Kasabian",
+    "track_name": "Orange",
+    "album_name": "Kasabian",
+    "loved": 0,
+    "date_time": "2026-07-26 16:49:11"
+  },
+  {
+    "artist_name": "Kasabian",
+    "track_name": "I.D.",
+    "album_name": "Kasabian",
+    "loved": 0,
+    "date_time": "2026-07-26 16:43:52"
+  },
+  {
+    "artist_name": "Kasabian",
+    "track_name": "Reason Is Treason",
+    "album_name": "Kasabian",
+    "loved": 0,
+    "date_time": "2026-07-26 16:38:49"
+  },
+  {
+    "artist_name": "Kasabian",
+    "track_name": "Processed Beats",
+    "album_name": "Kasabian",
+    "loved": 0,
+    "date_time": "2026-07-26 16:35:29"
+  },
+  {
+    "artist_name": "Kasabian",
+    "track_name": "Club Foot",
+    "album_name": "Kasabian",
+    "loved": 0,
+    "date_time": "2026-07-26 16:18:37"
+  },
+  {
+    "artist_name": "Mike Oldfield",
+    "track_name": "Hergest Ridge Part Two",
+    "album_name": "Hergest Ridge",
+    "loved": 0,
+    "date_time": "2026-07-26 12:48:40"
+  },
+  {
+    "artist_name": "Mike Oldfield",
+    "track_name": "Hergest Ridge Part One",
+    "album_name": "Hergest Ridge",
+    "loved": 0,
+    "date_time": "2026-07-26 12:29:11"
+  },
+  {
+    "artist_name": "The Smiths",
+    "track_name": "Some Girls Are Bigger Than Others",
+    "album_name": "The Queen Is Dead",
+    "loved": 0,
+    "date_time": "2026-07-26 01:18:53"
+  },
+  {
+    "artist_name": "The Smiths",
+    "track_name": "There Is a Light That Never Goes Out",
+    "album_name": "The Queen Is Dead",
+    "loved": 0,
+    "date_time": "2026-07-26 01:14:42"
+  },
+  {
+    "artist_name": "The Smiths",
+    "track_name": "Vicar in a Tutu",
+    "album_name": "The Queen Is Dead",
+    "loved": 0,
+    "date_time": "2026-07-26 01:12:03"
+  },
+  {
+    "artist_name": "The Smiths",
+    "track_name": "The Boy With The Thorn In His Side",
+    "album_name": "The Queen Is Dead",
+    "loved": 0,
+    "date_time": "2026-07-26 01:07:59"
+  },
+  {
+    "artist_name": "The Smiths",
+    "track_name": "Bigmouth Strikes Again",
+    "album_name": "The Queen Is Dead",
+    "loved": 0,
+    "date_time": "2026-07-26 01:03:28"
+  },
+  {
+    "artist_name": "The Smiths",
+    "track_name": "Cemetry Gates",
+    "album_name": "The Queen Is Dead",
+    "loved": 0,
+    "date_time": "2026-07-26 00:57:37"
+  },
+  {
+    "artist_name": "The Smiths",
+    "track_name": "Never Had No One Ever",
+    "album_name": "The Queen Is Dead",
+    "loved": 0,
+    "date_time": "2026-07-26 00:53:45"
+  },
+  {
+    "artist_name": "The Smiths",
+    "track_name": "I Know It's Over",
+    "album_name": "The Queen Is Dead",
+    "loved": 0,
+    "date_time": "2026-07-25 22:38:01"
+  },
+  {
+    "artist_name": "The Smiths",
+    "track_name": "Frankly, Mr. Shankly",
+    "album_name": "The Queen Is Dead",
+    "loved": 0,
+    "date_time": "2026-07-25 22:35:33"
+  },
+  {
+    "artist_name": "The Smiths",
+    "track_name": "The Queen Is Dead",
+    "album_name": "The Queen Is Dead",
+    "loved": 0,
+    "date_time": "2026-07-25 22:28:58"
+  },
+  {
+    "artist_name": "Mike Oldfield",
+    "track_name": "Tubular Bells. Part Two",
+    "album_name": "Tubular Bells",
+    "loved": 0,
+    "date_time": "2026-07-25 16:04:50"
+  },
+  {
+    "artist_name": "Mike Oldfield",
+    "track_name": "Tubular Bells. Part One",
+    "album_name": "Tubular Bells",
+    "loved": 0,
+    "date_time": "2026-07-25 15:38:06"
+  },
+  {
+    "artist_name": "Pink Floyd",
+    "track_name": "Eclipse",
+    "album_name": "The Dark Side of the Moon",
+    "loved": 0,
+    "date_time": "2026-07-25 12:32:33"
+  },
+  {
+    "artist_name": "Pink Floyd",
+    "track_name": "Brain Damage",
+    "album_name": "The Dark Side of the Moon",
+    "loved": 0,
+    "date_time": "2026-07-25 12:28:46"
+  },
+  {
+    "artist_name": "Pink Floyd",
+    "track_name": "Any Colour You Like",
+    "album_name": "The Dark Side of the Moon",
+    "loved": 0,
+    "date_time": "2026-07-25 12:25:19"
+  },
+  {
+    "artist_name": "Pink Floyd",
+    "track_name": "Us and Them",
+    "album_name": "The Dark Side of the Moon",
+    "loved": 0,
+    "date_time": "2026-07-25 12:17:30"
+  },
+  {
+    "artist_name": "Pink Floyd",
+    "track_name": "Money",
+    "album_name": "The Dark Side of the Moon",
+    "loved": 0,
+    "date_time": "2026-07-25 12:11:07"
+  },
+  {
+    "artist_name": "Pink Floyd",
+    "track_name": "The Great Gig in the Sky",
+    "album_name": "The Dark Side of the Moon",
+    "loved": 1,
+    "date_time": "2026-07-25 12:06:23"
+  },
+  {
+    "artist_name": "Pink Floyd",
+    "track_name": "Time",
+    "album_name": "The Dark Side of the Moon",
+    "loved": 1,
+    "date_time": "2026-07-25 11:59:29"
+  },
+  {
+    "artist_name": "Pink Floyd",
+    "track_name": "On the Run",
+    "album_name": "The Dark Side of the Moon",
+    "loved": 0,
+    "date_time": "2026-07-25 11:55:44"
+  },
+  {
+    "artist_name": "Pink Floyd",
+    "track_name": "Breathe",
+    "album_name": "The Dark Side of the Moon",
+    "loved": 0,
+    "date_time": "2026-07-25 11:52:50"
+  },
+  {
+    "artist_name": "Pink Floyd",
+    "track_name": "Speak to Me",
+    "album_name": "The Dark Side of the Moon",
+    "loved": 0,
+    "date_time": "2026-07-25 11:51:41"
+  },
+  {
+    "artist_name": "Pulp",
+    "track_name": "TV Movie",
+    "album_name": "This Is Hardcore",
+    "loved": 0,
+    "date_time": "2026-07-25 00:15:52"
+  },
+  {
+    "artist_name": "Pulp",
+    "track_name": "This Is Hardcore",
+    "album_name": "This Is Hardcore",
+    "loved": 0,
+    "date_time": "2026-07-25 00:09:17"
+  },
+  {
+    "artist_name": "Pulp",
+    "track_name": "Help the Aged",
+    "album_name": "This Is Hardcore",
+    "loved": 1,
+    "date_time": "2026-07-25 00:04:14"
+  },
+  {
+    "artist_name": "Pulp",
+    "track_name": "Dishes",
+    "album_name": "This Is Hardcore",
+    "loved": 0,
+    "date_time": "2026-07-24 23:57:43"
+  },
+  {
+    "artist_name": "Pulp",
+    "track_name": "The Fear",
+    "album_name": "This Is Hardcore",
+    "loved": 0,
+    "date_time": "2026-07-24 23:51:59"
+  },
+  {
+    "artist_name": "Enrique Bunbury",
+    "track_name": "Contradictorio",
+    "album_name": "Pequeño",
+    "loved": 0,
+    "date_time": "2026-07-24 00:37:53"
+  },
+  {
+    "artist_name": "Enrique Bunbury",
+    "track_name": "Robinson",
+    "album_name": "Pequeño",
+    "loved": 0,
+    "date_time": "2026-07-24 00:33:04"
+  },
+  {
+    "artist_name": "Enrique Bunbury",
+    "track_name": "Bailando con el enemigo",
+    "album_name": "Pequeño",
+    "loved": 0,
+    "date_time": "2026-07-24 00:28:29"
+  },
+  {
+    "artist_name": "Enrique Bunbury",
+    "track_name": "De mayor",
+    "album_name": "Pequeño",
+    "loved": 0,
+    "date_time": "2026-07-24 00:23:19"
+  },
+  {
+    "artist_name": "Enrique Bunbury",
+    "track_name": "Demasiado tarde",
+    "album_name": "Pequeño",
+    "loved": 0,
+    "date_time": "2026-07-24 00:08:16"
+  },
+  {
+    "artist_name": "Enrique Bunbury",
+    "track_name": "¿Dudar?, Quizás",
+    "album_name": "Pequeño",
+    "loved": 0,
+    "date_time": "2026-07-24 00:02:20"
+  },
+  {
+    "artist_name": "Enrique Bunbury",
+    "track_name": "Lejos de la tristeza",
+    "album_name": "Pequeño",
+    "loved": 0,
+    "date_time": "2026-07-23 23:58:35"
+  },
+  {
+    "artist_name": "Enrique Bunbury",
+    "track_name": "El viento a favor",
+    "album_name": "Pequeño",
+    "loved": 0,
+    "date_time": "2026-07-23 23:53:33"
+  },
+  {
+    "artist_name": "Enrique Bunbury",
+    "track_name": "Sólo Si Me Perdonas",
+    "album_name": "Pequeño",
+    "loved": 0,
+    "date_time": "2026-07-23 22:20:39"
+  },
+  {
+    "artist_name": "Enrique Bunbury",
+    "track_name": "El extranjero",
+    "album_name": "Pequeño",
+    "loved": 0,
+    "date_time": "2026-07-23 22:16:04"
+  },
+  {
+    "artist_name": "Enrique Bunbury",
+    "track_name": "Infinito",
+    "album_name": "Pequeño",
+    "loved": 0,
+    "date_time": "2026-07-23 22:12:04"
+  },
+  {
+    "artist_name": "Enrique Bunbury",
+    "track_name": "Algo en común",
+    "album_name": "Pequeño",
+    "loved": 0,
+    "date_time": "2026-07-23 22:08:12"
+  },
+  {
+    "artist_name": "El Último de la Fila",
+    "track_name": "Vamos",
+    "album_name": "Como La Cabeza Al Sombrero",
+    "loved": 0,
+    "date_time": "2026-07-23 22:04:02"
+  },
+  {
+    "artist_name": "El Último de la Fila",
+    "track_name": "Otro Verano",
+    "album_name": "Como La Cabeza Al Sombrero",
+    "loved": 0,
+    "date_time": "2026-07-23 22:02:33"
+  },
+  {
+    "artist_name": "El Último de la Fila",
+    "track_name": "Llanto De Pasión",
+    "album_name": "Como La Cabeza Al Sombrero",
+    "loved": 0,
+    "date_time": "2026-07-23 21:57:27"
+  },
+  {
+    "artist_name": "El Último de la Fila",
+    "track_name": "Trece Planetas",
+    "album_name": "Como La Cabeza Al Sombrero",
+    "loved": 0,
+    "date_time": "2026-07-23 21:53:57"
+  },
+  {
+    "artist_name": "El Último de la Fila",
+    "track_name": "Trabajo Duro",
+    "album_name": "Como La Cabeza Al Sombrero",
+    "loved": 0,
+    "date_time": "2026-07-23 21:50:13"
+  },
+  {
+    "artist_name": "El Último de la Fila",
+    "track_name": "Yo No Danzo Al Son De Los Tambores",
+    "album_name": "Como La Cabeza Al Sombrero",
+    "loved": 0,
+    "date_time": "2026-07-23 21:32:11"
+  },
+  {
+    "artist_name": "El Último de la Fila",
+    "track_name": "Como La Cabeza Al Sombrero",
+    "album_name": "Como La Cabeza Al Sombrero",
+    "loved": 0,
+    "date_time": "2026-07-23 21:28:22"
+  },
+  {
+    "artist_name": "El Último de la Fila",
+    "track_name": "A Veces Se Enciende",
+    "album_name": "Como La Cabeza Al Sombrero",
+    "loved": 0,
+    "date_time": "2026-07-23 21:22:43"
+  },
+  {
+    "artist_name": "El Último de la Fila",
+    "track_name": "La Piedra Redonda",
+    "album_name": "Como La Cabeza Al Sombrero",
+    "loved": 0,
+    "date_time": "2026-07-23 21:17:22"
+  },
+  {
+    "artist_name": "El Último de la Fila",
+    "track_name": "En los árboles",
+    "album_name": "Como La Cabeza Al Sombrero",
+    "loved": 0,
+    "date_time": "2026-07-23 21:13:16"
+  },
+  {
+    "artist_name": "El Último de la Fila",
+    "track_name": "Sara",
+    "album_name": "Como La Cabeza Al Sombrero",
+    "loved": 0,
+    "date_time": "2026-07-23 21:09:07"
+  },
+  {
+    "artist_name": "El Último de la Fila",
+    "track_name": "Dios De La Lluvia",
+    "album_name": "Como La Cabeza Al Sombrero",
+    "loved": 0,
+    "date_time": "2026-07-23 21:01:16"
+  },
+  {
+    "artist_name": "The Smiths",
+    "track_name": "Suffer Little Children",
+    "album_name": "The Smiths",
+    "loved": 0,
+    "date_time": "2026-07-22 01:06:51"
+  },
+  {
+    "artist_name": "The Smiths",
+    "track_name": "I Don't Owe You Anything",
+    "album_name": "The Smiths",
+    "loved": 0,
+    "date_time": "2026-07-22 01:01:40"
+  },
+  {
+    "artist_name": "The Smiths",
+    "track_name": "What Difference Does It Make",
+    "album_name": "The Smiths",
+    "loved": 0,
+    "date_time": "2026-07-22 00:57:44"
+  },
+  {
+    "artist_name": "The Smiths",
+    "track_name": "Hand in Glove",
+    "album_name": "The Smiths",
+    "loved": 0,
+    "date_time": "2026-07-22 00:54:19"
+  },
+  {
+    "artist_name": "The Smiths",
+    "track_name": "Still Ill",
+    "album_name": "The Smiths",
+    "loved": 0,
+    "date_time": "2026-07-22 00:50:47"
+  },
+  {
+    "artist_name": "The Smiths",
+    "track_name": "This Charming Man",
+    "album_name": "The Smiths",
+    "loved": 0,
+    "date_time": "2026-07-22 00:35:49"
+  },
+  {
+    "artist_name": "The Smiths",
+    "track_name": "The Hand That Rocks the Cradle",
+    "album_name": "The Smiths",
+    "loved": 0,
+    "date_time": "2026-07-22 00:24:55"
+  },
+  {
+    "artist_name": "The Smiths",
+    "track_name": "Pretty Girls Make Graves",
+    "album_name": "The Smiths",
+    "loved": 0,
+    "date_time": "2026-07-22 00:21:04"
+  },
+  {
+    "artist_name": "The Smiths",
+    "track_name": "Miserable Lie",
+    "album_name": "The Smiths",
+    "loved": 0,
+    "date_time": "2026-07-22 00:10:29"
+  },
+  {
+    "artist_name": "The Smiths",
+    "track_name": "You've Got Everything Now",
+    "album_name": "The Smiths",
+    "loved": 0,
+    "date_time": "2026-07-22 00:04:49"
+  },
+  {
+    "artist_name": "The Smiths",
+    "track_name": "Reel Around the Fountain",
+    "album_name": "The Smiths",
+    "loved": 0,
+    "date_time": "2026-07-21 23:58:35"
+  },
+  {
+    "artist_name": "Pulp",
+    "track_name": "Background Noise",
+    "album_name": "More",
+    "loved": 0,
+    "date_time": "2026-07-21 19:27:04"
+  },
+  {
+    "artist_name": "Placebo",
+    "track_name": "Centrefolds",
+    "album_name": "Sleeping with Ghosts",
+    "loved": 0,
+    "date_time": "2026-07-21 18:20:46"
+  },
+  {
+    "artist_name": "Placebo",
+    "track_name": "Protect Me from What I Want",
+    "album_name": "Sleeping with Ghosts",
+    "loved": 0,
+    "date_time": "2026-07-21 18:17:30"
+  },
+  {
+    "artist_name": "Placebo",
+    "track_name": "Second Sight",
+    "album_name": "Sleeping with Ghosts",
+    "loved": 0,
+    "date_time": "2026-07-21 18:14:39"
+  },
+  {
+    "artist_name": "Placebo",
+    "track_name": "I'll Be Yours",
+    "album_name": "Sleeping with Ghosts",
+    "loved": 0,
+    "date_time": "2026-07-21 18:10:25"
+  },
+  {
+    "artist_name": "Placebo",
+    "track_name": "Special Needs",
+    "album_name": "Sleeping with Ghosts",
+    "loved": 0,
+    "date_time": "2026-07-21 18:04:15"
+  },
+  {
+    "artist_name": "Placebo",
+    "track_name": "Plasticine",
+    "album_name": "Sleeping with Ghosts",
+    "loved": 0,
+    "date_time": "2026-07-21 17:59:15"
+  },
+  {
+    "artist_name": "Placebo",
+    "track_name": "Something Rotten",
+    "album_name": "Sleeping with Ghosts",
+    "loved": 0,
+    "date_time": "2026-07-21 17:53:36"
+  },
+  {
+    "artist_name": "Placebo",
+    "track_name": "The Bitter End",
+    "album_name": "Sleeping with Ghosts",
+    "loved": 0,
+    "date_time": "2026-07-21 17:50:04"
+  },
+  {
+    "artist_name": "Placebo",
+    "track_name": "Sleeping with Ghosts",
+    "album_name": "Sleeping with Ghosts",
+    "loved": 0,
+    "date_time": "2026-07-21 17:45:14"
+  },
+  {
+    "artist_name": "Placebo",
+    "track_name": "This Picture",
+    "album_name": "Sleeping with Ghosts",
+    "loved": 0,
+    "date_time": "2026-07-21 17:41:39"
+  },
+  {
+    "artist_name": "Placebo",
+    "track_name": "English Summer Rain",
+    "album_name": "Sleeping with Ghosts",
+    "loved": 0,
+    "date_time": "2026-07-21 16:51:16"
+  },
+  {
+    "artist_name": "Placebo",
+    "track_name": "Bulletproof Cupid",
+    "album_name": "Sleeping with Ghosts",
+    "loved": 0,
+    "date_time": "2026-07-21 16:44:49"
+  },
+  {
+    "artist_name": "Metallica",
+    "track_name": "Don't Tread on Me",
+    "album_name": "Metallica (Black Album)",
+    "loved": 0,
+    "date_time": "2026-07-19 18:34:27"
+  },
+  {
+    "artist_name": "Metallica",
+    "track_name": "Wherever I May Roam",
+    "album_name": "Metallica (Black Album)",
+    "loved": 0,
+    "date_time": "2026-07-19 18:27:34"
+  },
+  {
+    "artist_name": "Metallica",
+    "track_name": "The Unforgiven",
+    "album_name": "Metallica (Black Album)",
+    "loved": 0,
+    "date_time": "2026-07-19 18:19:59"
+  },
+  {
+    "artist_name": "Metallica",
+    "track_name": "Holier Than Thou",
+    "album_name": "Metallica (Black Album)",
+    "loved": 0,
+    "date_time": "2026-07-19 18:15:44"
+  },
+  {
+    "artist_name": "Metallica",
+    "track_name": "Sad but True",
+    "album_name": "Metallica (Black Album)",
+    "loved": 0,
+    "date_time": "2026-07-19 18:09:54"
+  },
+  {
+    "artist_name": "Metallica",
+    "track_name": "Blackened",
+    "album_name": "... And Justice for All",
+    "loved": 0,
+    "date_time": "2026-07-19 18:03:05"
+  },
+  {
+    "artist_name": "Motörhead",
+    "track_name": "I'm Your Witch Doctor",
+    "album_name": "Motörhead",
+    "loved": 0,
+    "date_time": "2026-07-19 17:57:04"
+  },
+  {
+    "artist_name": "Motörhead",
+    "track_name": "Instro",
+    "album_name": "Motörhead",
+    "loved": 0,
+    "date_time": "2026-07-19 17:54:24"
+  },
+  {
+    "artist_name": "Motörhead",
+    "track_name": "On Parole",
+    "album_name": "Motörhead",
+    "loved": 0,
+    "date_time": "2026-07-19 17:48:01"
+  },
+  {
+    "artist_name": "Motörhead",
+    "track_name": "Beer Drinkers & Hell Raisers",
+    "album_name": "Motörhead",
+    "loved": 0,
+    "date_time": "2026-07-19 17:44:01"
+  },
+  {
+    "artist_name": "Motörhead",
+    "track_name": "City Kids",
+    "album_name": "Motörhead",
+    "loved": 0,
+    "date_time": "2026-07-19 17:21:25"
+  },
+  {
+    "artist_name": "Motörhead",
+    "track_name": "The Train Kept a-Rollin'",
+    "album_name": "Motörhead",
+    "loved": 0,
+    "date_time": "2026-07-19 17:18:01"
+  },
+  {
+    "artist_name": "Motörhead",
+    "track_name": "The Watcher",
+    "album_name": "Motörhead",
+    "loved": 0,
+    "date_time": "2026-07-19 17:13:27"
+  },
+  {
+    "artist_name": "Motörhead",
+    "track_name": "Keep Us on the Road",
+    "album_name": "Motörhead",
+    "loved": 0,
+    "date_time": "2026-07-19 17:06:54"
+  },
+  {
+    "artist_name": "Motörhead",
+    "track_name": "White Line Fever",
+    "album_name": "Motörhead",
+    "loved": 0,
+    "date_time": "2026-07-19 17:03:36"
+  },
+  {
+    "artist_name": "Motörhead",
+    "track_name": "Iron Horse/Born to Lose",
+    "album_name": "Motörhead",
+    "loved": 0,
+    "date_time": "2026-07-19 16:57:25"
+  },
+  {
+    "artist_name": "Motörhead",
+    "track_name": "Lost Johnny",
+    "album_name": "Motörhead",
+    "loved": 0,
+    "date_time": "2026-07-19 16:52:41"
+  },
+  {
+    "artist_name": "Motörhead",
+    "track_name": "Vibrator",
+    "album_name": "Motörhead",
+    "loved": 0,
+    "date_time": "2026-07-19 16:42:18"
+  },
+  {
+    "artist_name": "Led Zeppelin",
+    "track_name": "When the Levee Breaks",
+    "album_name": "Led Zeppelin IV",
+    "loved": 0,
+    "date_time": "2026-07-19 14:09:47"
+  },
+  {
+    "artist_name": "Led Zeppelin",
+    "track_name": "Going to California",
+    "album_name": "Led Zeppelin IV",
+    "loved": 0,
+    "date_time": "2026-07-19 14:06:04"
+  },
+  {
+    "artist_name": "Led Zeppelin",
+    "track_name": "Four Sticks",
+    "album_name": "Led Zeppelin IV",
+    "loved": 0,
+    "date_time": "2026-07-19 14:01:11"
+  },
+  {
+    "artist_name": "Led Zeppelin",
+    "track_name": "Misty Mountain Hop",
+    "album_name": "Led Zeppelin IV",
+    "loved": 0,
+    "date_time": "2026-07-19 13:56:15"
+  },
+  {
+    "artist_name": "Led Zeppelin",
+    "track_name": "Stairway to Heaven",
+    "album_name": "Led Zeppelin IV",
+    "loved": 1,
+    "date_time": "2026-07-19 13:48:03"
+  },
+  {
+    "artist_name": "Led Zeppelin",
+    "track_name": "The Battle of Evermore",
+    "album_name": "Led Zeppelin IV",
+    "loved": 0,
+    "date_time": "2026-07-19 13:41:43"
+  },
+  {
+    "artist_name": "Led Zeppelin",
+    "track_name": "Rock and Roll",
+    "album_name": "Led Zeppelin IV",
+    "loved": 0,
+    "date_time": "2026-07-19 13:37:36"
+  },
+  {
+    "artist_name": "Led Zeppelin",
+    "track_name": "Black Dog",
+    "album_name": "Led Zeppelin IV",
+    "loved": 0,
+    "date_time": "2026-07-19 13:32:24"
+  },
+  {
+    "artist_name": "Oasis",
+    "track_name": "Champagne Supernova",
+    "album_name": "(What's the Story) Morning Glory?",
+    "loved": 1,
+    "date_time": "2026-07-19 12:33:05"
+  },
+  {
+    "artist_name": "Oasis",
+    "track_name": "The Swamp Song [excerpt 2]",
+    "album_name": "(What's the Story) Morning Glory?",
+    "loved": 0,
+    "date_time": "2026-07-19 12:32:25"
+  },
+  {
+    "artist_name": "Oasis",
+    "track_name": "Morning Glory",
+    "album_name": "(What's the Story) Morning Glory?",
+    "loved": 0,
+    "date_time": "2026-07-19 12:27:10"
+  },
+  {
+    "artist_name": "Oasis",
+    "track_name": "She's Electric",
+    "album_name": "(What's the Story) Morning Glory?",
+    "loved": 0,
+    "date_time": "2026-07-19 12:23:19"
+  },
+  {
+    "artist_name": "Oasis",
+    "track_name": "Cast No Shadow",
+    "album_name": "(What's the Story) Morning Glory?",
+    "loved": 0,
+    "date_time": "2026-07-19 12:18:00"
+  },
+  {
+    "artist_name": "Oasis",
+    "track_name": "Some Might Say",
+    "album_name": "(What's the Story) Morning Glory?",
+    "loved": 0,
+    "date_time": "2026-07-19 12:12:27"
+  },
+  {
+    "artist_name": "Oasis",
+    "track_name": "The Swamp Song [excerpt 1]",
+    "album_name": "(What's the Story) Morning Glory?",
+    "loved": 0,
+    "date_time": "2026-07-19 12:11:28"
+  },
+  {
+    "artist_name": "Oasis",
+    "track_name": "Hey Now!",
+    "album_name": "(What's the Story) Morning Glory?",
+    "loved": 0,
+    "date_time": "2026-07-19 12:05:27"
+  },
+  {
+    "artist_name": "Oasis",
+    "track_name": "Don't Look Back in Anger",
+    "album_name": "(What's the Story) Morning Glory?",
+    "loved": 1,
+    "date_time": "2026-07-19 12:00:25"
+  },
+  {
+    "artist_name": "Oasis",
+    "track_name": "Wonderwall",
+    "album_name": "(What's the Story) Morning Glory?",
+    "loved": 0,
+    "date_time": "2026-07-19 11:55:51"
+  },
+  {
+    "artist_name": "Oasis",
+    "track_name": "Roll with It",
+    "album_name": "(What's the Story) Morning Glory?",
+    "loved": 0,
+    "date_time": "2026-07-19 11:51:44"
+  },
+  {
+    "artist_name": "Oasis",
+    "track_name": "Hello",
+    "album_name": "(What's the Story) Morning Glory?",
+    "loved": 0,
+    "date_time": "2026-07-19 11:48:14"
+  },
+  {
+    "artist_name": "Blur",
+    "track_name": "Resigned",
+    "album_name": "Modern Life Is Rubbish",
+    "loved": 0,
+    "date_time": "2026-07-18 12:44:41"
+  },
+  {
+    "artist_name": "Blur",
+    "track_name": "Turn It Up",
+    "album_name": "Modern Life Is Rubbish",
+    "loved": 0,
+    "date_time": "2026-07-18 12:41:11"
+  },
+  {
+    "artist_name": "Blur",
+    "track_name": "Coping",
+    "album_name": "Modern Life Is Rubbish",
+    "loved": 0,
+    "date_time": "2026-07-18 12:36:53"
+  },
+  {
+    "artist_name": "Blur",
+    "track_name": "Villa Rosie",
+    "album_name": "Modern Life Is Rubbish",
+    "loved": 0,
+    "date_time": "2026-07-18 12:32:50"
+  },
+  {
+    "artist_name": "Blur",
+    "track_name": "Miss America",
+    "album_name": "Modern Life Is Rubbish",
+    "loved": 0,
+    "date_time": "2026-07-18 12:24:56"
+  },
+  {
+    "artist_name": "Blur",
+    "track_name": "Oily Water",
+    "album_name": "Modern Life Is Rubbish",
+    "loved": 0,
+    "date_time": "2026-07-18 12:19:37"
+  },
+  {
+    "artist_name": "Blur",
+    "track_name": "Sunday Sunday",
+    "album_name": "Modern Life Is Rubbish",
+    "loved": 0,
+    "date_time": "2026-07-18 12:16:40"
+  },
+  {
+    "artist_name": "Blur",
+    "track_name": "Chemical World",
+    "album_name": "Modern Life Is Rubbish",
+    "loved": 1,
+    "date_time": "2026-07-18 11:44:59"
+  },
+  {
+    "artist_name": "Blur",
+    "track_name": "Blue Jeans",
+    "album_name": "Modern Life Is Rubbish",
+    "loved": 0,
+    "date_time": "2026-07-18 11:41:01"
+  },
+  {
+    "artist_name": "Blur",
+    "track_name": "Star Shaped",
+    "album_name": "Modern Life Is Rubbish",
+    "loved": 0,
+    "date_time": "2026-07-18 11:37:27"
+  },
+  {
+    "artist_name": "Blur",
+    "track_name": "Pressure on Julian",
+    "album_name": "Modern Life Is Rubbish",
+    "loved": 0,
+    "date_time": "2026-07-18 11:33:47"
+  },
+  {
+    "artist_name": "Blur",
+    "track_name": "Colin Zeal",
+    "album_name": "Modern Life Is Rubbish",
+    "loved": 0,
+    "date_time": "2026-07-18 11:30:18"
+  },
+  {
+    "artist_name": "Blur",
+    "track_name": "Advert",
+    "album_name": "Modern Life Is Rubbish",
+    "loved": 0,
+    "date_time": "2026-07-18 11:26:20"
+  },
+  {
+    "artist_name": "Blur",
+    "track_name": "For Tomorrow",
+    "album_name": "Modern Life Is Rubbish",
+    "loved": 0,
+    "date_time": "2026-07-18 11:22:26"
+  },
+  {
+    "artist_name": "The Strokes",
+    "track_name": "Take It or Leave It",
+    "album_name": "Is This It",
+    "loved": 0,
+    "date_time": "2026-07-16 20:15:36"
+  },
+  {
+    "artist_name": "The Strokes",
+    "track_name": "Trying Your Luck",
+    "album_name": "Is This It",
+    "loved": 0,
+    "date_time": "2026-07-16 20:11:57"
+  },
+  {
+    "artist_name": "The Strokes",
+    "track_name": "New York City Cops",
+    "album_name": "Is This It",
+    "loved": 0,
+    "date_time": "2026-07-16 20:04:08"
+  },
+  {
+    "artist_name": "The Strokes",
+    "track_name": "Hard to Explain",
+    "album_name": "Is This It",
+    "loved": 1,
+    "date_time": "2026-07-16 19:59:51"
+  },
+  {
+    "artist_name": "The Strokes",
+    "track_name": "Last Nite",
+    "album_name": "Is This It",
+    "loved": 0,
+    "date_time": "2026-07-16 19:56:10"
+  },
+  {
+    "artist_name": "The Strokes",
+    "track_name": "Alone, Together",
+    "album_name": "Is This It",
+    "loved": 0,
+    "date_time": "2026-07-16 19:52:53"
+  },
+  {
+    "artist_name": "The Strokes",
+    "track_name": "Someday",
+    "album_name": "Is This It",
+    "loved": 0,
+    "date_time": "2026-07-16 19:49:18"
+  },
+  {
+    "artist_name": "The Strokes",
+    "track_name": "Barely Legal",
+    "album_name": "Is This It",
+    "loved": 0,
+    "date_time": "2026-07-16 19:44:19"
+  },
+  {
+    "artist_name": "The Strokes",
+    "track_name": "Soma",
+    "album_name": "Is This It",
+    "loved": 0,
+    "date_time": "2026-07-16 19:41:25"
+  },
+  {
+    "artist_name": "The Strokes",
+    "track_name": "The Modern Age",
+    "album_name": "Is This It",
+    "loved": 0,
+    "date_time": "2026-07-16 19:37:35"
+  },
+  {
+    "artist_name": "The Strokes",
+    "track_name": "Is This It",
+    "album_name": "Is This It",
+    "loved": 0,
+    "date_time": "2026-07-16 19:34:41"
+  },
+  {
+    "artist_name": "Queen",
+    "track_name": "More of That Jazz",
+    "album_name": "Jazz",
+    "loved": 0,
+    "date_time": "2026-07-16 19:20:14"
+  },
+  {
+    "artist_name": "Queen",
+    "track_name": "Don't Stop Me Now",
+    "album_name": "Jazz",
+    "loved": 1,
+    "date_time": "2026-07-16 19:16:22"
+  },
+  {
+    "artist_name": "Queen",
+    "track_name": "Leaving Home Ain't Easy",
+    "album_name": "Jazz",
+    "loved": 0,
+    "date_time": "2026-07-16 19:12:53"
+  },
+  {
+    "artist_name": "Queen",
+    "track_name": "Fun It",
+    "album_name": "Jazz",
+    "loved": 0,
+    "date_time": "2026-07-16 19:08:26"
+  },
+  {
+    "artist_name": "Queen",
+    "track_name": "Dreamer's Ball",
+    "album_name": "Jazz",
+    "loved": 0,
+    "date_time": "2026-07-16 19:00:56"
+  },
+  {
+    "artist_name": "Queen",
+    "track_name": "In Only Seven Days",
+    "album_name": "Jazz",
+    "loved": 0,
+    "date_time": "2026-07-16 18:57:59"
+  },
+  {
+    "artist_name": "Queen",
+    "track_name": "Dead on Time",
+    "album_name": "Jazz",
+    "loved": 0,
+    "date_time": "2026-07-16 18:53:59"
+  },
+  {
+    "artist_name": "Queen",
+    "track_name": "Let Me Entertain You",
+    "album_name": "Jazz",
+    "loved": 0,
+    "date_time": "2026-07-16 18:46:57"
+  },
+  {
+    "artist_name": "Queen",
+    "track_name": "If You Can't Beat Them",
+    "album_name": "Jazz",
+    "loved": 0,
+    "date_time": "2026-07-16 18:14:42"
+  },
+  {
+    "artist_name": "Queen",
+    "track_name": "Bicycle Race",
+    "album_name": "Jazz",
+    "loved": 0,
+    "date_time": "2026-07-16 18:11:37"
+  },
+  {
+    "artist_name": "Queen",
+    "track_name": "Jealousy",
+    "album_name": "Jazz",
+    "loved": 0,
+    "date_time": "2026-07-16 18:08:18"
+  },
+  {
+    "artist_name": "Queen",
+    "track_name": "Fat Bottomed Girls",
+    "album_name": "Jazz",
+    "loved": 0,
+    "date_time": "2026-07-16 18:03:38"
+  },
+  {
+    "artist_name": "Queen",
+    "track_name": "Mustapha",
+    "album_name": "Jazz",
+    "loved": 0,
+    "date_time": "2026-07-16 17:59:03"
+  },
+  {
+    "artist_name": "Rosendo",
+    "track_name": "Suspensivos",
+    "album_name": "Para Mal O Para Bien",
+    "loved": 0,
+    "date_time": "2026-07-16 15:06:48"
+  },
+  {
+    "artist_name": "Rosendo",
+    "track_name": "Mi Tiempo",
+    "album_name": "Para Mal O Para Bien",
+    "loved": 0,
+    "date_time": "2026-07-16 15:01:11"
+  },
+  {
+    "artist_name": "Rosendo",
+    "track_name": "Diselo Tu!",
+    "album_name": "Para Mal O Para Bien",
+    "loved": 0,
+    "date_time": "2026-07-16 14:57:25"
+  },
+  {
+    "artist_name": "Rosendo",
+    "track_name": "Es Natural",
+    "album_name": "Para Mal O Para Bien",
+    "loved": 0,
+    "date_time": "2026-07-16 14:53:57"
+  },
+  {
+    "artist_name": "Rosendo",
+    "track_name": "Lo Que Tu Y Yo Sabemos",
+    "album_name": "Para Mal O Para Bien",
+    "loved": 0,
+    "date_time": "2026-07-16 14:43:27"
+  },
+  {
+    "artist_name": "Rosendo",
+    "track_name": "Como Estatuas De Sal",
+    "album_name": "Para Mal O Para Bien",
+    "loved": 0,
+    "date_time": "2026-07-16 14:39:11"
+  },
+  {
+    "artist_name": "Rosendo",
+    "track_name": "Hasta De Perfil",
+    "album_name": "Para Mal O Para Bien",
+    "loved": 0,
+    "date_time": "2026-07-16 14:34:17"
+  },
+  {
+    "artist_name": "Rosendo",
+    "track_name": "A La Sombra De Una Mentira",
+    "album_name": "Para Mal O Para Bien",
+    "loved": 0,
+    "date_time": "2026-07-16 14:28:47"
+  },
+  {
+    "artist_name": "Rosendo",
+    "track_name": "Puedo Ser Más Eficaz",
+    "album_name": "Para Mal O Para Bien",
+    "loved": 0,
+    "date_time": "2026-07-16 14:24:39"
+  },
+  {
+    "artist_name": "Rosendo",
+    "track_name": "Tengo Que No Tengo",
+    "album_name": "Para Mal O Para Bien",
+    "loved": 0,
+    "date_time": "2026-07-16 14:18:16"
+  },
+  {
+    "artist_name": "Rosendo",
+    "track_name": "De qué vas?",
+    "album_name": "Para Mal O Para Bien",
+    "loved": 0,
+    "date_time": "2026-07-16 14:15:24"
+  },
+  {
+    "artist_name": "Siniestro Total",
+    "track_name": "Ayatolah",
+    "album_name": "¿Cuándo se come aqui?",
+    "loved": 0,
+    "date_time": "2026-07-16 12:40:12"
+  },
+  {
+    "artist_name": "Siniestro Total",
+    "track_name": "Nocilla que Merendilla",
+    "album_name": "¿Cuándo se come aqui?",
+    "loved": 0,
+    "date_time": "2026-07-16 12:33:59"
+  },
+  {
+    "artist_name": "Siniestro Total",
+    "track_name": "aunque este en el frenopatico te tirare del atico",
+    "album_name": "¿Cuándo se come aqui?",
+    "loved": 0,
+    "date_time": "2026-07-16 12:31:48"
+  },
+  {
+    "artist_name": "Siniestro Total",
+    "track_name": "Mártires de Uganda",
+    "album_name": "¿Cuándo se come aqui?",
+    "loved": 0,
+    "date_time": "2026-07-16 12:29:31"
+  },
+  {
+    "artist_name": "Siniestro Total",
+    "track_name": "Chochos voladores",
+    "album_name": "¿Cuándo se come aqui?",
+    "loved": 0,
+    "date_time": "2026-07-16 12:24:49"
+  },
+  {
+    "artist_name": "Siniestro Total",
+    "track_name": "Juegas Al Palé",
+    "album_name": "¿Cuándo se come aqui?",
+    "loved": 0,
+    "date_time": "2026-07-16 12:21:06"
+  },
+  {
+    "artist_name": "Siniestro Total",
+    "track_name": "Los Esqueletos No Tienen Pilila",
+    "album_name": "¿Cuándo se come aqui?",
+    "loved": 0,
+    "date_time": "2026-07-16 12:12:07"
+  },
+  {
+    "artist_name": "Siniestro Total",
+    "track_name": "Hoy Voy a Asesinarte",
+    "album_name": "¿Cuándo se come aqui?",
+    "loved": 0,
+    "date_time": "2026-07-16 12:09:13"
+  },
+  {
+    "artist_name": "Siniestro Total",
+    "track_name": "Matar Hippies En las Cies",
+    "album_name": "¿Cuándo se come aqui?",
+    "loved": 0,
+    "date_time": "2026-07-16 12:07:11"
+  },
+  {
+    "artist_name": "Siniestro Total",
+    "track_name": "La Revista",
+    "album_name": "¿Cuándo se come aqui?",
+    "loved": 0,
+    "date_time": "2026-07-16 12:04:27"
+  },
+  {
+    "artist_name": "Siniestro Total",
+    "track_name": "Las Tetas de Mi Novia",
+    "album_name": "¿Cuándo se come aqui?",
+    "loved": 0,
+    "date_time": "2026-07-16 12:01:40"
+  },
+  {
+    "artist_name": "Siniestro Total",
+    "track_name": "Fuera Las Manos Chinas del Vietnam Socialista",
+    "album_name": "¿Cuándo se come aqui?",
+    "loved": 0,
+    "date_time": "2026-07-16 11:59:03"
+  },
+  {
+    "artist_name": "Siniestro Total",
+    "track_name": "Cobrador loco",
+    "album_name": "¿Cuándo se come aqui?",
+    "loved": 0,
+    "date_time": "2026-07-16 11:57:57"
+  },
+  {
+    "artist_name": "Siniestro Total",
+    "track_name": "Ponte En Mi Lugar",
+    "album_name": "¿Cuándo se come aqui?",
+    "loved": 0,
+    "date_time": "2026-07-16 11:54:35"
+  },
+  {
+    "artist_name": "Siniestro Total",
+    "track_name": "Todos Los Ahorcados Mueren Empalmados",
+    "album_name": "¿Cuándo se come aqui?",
+    "loved": 0,
+    "date_time": "2026-07-16 11:53:18"
+  },
+  {
+    "artist_name": "Molotov",
+    "track_name": "Quitate Que Ma'sturbas (Perro Arrabalera)",
+    "album_name": "¿Donde jugarán las niñas?",
+    "loved": 0,
+    "date_time": "2026-07-15 19:34:40"
+  },
+  {
+    "artist_name": "Molotov",
+    "track_name": "Cerdo",
+    "album_name": "¿Donde jugarán las niñas?",
+    "loved": 0,
+    "date_time": "2026-07-15 19:31:40"
+  },
+  {
+    "artist_name": "Molotov",
+    "track_name": "¿Por qué no te haces para allá?",
+    "album_name": "¿Donde jugarán las niñas?",
+    "loved": 0,
+    "date_time": "2026-07-15 19:24:36"
+  },
+  {
+    "artist_name": "Molotov",
+    "track_name": "Puto",
+    "album_name": "¿Donde jugarán las niñas?",
+    "loved": 0,
+    "date_time": "2026-07-15 19:20:13"
+  },
+  {
+    "artist_name": "Molotov",
+    "track_name": "Use It Or Lose It",
+    "album_name": "¿Donde jugarán las niñas?",
+    "loved": 0,
+    "date_time": "2026-07-15 19:14:44"
+  },
+  {
+    "artist_name": "Molotov",
+    "track_name": "Más vale Cholo",
+    "album_name": "¿Donde jugarán las niñas?",
+    "loved": 0,
+    "date_time": "2026-07-15 19:02:25"
+  },
+  {
+    "artist_name": "Molotov",
+    "track_name": "Mátate Tete",
+    "album_name": "¿Donde jugarán las niñas?",
+    "loved": 0,
+    "date_time": "2026-07-15 18:57:52"
+  },
+  {
+    "artist_name": "Molotov",
+    "track_name": "Gimma Tha Power",
+    "album_name": "¿Donde jugarán las niñas?",
+    "loved": 0,
+    "date_time": "2026-07-15 18:49:39"
+  },
+  {
+    "artist_name": "Molotov",
+    "track_name": "Chinga Tu Madre",
+    "album_name": "¿Donde jugarán las niñas?",
+    "loved": 0,
+    "date_time": "2026-07-15 18:45:44"
+  },
+  {
+    "artist_name": "Molotov",
+    "track_name": "Voto Latino",
+    "album_name": "¿Donde jugarán las niñas?",
+    "loved": 0,
+    "date_time": "2026-07-15 18:42:33"
+  },
+  {
+    "artist_name": "Molotov",
+    "track_name": "Molotov Cocktail Party",
+    "album_name": "¿Donde jugarán las niñas?",
+    "loved": 0,
+    "date_time": "2026-07-15 18:38:01"
+  },
+  {
+    "artist_name": "Molotov",
+    "track_name": "Que no te Haga Bobo Jacobo",
+    "album_name": "¿Donde jugarán las niñas?",
+    "loved": 0,
+    "date_time": "2026-07-15 18:32:33"
+  },
+  {
+    "artist_name": "Pixies",
+    "track_name": "Havalina",
+    "album_name": "Bossanova",
+    "loved": 0,
+    "date_time": "2026-07-15 16:24:57"
+  },
+  {
+    "artist_name": "Pixies",
+    "track_name": "Stormy Weather",
+    "album_name": "Bossanova",
+    "loved": 0,
+    "date_time": "2026-07-15 16:21:30"
+  },
+  {
+    "artist_name": "Pixies",
+    "track_name": "Hang Wire",
+    "album_name": "Bossanova",
+    "loved": 0,
+    "date_time": "2026-07-15 16:18:58"
+  },
+  {
+    "artist_name": "Pixies",
+    "track_name": "Blown Away",
+    "album_name": "Bossanova",
+    "loved": 0,
+    "date_time": "2026-07-15 16:16:20"
+  },
+  {
+    "artist_name": "Pixies",
+    "track_name": "The Happening",
+    "album_name": "Bossanova",
+    "loved": 0,
+    "date_time": "2026-07-15 16:11:50"
+  },
+  {
+    "artist_name": "Pixies",
+    "track_name": "Down to the Well",
+    "album_name": "Bossanova",
+    "loved": 0,
+    "date_time": "2026-07-15 16:08:40"
+  },
+  {
+    "artist_name": "Pixies",
+    "track_name": "Dig for Fire",
+    "album_name": "Bossanova",
+    "loved": 0,
+    "date_time": "2026-07-15 16:05:30"
+  },
+  {
+    "artist_name": "Pixies",
+    "track_name": "All Over the World",
+    "album_name": "Bossanova",
+    "loved": 0,
+    "date_time": "2026-07-15 15:59:56"
+  },
+  {
+    "artist_name": "Pixies",
+    "track_name": "Ana",
+    "album_name": "Bossanova",
+    "loved": 0,
+    "date_time": "2026-07-15 15:57:40"
+  },
+  {
+    "artist_name": "Pixies",
+    "track_name": "Is She Weird",
+    "album_name": "Bossanova",
+    "loved": 0,
+    "date_time": "2026-07-15 15:54:34"
+  },
+  {
+    "artist_name": "Pixies",
+    "track_name": "Allison",
+    "album_name": "Bossanova",
+    "loved": 0,
+    "date_time": "2026-07-15 15:53:04"
+  },
+  {
+    "artist_name": "Pixies",
+    "track_name": "Velouria",
+    "album_name": "Bossanova",
+    "loved": 1,
+    "date_time": "2026-07-15 15:49:05"
+  },
+  {
+    "artist_name": "Pixies",
+    "track_name": "Rock Music",
+    "album_name": "Bossanova",
+    "loved": 0,
+    "date_time": "2026-07-15 15:47:10"
+  },
+  {
+    "artist_name": "Pixies",
+    "track_name": "Cecilia Ann",
+    "album_name": "Bossanova",
+    "loved": 0,
+    "date_time": "2026-07-15 15:45:01"
+  },
+  {
+    "artist_name": "Joy Division",
+    "track_name": "She's Lost Control",
+    "album_name": "Substance",
+    "loved": 0,
+    "date_time": "2026-07-14 01:51:29"
+  },
+  {
+    "artist_name": "Joy Division",
+    "track_name": "No Love Lost",
+    "album_name": "Substance",
+    "loved": 0,
+    "date_time": "2026-07-14 01:47:31"
+  },
+  {
+    "artist_name": "Joy Division",
+    "track_name": "Love Will Tear Us Apart",
+    "album_name": "Substance",
+    "loved": 1,
+    "date_time": "2026-07-14 01:42:37"
+  },
+  {
+    "artist_name": "Nick Cave & the Bad Seeds",
+    "track_name": "A Box for Black Paul",
+    "album_name": "From Her to Eternity",
+    "loved": 0,
+    "date_time": "2026-07-14 01:25:47"
+  },
+  {
+    "artist_name": "Nick Cave & the Bad Seeds",
+    "track_name": "Wings Off Flies",
+    "album_name": "From Her to Eternity",
+    "loved": 0,
+    "date_time": "2026-07-14 00:11:21"
+  },
+  {
+    "artist_name": "Nick Cave & the Bad Seeds",
+    "track_name": "Saint Huck",
+    "album_name": "From Her to Eternity",
+    "loved": 0,
+    "date_time": "2026-07-14 00:03:46"
+  },
+  {
+    "artist_name": "Nick Cave & the Bad Seeds",
+    "track_name": "The Moon Is in the Gutter",
+    "album_name": "From Her to Eternity",
+    "loved": 0,
+    "date_time": "2026-07-14 00:00:45"
+  },
+  {
+    "artist_name": "Nick Cave & the Bad Seeds",
+    "track_name": "In the Ghetto",
+    "album_name": "From Her to Eternity",
+    "loved": 0,
+    "date_time": "2026-07-13 23:56:34"
+  },
+  {
+    "artist_name": "Nick Cave & the Bad Seeds",
+    "track_name": "From Her To Eternity",
+    "album_name": "From Her to Eternity",
+    "loved": 0,
+    "date_time": "2026-07-13 23:49:53"
+  },
+  {
+    "artist_name": "Nick Cave & the Bad Seeds",
+    "track_name": "Well of Misery",
+    "album_name": "From Her to Eternity",
+    "loved": 0,
+    "date_time": "2026-07-13 23:44:22"
+  },
+  {
+    "artist_name": "Nick Cave & the Bad Seeds",
+    "track_name": "Cabin Fever",
+    "album_name": "From Her to Eternity",
+    "loved": 0,
+    "date_time": "2026-07-13 23:38:05"
+  },
+  {
+    "artist_name": "Nick Cave & the Bad Seeds",
+    "track_name": "Avalanche",
+    "album_name": "From Her to Eternity",
+    "loved": 0,
+    "date_time": "2026-07-13 23:32:47"
+  },
+  {
+    "artist_name": "Franz Ferdinand",
+    "track_name": "40'",
+    "album_name": "Franz Ferdinand",
+    "loved": 0,
+    "date_time": "2026-07-12 19:34:47"
+  },
+  {
+    "artist_name": "Franz Ferdinand",
+    "track_name": "Come On Home",
+    "album_name": "Franz Ferdinand",
+    "loved": 0,
+    "date_time": "2026-07-12 19:30:41"
+  },
+  {
+    "artist_name": "Franz Ferdinand",
+    "track_name": "Michael",
+    "album_name": "Franz Ferdinand",
+    "loved": 0,
+    "date_time": "2026-07-12 19:27:10"
+  },
+  {
+    "artist_name": "Franz Ferdinand",
+    "track_name": "Darts of Pleasure",
+    "album_name": "Franz Ferdinand",
+    "loved": 0,
+    "date_time": "2026-07-12 19:23:52"
+  },
+  {
+    "artist_name": "Franz Ferdinand",
+    "track_name": "This Fire",
+    "album_name": "Franz Ferdinand",
+    "loved": 0,
+    "date_time": "2026-07-12 19:19:22"
+  },
+  {
+    "artist_name": "Franz Ferdinand",
+    "track_name": "Cheating on You",
+    "album_name": "Franz Ferdinand",
+    "loved": 0,
+    "date_time": "2026-07-12 19:16:30"
+  },
+  {
+    "artist_name": "Franz Ferdinand",
+    "track_name": "Auf Achse",
+    "album_name": "Franz Ferdinand",
+    "loved": 0,
+    "date_time": "2026-07-12 19:11:57"
+  },
+  {
+    "artist_name": "Franz Ferdinand",
+    "track_name": "The Dark of the Matinée",
+    "album_name": "Franz Ferdinand",
+    "loved": 0,
+    "date_time": "2026-07-12 19:07:50"
+  },
+  {
+    "artist_name": "Franz Ferdinand",
+    "track_name": "Take Me Out",
+    "album_name": "Franz Ferdinand",
+    "loved": 0,
+    "date_time": "2026-07-12 19:03:48"
+  },
+  {
+    "artist_name": "Franz Ferdinand",
+    "track_name": "Tell Her Tonight",
+    "album_name": "Franz Ferdinand",
+    "loved": 0,
+    "date_time": "2026-07-12 19:01:23"
+  },
+  {
+    "artist_name": "Franz Ferdinand",
+    "track_name": "Jacqueline",
+    "album_name": "Franz Ferdinand",
+    "loved": 0,
+    "date_time": "2026-07-12 18:49:01"
+  },
+  {
+    "artist_name": "Kasabian",
+    "track_name": "The Doberman",
+    "album_name": "Empire",
+    "loved": 0,
+    "date_time": "2026-07-12 15:10:34"
+  },
+  {
+    "artist_name": "Kasabian",
+    "track_name": "British Legion",
+    "album_name": "Empire",
+    "loved": 0,
+    "date_time": "2026-07-12 15:06:14"
+  },
+  {
+    "artist_name": "Kasabian",
+    "track_name": "Seek & Destroy",
+    "album_name": "Empire",
+    "loved": 0,
+    "date_time": "2026-07-12 15:03:32"
+  },
+  {
+    "artist_name": "Kasabian",
+    "track_name": "Stuntman",
+    "album_name": "Empire",
+    "loved": 0,
+    "date_time": "2026-07-12 14:57:25"
+  },
+  {
+    "artist_name": "Kasabian",
+    "track_name": "By My Side",
+    "album_name": "Empire",
+    "loved": 0,
+    "date_time": "2026-07-12 14:48:32"
+  },
+  {
+    "artist_name": "Kasabian",
+    "track_name": "Apnoea",
+    "album_name": "Empire",
+    "loved": 0,
+    "date_time": "2026-07-12 14:46:39"
+  },
+  {
+    "artist_name": "Kasabian",
+    "track_name": "Sun Rise Light Flies",
+    "album_name": "Empire",
+    "loved": 0,
+    "date_time": "2026-07-12 14:41:38"
+  },
+  {
+    "artist_name": "Kasabian",
+    "track_name": "Me Plus One",
+    "album_name": "Empire",
+    "loved": 0,
+    "date_time": "2026-07-12 14:39:04"
+  },
+  {
+    "artist_name": "Kasabian",
+    "track_name": "Last Trip (In Flight)",
+    "album_name": "Empire",
+    "loved": 0,
+    "date_time": "2026-07-12 14:35:18"
+  },
+  {
+    "artist_name": "Kasabian",
+    "track_name": "Shoot the Runner",
+    "album_name": "Empire",
+    "loved": 0,
+    "date_time": "2026-07-12 14:31:42"
+  },
+  {
+    "artist_name": "Kasabian",
+    "track_name": "Empire",
+    "album_name": "Empire",
+    "loved": 0,
+    "date_time": "2026-07-12 14:27:47"
+  },
+  {
     "artist_name": "Pulp",
     "track_name": "A Sunset",
     "album_name": "More",
@@ -32539,7 +34772,7 @@
     "artist_name": "The Smiths",
     "track_name": "Heaven Knows I'm Miserable Now",
     "album_name": "Hatful of Hollow",
-    "loved": 0,
+    "loved": 1,
     "date_time": "2025-06-17 01:04:40"
   },
   {
@@ -52643,7 +54876,7 @@
     "artist_name": "Pink Floyd",
     "track_name": "Time",
     "album_name": "The Dark Side of the Moon",
-    "loved": 0,
+    "loved": 1,
     "date_time": "2025-01-31 22:41:20"
   },
   {
@@ -81385,7 +83618,7 @@
     "artist_name": "Pink Floyd",
     "track_name": "Time",
     "album_name": "The Dark Side of the Moon",
-    "loved": 0,
+    "loved": 1,
     "date_time": "2022-11-10 20:00:40"
   },
   {
@@ -105283,7 +107516,7 @@
     "artist_name": "Pink Floyd",
     "track_name": "Time",
     "album_name": "The Dark Side of the Moon",
-    "loved": 0,
+    "loved": 1,
     "date_time": "2020-10-16 20:35:15"
   },
   {
@@ -108853,7 +111086,7 @@
     "artist_name": "Pink Floyd",
     "track_name": "Time",
     "album_name": "The Dark Side of the Moon",
-    "loved": 0,
+    "loved": 1,
     "date_time": "2020-07-17 19:46:29"
   },
   {
@@ -108909,7 +111142,7 @@
     "artist_name": "The Smiths",
     "track_name": "Heaven Knows I'm Miserable Now",
     "album_name": "Hatful of Hollow",
-    "loved": 0,
+    "loved": 1,
     "date_time": "2020-07-17 18:26:16"
   },
   {
@@ -126990,7 +129223,7 @@
     "artist_name": "The Smiths",
     "track_name": "Heaven Knows I'm Miserable Now",
     "album_name": "Hatful of Hollow",
-    "loved": 0,
+    "loved": 1,
     "date_time": "2019-10-07 17:02:41"
   },
   {
@@ -134431,7 +136664,7 @@
     "artist_name": "Pink Floyd",
     "track_name": "Time",
     "album_name": "The Dark Side of the Moon",
-    "loved": 0,
+    "loved": 1,
     "date_time": "2019-05-15 00:29:39"
   },
   {
@@ -134620,7 +136853,7 @@
     "artist_name": "Pink Floyd",
     "track_name": "Time",
     "album_name": "The Dark Side of the Moon",
-    "loved": 0,
+    "loved": 1,
     "date_time": "2019-05-09 18:47:19"
   },
   {
@@ -135775,7 +138008,7 @@
     "artist_name": "The Smiths",
     "track_name": "Heaven Knows I'm Miserable Now",
     "album_name": "Hatful of Hollow",
-    "loved": 0,
+    "loved": 1,
     "date_time": "2019-04-18 12:54:32"
   },
   {
@@ -142068,7 +144301,7 @@
     "artist_name": "Pink Floyd",
     "track_name": "Time",
     "album_name": "The Dark Side of the Moon",
-    "loved": 0,
+    "loved": 1,
     "date_time": "2019-01-15 14:48:35"
   },
   {
@@ -148879,7 +151112,7 @@
     "artist_name": "Pink Floyd",
     "track_name": "Time",
     "album_name": "The Dark Side of the Moon",
-    "loved": 0,
+    "loved": 1,
     "date_time": "2018-10-23 14:05:32"
   },
   {
@@ -163341,7 +165574,7 @@
     "artist_name": "Pink Floyd",
     "track_name": "Time",
     "album_name": "The Dark Side of the Moon",
-    "loved": 0,
+    "loved": 1,
     "date_time": "2018-04-08 05:56:36"
   },
   {
@@ -166526,7 +168759,7 @@
     "artist_name": "Pink Floyd",
     "track_name": "Time",
     "album_name": "The Dark Side of the Moon",
-    "loved": 0,
+    "loved": 1,
     "date_time": "2018-02-28 21:34:25"
   },
   {
@@ -180603,7 +182836,7 @@
     "artist_name": "Pink Floyd",
     "track_name": "Time",
     "album_name": "The Dark Side of the Moon",
-    "loved": 0,
+    "loved": 1,
     "date_time": "2017-08-22 21:04:00"
   },
   {
@@ -180750,7 +182983,7 @@
     "artist_name": "The Smiths",
     "track_name": "Heaven Knows I'm Miserable Now",
     "album_name": "Singles",
-    "loved": 0,
+    "loved": 1,
     "date_time": "2017-08-21 20:53:48"
   },
   {
@@ -187757,7 +189990,7 @@
     "artist_name": "Pink Floyd",
     "track_name": "Time",
     "album_name": "The Dark Side of the Moon",
-    "loved": 0,
+    "loved": 1,
     "date_time": "2017-05-01 04:14:43"
   },
   {
@@ -199468,7 +201701,7 @@
     "artist_name": "Pink Floyd",
     "track_name": "Time",
     "album_name": "The Dark Side of the Moon",
-    "loved": 0,
+    "loved": 1,
     "date_time": "2017-01-18 20:26:55"
   },
   {
@@ -210234,7 +212467,7 @@
     "artist_name": "The Smiths",
     "track_name": "Heaven Knows I'm Miserable Now",
     "album_name": "Singles",
-    "loved": 0,
+    "loved": 1,
     "date_time": "2016-10-22 20:45:39"
   },
   {
@@ -217731,7 +219964,7 @@
     "artist_name": "Pink Floyd",
     "track_name": "Time",
     "album_name": "The Dark Side of the Moon",
-    "loved": 0,
+    "loved": 1,
     "date_time": "2016-08-30 20:02:32"
   },
   {
@@ -237415,7 +239648,7 @@
     "artist_name": "The Smiths",
     "track_name": "Heaven Knows I'm Miserable Now",
     "album_name": "Hatful of Hollow",
-    "loved": 0,
+    "loved": 1,
     "date_time": "2016-03-14 21:42:58"
   },
   {
@@ -242084,7 +244317,7 @@
     "artist_name": "Pink Floyd",
     "track_name": "Time",
     "album_name": "The Dark Side of the Moon",
-    "loved": 0,
+    "loved": 1,
     "date_time": "2016-02-04 21:07:02"
   },
   {
@@ -261775,7 +264008,7 @@
     "artist_name": "Pink Floyd",
     "track_name": "Time",
     "album_name": "The Dark Side of the Moon",
-    "loved": 0,
+    "loved": 1,
     "date_time": "2015-10-27 22:01:35"
   },
   {
@@ -264547,7 +266780,7 @@
     "artist_name": "The Smiths",
     "track_name": "Heaven Knows I'm Miserable Now",
     "album_name": "Hatful of Hollow",
-    "loved": 0,
+    "loved": 1,
     "date_time": "2015-10-17 16:00:14"
   },
   {
@@ -280864,7 +283097,7 @@
     "artist_name": "The Smiths",
     "track_name": "Heaven Knows I'm Miserable Now",
     "album_name": "Hatful of Hollow",
-    "loved": 0,
+    "loved": 1,
     "date_time": "2015-05-26 01:47:46"
   },
   {
@@ -288704,7 +290937,7 @@
     "artist_name": "Pink Floyd",
     "track_name": "Time",
     "album_name": "The Dark Side of the Moon",
-    "loved": 0,
+    "loved": 1,
     "date_time": "2015-04-21 20:20:03"
   },
   {
@@ -296411,7 +298644,7 @@
     "artist_name": "The Smiths",
     "track_name": "Heaven Knows I'm Miserable Now",
     "album_name": "Hatful Of Hollow (Japan MiniLP WPCR-12439)",
-    "loved": 0,
+    "loved": 1,
     "date_time": "2015-03-26 03:12:27"
   },
   {
